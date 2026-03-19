@@ -55,14 +55,17 @@ namespace ArcaneAtlas.Core
                 renderer.sortingLayerName = SORTING_LAYERS[i];
                 renderer.sortingOrder = 0;
 
-                // Collision layer: add collider, hide visually
+                // Collision layer: add collider + composite for smooth edges
                 if (LAYER_NAMES[i] == "Collision")
                 {
-                    var collider = layerGO.AddComponent<TilemapCollider2D>();
-                    collider.compositeOperation = Collider2D.CompositeOperation.None;
-
                     var rb = layerGO.AddComponent<Rigidbody2D>();
                     rb.bodyType = RigidbodyType2D.Static;
+
+                    var collider = layerGO.AddComponent<TilemapCollider2D>();
+                    collider.compositeOperation = Collider2D.CompositeOperation.Merge;
+
+                    var composite = layerGO.AddComponent<CompositeCollider2D>();
+                    composite.geometryType = CompositeCollider2D.GeometryType.Polygons;
 
                     renderer.enabled = false; // Invisible
                 }
@@ -77,7 +80,9 @@ namespace ArcaneAtlas.Core
             PaintLayer(tilemaps[3], blueprint.PropsBelow, lookup);
             PaintLayer(tilemaps[4], blueprint.PropsAbove, lookup);
             PaintLayer(tilemaps[5], blueprint.Overlay, lookup);
-            PaintLayer(tilemaps[6], blueprint.Collision, lookup);
+
+            // Collision layer gets a runtime-generated tile — no palette mapping needed
+            PaintCollisionLayer(tilemaps[6], blueprint.Collision);
 
             return root;
         }
@@ -103,6 +108,44 @@ namespace ArcaneAtlas.Core
                     if (lookup.TryGetValue(key, out TileBase tile))
                     {
                         tilemap.SetTile(new Vector3Int(x + offsetX, y + offsetY, 0), tile);
+                    }
+                }
+            }
+        }
+
+        // Cached collision tile — created once, reused for all collision cells
+        private static Tile collisionTile;
+
+        /// <summary>
+        /// Paints the collision layer using a runtime-generated tile.
+        /// No palette mapping needed — any non-empty collision cell gets a solid tile
+        /// that the CompositeCollider2D uses for physics shapes.
+        /// </summary>
+        private static void PaintCollisionLayer(Tilemap tilemap, TileKey[,] grid)
+        {
+            if (collisionTile == null)
+            {
+                collisionTile = ScriptableObject.CreateInstance<Tile>();
+                // Create a tiny 1x1 white sprite for the tile
+                var tex = new Texture2D(1, 1);
+                tex.SetPixel(0, 0, Color.white);
+                tex.Apply();
+                collisionTile.sprite = Sprite.Create(tex, new Rect(0, 0, 1, 1), new Vector2(0.5f, 0.5f), 4f);
+                collisionTile.color = Color.white;
+                collisionTile.colliderType = Tile.ColliderType.Grid;
+            }
+
+            int offsetX = -RoomBlueprint.WIDTH / 2;
+            int offsetY = -RoomBlueprint.HEIGHT / 2;
+
+            for (int x = 0; x < RoomBlueprint.WIDTH; x++)
+            {
+                for (int y = 0; y < RoomBlueprint.HEIGHT; y++)
+                {
+                    TileKey key = grid[x, y];
+                    if (key == TileKey.CollisionSolid || key == TileKey.CollisionWater)
+                    {
+                        tilemap.SetTile(new Vector3Int(x + offsetX, y + offsetY, 0), collisionTile);
                     }
                 }
             }

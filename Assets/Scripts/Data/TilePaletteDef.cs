@@ -68,6 +68,10 @@ namespace ArcaneAtlas.Data
                 case TileKey.Ground:
                 case TileKey.GroundAlt:
                 case TileKey.Path:
+                case TileKey.PathEdgeN:
+                case TileKey.PathEdgeS:
+                case TileKey.PathEdgeE:
+                case TileKey.PathEdgeW:
                 case TileKey.WallN:
                 case TileKey.WallS:
                 case TileKey.WallE:
@@ -86,6 +90,10 @@ namespace ArcaneAtlas.Data
                 case TileKey.DoorW:
                 case TileKey.Water:
                 case TileKey.WaterEdge:
+                case TileKey.WaterEdgeN:
+                case TileKey.WaterEdgeS:
+                case TileKey.WaterEdgeE:
+                case TileKey.WaterEdgeW:
                     return TileLayer.Ground;
 
                 // Detail layer
@@ -93,6 +101,8 @@ namespace ArcaneAtlas.Data
                 case TileKey.FlowerDetail:
                 case TileKey.CrackDetail:
                 case TileKey.MossDetail:
+                case TileKey.MushroomDetail:
+                case TileKey.PebbleDetail:
                     return TileLayer.Detail;
 
                 // Shadow layer
@@ -100,21 +110,63 @@ namespace ArcaneAtlas.Data
                 case TileKey.ShadowWallW:
                 case TileKey.ShadowCornerNW:
                 case TileKey.ShadowFull:
+                case TileKey.ShadowSmall:
+                case TileKey.ShadowMedium:
+                case TileKey.ShadowLarge:
                     return TileLayer.Shadow;
 
-                // Props below player
-                case TileKey.TreeBase:
-                case TileKey.RockSmall:
-                case TileKey.RockLarge:
-                case TileKey.BushBase:
-                case TileKey.Crate:
-                case TileKey.Chest:
+                // Props below player (flat ground items only)
+                case TileKey.BuildDoor:
+                case TileKey.BuildWindow:
+                case TileKey.BuildFloor:
                     return TileLayer.PropsBelow;
 
-                // Props above player (walk-behind)
+                // Props above player — all solid objects render in front of player
+                case TileKey.TreeBase:
+                case TileKey.TreeTrunkBottom:
+                case TileKey.TreeTrunkMid:
+                case TileKey.TreeRoots:
+                case TileKey.RockSmall:
+                case TileKey.RockLarge:
+                case TileKey.RockClusterBL:
+                case TileKey.RockClusterBR:
+                case TileKey.RockClusterTL:
+                case TileKey.RockClusterTR:
+                case TileKey.BushBase:
+                case TileKey.BushSmall:
+                case TileKey.BushWide:
+                case TileKey.Crate:
+                case TileKey.Chest:
+                case TileKey.FenceH:
+                case TileKey.FenceV:
+                case TileKey.FencePostTL:
+                case TileKey.FencePostTR:
+                case TileKey.FencePostBL:
+                case TileKey.FencePostBR:
+                case TileKey.StumpSmall:
+                case TileKey.LogH:
+                case TileKey.BuildWallH:
+                case TileKey.BuildWallV:
+                case TileKey.BuildCornerTL:
+                case TileKey.BuildCornerTR:
+                case TileKey.BuildCornerBL:
+                case TileKey.BuildCornerBR:
                 case TileKey.TreeCrown:
+                case TileKey.TreeCanopyBL:
+                case TileKey.TreeCanopyBR:
+                case TileKey.TreeCanopyBC:
+                case TileKey.TreeCanopyTL:
+                case TileKey.TreeCanopyTR:
+                case TileKey.TreeCanopyTC:
                 case TileKey.BushTop:
                 case TileKey.RockTop:
+                case TileKey.RoofTL:
+                case TileKey.RoofTR:
+                case TileKey.RoofTC:
+                case TileKey.RoofBL:
+                case TileKey.RoofBR:
+                case TileKey.RoofBC:
+                case TileKey.RoofPeak:
                     return TileLayer.PropsAbove;
 
                 // Overlay

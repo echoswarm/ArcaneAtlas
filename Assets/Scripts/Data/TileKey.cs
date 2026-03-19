@@ -13,6 +13,10 @@ namespace ArcaneAtlas.Data
         Ground,             // Basic floor tile
         GroundAlt,          // Floor variation (dirt patch, different stone)
         Path,               // Walkable path / road
+        PathEdgeN,          // Path border tiles
+        PathEdgeS,
+        PathEdgeE,
+        PathEdgeW,
 
         // ── Walls (outer edges of the room) ──
         WallN,              // North-facing wall segment
@@ -43,27 +47,79 @@ namespace ArcaneAtlas.Data
         FlowerDetail,       // Small flowers on ground
         CrackDetail,        // Floor cracks
         MossDetail,         // Moss patches
+        MushroomDetail,     // Mushroom cluster
+        PebbleDetail,       // Scattered pebbles
 
         // ── Shadow layer ──
         ShadowWallN,        // Shadow cast by north wall
         ShadowWallW,        // Shadow cast by west wall
         ShadowCornerNW,     // Shadow in corner
         ShadowFull,         // Full shadow (under props, dense areas)
+        ShadowSmall,        // Small prop shadow (1 tile)
+        ShadowMedium,       // Medium prop shadow (2 tiles wide)
+        ShadowLarge,        // Large prop shadow (3 tiles wide)
 
         // ── Props (below player — walk-over or lower half of tall objects) ──
-        TreeBase,           // Lower trunk of tree (player walks in front)
-        RockSmall,          // Small rock
-        RockLarge,          // Large rock base
-        BushBase,           // Bush lower half
+        TreeBase,           // Single-tile tree trunk (legacy)
+        TreeTrunkBottom,    // Multi-tile tree: trunk base
+        TreeTrunkMid,       // Multi-tile tree: trunk middle
+        TreeRoots,          // Exposed roots around trunk base
+        RockSmall,          // Small rock (1 tile)
+        RockLarge,          // Large rock base (legacy)
+        RockClusterBL,      // 2x2 rock cluster: bottom-left
+        RockClusterBR,      // 2x2 rock cluster: bottom-right
+        RockClusterTL,      // 2x2 rock cluster: top-left
+        RockClusterTR,      // 2x2 rock cluster: top-right
+        BushBase,           // Bush lower half (legacy)
+        BushSmall,          // Small bush (1 tile, no walk-behind)
+        BushWide,           // Wide bush base (2 tiles)
         Crate,              // Crate / barrel
         Chest,              // Treasure chest
+        FenceH,             // Horizontal fence segment
+        FenceV,             // Vertical fence segment
+        FencePostTL,        // Fence corner post
+        FencePostTR,
+        FencePostBL,
+        FencePostBR,
+        StumpSmall,         // Tree stump
+        LogH,               // Fallen log horizontal
         Water,              // Water tile
         WaterEdge,          // Water-to-ground transition
+        WaterEdgeN,         // Directional water edges
+        WaterEdgeS,
+        WaterEdgeE,
+        WaterEdgeW,
 
         // ── Props (above player — walk-behind upper halves) ──
-        TreeCrown,          // Upper canopy (player walks behind)
+        TreeCrown,          // Single-tile canopy (legacy)
+        TreeCanopyBL,       // Multi-tile canopy: bottom-left
+        TreeCanopyBR,       // Multi-tile canopy: bottom-right
+        TreeCanopyBC,       // Multi-tile canopy: bottom-center
+        TreeCanopyTL,       // Multi-tile canopy: top-left
+        TreeCanopyTR,       // Multi-tile canopy: top-right
+        TreeCanopyTC,       // Multi-tile canopy: top-center
         BushTop,            // Bush upper half
         RockTop,            // Large rock top
+
+        // ── Building parts (below player) ──
+        BuildWallH,         // Horizontal wall segment
+        BuildWallV,         // Vertical wall segment
+        BuildCornerTL,      // Building corner
+        BuildCornerTR,
+        BuildCornerBL,
+        BuildCornerBR,
+        BuildDoor,          // Building door/entrance
+        BuildWindow,        // Building window
+        BuildFloor,         // Interior floor
+
+        // ── Building parts (above player — rooftops) ──
+        RoofTL,             // Roof top-left
+        RoofTR,             // Roof top-right
+        RoofTC,             // Roof top-center
+        RoofBL,             // Roof bottom-left
+        RoofBR,             // Roof bottom-right
+        RoofBC,             // Roof bottom-center
+        RoofPeak,           // Roof peak/ridge
 
         // ── Overlay (top-most visual layer) ──
         OverlayVines,       // Hanging vines from top

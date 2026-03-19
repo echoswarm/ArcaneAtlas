@@ -77,7 +77,7 @@ namespace ArcaneAtlas.Editor
             playerSR.sprite = whiteSprite;
             playerSR.color = new Color(0.9f, 0.85f, 0.7f);
             playerSR.sortingLayerName = "Player";
-            playerSR.sortingOrder = 0;
+            playerSR.sortingOrder = 5; // Above NPCs
             player.transform.localScale = new Vector3(0.8f, 0.8f, 1f);
 
             var pc = player.AddComponent<PlayerController>();

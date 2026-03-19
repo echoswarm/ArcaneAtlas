@@ -3,6 +3,8 @@ using UnityEngine.InputSystem;
 
 namespace ArcaneAtlas.Core
 {
+    [RequireComponent(typeof(Rigidbody2D))]
+    [RequireComponent(typeof(BoxCollider2D))]
     public class PlayerController : MonoBehaviour
     {
         [Header("Movement")]
@@ -18,6 +20,21 @@ namespace ArcaneAtlas.Core
 
         private InputAction moveAction;
         private Vector2 moveInput;
+        private Rigidbody2D rb;
+
+        void Awake()
+        {
+            rb = GetComponent<Rigidbody2D>();
+            rb.bodyType = RigidbodyType2D.Dynamic;
+            rb.gravityScale = 0f;
+            rb.freezeRotation = true;
+            rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+
+            // Set up collider — small box at feet for natural collision
+            var col = GetComponent<BoxCollider2D>();
+            col.size = new Vector2(0.15f, 0.1f);
+            col.offset = new Vector2(0f, 0.05f);
+        }
 
         void OnEnable()
         {
@@ -41,24 +58,35 @@ namespace ArcaneAtlas.Core
             moveAction?.Dispose();
         }
 
-        void Update()
+        void FixedUpdate()
         {
             moveInput = moveAction.ReadValue<Vector2>();
-            bool isMoving = moveInput.sqrMagnitude > 0.01f;
 
-            if (isMoving)
+            if (moveInput.sqrMagnitude > 0.01f)
             {
-                Vector3 delta = new Vector3(moveInput.x, moveInput.y, 0f) * moveSpeed * Time.deltaTime;
-                Vector3 newPos = transform.position + delta;
+                Vector2 targetPos = rb.position + moveInput * moveSpeed * Time.fixedDeltaTime;
 
-                newPos.x = Mathf.Clamp(newPos.x, roomCenter.x + roomMin.x, roomCenter.x + roomMax.x);
-                newPos.y = Mathf.Clamp(newPos.y, roomCenter.y + roomMin.y, roomCenter.y + roomMax.y);
+                // Clamp to room bounds
+                targetPos.x = Mathf.Clamp(targetPos.x, roomCenter.x + roomMin.x, roomCenter.x + roomMax.x);
+                targetPos.y = Mathf.Clamp(targetPos.y, roomCenter.y + roomMin.y, roomCenter.y + roomMax.y);
 
-                transform.position = newPos;
-
-                if (moveInput.x < 0) spriteRenderer.flipX = true;
-                else if (moveInput.x > 0) spriteRenderer.flipX = false;
+                // Physics-based movement — respects colliders
+                rb.MovePosition(targetPos);
             }
+            else
+            {
+                // Stop movement when no input
+                rb.linearVelocity = Vector2.zero;
+            }
+        }
+
+        void Update()
+        {
+            // Sprite flipping in Update (visual only)
+            if (moveInput.x < -0.1f && spriteRenderer != null)
+                spriteRenderer.flipX = true;
+            else if (moveInput.x > 0.1f && spriteRenderer != null)
+                spriteRenderer.flipX = false;
         }
 
         public bool IsAtExit(out string direction)
@@ -76,6 +104,7 @@ namespace ArcaneAtlas.Core
         public void SetPosition(Vector2 pos)
         {
             transform.position = new Vector3(pos.x, pos.y, 0f);
+            if (rb != null) rb.position = pos;
         }
     }
 }

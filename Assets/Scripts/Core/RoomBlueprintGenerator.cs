@@ -223,7 +223,6 @@ namespace ArcaneAtlas.Core
 
         private static void ScatterDetails(RoomBlueprint bp, System.Random rng, int difficulty)
         {
-            // Scatter grass and flower details on open ground tiles
             for (int x = INNER_LEFT + 1; x < INNER_RIGHT - 1; x++)
             {
                 for (int y = INNER_BOTTOM + 1; y < INNER_TOP - 1; y++)
@@ -232,34 +231,93 @@ namespace ArcaneAtlas.Core
                         continue;
 
                     double roll = rng.NextDouble();
-                    if (roll < 0.06)
+                    if (roll < 0.05)
                         bp.Detail[x, y] = TileKey.GrassDetail;
-                    else if (roll < 0.09)
+                    else if (roll < 0.08)
                         bp.Detail[x, y] = TileKey.FlowerDetail;
-                    else if (roll < 0.11 && difficulty >= 3)
+                    else if (roll < 0.09)
+                        bp.Detail[x, y] = TileKey.MushroomDetail;
+                    else if (roll < 0.10)
+                        bp.Detail[x, y] = TileKey.PebbleDetail;
+                    else if (roll < 0.12 && difficulty >= 3)
                         bp.Detail[x, y] = TileKey.CrackDetail;
                 }
             }
+        }
+
+        // ─────────── Stamp Helpers ───────────
+
+        /// <summary>
+        /// Tries to place a stamp at a random position within the inner room area.
+        /// Retries up to maxAttempts times to find a non-overlapping spot.
+        /// </summary>
+        private static bool TryPlaceStamp(RoomBlueprint bp, PropStamp stamp, System.Random rng,
+            int maxAttempts = 10, int margin = 3)
+        {
+            for (int attempt = 0; attempt < maxAttempts; attempt++)
+            {
+                int x = rng.Next(INNER_LEFT + margin, INNER_RIGHT - margin);
+                int y = rng.Next(INNER_BOTTOM + margin, INNER_TOP - margin - stamp.Height);
+
+                if (stamp.FitsAt(bp, x, y))
+                {
+                    stamp.PlaceOn(bp, x, y);
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        /// <summary>
+        /// Scatters a mix of prop stamps throughout the room for visual interest.
+        /// </summary>
+        private static void ScatterProps(RoomBlueprint bp, System.Random rng, int density)
+        {
+            // Large trees (1-3 based on density)
+            int largeTreeCount = Mathf.Clamp(density / 2, 0, 3);
+            for (int i = 0; i < largeTreeCount; i++)
+                TryPlaceStamp(bp, PropStampLibrary.LargeTree(), rng);
+
+            // Small trees
+            int smallTreeCount = Mathf.Clamp(density, 1, 5);
+            for (int i = 0; i < smallTreeCount; i++)
+                TryPlaceStamp(bp, PropStampLibrary.SmallTree(), rng);
+
+            // Rock clusters
+            int rockCount = rng.Next(1, 3);
+            for (int i = 0; i < rockCount; i++)
+            {
+                if (rng.NextDouble() < 0.5)
+                    TryPlaceStamp(bp, PropStampLibrary.RockCluster(), rng);
+                else
+                    TryPlaceStamp(bp, PropStampLibrary.SingleRock(), rng);
+            }
+
+            // Bushes
+            int bushCount = rng.Next(1, 3);
+            for (int i = 0; i < bushCount; i++)
+            {
+                if (rng.NextDouble() < 0.4)
+                    TryPlaceStamp(bp, PropStampLibrary.BushGroup(), rng);
+                else
+                    TryPlaceStamp(bp, PropStampLibrary.SingleBush(), rng);
+            }
+
+            // Occasional scenic elements
+            if (rng.NextDouble() < 0.3)
+                TryPlaceStamp(bp, PropStampLibrary.StumpAndLog(), rng);
         }
 
         // ─────────── Room Type Layouts ───────────
 
         private static void LayoutEmptyRoom(RoomBlueprint bp, System.Random rng)
         {
-            // A few scattered rocks and trees for visual interest
-            int propCount = rng.Next(2, 5);
-            for (int i = 0; i < propCount; i++)
-            {
-                int x = rng.Next(INNER_LEFT + 2, INNER_RIGHT - 2);
-                int y = rng.Next(INNER_BOTTOM + 2, INNER_TOP - 3);
+            // Scatter a moderate amount of natural props
+            ScatterProps(bp, rng, 4);
 
-                if (bp.PropsBelow[x, y] != TileKey.Empty) continue;
-
-                if (rng.NextDouble() < 0.5)
-                    bp.PlaceTree(x, y);
-                else
-                    bp.Set(x, y, TileKey.RockSmall);
-            }
+            // Occasional pond
+            if (rng.NextDouble() < 0.2)
+                TryPlaceStamp(bp, PropStampLibrary.SmallPond(), rng);
         }
 
         private static void LayoutNpcRoom(RoomBlueprint bp, System.Random rng, int npcCount)
@@ -277,6 +335,9 @@ namespace ArcaneAtlas.Core
                 bp.Set(x, y, TileKey.MarkerNpcSpawn);
             }
 
+            // Scatter lighter props (fewer than empty rooms to leave space for NPCs)
+            ScatterProps(bp, rng, 2);
+
             // Some decorative props around edges
             for (int i = 0; i < 3; i++)
             {
@@ -289,27 +350,32 @@ namespace ArcaneAtlas.Core
 
         private static void LayoutTreasureRoom(RoomBlueprint bp, System.Random rng)
         {
-            // Center chest
             int cx = RoomBlueprint.WIDTH / 2;
             int cy = RoomBlueprint.HEIGHT / 2;
-            bp.Set(cx, cy, TileKey.Chest);
+
+            // Center chest
+            PropStampLibrary.TreasureChest().PlaceOn(bp, cx, cy);
             bp.Set(cx, cy, TileKey.MarkerTreasure);
 
-            // Ring of small rocks around the chest
-            for (int dx = -2; dx <= 2; dx++)
-            {
-                for (int dy = -2; dy <= 2; dy++)
-                {
-                    if (Mathf.Abs(dx) + Mathf.Abs(dy) == 3)
-                        bp.Set(cx + dx, cy + dy, TileKey.RockSmall);
-                }
-            }
+            // Rock clusters framing the chest
+            PropStampLibrary.RockCluster().PlaceOn(bp, cx - 4, cy - 1);
+            PropStampLibrary.RockCluster().PlaceOn(bp, cx + 3, cy - 1);
 
-            // Corner trees
-            bp.PlaceTree(INNER_LEFT + 2, INNER_TOP - 4);
-            bp.PlaceTree(INNER_RIGHT - 3, INNER_TOP - 4);
-            bp.PlaceTree(INNER_LEFT + 2, INNER_BOTTOM + 2);
-            bp.PlaceTree(INNER_RIGHT - 3, INNER_BOTTOM + 2);
+            // Corner trees — large ones for dramatic framing
+            var largeTree = PropStampLibrary.LargeTree();
+            largeTree.PlaceOn(bp, INNER_LEFT + 4, INNER_TOP - 8);
+            largeTree.PlaceOn(bp, INNER_RIGHT - 5, INNER_TOP - 8);
+
+            var smallTree = PropStampLibrary.SmallTree();
+            smallTree.PlaceOn(bp, INNER_LEFT + 3, INNER_BOTTOM + 2);
+            smallTree.PlaceOn(bp, INNER_RIGHT - 4, INNER_BOTTOM + 2);
+
+            // Fence around the treasure area
+            PropStampLibrary.FenceHorizontal().PlaceOn(bp, cx - 4, cy - 3);
+            PropStampLibrary.FenceHorizontal().PlaceOn(bp, cx + 1, cy - 3);
+
+            // Scatter a few bushes
+            ScatterProps(bp, rng, 1);
         }
 
         private static void LayoutBossRoom(RoomBlueprint bp, System.Random rng)
@@ -318,41 +384,54 @@ namespace ArcaneAtlas.Core
             int cy = RoomBlueprint.HEIGHT / 2;
 
             // Boss spawn in upper center
-            bp.Set(cx, cy + 4, TileKey.MarkerBossSpawn);
+            bp.Set(cx, cy + 6, TileKey.MarkerBossSpawn);
 
-            // Open arena — clear center, props around perimeter
-            // Pillars/rocks at 4 positions framing the arena
-            bp.PlaceRock(INNER_LEFT + 4, INNER_TOP - 5);
-            bp.PlaceRock(INNER_RIGHT - 5, INNER_TOP - 5);
-            bp.PlaceRock(INNER_LEFT + 4, INNER_BOTTOM + 3);
-            bp.PlaceRock(INNER_RIGHT - 5, INNER_BOTTOM + 3);
+            // Rock pillars framing the arena
+            PropStampLibrary.RockCluster().PlaceOn(bp, INNER_LEFT + 5, INNER_TOP - 7);
+            PropStampLibrary.RockCluster().PlaceOn(bp, INNER_RIGHT - 7, INNER_TOP - 7);
+            PropStampLibrary.RockCluster().PlaceOn(bp, INNER_LEFT + 5, INNER_BOTTOM + 3);
+            PropStampLibrary.RockCluster().PlaceOn(bp, INNER_RIGHT - 7, INNER_BOTTOM + 3);
+
+            // Trees along the edges for atmosphere
+            PropStampLibrary.LargeTree().PlaceOn(bp, INNER_LEFT + 3, INNER_TOP - 10);
+            PropStampLibrary.LargeTree().PlaceOn(bp, INNER_RIGHT - 4, INNER_TOP - 10);
 
             // Path leading to boss
-            for (int y = INNER_BOTTOM + 1; y < cy + 3; y++)
+            for (int y = INNER_BOTTOM + 1; y < cy + 5; y++)
             {
                 bp.Ground[cx - 1, y] = TileKey.Path;
                 bp.Ground[cx, y] = TileKey.Path;
                 bp.Ground[cx + 1, y] = TileKey.Path;
             }
+            // Path edges
+            for (int y = INNER_BOTTOM + 1; y < cy + 5; y++)
+            {
+                bp.Ground[cx - 2, y] = TileKey.PathEdgeW;
+                bp.Ground[cx + 2, y] = TileKey.PathEdgeE;
+            }
         }
 
         private static void LayoutEventRoom(RoomBlueprint bp, System.Random rng)
         {
-            // Interesting centerpiece — small clearing with props
             int cx = RoomBlueprint.WIDTH / 2;
             int cy = RoomBlueprint.HEIGHT / 2;
 
-            // Ring of bushes and trees
-            bp.PlaceBush(cx - 3, cy);
-            bp.PlaceBush(cx + 3, cy);
-            bp.PlaceTree(cx - 4, cy + 2);
-            bp.PlaceTree(cx + 4, cy + 2);
+            // Trees framing a clearing
+            PropStampLibrary.SmallTree().PlaceOn(bp, cx - 5, cy + 1);
+            PropStampLibrary.SmallTree().PlaceOn(bp, cx + 5, cy + 1);
+
+            // Bush groups around edges
+            PropStampLibrary.BushGroup().PlaceOn(bp, cx - 3, cy - 2);
+            PropStampLibrary.BushGroup().PlaceOn(bp, cx + 2, cy - 2);
 
             bp.Set(cx, cy, TileKey.MarkerNpcSpawn);
 
-            // Scattered crates
-            bp.Set(cx - 1, cy - 2, TileKey.Crate);
-            bp.Set(cx + 1, cy - 2, TileKey.Crate);
+            // Crate stacks nearby
+            PropStampLibrary.CrateStack().PlaceOn(bp, cx - 2, cy + 2);
+            PropStampLibrary.CrateStack().PlaceOn(bp, cx + 2, cy + 2);
+
+            // A few scattered natural elements
+            ScatterProps(bp, rng, 1);
         }
 
         // ─────────── Player Spawn ───────────

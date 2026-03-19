@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43fa9a5409f8524e8e84a18c09afe89, type: 3}
+  m_Name: t123
+  m_EditorClassIdentifier: Assembly-CSharp::ArcaneAtlas.Data.TilePaletteDef
+  PaletteName: t123
+  Mappings:
+  - Key: 1
+    Tile: {fileID: 11400000, guid: 28b441b1cf3e40644b97e33783ce14af, type: 2}
+  - Key: 2
+    Tile: {fileID: 11400000, guid: 745d825a088007e428b92bd6939810ea, type: 2}
+  - Key: 3
+    Tile: {fileID: 11400000, guid: 1302e16ca439fb849b9717f6db225497, type: 2}
+  - Key: 4
+    Tile: {fileID: 11400000, guid: dc6d6584dc3a8be41b434517feacf6b4, type: 2}
+  - Key: 5
+    Tile: {fileID: 11400000, guid: 16f90cd5fc205a545b4c6f8f05174681, type: 2}
+  - Key: 6
+    Tile: {fileID: 11400000, guid: 3440064ce64a5fd4cbeb35ab53a2de2d, type: 2}
+  - Key: 7
+    Tile: {fileID: 11400000, guid: da8e004985fd7564fa20702e86bbeff0, type: 2}
+  - Key: 8
+    Tile: {fileID: 11400000, guid: 61c10647dbb101d45b4af219efe2ffcf, type: 2}
+  - Key: 9
+    Tile: {fileID: 11400000, guid: c8427bfa165029f4c8ed274c42f0a74c, type: 2}
+  - Key: 10
+    Tile: {fileID: 11400000, guid: 053979c1ef3c14a47952f81133051b07, type: 2}
+  - Key: 11
+    Tile: {fileID: 11400000, guid: 17130ed7017e0ef4f85c125bbc820826, type: 2}
+  - Key: 12
+    Tile: {fileID: 11400000, guid: 57f16f2530d969f43ba62f216d84b5cc, type: 2}
+  - Key: 13
+    Tile: {fileID: 11400000, guid: f5350fd2122d527449250d8e2c3824a8, type: 2}
+  - Key: 14
+    Tile: {fileID: 11400000, guid: f39e6cc4e4b318e47aadbc82b532b6ee, type: 2}
+  - Key: 15
+    Tile: {fileID: 11400000, guid: 4c0b8953c3439bb4aab29101d34ef36b, type: 2}
+  - Key: 16
+    Tile: {fileID: 11400000, guid: b7f5ca531d3072c4d97ffe7ba922d0b8, type: 2}
+  - Key: 17
+    Tile: {fileID: 11400000, guid: 129e37644a35d3b40a4a426fd9cd883b, type: 2}
+  - Key: 18
+    Tile: {fileID: 11400000, guid: eb36094c18adfc14fba6857565b4a160, type: 2}
+  - Key: 19
+    Tile: {fileID: 11400000, guid: d461f1d7ef0c56e4882fecb7d290968c, type: 2}
+  - Key: 20
+    Tile: {fileID: 11400000, guid: 54975bd5668c61b45852916a522b1f30, type: 2}
+  - Key: 21
+    Tile: {fileID: 11400000, guid: ed752b39ec10f1648ab9cbb112d07767, type: 2}
+  - Key: 22
+    Tile: {fileID: 11400000, guid: f5644bc612d9bdf46a6368ab370c5061, type: 2}
+  - Key: 23
+    Tile: {fileID: 11400000, guid: 691b6b281cda2b647b185c5cdc5e053e, type: 2}
+  - Key: 24
+    Tile: {fileID: 11400000, guid: 8ea8f7de9a4a0d34092d76042b546473, type: 2}
+  - Key: 25
+    Tile: {fileID: 11400000, guid: c8ab7c0a67f13294aa93f1744e2db0af, type: 2}
+  - Key: 26
+    Tile: {fileID: 11400000, guid: ff051f4732959b440817e94e506de188, type: 2}
+  - Key: 27
+    Tile: {fileID: 11400000, guid: 73c3ca1849d894d43b6b936604d28e8b, type: 2}
+  - Key: 28
+    Tile: {fileID: 11400000, guid: b1d0511ec8c38b14cab787e69d025e3d, type: 2}
+  - Key: 29
+    Tile: {fileID: 11400000, guid: e6f647ca625ec43438dc556dc2062aee, type: 2}
+  - Key: 30
+    Tile: {fileID: 11400000, guid: 0de63592924cbb6488653ec45a59bbd6, type: 2}
+  - Key: 31
+    Tile: {fileID: 11400000, guid: f330173f6e67c504ca09c4e899ddb884, type: 2}
+  - Key: 32
+    Tile: {fileID: 11400000, guid: 0fc402663bef83445a425ac1376ffadc, type: 2}
+  - Key: 33
+    Tile: {fileID: 11400000, guid: 617dc2b80ac7a334992fd7291fe7b47c, type: 2}
+  - Key: 34
+    Tile: {fileID: 11400000, guid: 74590a952a66df04da92b065804b149e, type: 2}
+  - Key: 35
+    Tile: {fileID: 11400000, guid: b15a66187e4d30245b2edeac19bbd176, type: 2}
+  - Key: 36
+    Tile: {fileID: 11400000, guid: b262cae5f04d73445b957e5119fd8d71, type: 2}
+  - Key: 37
+    Tile: {fileID: 11400000, guid: 6136f47ce027df147b0b3353758aa4a1, type: 2}
+  - Key: 38
+    Tile: {fileID: 11400000, guid: 59eb837fa1973f144ad84a26c05d579e, type: 2}
+  - Key: 39
+    Tile: {fileID: 11400000, guid: 3002c2f87fdb0d14d9bf0fedd24a4fa1, type: 2}
+  - Key: 40
+    Tile: {fileID: 11400000, guid: b79dba9ebfb58b24dba9a18ac1d4708d, type: 2}
+  - Key: 58
+    Tile: {fileID: 11400000, guid: 146a6f639fb990040b06f1ea829a57ce, type: 2}
+  - Key: 59
+    Tile: {fileID: 11400000, guid: 50a51e7f1fe3c0a4aa41cdf66de4a323, type: 2}
+  - Key: 41
+    Tile: {fileID: 11400000, guid: d948f6fb665445448b186b78a01a2785, type: 2}
+  - Key: 42
+    Tile: {fileID: 11400000, guid: 85734227ce2fd6f4f8923ce408c08bfa, type: 2}
+  - Key: 43
+    Tile: {fileID: 11400000, guid: 5f63391173c8ca041a3fd5544d6b55d9, type: 2}
+  - Key: 44
+    Tile: {fileID: 11400000, guid: 5212332c8361ade41a1bbfaa6a33a48a, type: 2}
+  - Key: 45
+    Tile: {fileID: 11400000, guid: 1383d897d20f7a040ad250d3f5e1f45c, type: 2}
+  - Key: 46
+    Tile: {fileID: 11400000, guid: cd712c28033cfde41b1f988957cd16b0, type: 2}
+  - Key: 47
+    Tile: {fileID: 11400000, guid: 86bbe438e33acb549a469a6579a630bc, type: 2}
+  - Key: 48
+    Tile: {fileID: 11400000, guid: dc3bf3123a60a23488facf9e67e29fa4, type: 2}
+  - Key: 49
+    Tile: {fileID: 11400000, guid: 881395051373fca4ebfc9a2aa6aa2350, type: 2}
+  - Key: 50
+    Tile: {fileID: 11400000, guid: b21a611b4230dbc429a9c057c1d9d266, type: 2}
+  - Key: 51
+    Tile: {fileID: 11400000, guid: 006ba5d57dbd47c4e86176b13bc1a554, type: 2}
+  - Key: 52
+    Tile: {fileID: 11400000, guid: 652de8072ed63e94f8409373dd72896d, type: 2}
+  - Key: 53
+    Tile: {fileID: 11400000, guid: 50c4afed35fa9254bb6fe18aefbdd65d, type: 2}
+  - Key: 54
+    Tile: {fileID: 11400000, guid: 0ef4e2a89e1a7be4eac71f01ac083d37, type: 2}
+  - Key: 55
+    Tile: {fileID: 11400000, guid: 6e3193912e4e8914989e763de66668bd, type: 2}
+  - Key: 56
+    Tile: {fileID: 11400000, guid: 6d56e4458cf9bca478ee2da875f226b5, type: 2}
+  - Key: 57
+    Tile: {fileID: 11400000, guid: 27e2ee9c05c96fd4384c9b51402d938e, type: 2}
+  - Key: 60
+    Tile: {fileID: 11400000, guid: 2d155cdc46b1504419ffad07cb32b642, type: 2}
+  - Key: 61
+    Tile: {fileID: 11400000, guid: cb44e9a3c3aea9b43ad59e759558ea10, type: 2}
+  - Key: 62
+    Tile: {fileID: 11400000, guid: a332d8ce900c47e4d8d4d7a08346c6c9, type: 2}
+  - Key: 63
+    Tile: {fileID: 11400000, guid: 84771f25b33839c468c693b4de8dbec4, type: 2}
+  - Key: 64
+    Tile: {fileID: 11400000, guid: 99da952627100434b874d7673f08bf1a, type: 2}
+  - Key: 65
+    Tile: {fileID: 11400000, guid: 0f9819a7f597a154482963cfe76dbcfe, type: 2}
+  - Key: 75
+    Tile: {fileID: 11400000, guid: f48a615e2c36559438deb4c54bce7ad1, type: 2}
+  - Key: 76
+    Tile: {fileID: 11400000, guid: b10a2f1a491dc234491006a800256af5, type: 2}
+  - Key: 77
+    Tile: {fileID: 11400000, guid: ae0b402530edbbd4b9d58a6f5d662da9, type: 2}
+  - Key: 78
+    Tile: {fileID: 11400000, guid: 9a589b5424888df4da80aa11d4e0637d, type: 2}
+  - Key: 79
+    Tile: {fileID: 11400000, guid: e120c3c3892955f4ab869e182a9abf8f, type: 2}
+  - Key: 80
+    Tile: {fileID: 11400000, guid: 1f41138f09198eb44924cd83fcb3bde3, type: 2}
+  - Key: 81
+    Tile: {fileID: 11400000, guid: 537a0c1dfe2212f4dbd46814e83da495, type: 2}
+  - Key: 82
+    Tile: {fileID: 11400000, guid: f0a57b024cf806e4a80183f2c5de5852, type: 2}
+  - Key: 83
+    Tile: {fileID: 11400000, guid: 5085648003466444da5a041d869776db, type: 2}
+  - Key: 66
+    Tile: {fileID: 11400000, guid: 2346bdddcaa97a1408dfdc09da6cd20a, type: 2}
+  - Key: 67
+    Tile: {fileID: 11400000, guid: 44e6b781eee20c142b73aeb90c6707c5, type: 2}
+  - Key: 68
+    Tile: {fileID: 11400000, guid: 0e922422f87fbbb44a8a27a112e0b078, type: 2}
+  - Key: 69
+    Tile: {fileID: 11400000, guid: ebd4f8e908d5e5547ae3aa3057258783, type: 2}
+  - Key: 70
+    Tile: {fileID: 11400000, guid: 6268a904935240c428de4ef4ade12c07, type: 2}
+  - Key: 71
+    Tile: {fileID: 11400000, guid: aad67b2535bb84e418a4932fc449b33a, type: 2}
+  - Key: 72
+    Tile: {fileID: 11400000, guid: b8f224f3a9257c349bee15bbd4ebe15a, type: 2}
+  - Key: 73
+    Tile: {fileID: 11400000, guid: 7a0c7f016d95fcb4fae8345d091bfcad, type: 2}
+  - Key: 74
+    Tile: {fileID: 11400000, guid: bd5c525bb67c8f149ab28c689abb7298, type: 2}
+  - Key: 87
+    Tile: {fileID: 11400000, guid: ab81d8710bcef32468ae843c40cfd9cc, type: 2}
+  - Key: 88
+    Tile: {fileID: 11400000, guid: 5637a8b322341784eb8e1911cfc54781, type: 2}
+  - Key: 89
+    Tile: {fileID: 11400000, guid: 83c5fcfa6f4b13044bf18f7dc532fa9c, type: 2}
+  - Key: 84
+    Tile: {fileID: 11400000, guid: 0ba5e244311b04248b52192ec7d24caa, type: 2}
+  - Key: 85
+    Tile: {fileID: 11400000, guid: 0529fec79a664304db6fb8419970fe7a, type: 2}
+  - Key: 86
+    Tile: {fileID: 11400000, guid: 9ee3104aa004b63459290ab030ad0ff4, type: 2}
+  - Key: 90
+    Tile: {fileID: 11400000, guid: da81020482e5fd34facab51b7f8aee8a, type: 2}
+  - Key: 91
+    Tile: {fileID: 11400000, guid: b113088f202dbea4c9826158872cd19a, type: 2}
+  - Key: 92
+    Tile: {fileID: 11400000, guid: 7544c163f2d29684391934f94674565e, type: 2}
+  - Key: 93
+    Tile: {fileID: 11400000, guid: 783bb10483b9823458362a2d404448f7, type: 2}
+  - Key: 94
+    Tile: {fileID: 11400000, guid: c715ef05da75a4744a5b6f8854890c0a, type: 2}
+  PlayerSprite: {fileID: 0}
+  NpcSprite: {fileID: 0}
+  BossSprite: {fileID: 0}
+  PlayerCharacter: {fileID: 11400000, guid: 24dfa7d7148f951409102eec8ee365d0, type: 2}
+  NpcCharacter: {fileID: 11400000, guid: d43e6b955e8dcb04595a42bb8234f8f9, type: 2}
+  BossCharacter: {fileID: 11400000, guid: 0a4e7a29519d7094996395d61aa69c29, type: 2}

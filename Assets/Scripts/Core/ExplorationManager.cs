@@ -460,6 +460,14 @@ namespace ArcaneAtlas.Core
                 sr.sortingLayerName = "Player";
                 sr.sortingOrder = 0;
 
+                // Add physics collider so player can't walk through NPCs
+                var npcRb = npcGO.AddComponent<Rigidbody2D>();
+                npcRb.bodyType = RigidbodyType2D.Static;
+                npcRb.gravityScale = 0f;
+                var npcCol = npcGO.AddComponent<BoxCollider2D>();
+                npcCol.size = new Vector2(0.15f, 0.1f);
+                npcCol.offset = new Vector2(0f, 0.05f);
+
                 // Boss gets a distinct sprite/character and larger scale
                 if (data.IsBoss)
                 {

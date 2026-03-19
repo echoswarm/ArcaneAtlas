@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 46bfd0d1bb8492a46906c8adca8cc884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3191003711340283650
+    second: Dyer_Idle_0
+  - first:
+      213: -6049602703621377106
+    second: Dyer_Idle_1
+  - first:
+      213: -3854794819580498306
+    second: Dyer_Idle_2
+  - first:
+      213: 5762833342719031196
+    second: Dyer_Idle_3
+  - first:
+      213: 3661443423060028433
+    second: Dyer_Idle_4
+  - first:
+      213: -4969978655931801143
+    second: Dyer_Idle_5
+  - first:
+      213: 3568581038074347380
+    second: Dyer_Idle_6
+  - first:
+      213: 6754223661017918297
+    second: Dyer_Idle_7
+  - first:
+      213: -8810084269363581833
+    second: Dyer_Idle_8
+  - first:
+      213: -7558878210969649913
+    second: Dyer_Idle_9
+  - first:
+      213: 7221693274122249046
+    second: Dyer_Idle_10
+  - first:
+      213: 7080416926794295555
+    second: Dyer_Idle_11
+  - first:
+      213: -2027065374270629612
+    second: Dyer_Idle_12
+  - first:
+      213: -2980586025985917655
+    second: Dyer_Idle_13
+  - first:
+      213: -7726234106429885048
+    second: Dyer_Idle_14
+  - first:
+      213: -8980624150133728524
+    second: Dyer_Idle_15
+  - first:
+      213: 8583590259569066040
+    second: Dyer_Idle_16
+  - first:
+      213: 4433250067506160371
+    second: Dyer_Idle_17
+  - first:
+      213: 8444254141184554095
+    second: Dyer_Idle_18
+  - first:
+      213: -1736098804254516365
+    second: Dyer_Idle_19
+  - first:
+      213: -6118319177286925219
+    second: Dyer_Idle_20
+  - first:
+      213: -3151615999906416296
+    second: Dyer_Idle_21
+  - first:
+      213: -5741976092992871343
+    second: Dyer_Idle_22
+  - first:
+      213: 7924516384249216782
+    second: Dyer_Idle_23
+  - first:
+      213: 7445236986113129121
+    second: Dyer_Idle_24
+  - first:
+      213: 6210106959729904009
+    second: Dyer_Idle_25
+  - first:
+      213: -3883916674139781813
+    second: Dyer_Idle_26
+  - first:
+      213: -9053060241276004834
+    second: Dyer_Idle_27
+  - first:
+      213: -165902659596692656
+    second: Dyer_Idle_28
+  - first:
+      213: -7469992872513526538
+    second: Dyer_Idle_29
+  - first:
+      213: -1479601257372981955
+    second: Dyer_Idle_30
+  - first:
+      213: -2203405027873072605
+    second: Dyer_Idle_31
+  - first:
+      213: 8628834876909906258
+    second: Dyer_Idle_32
+  - first:
+      213: -3428126743895648696
+    second: Dyer_Idle_33
+  - first:
+      213: 8161685017268861073
+    second: Dyer_Idle_34
+  - first:
+      213: 3268249121884480347
+    second: Dyer_Idle_35
+  - first:
+      213: 8169447157592613372
+    second: Dyer_Idle_36
+  - first:
+      213: 5431401220613325527
+    second: Dyer_Idle_37
+  - first:
+      213: -1243282195936350288
+    second: Dyer_Idle_38
+  - first:
+      213: 901547225004771720
+    second: Dyer_Idle_39
+  - first:
+      213: 3543617672703728780
+    second: Dyer_Idle_40
+  - first:
+      213: 6649261714933244757
+    second: Dyer_Idle_41
+  - first:
+      213: 3917667534946079607
+    second: Dyer_Idle_42
+  - first:
+      213: -7806372907307768505
+    second: Dyer_Idle_43
+  - first:
+      213: -4438964276828802370
+    second: Dyer_Idle_44
+  - first:
+      213: -2412637624292994227
+    second: Dyer_Idle_45
+  - first:
+      213: -4977464338964760103
+    second: Dyer_Idle_46
+  - first:
+      213: 6124954379377774096
+    second: Dyer_Idle_47
+  - first:
+      213: 3075527347789494767
+    second: Dyer_Idle_48
+  - first:
+      213: 8297963900778773864
+    second: Dyer_Idle_49
+  - first:
+      213: -1095396361228930476
+    second: Dyer_Idle_50
+  - first:
+      213: -28213092447389730
+    second: Dyer_Idle_51
+  - first:
+      213: 1815794486163730745
+    second: Dyer_Idle_52
+  - first:
+      213: 7852846289263809371
+    second: Dyer_Idle_53
+  - first:
+      213: -758211378686706697
+    second: Dyer_Idle_54
+  - first:
+      213: -7728983903239001915
+    second: Dyer_Idle_55
+  - first:
+      213: 6265427178236628719
+    second: Dyer_Idle_56
+  - first:
+      213: -2672959396164962999
+    second: Dyer_Idle_57
+  - first:
+      213: -3654154991079480807
+    second: Dyer_Idle_58
+  - first:
+      213: -5404603796181115802
+    second: Dyer_Idle_59
+  - first:
+      213: 6257179324800588585
+    second: Dyer_Idle_60
+  - first:
+      213: 1227635003529776240
+    second: Dyer_Idle_61
+  - first:
+      213: -5604463481860537028
+    second: Dyer_Idle_62
+  - first:
+      213: -7159876623174589040
+    second: Dyer_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dyer_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fb9cf70747b3d0800000000000000
+      internalID: -3191003711340283650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b76aa46e7b0ca0800000000000000
+      internalID: -6049602703621377106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e63e00984018ac0800000000000000
+      internalID: -3854794819580498306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977b847462b9ff40800000000000000
+      internalID: 5762833342719031196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ceea4e46f00d230800000000000000
+      internalID: 3661443423060028433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c169e79eb6170bb0800000000000000
+      internalID: -4969978655931801143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fbd960c85268130800000000000000
+      internalID: 3568581038074347380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be28062a2dbbd50800000000000000
+      internalID: 6754223661017918297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca35be80b4cb580800000000000000
+      internalID: -8810084269363581833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db6b6d058791790800000000000000
+      internalID: -7558878210969649913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65362e845cb983460800000000000000
+      internalID: 7221693274122249046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ac376ea1b24260800000000000000
+      internalID: 7080416926794295555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419da1e28ca6ed3e0800000000000000
+      internalID: -2027065374270629612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dbd9a1dc4d2a6d0800000000000000
+      internalID: -2980586025985917655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853dbaf307e6c490800000000000000
+      internalID: -7726234106429885048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1cf5bae96e5380800000000000000
+      internalID: -8980624150133728524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300e1ffcd90f1770800000000000000
+      internalID: 8583590259569066040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26e22b271168d30800000000000000
+      internalID: 4433250067506160371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f643d6ed664003570800000000000000
+      internalID: 8444254141184554095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdd65f55328e7e0800000000000000
+      internalID: -1736098804254516365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d544a5fdf1d571ba0800000000000000
+      internalID: -6118319177286925219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859f32132f53344d0800000000000000
+      internalID: -3151615999906416296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ef5c6a276050b0800000000000000
+      internalID: -5741976092992871343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fffe36aa989fd60800000000000000
+      internalID: 7924516384249216782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7fd1a79bc25760800000000000000
+      internalID: 7445236986113129121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c1e7906bbe2650800000000000000
+      internalID: 6210106959729904009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458eacdc5e891ac0800000000000000
+      internalID: -3883916674139781813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16188cfca11d5280800000000000000
+      internalID: -9053060241276004834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053527bf86892bdf0800000000000000
+      internalID: -165902659596692656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a1276f01455890800000000000000
+      internalID: -7469992872513526538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ef05ee76677be0800000000000000
+      internalID: -1479601257372981955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad0512dceeb61e0800000000000000
+      internalID: -2203405027873072605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25967bf5a97cfb770800000000000000
+      internalID: 8628834876909906258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465511b3e8dc60d0800000000000000
+      internalID: -3428126743895648696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19830fed741244170800000000000000
+      internalID: 8161685017268861073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53286ba2472b5d20800000000000000
+      internalID: 3268249121884480347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e1aff7e4bf5170800000000000000
+      internalID: 8169447157592613372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c74322a6306b40800000000000000
+      internalID: 5431401220613325527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf65a31e69febee0800000000000000
+      internalID: -1243282195936350288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88906aeac60f28c00800000000000000
+      internalID: 901547225004771720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c5d499f757d2130800000000000000
+      internalID: 3543617672703728780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536339ec4ce64c50800000000000000
+      internalID: 6649261714933244757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739a88cdd95e5630800000000000000
+      internalID: 3917667534946079607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745efa363313aa390800000000000000
+      internalID: -7806372907307768505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb278f44281a562c0800000000000000
+      internalID: -4438964276828802370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4316480dd6948ed0800000000000000
+      internalID: -2412637624292994227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9b4d13e8e7ceab0800000000000000
+      internalID: -4977464338964760103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e09408e85300550800000000000000
+      internalID: 6124954379377774096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fdf5f3d77eaa20800000000000000
+      internalID: 3075527347789494767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dfee8043a482370800000000000000
+      internalID: 8297963900778773864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b1b820de5cc0f0800000000000000
+      internalID: -1095396361228930476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed778a68754cb9ff0800000000000000
+      internalID: -28213092447389730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f6e4f67ff23910800000000000000
+      internalID: 1815794486163730745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53505b081aeafc60800000000000000
+      internalID: 7852846289263809371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb38bca4ca4a75f0800000000000000
+      internalID: -758211378686706697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82ab407122db490800000000000000
+      internalID: -7728983903239001915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee4fdca2d443f650800000000000000
+      internalID: 6265427178236628719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457b84579db7ead0800000000000000
+      internalID: -2672959396164962999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ac7a6565d94dc0800000000000000
+      internalID: -3654154991079480807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c95e07b7dfef4b0800000000000000
+      internalID: -5404603796181115802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b58a6a177f5d650800000000000000
+      internalID: 6257179324800588585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4a3b088f690110800000000000000
+      internalID: 1227635003529776240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35cd0f2822f832b0800000000000000
+      internalID: -5604463481860537028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dyer_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952e08552203ac90800000000000000
+      internalID: -7159876623174589040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dyer_Idle_0: -3191003711340283650
+      Dyer_Idle_1: -6049602703621377106
+      Dyer_Idle_10: 7221693274122249046
+      Dyer_Idle_11: 7080416926794295555
+      Dyer_Idle_12: -2027065374270629612
+      Dyer_Idle_13: -2980586025985917655
+      Dyer_Idle_14: -7726234106429885048
+      Dyer_Idle_15: -8980624150133728524
+      Dyer_Idle_16: 8583590259569066040
+      Dyer_Idle_17: 4433250067506160371
+      Dyer_Idle_18: 8444254141184554095
+      Dyer_Idle_19: -1736098804254516365
+      Dyer_Idle_2: -3854794819580498306
+      Dyer_Idle_20: -6118319177286925219
+      Dyer_Idle_21: -3151615999906416296
+      Dyer_Idle_22: -5741976092992871343
+      Dyer_Idle_23: 7924516384249216782
+      Dyer_Idle_24: 7445236986113129121
+      Dyer_Idle_25: 6210106959729904009
+      Dyer_Idle_26: -3883916674139781813
+      Dyer_Idle_27: -9053060241276004834
+      Dyer_Idle_28: -165902659596692656
+      Dyer_Idle_29: -7469992872513526538
+      Dyer_Idle_3: 5762833342719031196
+      Dyer_Idle_30: -1479601257372981955
+      Dyer_Idle_31: -2203405027873072605
+      Dyer_Idle_32: 8628834876909906258
+      Dyer_Idle_33: -3428126743895648696
+      Dyer_Idle_34: 8161685017268861073
+      Dyer_Idle_35: 3268249121884480347
+      Dyer_Idle_36: 8169447157592613372
+      Dyer_Idle_37: 5431401220613325527
+      Dyer_Idle_38: -1243282195936350288
+      Dyer_Idle_39: 901547225004771720
+      Dyer_Idle_4: 3661443423060028433
+      Dyer_Idle_40: 3543617672703728780
+      Dyer_Idle_41: 6649261714933244757
+      Dyer_Idle_42: 3917667534946079607
+      Dyer_Idle_43: -7806372907307768505
+      Dyer_Idle_44: -4438964276828802370
+      Dyer_Idle_45: -2412637624292994227
+      Dyer_Idle_46: -4977464338964760103
+      Dyer_Idle_47: 6124954379377774096
+      Dyer_Idle_48: 3075527347789494767
+      Dyer_Idle_49: 8297963900778773864
+      Dyer_Idle_5: -4969978655931801143
+      Dyer_Idle_50: -1095396361228930476
+      Dyer_Idle_51: -28213092447389730
+      Dyer_Idle_52: 1815794486163730745
+      Dyer_Idle_53: 7852846289263809371
+      Dyer_Idle_54: -758211378686706697
+      Dyer_Idle_55: -7728983903239001915
+      Dyer_Idle_56: 6265427178236628719
+      Dyer_Idle_57: -2672959396164962999
+      Dyer_Idle_58: -3654154991079480807
+      Dyer_Idle_59: -5404603796181115802
+      Dyer_Idle_6: 3568581038074347380
+      Dyer_Idle_60: 6257179324800588585
+      Dyer_Idle_61: 1227635003529776240
+      Dyer_Idle_62: -5604463481860537028
+      Dyer_Idle_63: -7159876623174589040
+      Dyer_Idle_7: 6754223661017918297
+      Dyer_Idle_8: -8810084269363581833
+      Dyer_Idle_9: -7558878210969649913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 81e873f4a593b3e47816ef234cd28d81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4534270695107258406
+    second: Tech_Augmented_Gunslinger_Idle_0
+  - first:
+      213: 3317659095679420885
+    second: Tech_Augmented_Gunslinger_Idle_1
+  - first:
+      213: 4766972522355421124
+    second: Tech_Augmented_Gunslinger_Idle_2
+  - first:
+      213: -8340469995688579026
+    second: Tech_Augmented_Gunslinger_Idle_3
+  - first:
+      213: -5491496119506696998
+    second: Tech_Augmented_Gunslinger_Idle_4
+  - first:
+      213: 3032429613920540311
+    second: Tech_Augmented_Gunslinger_Idle_5
+  - first:
+      213: -767277118316904774
+    second: Tech_Augmented_Gunslinger_Idle_6
+  - first:
+      213: 4223721067479137024
+    second: Tech_Augmented_Gunslinger_Idle_7
+  - first:
+      213: 4137821445203321270
+    second: Tech_Augmented_Gunslinger_Idle_8
+  - first:
+      213: 3139400561091077163
+    second: Tech_Augmented_Gunslinger_Idle_9
+  - first:
+      213: -2923941864649094414
+    second: Tech_Augmented_Gunslinger_Idle_10
+  - first:
+      213: -552189153415576503
+    second: Tech_Augmented_Gunslinger_Idle_11
+  - first:
+      213: 5710666065744210578
+    second: Tech_Augmented_Gunslinger_Idle_12
+  - first:
+      213: -8887126724644415299
+    second: Tech_Augmented_Gunslinger_Idle_13
+  - first:
+      213: 4404319589378439548
+    second: Tech_Augmented_Gunslinger_Idle_14
+  - first:
+      213: 7117934136351113419
+    second: Tech_Augmented_Gunslinger_Idle_15
+  - first:
+      213: -7805345416943047857
+    second: Tech_Augmented_Gunslinger_Idle_16
+  - first:
+      213: 6091279658235185312
+    second: Tech_Augmented_Gunslinger_Idle_17
+  - first:
+      213: 5957009005902133421
+    second: Tech_Augmented_Gunslinger_Idle_18
+  - first:
+      213: 7866898463760714332
+    second: Tech_Augmented_Gunslinger_Idle_19
+  - first:
+      213: 1641551632319340526
+    second: Tech_Augmented_Gunslinger_Idle_20
+  - first:
+      213: -7350216772504490041
+    second: Tech_Augmented_Gunslinger_Idle_21
+  - first:
+      213: -342832767252213508
+    second: Tech_Augmented_Gunslinger_Idle_22
+  - first:
+      213: 3877580945298665494
+    second: Tech_Augmented_Gunslinger_Idle_23
+  - first:
+      213: 227094437091232554
+    second: Tech_Augmented_Gunslinger_Idle_24
+  - first:
+      213: 8901217947964691709
+    second: Tech_Augmented_Gunslinger_Idle_25
+  - first:
+      213: 7993291037360957625
+    second: Tech_Augmented_Gunslinger_Idle_26
+  - first:
+      213: 4426130072666900044
+    second: Tech_Augmented_Gunslinger_Idle_27
+  - first:
+      213: -8048277004825790178
+    second: Tech_Augmented_Gunslinger_Idle_28
+  - first:
+      213: -6107275144797678165
+    second: Tech_Augmented_Gunslinger_Idle_29
+  - first:
+      213: 8641277316344933907
+    second: Tech_Augmented_Gunslinger_Idle_30
+  - first:
+      213: -7998376186899084387
+    second: Tech_Augmented_Gunslinger_Idle_31
+  - first:
+      213: 6527437498473779294
+    second: Tech_Augmented_Gunslinger_Idle_32
+  - first:
+      213: -5512643425531262322
+    second: Tech_Augmented_Gunslinger_Idle_33
+  - first:
+      213: 1675193517918048745
+    second: Tech_Augmented_Gunslinger_Idle_34
+  - first:
+      213: 624975630127748686
+    second: Tech_Augmented_Gunslinger_Idle_35
+  - first:
+      213: 6572127627831379362
+    second: Tech_Augmented_Gunslinger_Idle_36
+  - first:
+      213: -1423586301449895054
+    second: Tech_Augmented_Gunslinger_Idle_37
+  - first:
+      213: -2292175046696920413
+    second: Tech_Augmented_Gunslinger_Idle_38
+  - first:
+      213: 3130481001899822457
+    second: Tech_Augmented_Gunslinger_Idle_39
+  - first:
+      213: 7606553150891451490
+    second: Tech_Augmented_Gunslinger_Idle_40
+  - first:
+      213: -4650821455147006341
+    second: Tech_Augmented_Gunslinger_Idle_41
+  - first:
+      213: -2202057381343402806
+    second: Tech_Augmented_Gunslinger_Idle_42
+  - first:
+      213: -1002925614864433292
+    second: Tech_Augmented_Gunslinger_Idle_43
+  - first:
+      213: 7797093753572032041
+    second: Tech_Augmented_Gunslinger_Idle_44
+  - first:
+      213: 9126226149108556170
+    second: Tech_Augmented_Gunslinger_Idle_45
+  - first:
+      213: -1144367218327469674
+    second: Tech_Augmented_Gunslinger_Idle_46
+  - first:
+      213: 4008340147274229459
+    second: Tech_Augmented_Gunslinger_Idle_47
+  - first:
+      213: 3104407463662528241
+    second: Tech_Augmented_Gunslinger_Idle_48
+  - first:
+      213: -135086622544303213
+    second: Tech_Augmented_Gunslinger_Idle_49
+  - first:
+      213: 7188907082887960282
+    second: Tech_Augmented_Gunslinger_Idle_50
+  - first:
+      213: 81560813976225819
+    second: Tech_Augmented_Gunslinger_Idle_51
+  - first:
+      213: -1851400867968589281
+    second: Tech_Augmented_Gunslinger_Idle_52
+  - first:
+      213: 573831355346565372
+    second: Tech_Augmented_Gunslinger_Idle_53
+  - first:
+      213: 4684300334253105991
+    second: Tech_Augmented_Gunslinger_Idle_54
+  - first:
+      213: -2710216161093030038
+    second: Tech_Augmented_Gunslinger_Idle_55
+  - first:
+      213: -4241696166183307311
+    second: Tech_Augmented_Gunslinger_Idle_56
+  - first:
+      213: -4589604100105860110
+    second: Tech_Augmented_Gunslinger_Idle_57
+  - first:
+      213: -7015660909876247720
+    second: Tech_Augmented_Gunslinger_Idle_58
+  - first:
+      213: -994550008844419508
+    second: Tech_Augmented_Gunslinger_Idle_59
+  - first:
+      213: -8679362743837627356
+    second: Tech_Augmented_Gunslinger_Idle_60
+  - first:
+      213: -8261419038066880430
+    second: Tech_Augmented_Gunslinger_Idle_61
+  - first:
+      213: -4580932087124420538
+    second: Tech_Augmented_Gunslinger_Idle_62
+  - first:
+      213: 482451082082624101
+    second: Tech_Augmented_Gunslinger_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad71bae83d80311c0800000000000000
+      internalID: -4534270695107258406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c0dbae51ba0e20800000000000000
+      internalID: 3317659095679420885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfea09a040b72240800000000000000
+      internalID: 4766972522355421124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20bd278ab2b04c80800000000000000
+      internalID: -8340469995688579026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40e5fdf594ac3b0800000000000000
+      internalID: -5491496119506696998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796db18daaa551a20800000000000000
+      internalID: 3032429613920540311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe7f6ea6851a55f0800000000000000
+      internalID: -767277118316904774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7d61ceebad9a30800000000000000
+      internalID: 4223721067479137024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b166596eae7c6930800000000000000
+      internalID: 4137821445203321270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ee735d24619b20800000000000000
+      internalID: 3139400561091077163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa82b5ad521c67d0800000000000000
+      internalID: -2923941864649094414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94447ddf3ea3658f0800000000000000
+      internalID: -552189153415576503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aaf87c78c504f40800000000000000
+      internalID: 5710666065744210578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db850b774559aa480800000000000000
+      internalID: -8887126724644415299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79323ad4594f1d30800000000000000
+      internalID: 4404319589378439548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0c5d3726bf7c260800000000000000
+      internalID: 7117934136351113419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be2e1a2b7dda390800000000000000
+      internalID: -7805345416943047857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8cba08392988450800000000000000
+      internalID: 6091279658235185312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87998112c8ba250800000000000000
+      internalID: 5957009005902133421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0680e876dc2d60800000000000000
+      internalID: 7866898463760714332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5bd42386f7c610800000000000000
+      internalID: 1641551632319340526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf60ccd9c8cef990800000000000000
+      internalID: -7350216772504490041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf051922a630e3bf0800000000000000
+      internalID: -342832767252213508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b950535fefc530800000000000000
+      internalID: 3877580945298665494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b4a45ff2dc62300800000000000000
+      internalID: 227094437091232554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df454c0209a778b70800000000000000
+      internalID: 8901217947964691709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a63429dfddee60800000000000000
+      internalID: 7993291037360957625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460cf6b9d5cc6d30800000000000000
+      internalID: 4426130072666900044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f969a4b6ce4090800000000000000
+      internalID: -8048277004825790178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba513c01d999e3ba0800000000000000
+      internalID: -6107275144797678165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e616e8febfbe770800000000000000
+      internalID: 8641277316344933907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bcfe73c3f000190800000000000000
+      internalID: -7998376186899084387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50181e22dd169a50800000000000000
+      internalID: 6527437498473779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a01dff2082f73b0800000000000000
+      internalID: -5512643425531262322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1da8501ab7f3710800000000000000
+      internalID: 1675193517918048745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e465a0b360c5ca800800000000000000
+      internalID: 624975630127748686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58b63c143e43b50800000000000000
+      internalID: 6572127627831379362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27387f22dc76e3ce0800000000000000
+      internalID: -1423586301449895054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9d9280fe8030e0800000000000000
+      internalID: -2292175046696920413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d095e92e3b17b20800000000000000
+      internalID: 3130481001899822457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264630c1ac7ef8960800000000000000
+      internalID: 7606553150891451490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7682341786f47fb0800000000000000
+      internalID: -4650821455147006341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4eff98a78b071e0800000000000000
+      internalID: -2202057381343402806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7ddd8774e412f0800000000000000
+      internalID: -1002925614864433292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef3164577d43c60800000000000000
+      internalID: 7797093753572032041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a812f7d645ed6ae70800000000000000
+      internalID: 9126226149108556170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914dfaf3146e10f0800000000000000
+      internalID: -1144367218327469674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6a739702c70a730800000000000000
+      internalID: 4008340147274229459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f62dade322151b20800000000000000
+      internalID: 3104407463662528241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39be659be63102ef0800000000000000
+      internalID: -135086622544303213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad693d647e024c360800000000000000
+      internalID: 7188907082887960282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1805a0d023c12100800000000000000
+      internalID: 81560813976225819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e1ef38b08e46e0800000000000000
+      internalID: -1851400867968589281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8b960d398a6f700800000000000000
+      internalID: 573831355346565372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436664e55af10140800000000000000
+      internalID: 4684300334253105991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe685c2c0636ad0800000000000000
+      internalID: -2710216161093030038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7f1817fc77225c0800000000000000
+      internalID: -4241696166183307311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb838143637e40c0800000000000000
+      internalID: -4589604100105860110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538b32b29d53ae90800000000000000
+      internalID: -7015660909876247720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e777b4906a232f0800000000000000
+      internalID: -994550008844419508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6cc8d195bc8780800000000000000
+      internalID: -8679362743837627356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250df5fd72b895d80800000000000000
+      internalID: -8261419038066880430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64892ce99824d60c0800000000000000
+      internalID: -4580932087124420538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a909f3b202b600800000000000000
+      internalID: 482451082082624101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tech_Augmented_Gunslinger_Idle_0: -4534270695107258406
+      Tech_Augmented_Gunslinger_Idle_1: 3317659095679420885
+      Tech_Augmented_Gunslinger_Idle_10: -2923941864649094414
+      Tech_Augmented_Gunslinger_Idle_11: -552189153415576503
+      Tech_Augmented_Gunslinger_Idle_12: 5710666065744210578
+      Tech_Augmented_Gunslinger_Idle_13: -8887126724644415299
+      Tech_Augmented_Gunslinger_Idle_14: 4404319589378439548
+      Tech_Augmented_Gunslinger_Idle_15: 7117934136351113419
+      Tech_Augmented_Gunslinger_Idle_16: -7805345416943047857
+      Tech_Augmented_Gunslinger_Idle_17: 6091279658235185312
+      Tech_Augmented_Gunslinger_Idle_18: 5957009005902133421
+      Tech_Augmented_Gunslinger_Idle_19: 7866898463760714332
+      Tech_Augmented_Gunslinger_Idle_2: 4766972522355421124
+      Tech_Augmented_Gunslinger_Idle_20: 1641551632319340526
+      Tech_Augmented_Gunslinger_Idle_21: -7350216772504490041
+      Tech_Augmented_Gunslinger_Idle_22: -342832767252213508
+      Tech_Augmented_Gunslinger_Idle_23: 3877580945298665494
+      Tech_Augmented_Gunslinger_Idle_24: 227094437091232554
+      Tech_Augmented_Gunslinger_Idle_25: 8901217947964691709
+      Tech_Augmented_Gunslinger_Idle_26: 7993291037360957625
+      Tech_Augmented_Gunslinger_Idle_27: 4426130072666900044
+      Tech_Augmented_Gunslinger_Idle_28: -8048277004825790178
+      Tech_Augmented_Gunslinger_Idle_29: -6107275144797678165
+      Tech_Augmented_Gunslinger_Idle_3: -8340469995688579026
+      Tech_Augmented_Gunslinger_Idle_30: 8641277316344933907
+      Tech_Augmented_Gunslinger_Idle_31: -7998376186899084387
+      Tech_Augmented_Gunslinger_Idle_32: 6527437498473779294
+      Tech_Augmented_Gunslinger_Idle_33: -5512643425531262322
+      Tech_Augmented_Gunslinger_Idle_34: 1675193517918048745
+      Tech_Augmented_Gunslinger_Idle_35: 624975630127748686
+      Tech_Augmented_Gunslinger_Idle_36: 6572127627831379362
+      Tech_Augmented_Gunslinger_Idle_37: -1423586301449895054
+      Tech_Augmented_Gunslinger_Idle_38: -2292175046696920413
+      Tech_Augmented_Gunslinger_Idle_39: 3130481001899822457
+      Tech_Augmented_Gunslinger_Idle_4: -5491496119506696998
+      Tech_Augmented_Gunslinger_Idle_40: 7606553150891451490
+      Tech_Augmented_Gunslinger_Idle_41: -4650821455147006341
+      Tech_Augmented_Gunslinger_Idle_42: -2202057381343402806
+      Tech_Augmented_Gunslinger_Idle_43: -1002925614864433292
+      Tech_Augmented_Gunslinger_Idle_44: 7797093753572032041
+      Tech_Augmented_Gunslinger_Idle_45: 9126226149108556170
+      Tech_Augmented_Gunslinger_Idle_46: -1144367218327469674
+      Tech_Augmented_Gunslinger_Idle_47: 4008340147274229459
+      Tech_Augmented_Gunslinger_Idle_48: 3104407463662528241
+      Tech_Augmented_Gunslinger_Idle_49: -135086622544303213
+      Tech_Augmented_Gunslinger_Idle_5: 3032429613920540311
+      Tech_Augmented_Gunslinger_Idle_50: 7188907082887960282
+      Tech_Augmented_Gunslinger_Idle_51: 81560813976225819
+      Tech_Augmented_Gunslinger_Idle_52: -1851400867968589281
+      Tech_Augmented_Gunslinger_Idle_53: 573831355346565372
+      Tech_Augmented_Gunslinger_Idle_54: 4684300334253105991
+      Tech_Augmented_Gunslinger_Idle_55: -2710216161093030038
+      Tech_Augmented_Gunslinger_Idle_56: -4241696166183307311
+      Tech_Augmented_Gunslinger_Idle_57: -4589604100105860110
+      Tech_Augmented_Gunslinger_Idle_58: -7015660909876247720
+      Tech_Augmented_Gunslinger_Idle_59: -994550008844419508
+      Tech_Augmented_Gunslinger_Idle_6: -767277118316904774
+      Tech_Augmented_Gunslinger_Idle_60: -8679362743837627356
+      Tech_Augmented_Gunslinger_Idle_61: -8261419038066880430
+      Tech_Augmented_Gunslinger_Idle_62: -4580932087124420538
+      Tech_Augmented_Gunslinger_Idle_63: 482451082082624101
+      Tech_Augmented_Gunslinger_Idle_7: 4223721067479137024
+      Tech_Augmented_Gunslinger_Idle_8: 4137821445203321270
+      Tech_Augmented_Gunslinger_Idle_9: 3139400561091077163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

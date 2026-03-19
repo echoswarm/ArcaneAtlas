@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4073b697891e4248a13e6014ea61942, type: 3}
+  m_Name: Supreme_Necromancer
+  m_EditorClassIdentifier: Assembly-CSharp::ArcaneAtlas.Data.CharacterDef
+  CharacterName: Supreme_Necromancer
+  PackSource: C:\Users\quinn\OneDrive\Desktop\Minifantasy\minifantasy-true-villains-i\Minifantasy_True_Villains_I_v1.0\_Minifantasy_True_Villains_Assets\Supreme_Necromancer\General_Animations
+  IdleFrameRate: 4
+  WalkFrameRate: 8

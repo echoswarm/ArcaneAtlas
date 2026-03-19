@@ -1,0 +1,3796 @@
+fileFormatVersion: 2
+guid: 8f6556b9ceb163a4689b4196c1c084df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7106611651713155295
+    second: Supreme_Necromancer_Idle_0
+  - first:
+      213: 7661509338694742042
+    second: Supreme_Necromancer_Idle_1
+  - first:
+      213: -9184021210886676911
+    second: Supreme_Necromancer_Idle_2
+  - first:
+      213: 25376162071410207
+    second: Supreme_Necromancer_Idle_3
+  - first:
+      213: 2214327793013836408
+    second: Supreme_Necromancer_Idle_4
+  - first:
+      213: -7666704090994693001
+    second: Supreme_Necromancer_Idle_5
+  - first:
+      213: -7911224450995287784
+    second: Supreme_Necromancer_Idle_6
+  - first:
+      213: 7166204948353248504
+    second: Supreme_Necromancer_Idle_7
+  - first:
+      213: -8855806727100829186
+    second: Supreme_Necromancer_Idle_8
+  - first:
+      213: -3782975298584332944
+    second: Supreme_Necromancer_Idle_9
+  - first:
+      213: 3108443928865300062
+    second: Supreme_Necromancer_Idle_10
+  - first:
+      213: 571810487415985858
+    second: Supreme_Necromancer_Idle_11
+  - first:
+      213: 477533764353189837
+    second: Supreme_Necromancer_Idle_12
+  - first:
+      213: -3631954712484969769
+    second: Supreme_Necromancer_Idle_13
+  - first:
+      213: 4986502373344162834
+    second: Supreme_Necromancer_Idle_14
+  - first:
+      213: 3669271575600423693
+    second: Supreme_Necromancer_Idle_15
+  - first:
+      213: 72839764663229196
+    second: Supreme_Necromancer_Idle_16
+  - first:
+      213: -6500496034723533222
+    second: Supreme_Necromancer_Idle_17
+  - first:
+      213: 4978968741188448167
+    second: Supreme_Necromancer_Idle_18
+  - first:
+      213: -4618964455624234435
+    second: Supreme_Necromancer_Idle_19
+  - first:
+      213: 4946317287991647367
+    second: Supreme_Necromancer_Idle_20
+  - first:
+      213: -4641138587739872857
+    second: Supreme_Necromancer_Idle_21
+  - first:
+      213: 8884368735602297540
+    second: Supreme_Necromancer_Idle_22
+  - first:
+      213: -3285509932584723394
+    second: Supreme_Necromancer_Idle_23
+  - first:
+      213: -4703245437202585033
+    second: Supreme_Necromancer_Idle_24
+  - first:
+      213: -6366949902148463103
+    second: Supreme_Necromancer_Idle_25
+  - first:
+      213: 8522973216254495952
+    second: Supreme_Necromancer_Idle_26
+  - first:
+      213: 9138057302198684230
+    second: Supreme_Necromancer_Idle_27
+  - first:
+      213: 7674388081089852961
+    second: Supreme_Necromancer_Idle_28
+  - first:
+      213: 5829694454826937051
+    second: Supreme_Necromancer_Idle_29
+  - first:
+      213: 2671026728143966718
+    second: Supreme_Necromancer_Idle_30
+  - first:
+      213: 3400413310356889828
+    second: Supreme_Necromancer_Idle_31
+  - first:
+      213: -2522632334317707797
+    second: Supreme_Necromancer_Idle_32
+  - first:
+      213: -3838531635031468348
+    second: Supreme_Necromancer_Idle_33
+  - first:
+      213: 7956651521237437528
+    second: Supreme_Necromancer_Idle_34
+  - first:
+      213: 3367719332565553303
+    second: Supreme_Necromancer_Idle_35
+  - first:
+      213: -3293642876240168137
+    second: Supreme_Necromancer_Idle_36
+  - first:
+      213: 1621374917671524361
+    second: Supreme_Necromancer_Idle_37
+  - first:
+      213: 7574293374903847763
+    second: Supreme_Necromancer_Idle_38
+  - first:
+      213: -4266698078963879321
+    second: Supreme_Necromancer_Idle_39
+  - first:
+      213: -2787785834833228986
+    second: Supreme_Necromancer_Idle_40
+  - first:
+      213: 856152504429948176
+    second: Supreme_Necromancer_Idle_41
+  - first:
+      213: 4280969222294314106
+    second: Supreme_Necromancer_Idle_42
+  - first:
+      213: 1610560281430465869
+    second: Supreme_Necromancer_Idle_43
+  - first:
+      213: -1377463378933068365
+    second: Supreme_Necromancer_Idle_44
+  - first:
+      213: 1682002693743657988
+    second: Supreme_Necromancer_Idle_45
+  - first:
+      213: -2657654688606777065
+    second: Supreme_Necromancer_Idle_46
+  - first:
+      213: 1588015576141811596
+    second: Supreme_Necromancer_Idle_47
+  - first:
+      213: 1714492073569586644
+    second: Supreme_Necromancer_Idle_48
+  - first:
+      213: -5479706522145244628
+    second: Supreme_Necromancer_Idle_49
+  - first:
+      213: 5053339060471663512
+    second: Supreme_Necromancer_Idle_50
+  - first:
+      213: -1644835334035702134
+    second: Supreme_Necromancer_Idle_51
+  - first:
+      213: -9156405220382789477
+    second: Supreme_Necromancer_Idle_52
+  - first:
+      213: -2503641664880090204
+    second: Supreme_Necromancer_Idle_53
+  - first:
+      213: -6297680834698649597
+    second: Supreme_Necromancer_Idle_54
+  - first:
+      213: -106906788531906073
+    second: Supreme_Necromancer_Idle_55
+  - first:
+      213: -986523453290930198
+    second: Supreme_Necromancer_Idle_56
+  - first:
+      213: 2777216748266340445
+    second: Supreme_Necromancer_Idle_57
+  - first:
+      213: -5028151883906058993
+    second: Supreme_Necromancer_Idle_58
+  - first:
+      213: 5070010174980129191
+    second: Supreme_Necromancer_Idle_59
+  - first:
+      213: 3699499038039456356
+    second: Supreme_Necromancer_Idle_60
+  - first:
+      213: -3449262446044142945
+    second: Supreme_Necromancer_Idle_61
+  - first:
+      213: -1637827055429130087
+    second: Supreme_Necromancer_Idle_62
+  - first:
+      213: 4110551496689723158
+    second: Supreme_Necromancer_Idle_63
+  - first:
+      213: -2201080627776522401
+    second: Supreme_Necromancer_Idle_64
+  - first:
+      213: 4545587268119928810
+    second: Supreme_Necromancer_Idle_65
+  - first:
+      213: -7465383425289103411
+    second: Supreme_Necromancer_Idle_66
+  - first:
+      213: -6180837804318942923
+    second: Supreme_Necromancer_Idle_67
+  - first:
+      213: 110223932834995707
+    second: Supreme_Necromancer_Idle_68
+  - first:
+      213: -8557881663813993672
+    second: Supreme_Necromancer_Idle_69
+  - first:
+      213: 5676917596006912758
+    second: Supreme_Necromancer_Idle_70
+  - first:
+      213: 6056616096619937962
+    second: Supreme_Necromancer_Idle_71
+  - first:
+      213: -1807712932157745694
+    second: Supreme_Necromancer_Idle_72
+  - first:
+      213: -4289596966562053135
+    second: Supreme_Necromancer_Idle_73
+  - first:
+      213: 5650556279600892981
+    second: Supreme_Necromancer_Idle_74
+  - first:
+      213: 4350667884936389625
+    second: Supreme_Necromancer_Idle_75
+  - first:
+      213: 1269704846215112378
+    second: Supreme_Necromancer_Idle_76
+  - first:
+      213: 4150348568177850051
+    second: Supreme_Necromancer_Idle_77
+  - first:
+      213: -6106881050516990065
+    second: Supreme_Necromancer_Idle_78
+  - first:
+      213: 3680130283152904422
+    second: Supreme_Necromancer_Idle_79
+  - first:
+      213: 635305544473477866
+    second: Supreme_Necromancer_Idle_80
+  - first:
+      213: 2764286928697734555
+    second: Supreme_Necromancer_Idle_81
+  - first:
+      213: 3150680518062691738
+    second: Supreme_Necromancer_Idle_82
+  - first:
+      213: -3335839013291129414
+    second: Supreme_Necromancer_Idle_83
+  - first:
+      213: 8544855472770489945
+    second: Supreme_Necromancer_Idle_84
+  - first:
+      213: -5587548527720443723
+    second: Supreme_Necromancer_Idle_85
+  - first:
+      213: -1421401967653004609
+    second: Supreme_Necromancer_Idle_86
+  - first:
+      213: -5952078003755970067
+    second: Supreme_Necromancer_Idle_87
+  - first:
+      213: 4537199282403903202
+    second: Supreme_Necromancer_Idle_88
+  - first:
+      213: 4498986081109038617
+    second: Supreme_Necromancer_Idle_89
+  - first:
+      213: -3509901221241352056
+    second: Supreme_Necromancer_Idle_90
+  - first:
+      213: -1170480503264980827
+    second: Supreme_Necromancer_Idle_91
+  - first:
+      213: -761279293419350106
+    second: Supreme_Necromancer_Idle_92
+  - first:
+      213: 7699324553418394551
+    second: Supreme_Necromancer_Idle_93
+  - first:
+      213: 9173197610533178198
+    second: Supreme_Necromancer_Idle_94
+  - first:
+      213: 814835539759090487
+    second: Supreme_Necromancer_Idle_95
+  - first:
+      213: 492472546323637021
+    second: Supreme_Necromancer_Idle_96
+  - first:
+      213: -7009913759373657299
+    second: Supreme_Necromancer_Idle_97
+  - first:
+      213: 995471890645213042
+    second: Supreme_Necromancer_Idle_98
+  - first:
+      213: 6912499003059443487
+    second: Supreme_Necromancer_Idle_99
+  - first:
+      213: -5305677844035701030
+    second: Supreme_Necromancer_Idle_100
+  - first:
+      213: -2782383042241979729
+    second: Supreme_Necromancer_Idle_101
+  - first:
+      213: 1585657533699333932
+    second: Supreme_Necromancer_Idle_102
+  - first:
+      213: -3822203166258270679
+    second: Supreme_Necromancer_Idle_103
+  - first:
+      213: 4552270372156376619
+    second: Supreme_Necromancer_Idle_104
+  - first:
+      213: -5203891262621866182
+    second: Supreme_Necromancer_Idle_105
+  - first:
+      213: -5701654596307151705
+    second: Supreme_Necromancer_Idle_106
+  - first:
+      213: -336071988808635164
+    second: Supreme_Necromancer_Idle_107
+  - first:
+      213: 6889282007827596755
+    second: Supreme_Necromancer_Idle_108
+  - first:
+      213: -402074341489074301
+    second: Supreme_Necromancer_Idle_109
+  - first:
+      213: 2448340957216047528
+    second: Supreme_Necromancer_Idle_110
+  - first:
+      213: -6863404158121228385
+    second: Supreme_Necromancer_Idle_111
+  - first:
+      213: 3618512938313130736
+    second: Supreme_Necromancer_Idle_112
+  - first:
+      213: 8333322862669433093
+    second: Supreme_Necromancer_Idle_113
+  - first:
+      213: -6176914970722780849
+    second: Supreme_Necromancer_Idle_114
+  - first:
+      213: -1573120460946531987
+    second: Supreme_Necromancer_Idle_115
+  - first:
+      213: 8896066289842541085
+    second: Supreme_Necromancer_Idle_116
+  - first:
+      213: -9029500858576568770
+    second: Supreme_Necromancer_Idle_117
+  - first:
+      213: -1974457566119822141
+    second: Supreme_Necromancer_Idle_118
+  - first:
+      213: -7072882752957968415
+    second: Supreme_Necromancer_Idle_119
+  - first:
+      213: -5100851394587989840
+    second: Supreme_Necromancer_Idle_120
+  - first:
+      213: -21160846507020952
+    second: Supreme_Necromancer_Idle_121
+  - first:
+      213: 916836798626503917
+    second: Supreme_Necromancer_Idle_122
+  - first:
+      213: 2633893044601697988
+    second: Supreme_Necromancer_Idle_123
+  - first:
+      213: -3215692502655742055
+    second: Supreme_Necromancer_Idle_124
+  - first:
+      213: -6545667504329091083
+    second: Supreme_Necromancer_Idle_125
+  - first:
+      213: 8805175273978753876
+    second: Supreme_Necromancer_Idle_126
+  - first:
+      213: -4344009209279288146
+    second: Supreme_Necromancer_Idle_127
+  - first:
+      213: -7286935592301656868
+    second: Supreme_Necromancer_Idle_128
+  - first:
+      213: -7806880463783975639
+    second: Supreme_Necromancer_Idle_129
+  - first:
+      213: -7096216001355727330
+    second: Supreme_Necromancer_Idle_130
+  - first:
+      213: 6526860229694810896
+    second: Supreme_Necromancer_Idle_131
+  - first:
+      213: 6029294793183938849
+    second: Supreme_Necromancer_Idle_132
+  - first:
+      213: 5092545710645323202
+    second: Supreme_Necromancer_Idle_133
+  - first:
+      213: -6267279074174707482
+    second: Supreme_Necromancer_Idle_134
+  - first:
+      213: 834276222987677305
+    second: Supreme_Necromancer_Idle_135
+  - first:
+      213: 2075662386023972110
+    second: Supreme_Necromancer_Idle_136
+  - first:
+      213: 2735937872689221334
+    second: Supreme_Necromancer_Idle_137
+  - first:
+      213: 628126473709774733
+    second: Supreme_Necromancer_Idle_138
+  - first:
+      213: 8689800087954276148
+    second: Supreme_Necromancer_Idle_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0c30115a1cf9260800000000000000
+      internalID: 7106611651713155295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10fc30b626235a60800000000000000
+      internalID: 7661509338694742042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e52732e5dcb8080800000000000000
+      internalID: -9184021210886676911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1677062c772a5000800000000000000
+      internalID: 25376162071410207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a4dde456fdabe10800000000000000
+      internalID: 2214327793013836408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2a3acf356a9590800000000000000
+      internalID: -7666704090994693001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198a0cf64fa53290800000000000000
+      internalID: -7911224450995287784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fced3eae69737360800000000000000
+      internalID: 7166204948353248504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f3a7a3bad91580800000000000000
+      internalID: -8855806727100829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075bdcd420c208bc0800000000000000
+      internalID: -3782975298584332944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5c38b849632b20800000000000000
+      internalID: 3108443928865300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d545db9a7fe700800000000000000
+      internalID: 571810487415985858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7e688bd6a80a600800000000000000
+      internalID: 477533764353189837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d207029e64b89dc0800000000000000
+      internalID: -3631954712484969769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21432da2d7d933540800000000000000
+      internalID: 4986502373344162834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e910be0fdbe230800000000000000
+      internalID: 3669271575600423693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b564a4167c20100800000000000000
+      internalID: 72839764663229196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee77a2c4999c5a0800000000000000
+      internalID: -6500496034723533222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afaf4eb0b9d81540800000000000000
+      internalID: 4978968741188448167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 108
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aac58cc4426efb0800000000000000
+      internalID: -4618964455624234435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c9d11ed59d4a440800000000000000
+      internalID: 4946317287991647367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 110
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a128645b0d579fb0800000000000000
+      internalID: -4641138587739872857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca492b2b4e9b4b70800000000000000
+      internalID: 8884368735602297540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 111
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c154aaf168762d0800000000000000
+      internalID: -3285509932584723394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a20189137babeb0800000000000000
+      internalID: -4703245437202585033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 112
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1069bbb2ccc04a7a0800000000000000
+      internalID: -6366949902148463103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8409cbfea74670800000000000000
+      internalID: 8522973216254495952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a87ba63b6e0de70800000000000000
+      internalID: 9138057302198684230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263ad19c47e08a60800000000000000
+      internalID: 7674388081089852961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 116
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2609383c37e050800000000000000
+      internalID: 5829694454826937051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1589458a4611520800000000000000
+      internalID: 2671026728143966718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0255db3e1b03f20800000000000000
+      internalID: 3400413310356889828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 108
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed1416e14fcdfcd0800000000000000
+      internalID: -2522632334317707797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c699dab0dbcabac0800000000000000
+      internalID: -3838531635031468348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ccde40764bb6e60800000000000000
+      internalID: 7956651521237437528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79019c8d3ea8cbe20800000000000000
+      internalID: 3367719332565553303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b75b82141aa42d0800000000000000
+      internalID: -3293642876240168137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081a8fa5e7408610800000000000000
+      internalID: 1621374917671524361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b0db3b1bb4d1960800000000000000
+      internalID: 7574293374903847763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762348ff3b4a9c4c0800000000000000
+      internalID: -4266698078963879321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b46e4bd8bcf49d0800000000000000
+      internalID: -2787785834833228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dab1caa2aa1eb00800000000000000
+      internalID: 856152504429948176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9b3d73de096b30800000000000000
+      internalID: 4280969222294314106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1408fa0cd95610800000000000000
+      internalID: 1610560281430465869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc59fda5442ece0800000000000000
+      internalID: -1377463378933068365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40447dfc98ca75710800000000000000
+      internalID: 1682002693743657988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71111fd342d1e1bd0800000000000000
+      internalID: -2657654688606777065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f48b9b0c3c90610800000000000000
+      internalID: 1588015576141811596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd865705791bc710800000000000000
+      internalID: 1714492073569586644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a342a63fb24f3b0800000000000000
+      internalID: -5479706522145244628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b050d0a11112640800000000000000
+      internalID: 5053339060471663512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7ac87afe5c29e0800000000000000
+      internalID: -1644835334035702134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903d8bf6f9ede080800000000000000
+      internalID: -9156405220382789477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a364ffab27414dd0800000000000000
+      internalID: -2503641664880090204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 76
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300600bb5a42a98a0800000000000000
+      internalID: -6297680834698649597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 78
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95a7d97d0348ef0800000000000000
+      internalID: -106906788531906073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef9004652a2f42f0800000000000000
+      internalID: -986523453290930198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 79
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504ea01be7aa8620800000000000000
+      internalID: 2777216748266340445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05711b708a683ab0800000000000000
+      internalID: -5028151883906058993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 80
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18e4f546b4c5640800000000000000
+      internalID: 5070010174980129191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46abd3936c2475330800000000000000
+      internalID: 3699499038039456356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 82
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92a17e8412c120d0800000000000000
+      internalID: -3449262446044142945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986f9d78f44549e0800000000000000
+      internalID: -1637827055429130087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 84
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617242fbecc9b0930800000000000000
+      internalID: 4110551496689723158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57f263b4d03471e0800000000000000
+      internalID: -2201080627776522401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 87
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef93db698b251f30800000000000000
+      internalID: 4545587268119928810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_66
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7dd87f351a56890800000000000000
+      internalID: -7465383425289103411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_67
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399343b3c0493aa0800000000000000
+      internalID: -6180837804318942923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 75
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd506a3518978100800000000000000
+      internalID: 110223932834995707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_69
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb986e7fb4c3980800000000000000
+      internalID: -8557881663813993672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f21829d97678ce40800000000000000
+      internalID: 5676917596006912758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c1f3204c6d0450800000000000000
+      internalID: 6056616096619937962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59bd67aa6b9e6e0800000000000000
+      internalID: -1807712932157745694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c972494a4874c0800000000000000
+      internalID: -4289596966562053135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc6f49ffeca6e40800000000000000
+      internalID: 5650556279600892981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f36559f36da06c30800000000000000
+      internalID: 4350667884936389625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab66e3894d5ee9110800000000000000
+      internalID: 1269704846215112378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ba448800099930800000000000000
+      internalID: 4150348568177850051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87de5a4a00004ba0800000000000000
+      internalID: -6106881050516990065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e09c7e8ef2721330800000000000000
+      internalID: 3680130283152904422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae28d26d60f01d800800000000000000
+      internalID: 635305544473477866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b84ad058bc5620800000000000000
+      internalID: 2764286928697734555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ded7fc3779bb20800000000000000
+      internalID: 3150680518062691738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_83
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab584e86718b4b1d0800000000000000
+      internalID: -3335839013291129414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_84
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9987a7cc659670800000000000000
+      internalID: 8544855472770489945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b057f7d73a0572b0800000000000000
+      internalID: -5587548527720443723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 44
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba500bf07a264ce0800000000000000
+      internalID: -1421401967653004609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de195be4798f56da0800000000000000
+      internalID: -5952078003755970067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_88
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e687de45be57fe30800000000000000
+      internalID: 4537199282403903202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_89
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165eed010c9f6e30800000000000000
+      internalID: 4498986081109038617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_90
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880133f7f635a4fc0800000000000000
+      internalID: -3509901221241352056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_91
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 48
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0de5a0f2e91cfe0800000000000000
+      internalID: -1170480503264980827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_92
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a711ec14846f65f0800000000000000
+      internalID: -761279293419350106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_93
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb42f873ee79da60800000000000000
+      internalID: 7699324553418394551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_94
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bca4600aebd4f70800000000000000
+      internalID: 9173197610533178198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_95
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b44b13b90ee4b00800000000000000
+      internalID: 814835539759090487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_96
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a041fb2d95d600800000000000000
+      internalID: 492472546323637021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_97
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf8627398c7be90800000000000000
+      internalID: -7009913759373657299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_98
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5bc90960a0dd00800000000000000
+      internalID: 995471890645213042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_99
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17999328312eef50800000000000000
+      internalID: 6912499003059443487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_100
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6779d8c127e56b0800000000000000
+      internalID: -5305677844035701030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_101
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 57
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa98126d5df269d0800000000000000
+      internalID: -2782383042241979729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_102
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f129f2023610610800000000000000
+      internalID: 1585657533699333932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_103
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6dcf987ec4fac0800000000000000
+      internalID: -3822203166258270679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_104
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268ae5d8c9ec2f30800000000000000
+      internalID: 4552270372156376619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a372aa1d77018c7b0800000000000000
+      internalID: -5203891262621866182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a493237a57afd0b0800000000000000
+      internalID: -5701654596307151705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_107
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec2a188e48065bf0800000000000000
+      internalID: -336071988808635164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5cd023c75ab9f50800000000000000
+      internalID: 6889282007827596755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9e36448b8b6af0800000000000000
+      internalID: -402074341489074301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_110
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a107e3f0214af120800000000000000
+      internalID: 2448340957216047528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_111
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97ce35384a40c0a0800000000000000
+      internalID: -6863404158121228385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_112
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22f4f785a873230800000000000000
+      internalID: 3618512938313130736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_113
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5098d04edf8e5a370800000000000000
+      internalID: 8333322862669433093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49b6429f80374aa0800000000000000
+      internalID: -6176914970722780849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69126886472b2ae0800000000000000
+      internalID: -1573120460946531987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_116
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125460482d257b70800000000000000
+      internalID: 8896066289842541085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_117
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e75793fc4c0b280800000000000000
+      internalID: -9029500858576568770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_118
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc78530e415994e0800000000000000
+      internalID: -1974457566119822141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_119
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef04f32c9218dd90800000000000000
+      internalID: -7072882752957968415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_120
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e68d9ea22639b0800000000000000
+      internalID: -5100851394587989840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_121
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 12
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6dcc7252d4bff0800000000000000
+      internalID: -21160846507020952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_122
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec9323f53249bc00800000000000000
+      internalID: 916836798626503917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_123
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63bd3e4c77d8420800000000000000
+      internalID: 2633893044601697988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_124
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f4150d4b09f53d0800000000000000
+      internalID: -3215692502655742055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_125
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f795a2d51e1925a0800000000000000
+      internalID: -6545667504329091083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_126
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4537e868244423a70800000000000000
+      internalID: 8805175273978753876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace1e3c3aaf6b3c0800000000000000
+      internalID: -4344009209279288146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_128
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd485b7cfaa9fda90800000000000000
+      internalID: -7286935592301656868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_129
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252830b49368a390800000000000000
+      internalID: -7806880463783975639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_130
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebfb5e42d258d90800000000000000
+      internalID: -7096216001355727330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_131
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 20
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b65915cc0149a50800000000000000
+      internalID: 6526860229694810896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_132
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12947d97bab5ca350800000000000000
+      internalID: 6029294793183938849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_133
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52475a75b5ca640800000000000000
+      internalID: 5092545710645323202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_134
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8d39333e62609a0800000000000000
+      internalID: -6267279074174707482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_135
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e2cbbfdc1f39b00800000000000000
+      internalID: 834276222987677305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_136
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d399851fb3ecc10800000000000000
+      internalID: 2075662386023972110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_137
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6decd25eff008f520800000000000000
+      internalID: 2735937872689221334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_138
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d876d7b23bd87b800800000000000000
+      internalID: 628126473709774733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supreme_Necromancer_Idle_139
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3ca3b32f589870800000000000000
+      internalID: 8689800087954276148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Supreme_Necromancer_Idle_0: 7106611651713155295
+      Supreme_Necromancer_Idle_1: 7661509338694742042
+      Supreme_Necromancer_Idle_10: 3108443928865300062
+      Supreme_Necromancer_Idle_100: -5305677844035701030
+      Supreme_Necromancer_Idle_101: -2782383042241979729
+      Supreme_Necromancer_Idle_102: 1585657533699333932
+      Supreme_Necromancer_Idle_103: -3822203166258270679
+      Supreme_Necromancer_Idle_104: 4552270372156376619
+      Supreme_Necromancer_Idle_105: -5203891262621866182
+      Supreme_Necromancer_Idle_106: -5701654596307151705
+      Supreme_Necromancer_Idle_107: -336071988808635164
+      Supreme_Necromancer_Idle_108: 6889282007827596755
+      Supreme_Necromancer_Idle_109: -402074341489074301
+      Supreme_Necromancer_Idle_11: 571810487415985858
+      Supreme_Necromancer_Idle_110: 2448340957216047528
+      Supreme_Necromancer_Idle_111: -6863404158121228385
+      Supreme_Necromancer_Idle_112: 3618512938313130736
+      Supreme_Necromancer_Idle_113: 8333322862669433093
+      Supreme_Necromancer_Idle_114: -6176914970722780849
+      Supreme_Necromancer_Idle_115: -1573120460946531987
+      Supreme_Necromancer_Idle_116: 8896066289842541085
+      Supreme_Necromancer_Idle_117: -9029500858576568770
+      Supreme_Necromancer_Idle_118: -1974457566119822141
+      Supreme_Necromancer_Idle_119: -7072882752957968415
+      Supreme_Necromancer_Idle_12: 477533764353189837
+      Supreme_Necromancer_Idle_120: -5100851394587989840
+      Supreme_Necromancer_Idle_121: -21160846507020952
+      Supreme_Necromancer_Idle_122: 916836798626503917
+      Supreme_Necromancer_Idle_123: 2633893044601697988
+      Supreme_Necromancer_Idle_124: -3215692502655742055
+      Supreme_Necromancer_Idle_125: -6545667504329091083
+      Supreme_Necromancer_Idle_126: 8805175273978753876
+      Supreme_Necromancer_Idle_127: -4344009209279288146
+      Supreme_Necromancer_Idle_128: -7286935592301656868
+      Supreme_Necromancer_Idle_129: -7806880463783975639
+      Supreme_Necromancer_Idle_13: -3631954712484969769
+      Supreme_Necromancer_Idle_130: -7096216001355727330
+      Supreme_Necromancer_Idle_131: 6526860229694810896
+      Supreme_Necromancer_Idle_132: 6029294793183938849
+      Supreme_Necromancer_Idle_133: 5092545710645323202
+      Supreme_Necromancer_Idle_134: -6267279074174707482
+      Supreme_Necromancer_Idle_135: 834276222987677305
+      Supreme_Necromancer_Idle_136: 2075662386023972110
+      Supreme_Necromancer_Idle_137: 2735937872689221334
+      Supreme_Necromancer_Idle_138: 628126473709774733
+      Supreme_Necromancer_Idle_139: 8689800087954276148
+      Supreme_Necromancer_Idle_14: 4986502373344162834
+      Supreme_Necromancer_Idle_15: 3669271575600423693
+      Supreme_Necromancer_Idle_16: 72839764663229196
+      Supreme_Necromancer_Idle_17: -6500496034723533222
+      Supreme_Necromancer_Idle_18: 4978968741188448167
+      Supreme_Necromancer_Idle_19: -4618964455624234435
+      Supreme_Necromancer_Idle_2: -9184021210886676911
+      Supreme_Necromancer_Idle_20: 4946317287991647367
+      Supreme_Necromancer_Idle_21: -4641138587739872857
+      Supreme_Necromancer_Idle_22: 8884368735602297540
+      Supreme_Necromancer_Idle_23: -3285509932584723394
+      Supreme_Necromancer_Idle_24: -4703245437202585033
+      Supreme_Necromancer_Idle_25: -6366949902148463103
+      Supreme_Necromancer_Idle_26: 8522973216254495952
+      Supreme_Necromancer_Idle_27: 9138057302198684230
+      Supreme_Necromancer_Idle_28: 7674388081089852961
+      Supreme_Necromancer_Idle_29: 5829694454826937051
+      Supreme_Necromancer_Idle_3: 25376162071410207
+      Supreme_Necromancer_Idle_30: 2671026728143966718
+      Supreme_Necromancer_Idle_31: 3400413310356889828
+      Supreme_Necromancer_Idle_32: -2522632334317707797
+      Supreme_Necromancer_Idle_33: -3838531635031468348
+      Supreme_Necromancer_Idle_34: 7956651521237437528
+      Supreme_Necromancer_Idle_35: 3367719332565553303
+      Supreme_Necromancer_Idle_36: -3293642876240168137
+      Supreme_Necromancer_Idle_37: 1621374917671524361
+      Supreme_Necromancer_Idle_38: 7574293374903847763
+      Supreme_Necromancer_Idle_39: -4266698078963879321
+      Supreme_Necromancer_Idle_4: 2214327793013836408
+      Supreme_Necromancer_Idle_40: -2787785834833228986
+      Supreme_Necromancer_Idle_41: 856152504429948176
+      Supreme_Necromancer_Idle_42: 4280969222294314106
+      Supreme_Necromancer_Idle_43: 1610560281430465869
+      Supreme_Necromancer_Idle_44: -1377463378933068365
+      Supreme_Necromancer_Idle_45: 1682002693743657988
+      Supreme_Necromancer_Idle_46: -2657654688606777065
+      Supreme_Necromancer_Idle_47: 1588015576141811596
+      Supreme_Necromancer_Idle_48: 1714492073569586644
+      Supreme_Necromancer_Idle_49: -5479706522145244628
+      Supreme_Necromancer_Idle_5: -7666704090994693001
+      Supreme_Necromancer_Idle_50: 5053339060471663512
+      Supreme_Necromancer_Idle_51: -1644835334035702134
+      Supreme_Necromancer_Idle_52: -9156405220382789477
+      Supreme_Necromancer_Idle_53: -2503641664880090204
+      Supreme_Necromancer_Idle_54: -6297680834698649597
+      Supreme_Necromancer_Idle_55: -106906788531906073
+      Supreme_Necromancer_Idle_56: -986523453290930198
+      Supreme_Necromancer_Idle_57: 2777216748266340445
+      Supreme_Necromancer_Idle_58: -5028151883906058993
+      Supreme_Necromancer_Idle_59: 5070010174980129191
+      Supreme_Necromancer_Idle_6: -7911224450995287784
+      Supreme_Necromancer_Idle_60: 3699499038039456356
+      Supreme_Necromancer_Idle_61: -3449262446044142945
+      Supreme_Necromancer_Idle_62: -1637827055429130087
+      Supreme_Necromancer_Idle_63: 4110551496689723158
+      Supreme_Necromancer_Idle_64: -2201080627776522401
+      Supreme_Necromancer_Idle_65: 4545587268119928810
+      Supreme_Necromancer_Idle_66: -7465383425289103411
+      Supreme_Necromancer_Idle_67: -6180837804318942923
+      Supreme_Necromancer_Idle_68: 110223932834995707
+      Supreme_Necromancer_Idle_69: -8557881663813993672
+      Supreme_Necromancer_Idle_7: 7166204948353248504
+      Supreme_Necromancer_Idle_70: 5676917596006912758
+      Supreme_Necromancer_Idle_71: 6056616096619937962
+      Supreme_Necromancer_Idle_72: -1807712932157745694
+      Supreme_Necromancer_Idle_73: -4289596966562053135
+      Supreme_Necromancer_Idle_74: 5650556279600892981
+      Supreme_Necromancer_Idle_75: 4350667884936389625
+      Supreme_Necromancer_Idle_76: 1269704846215112378
+      Supreme_Necromancer_Idle_77: 4150348568177850051
+      Supreme_Necromancer_Idle_78: -6106881050516990065
+      Supreme_Necromancer_Idle_79: 3680130283152904422
+      Supreme_Necromancer_Idle_8: -8855806727100829186
+      Supreme_Necromancer_Idle_80: 635305544473477866
+      Supreme_Necromancer_Idle_81: 2764286928697734555
+      Supreme_Necromancer_Idle_82: 3150680518062691738
+      Supreme_Necromancer_Idle_83: -3335839013291129414
+      Supreme_Necromancer_Idle_84: 8544855472770489945
+      Supreme_Necromancer_Idle_85: -5587548527720443723
+      Supreme_Necromancer_Idle_86: -1421401967653004609
+      Supreme_Necromancer_Idle_87: -5952078003755970067
+      Supreme_Necromancer_Idle_88: 4537199282403903202
+      Supreme_Necromancer_Idle_89: 4498986081109038617
+      Supreme_Necromancer_Idle_9: -3782975298584332944
+      Supreme_Necromancer_Idle_90: -3509901221241352056
+      Supreme_Necromancer_Idle_91: -1170480503264980827
+      Supreme_Necromancer_Idle_92: -761279293419350106
+      Supreme_Necromancer_Idle_93: 7699324553418394551
+      Supreme_Necromancer_Idle_94: 9173197610533178198
+      Supreme_Necromancer_Idle_95: 814835539759090487
+      Supreme_Necromancer_Idle_96: 492472546323637021
+      Supreme_Necromancer_Idle_97: -7009913759373657299
+      Supreme_Necromancer_Idle_98: 995471890645213042
+      Supreme_Necromancer_Idle_99: 6912499003059443487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: a67fc81d1d39e2a49bb26ac2fafa7d3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6253534566283857936
+    second: Frogfolk_Villager_Idle_0
+  - first:
+      213: 6461686177192407078
+    second: Frogfolk_Villager_Idle_1
+  - first:
+      213: -1714211525197080682
+    second: Frogfolk_Villager_Idle_2
+  - first:
+      213: 6944965154244271231
+    second: Frogfolk_Villager_Idle_3
+  - first:
+      213: 5887651437393044123
+    second: Frogfolk_Villager_Idle_4
+  - first:
+      213: -2995108521825102251
+    second: Frogfolk_Villager_Idle_5
+  - first:
+      213: -4996892352599305514
+    second: Frogfolk_Villager_Idle_6
+  - first:
+      213: 9014916626995464045
+    second: Frogfolk_Villager_Idle_7
+  - first:
+      213: -543472774251878815
+    second: Frogfolk_Villager_Idle_8
+  - first:
+      213: -9009229479913777865
+    second: Frogfolk_Villager_Idle_9
+  - first:
+      213: 1877972167646358846
+    second: Frogfolk_Villager_Idle_10
+  - first:
+      213: -9039091462177602899
+    second: Frogfolk_Villager_Idle_11
+  - first:
+      213: -8615216893986015744
+    second: Frogfolk_Villager_Idle_12
+  - first:
+      213: -4535433065019665201
+    second: Frogfolk_Villager_Idle_13
+  - first:
+      213: 9090715293598629759
+    second: Frogfolk_Villager_Idle_14
+  - first:
+      213: 5896559891735478756
+    second: Frogfolk_Villager_Idle_15
+  - first:
+      213: 3676627052222150872
+    second: Frogfolk_Villager_Idle_16
+  - first:
+      213: -8586107880039843803
+    second: Frogfolk_Villager_Idle_17
+  - first:
+      213: 373973384256597470
+    second: Frogfolk_Villager_Idle_18
+  - first:
+      213: 6175891720610277333
+    second: Frogfolk_Villager_Idle_19
+  - first:
+      213: -3010771385176671117
+    second: Frogfolk_Villager_Idle_20
+  - first:
+      213: 6316299009580992153
+    second: Frogfolk_Villager_Idle_21
+  - first:
+      213: -5010290438097677283
+    second: Frogfolk_Villager_Idle_22
+  - first:
+      213: 893577448308040167
+    second: Frogfolk_Villager_Idle_23
+  - first:
+      213: 5194972282072024099
+    second: Frogfolk_Villager_Idle_24
+  - first:
+      213: -3889044647234766896
+    second: Frogfolk_Villager_Idle_25
+  - first:
+      213: -6285504471533184178
+    second: Frogfolk_Villager_Idle_26
+  - first:
+      213: -4654579888295192300
+    second: Frogfolk_Villager_Idle_27
+  - first:
+      213: -1767940589285374195
+    second: Frogfolk_Villager_Idle_28
+  - first:
+      213: 377885307338539161
+    second: Frogfolk_Villager_Idle_29
+  - first:
+      213: -4624497013306804299
+    second: Frogfolk_Villager_Idle_30
+  - first:
+      213: -814812921202367847
+    second: Frogfolk_Villager_Idle_31
+  - first:
+      213: 128975712911727408
+    second: Frogfolk_Villager_Idle_32
+  - first:
+      213: -7388263621682325464
+    second: Frogfolk_Villager_Idle_33
+  - first:
+      213: 4353705171356172190
+    second: Frogfolk_Villager_Idle_34
+  - first:
+      213: -314161848884887921
+    second: Frogfolk_Villager_Idle_35
+  - first:
+      213: 2249735177235367850
+    second: Frogfolk_Villager_Idle_36
+  - first:
+      213: 4797971927689483421
+    second: Frogfolk_Villager_Idle_37
+  - first:
+      213: -2451987319571361395
+    second: Frogfolk_Villager_Idle_38
+  - first:
+      213: -6443922841772827532
+    second: Frogfolk_Villager_Idle_39
+  - first:
+      213: -2052029440062487689
+    second: Frogfolk_Villager_Idle_40
+  - first:
+      213: -3104527760044845682
+    second: Frogfolk_Villager_Idle_41
+  - first:
+      213: 3530258047855121786
+    second: Frogfolk_Villager_Idle_42
+  - first:
+      213: 6260318734542651591
+    second: Frogfolk_Villager_Idle_43
+  - first:
+      213: 5376424172519407491
+    second: Frogfolk_Villager_Idle_44
+  - first:
+      213: 1150492873337896700
+    second: Frogfolk_Villager_Idle_45
+  - first:
+      213: -5439534046585253350
+    second: Frogfolk_Villager_Idle_46
+  - first:
+      213: 7235469883896085650
+    second: Frogfolk_Villager_Idle_47
+  - first:
+      213: -8144942843330035493
+    second: Frogfolk_Villager_Idle_48
+  - first:
+      213: 399016904685593794
+    second: Frogfolk_Villager_Idle_49
+  - first:
+      213: -4845801008890070051
+    second: Frogfolk_Villager_Idle_50
+  - first:
+      213: -5541274394111705392
+    second: Frogfolk_Villager_Idle_51
+  - first:
+      213: 2927773394208213240
+    second: Frogfolk_Villager_Idle_52
+  - first:
+      213: 7551341296497483605
+    second: Frogfolk_Villager_Idle_53
+  - first:
+      213: -4006473170918138432
+    second: Frogfolk_Villager_Idle_54
+  - first:
+      213: 208084374267213067
+    second: Frogfolk_Villager_Idle_55
+  - first:
+      213: -8693041666972744751
+    second: Frogfolk_Villager_Idle_56
+  - first:
+      213: 2332697463158621259
+    second: Frogfolk_Villager_Idle_57
+  - first:
+      213: 7664004691064154214
+    second: Frogfolk_Villager_Idle_58
+  - first:
+      213: 4508436691340304598
+    second: Frogfolk_Villager_Idle_59
+  - first:
+      213: -5846454928408614628
+    second: Frogfolk_Villager_Idle_60
+  - first:
+      213: 999249346825606092
+    second: Frogfolk_Villager_Idle_61
+  - first:
+      213: 1122633443476213076
+    second: Frogfolk_Villager_Idle_62
+  - first:
+      213: -274256485308532810
+    second: Frogfolk_Villager_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d9fd2e8409c650800000000000000
+      internalID: 6253534566283857936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620fa99b7558ca950800000000000000
+      internalID: 6461686177192407078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6975fba33b5e538e0800000000000000
+      internalID: -1714211525197080682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c12340309716060800000000000000
+      internalID: 6944965154244271231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926127c9c325b150800000000000000
+      internalID: 5887651437393044123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5569edc0bac3f66d0800000000000000
+      internalID: -2995108521825102251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2d37641e877aab0800000000000000
+      internalID: -4996892352599305514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c3dfb8ea6b1d70800000000000000
+      internalID: 9014916626995464045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ee9924623578f0800000000000000
+      internalID: -543472774251878815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73513cd5589c8f280800000000000000
+      internalID: -9009229479913777865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da1ae8cb5ef0a10800000000000000
+      internalID: 1877972167646358846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da243a0d432be8280800000000000000
+      internalID: -9039091462177602899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f40b51e9907880800000000000000
+      internalID: -8615216893986015744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc411f838a7ee01c0800000000000000
+      internalID: -4535433065019665201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f38251565b82e70800000000000000
+      internalID: 9090715293598629759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e185bfeaf9c4d150800000000000000
+      internalID: 5896559891735478756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8fa4b03d0060330800000000000000
+      internalID: 3676627052222150872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fa0fcf5408d880800000000000000
+      internalID: -8586107880039843803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda014cfce903500800000000000000
+      internalID: 373973384256597470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d760427ccc25b550800000000000000
+      internalID: 6175891720610277333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c32ae70679736d0800000000000000
+      internalID: -3010771385176671117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9960a39eb7008a750800000000000000
+      internalID: 6316299009580992153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d6a7646fd77ab0800000000000000
+      internalID: -5010290438097677283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e163b174ff966c00800000000000000
+      internalID: 893577448308040167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32447e234cf381840800000000000000
+      internalID: 5194972282072024099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ffe59f76570ac0800000000000000
+      internalID: -3889044647234766896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b92243cf665c8a0800000000000000
+      internalID: -6285504471533184178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419dc7ba04c976fb0800000000000000
+      internalID: -4654579888295192300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0786a7a6630777e0800000000000000
+      internalID: -1767940589285374195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c0c55fa48e3500800000000000000
+      internalID: 377885307338539161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73ef0d77c72dfb0800000000000000
+      internalID: -4624497013306804299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992a55917f331b4f0800000000000000
+      internalID: -814812921202367847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b91c04ab63ac100800000000000000
+      internalID: 128975712911727408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8281faa716d977990800000000000000
+      internalID: -7388263621682325464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f377359c77b6c30800000000000000
+      internalID: 4353705171356172190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e7c33867fd3abf0800000000000000
+      internalID: -314161848884887921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa780dd593aa83f10800000000000000
+      internalID: 2249735177235367850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945a382c02d59240800000000000000
+      internalID: 4797971927689483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81df27268ac8fdd0800000000000000
+      internalID: -2451987319571361395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cda1811569296a0800000000000000
+      internalID: -6443922841772827532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7738e6ca81ab583e0800000000000000
+      internalID: -2052029440062487689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85103363708ae4d0800000000000000
+      internalID: -3104527760044845682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a755edb8dfefdf030800000000000000
+      internalID: 3530258047855121786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0432178be11e650800000000000000
+      internalID: 6260318734542651591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fb7d4ac45ec9a40800000000000000
+      internalID: 5376424172519407491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe7ce73c2f57ff00800000000000000
+      internalID: 1150492873337896700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1294a1ca94e284b0800000000000000
+      internalID: -5439534046585253350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb9a4368d896460800000000000000
+      internalID: 7235469883896085650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0047343a957fe80800000000000000
+      internalID: -8144942843330035493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4292fb2c7998500800000000000000
+      internalID: 399016904685593794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb0e418a140ccb0800000000000000
+      internalID: -4845801008890070051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def0082c407913b0800000000000000
+      internalID: -5541274394111705392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ce98d36a81a820800000000000000
+      internalID: 2927773394208213240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f587386e0cbc860800000000000000
+      internalID: 7551341296497483605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9a45d0e52668c0800000000000000
+      internalID: -4006473170918138432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05b18bc2a343e200800000000000000
+      internalID: 208084374267213067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38b6e59ac1c5780800000000000000
+      internalID: -8693041666972744751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44460ccbf76f5020800000000000000
+      internalID: 2332697463158621259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686ecf29a30c5a60800000000000000
+      internalID: 7664004691064154214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d02da7b84f219e30800000000000000
+      internalID: 4508436691340304598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196fdce7383ddea0800000000000000
+      internalID: -5846454928408614628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d4979cfb0edd00800000000000000
+      internalID: 999249346825606092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d8f5b3b25649f00800000000000000
+      internalID: 1122633443476213076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Villager_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b776dffd25a13cf0800000000000000
+      internalID: -274256485308532810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frogfolk_Villager_Idle_0: 6253534566283857936
+      Frogfolk_Villager_Idle_1: 6461686177192407078
+      Frogfolk_Villager_Idle_10: 1877972167646358846
+      Frogfolk_Villager_Idle_11: -9039091462177602899
+      Frogfolk_Villager_Idle_12: -8615216893986015744
+      Frogfolk_Villager_Idle_13: -4535433065019665201
+      Frogfolk_Villager_Idle_14: 9090715293598629759
+      Frogfolk_Villager_Idle_15: 5896559891735478756
+      Frogfolk_Villager_Idle_16: 3676627052222150872
+      Frogfolk_Villager_Idle_17: -8586107880039843803
+      Frogfolk_Villager_Idle_18: 373973384256597470
+      Frogfolk_Villager_Idle_19: 6175891720610277333
+      Frogfolk_Villager_Idle_2: -1714211525197080682
+      Frogfolk_Villager_Idle_20: -3010771385176671117
+      Frogfolk_Villager_Idle_21: 6316299009580992153
+      Frogfolk_Villager_Idle_22: -5010290438097677283
+      Frogfolk_Villager_Idle_23: 893577448308040167
+      Frogfolk_Villager_Idle_24: 5194972282072024099
+      Frogfolk_Villager_Idle_25: -3889044647234766896
+      Frogfolk_Villager_Idle_26: -6285504471533184178
+      Frogfolk_Villager_Idle_27: -4654579888295192300
+      Frogfolk_Villager_Idle_28: -1767940589285374195
+      Frogfolk_Villager_Idle_29: 377885307338539161
+      Frogfolk_Villager_Idle_3: 6944965154244271231
+      Frogfolk_Villager_Idle_30: -4624497013306804299
+      Frogfolk_Villager_Idle_31: -814812921202367847
+      Frogfolk_Villager_Idle_32: 128975712911727408
+      Frogfolk_Villager_Idle_33: -7388263621682325464
+      Frogfolk_Villager_Idle_34: 4353705171356172190
+      Frogfolk_Villager_Idle_35: -314161848884887921
+      Frogfolk_Villager_Idle_36: 2249735177235367850
+      Frogfolk_Villager_Idle_37: 4797971927689483421
+      Frogfolk_Villager_Idle_38: -2451987319571361395
+      Frogfolk_Villager_Idle_39: -6443922841772827532
+      Frogfolk_Villager_Idle_4: 5887651437393044123
+      Frogfolk_Villager_Idle_40: -2052029440062487689
+      Frogfolk_Villager_Idle_41: -3104527760044845682
+      Frogfolk_Villager_Idle_42: 3530258047855121786
+      Frogfolk_Villager_Idle_43: 6260318734542651591
+      Frogfolk_Villager_Idle_44: 5376424172519407491
+      Frogfolk_Villager_Idle_45: 1150492873337896700
+      Frogfolk_Villager_Idle_46: -5439534046585253350
+      Frogfolk_Villager_Idle_47: 7235469883896085650
+      Frogfolk_Villager_Idle_48: -8144942843330035493
+      Frogfolk_Villager_Idle_49: 399016904685593794
+      Frogfolk_Villager_Idle_5: -2995108521825102251
+      Frogfolk_Villager_Idle_50: -4845801008890070051
+      Frogfolk_Villager_Idle_51: -5541274394111705392
+      Frogfolk_Villager_Idle_52: 2927773394208213240
+      Frogfolk_Villager_Idle_53: 7551341296497483605
+      Frogfolk_Villager_Idle_54: -4006473170918138432
+      Frogfolk_Villager_Idle_55: 208084374267213067
+      Frogfolk_Villager_Idle_56: -8693041666972744751
+      Frogfolk_Villager_Idle_57: 2332697463158621259
+      Frogfolk_Villager_Idle_58: 7664004691064154214
+      Frogfolk_Villager_Idle_59: 4508436691340304598
+      Frogfolk_Villager_Idle_6: -4996892352599305514
+      Frogfolk_Villager_Idle_60: -5846454928408614628
+      Frogfolk_Villager_Idle_61: 999249346825606092
+      Frogfolk_Villager_Idle_62: 1122633443476213076
+      Frogfolk_Villager_Idle_63: -274256485308532810
+      Frogfolk_Villager_Idle_7: 9014916626995464045
+      Frogfolk_Villager_Idle_8: -543472774251878815
+      Frogfolk_Villager_Idle_9: -9009229479913777865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

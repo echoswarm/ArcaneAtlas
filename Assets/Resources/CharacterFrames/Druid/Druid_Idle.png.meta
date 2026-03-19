@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: a6ca62b7ae761cf47866eb5a0e3f2098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4398895790919825289
+    second: Druid_Idle_0
+  - first:
+      213: 4593039604491197
+    second: Druid_Idle_1
+  - first:
+      213: 5531362030774850222
+    second: Druid_Idle_2
+  - first:
+      213: -7528254789223464042
+    second: Druid_Idle_3
+  - first:
+      213: -5341462592332846221
+    second: Druid_Idle_4
+  - first:
+      213: -9197233278205186120
+    second: Druid_Idle_5
+  - first:
+      213: -4908359638515972584
+    second: Druid_Idle_6
+  - first:
+      213: 8923837039717476647
+    second: Druid_Idle_7
+  - first:
+      213: -7175421063601750539
+    second: Druid_Idle_8
+  - first:
+      213: -9050793504440480386
+    second: Druid_Idle_9
+  - first:
+      213: -2076144424299549524
+    second: Druid_Idle_10
+  - first:
+      213: -6268032264883900685
+    second: Druid_Idle_11
+  - first:
+      213: 6833574050176649609
+    second: Druid_Idle_12
+  - first:
+      213: 3618623055744794706
+    second: Druid_Idle_13
+  - first:
+      213: -3473629095173907394
+    second: Druid_Idle_14
+  - first:
+      213: -8830131113440694629
+    second: Druid_Idle_15
+  - first:
+      213: -720666089665821706
+    second: Druid_Idle_16
+  - first:
+      213: 5549711629075760712
+    second: Druid_Idle_17
+  - first:
+      213: 842607075887949367
+    second: Druid_Idle_18
+  - first:
+      213: 3654673347691075354
+    second: Druid_Idle_19
+  - first:
+      213: -6691030140601891971
+    second: Druid_Idle_20
+  - first:
+      213: 8559828785210993568
+    second: Druid_Idle_21
+  - first:
+      213: -975178121293135365
+    second: Druid_Idle_22
+  - first:
+      213: 7321257153398703443
+    second: Druid_Idle_23
+  - first:
+      213: 8977969269856933886
+    second: Druid_Idle_24
+  - first:
+      213: -7531772472444542679
+    second: Druid_Idle_25
+  - first:
+      213: 316105146071895441
+    second: Druid_Idle_26
+  - first:
+      213: 2610835849797488091
+    second: Druid_Idle_27
+  - first:
+      213: 6809230688981745421
+    second: Druid_Idle_28
+  - first:
+      213: -2319266968478899126
+    second: Druid_Idle_29
+  - first:
+      213: -8466332096620798388
+    second: Druid_Idle_30
+  - first:
+      213: -9132015936110721148
+    second: Druid_Idle_31
+  - first:
+      213: 5454383695746469992
+    second: Druid_Idle_32
+  - first:
+      213: 1141879135033547834
+    second: Druid_Idle_33
+  - first:
+      213: -7973809345966057490
+    second: Druid_Idle_34
+  - first:
+      213: -7183771823382238115
+    second: Druid_Idle_35
+  - first:
+      213: -84151943056109559
+    second: Druid_Idle_36
+  - first:
+      213: -8765675356584886389
+    second: Druid_Idle_37
+  - first:
+      213: -4542767880293076402
+    second: Druid_Idle_38
+  - first:
+      213: -4889314212344531939
+    second: Druid_Idle_39
+  - first:
+      213: 3629310773080074429
+    second: Druid_Idle_40
+  - first:
+      213: -7975133128420732988
+    second: Druid_Idle_41
+  - first:
+      213: -246308588042480251
+    second: Druid_Idle_42
+  - first:
+      213: 4517150062142615700
+    second: Druid_Idle_43
+  - first:
+      213: 5980425917359586268
+    second: Druid_Idle_44
+  - first:
+      213: -9206871189911056516
+    second: Druid_Idle_45
+  - first:
+      213: 2138749770891647377
+    second: Druid_Idle_46
+  - first:
+      213: 3376382923154876418
+    second: Druid_Idle_47
+  - first:
+      213: 2469035625011038514
+    second: Druid_Idle_48
+  - first:
+      213: 2947420574015693357
+    second: Druid_Idle_49
+  - first:
+      213: 1030583737915765668
+    second: Druid_Idle_50
+  - first:
+      213: -5287015023628690650
+    second: Druid_Idle_51
+  - first:
+      213: -1572388551594294422
+    second: Druid_Idle_52
+  - first:
+      213: 7821265740037182289
+    second: Druid_Idle_53
+  - first:
+      213: 2982517277825525455
+    second: Druid_Idle_54
+  - first:
+      213: -7253341797267373852
+    second: Druid_Idle_55
+  - first:
+      213: -1411565723368110068
+    second: Druid_Idle_56
+  - first:
+      213: 4567498565382003357
+    second: Druid_Idle_57
+  - first:
+      213: -8699786183456407080
+    second: Druid_Idle_58
+  - first:
+      213: -2258444161156963798
+    second: Druid_Idle_59
+  - first:
+      213: 3863192124908276185
+    second: Druid_Idle_60
+  - first:
+      213: -1480630385262601643
+    second: Druid_Idle_61
+  - first:
+      213: -7994709175421039483
+    second: Druid_Idle_62
+  - first:
+      213: -434071885971928690
+    second: Druid_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Druid_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7784342a59bf3f2c0800000000000000
+      internalID: -4398895790919825289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a01e5851501000800000000000000
+      internalID: 4593039604491197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea21b68e57853cc40800000000000000
+      internalID: 5531362030774850222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c3b5d724468790800000000000000
+      internalID: -7528254789223464042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ba6f292105fd5b0800000000000000
+      internalID: -5341462592332846221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfad20001ddc5080800000000000000
+      internalID: -9197233278205186120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81604641ae002ebb0800000000000000
+      internalID: -4908359638515972584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72965d1d186d7db70800000000000000
+      internalID: 8923837039717476647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd79264f88cb6c90800000000000000
+      internalID: -7175421063601750539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d8968c24f156280800000000000000
+      internalID: -9050793504440480386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caca73f55ad0033e0800000000000000
+      internalID: -2076144424299549524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe68e25dd97309a0800000000000000
+      internalID: -6268032264883900685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894b1f846bb5de50800000000000000
+      internalID: 6833574050176649609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25005b53f7ee73230800000000000000
+      internalID: 3618623055744794706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c92b4fdb03bcfc0800000000000000
+      internalID: -3473629095173907394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e2e3f4982157580800000000000000
+      internalID: -8830131113440694629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38ccb720eaff5f0800000000000000
+      internalID: -720666089665821706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8464ae0b259840d40800000000000000
+      internalID: 5549711629075760712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7362883dbaa81bb00800000000000000
+      internalID: 842607075887949367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17d633eb0208b230800000000000000
+      internalID: 3654673347691075354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730ef7a98fa423a0800000000000000
+      internalID: -6691030140601891971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab2aa0adee9ac670800000000000000
+      internalID: 8559828785210993568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf107975aa87772f0800000000000000
+      internalID: -975178121293135365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3550e9167945a9560800000000000000
+      internalID: 7321257153398703443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7123ecb77289c70800000000000000
+      internalID: 8977969269856933886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921a0e267d4c97790800000000000000
+      internalID: -7531772472444542679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc94f94f7036400800000000000000
+      internalID: 316105146071895441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc8026f5d8b3420800000000000000
+      internalID: 2610835849797488091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ff17a1c3f3f7e50800000000000000
+      internalID: 6809230688981745421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a48ceafe40dfd0800000000000000
+      internalID: -2319266968478899126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4edd6e80db818a80800000000000000
+      internalID: -8466332096620798388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4870aecb3ef844180800000000000000
+      internalID: -9132015936110721148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86096ad921dd1bb40800000000000000
+      internalID: 5454383695746469992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cda1cf505c8df00800000000000000
+      internalID: 1141879135033547834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d00b95a6575190800000000000000
+      internalID: -7973809345966057490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c67df769d1e4c90800000000000000
+      internalID: -7183771823382238115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9005bfee04805def0800000000000000
+      internalID: -84151943056109559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fbc5aa4b01a5680800000000000000
+      internalID: -8765675356584886389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42b3167ea8d4f0c0800000000000000
+      internalID: -4542767880293076402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147fe9e0aaa52cb0800000000000000
+      internalID: -4889314212344531939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8afe05be6ed5230800000000000000
+      internalID: 3629310773080074429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf480c7ca2a25190800000000000000
+      internalID: -7975133128420732988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5859998e4afe49cf0800000000000000
+      internalID: -246308588042480251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f4237c0420be30800000000000000
+      internalID: 4517150062142615700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf1c9afadbef250800000000000000
+      internalID: 5980425917359586268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc290de6f9a3080800000000000000
+      internalID: -9206871189911056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d175c59d5ead10800000000000000
+      internalID: 2138749770891647377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208675831625bde20800000000000000
+      internalID: 3376382923154876418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394196c1d6c34220800000000000000
+      internalID: 2469035625011038514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2222ed556757e820800000000000000
+      internalID: 2947420574015693357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a373c9037e5d4e00800000000000000
+      internalID: 1030583737915765668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b557a09dfb0a6b0800000000000000
+      internalID: -5287015023628690650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c45571f0cd2ae0800000000000000
+      internalID: -1572388551594294422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15359d070c7ba8c60800000000000000
+      internalID: 7821265740037182289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6614189a7046920800000000000000
+      internalID: 2982517277825525455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08263b014f65b90800000000000000
+      internalID: -7253341797267373852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c681147c196ce0800000000000000
+      internalID: -1411565723368110068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a53bddeb3036f30800000000000000
+      internalID: 4567498565382003357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ca314f86244780800000000000000
+      internalID: -8699786183456407080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222f2d400568a0e0800000000000000
+      internalID: -2258444161156963798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98e3005c0dc9530800000000000000
+      internalID: 3863192124908276185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad5c2628eb37be0800000000000000
+      internalID: -1480630385262601643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c097cdc561d0190800000000000000
+      internalID: -7994709175421039483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druid_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 12
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c8a56bedd9f9f0800000000000000
+      internalID: -434071885971928690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Druid_Idle_0: -4398895790919825289
+      Druid_Idle_1: 4593039604491197
+      Druid_Idle_10: -2076144424299549524
+      Druid_Idle_11: -6268032264883900685
+      Druid_Idle_12: 6833574050176649609
+      Druid_Idle_13: 3618623055744794706
+      Druid_Idle_14: -3473629095173907394
+      Druid_Idle_15: -8830131113440694629
+      Druid_Idle_16: -720666089665821706
+      Druid_Idle_17: 5549711629075760712
+      Druid_Idle_18: 842607075887949367
+      Druid_Idle_19: 3654673347691075354
+      Druid_Idle_2: 5531362030774850222
+      Druid_Idle_20: -6691030140601891971
+      Druid_Idle_21: 8559828785210993568
+      Druid_Idle_22: -975178121293135365
+      Druid_Idle_23: 7321257153398703443
+      Druid_Idle_24: 8977969269856933886
+      Druid_Idle_25: -7531772472444542679
+      Druid_Idle_26: 316105146071895441
+      Druid_Idle_27: 2610835849797488091
+      Druid_Idle_28: 6809230688981745421
+      Druid_Idle_29: -2319266968478899126
+      Druid_Idle_3: -7528254789223464042
+      Druid_Idle_30: -8466332096620798388
+      Druid_Idle_31: -9132015936110721148
+      Druid_Idle_32: 5454383695746469992
+      Druid_Idle_33: 1141879135033547834
+      Druid_Idle_34: -7973809345966057490
+      Druid_Idle_35: -7183771823382238115
+      Druid_Idle_36: -84151943056109559
+      Druid_Idle_37: -8765675356584886389
+      Druid_Idle_38: -4542767880293076402
+      Druid_Idle_39: -4889314212344531939
+      Druid_Idle_4: -5341462592332846221
+      Druid_Idle_40: 3629310773080074429
+      Druid_Idle_41: -7975133128420732988
+      Druid_Idle_42: -246308588042480251
+      Druid_Idle_43: 4517150062142615700
+      Druid_Idle_44: 5980425917359586268
+      Druid_Idle_45: -9206871189911056516
+      Druid_Idle_46: 2138749770891647377
+      Druid_Idle_47: 3376382923154876418
+      Druid_Idle_48: 2469035625011038514
+      Druid_Idle_49: 2947420574015693357
+      Druid_Idle_5: -9197233278205186120
+      Druid_Idle_50: 1030583737915765668
+      Druid_Idle_51: -5287015023628690650
+      Druid_Idle_52: -1572388551594294422
+      Druid_Idle_53: 7821265740037182289
+      Druid_Idle_54: 2982517277825525455
+      Druid_Idle_55: -7253341797267373852
+      Druid_Idle_56: -1411565723368110068
+      Druid_Idle_57: 4567498565382003357
+      Druid_Idle_58: -8699786183456407080
+      Druid_Idle_59: -2258444161156963798
+      Druid_Idle_6: -4908359638515972584
+      Druid_Idle_60: 3863192124908276185
+      Druid_Idle_61: -1480630385262601643
+      Druid_Idle_62: -7994709175421039483
+      Druid_Idle_63: -434071885971928690
+      Druid_Idle_7: 8923837039717476647
+      Druid_Idle_8: -7175421063601750539
+      Druid_Idle_9: -9050793504440480386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

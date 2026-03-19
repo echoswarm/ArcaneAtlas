@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: ca0ef236fa7c9d74480be7012df27b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1561378842034866125
+    second: Cooker_Idle_0
+  - first:
+      213: 5944304717743076307
+    second: Cooker_Idle_1
+  - first:
+      213: -1002094297828898923
+    second: Cooker_Idle_2
+  - first:
+      213: -2901477733320410854
+    second: Cooker_Idle_3
+  - first:
+      213: 7391414487826585876
+    second: Cooker_Idle_4
+  - first:
+      213: -4726890638965308573
+    second: Cooker_Idle_5
+  - first:
+      213: 2997237429614971086
+    second: Cooker_Idle_6
+  - first:
+      213: 7627878046642809418
+    second: Cooker_Idle_7
+  - first:
+      213: 5973940321225682665
+    second: Cooker_Idle_8
+  - first:
+      213: 9201499134739255404
+    second: Cooker_Idle_9
+  - first:
+      213: 6596888853723230091
+    second: Cooker_Idle_10
+  - first:
+      213: -8025062441033809693
+    second: Cooker_Idle_11
+  - first:
+      213: -4394150987283674790
+    second: Cooker_Idle_12
+  - first:
+      213: 1488136007366304090
+    second: Cooker_Idle_13
+  - first:
+      213: 8160758353728152131
+    second: Cooker_Idle_14
+  - first:
+      213: 3165290863475701573
+    second: Cooker_Idle_15
+  - first:
+      213: -7675988616955589634
+    second: Cooker_Idle_16
+  - first:
+      213: 317281040228293959
+    second: Cooker_Idle_17
+  - first:
+      213: 3071767347248630433
+    second: Cooker_Idle_18
+  - first:
+      213: -9107873585557802051
+    second: Cooker_Idle_19
+  - first:
+      213: 3520325940009853706
+    second: Cooker_Idle_20
+  - first:
+      213: 7981363207431948004
+    second: Cooker_Idle_21
+  - first:
+      213: -7511245959293698400
+    second: Cooker_Idle_22
+  - first:
+      213: -1677568860011663894
+    second: Cooker_Idle_23
+  - first:
+      213: 7808498730794479866
+    second: Cooker_Idle_24
+  - first:
+      213: 3356414320292108997
+    second: Cooker_Idle_25
+  - first:
+      213: -6722640642643972911
+    second: Cooker_Idle_26
+  - first:
+      213: 3613851822854457548
+    second: Cooker_Idle_27
+  - first:
+      213: -8688526508880125176
+    second: Cooker_Idle_28
+  - first:
+      213: 4957658363086144726
+    second: Cooker_Idle_29
+  - first:
+      213: 8688440169461849489
+    second: Cooker_Idle_30
+  - first:
+      213: 4528452356719924296
+    second: Cooker_Idle_31
+  - first:
+      213: 1711953116692084332
+    second: Cooker_Idle_32
+  - first:
+      213: -2392884824299344004
+    second: Cooker_Idle_33
+  - first:
+      213: 3369997439790554322
+    second: Cooker_Idle_34
+  - first:
+      213: 1282969958923927525
+    second: Cooker_Idle_35
+  - first:
+      213: -7830939551686460266
+    second: Cooker_Idle_36
+  - first:
+      213: 8440860188989035026
+    second: Cooker_Idle_37
+  - first:
+      213: -6058819328551581845
+    second: Cooker_Idle_38
+  - first:
+      213: 3372542634923315529
+    second: Cooker_Idle_39
+  - first:
+      213: 5934079997256563682
+    second: Cooker_Idle_40
+  - first:
+      213: 4374423359378393858
+    second: Cooker_Idle_41
+  - first:
+      213: 390423322914194917
+    second: Cooker_Idle_42
+  - first:
+      213: 2982030865133318601
+    second: Cooker_Idle_43
+  - first:
+      213: -179846688207933568
+    second: Cooker_Idle_44
+  - first:
+      213: 8330032517596726709
+    second: Cooker_Idle_45
+  - first:
+      213: 2196190204031656463
+    second: Cooker_Idle_46
+  - first:
+      213: 7390825298365169663
+    second: Cooker_Idle_47
+  - first:
+      213: -5352509914191177755
+    second: Cooker_Idle_48
+  - first:
+      213: -152417740963961143
+    second: Cooker_Idle_49
+  - first:
+      213: 5681451171822723465
+    second: Cooker_Idle_50
+  - first:
+      213: 2939529823601809810
+    second: Cooker_Idle_51
+  - first:
+      213: -1950196167668305692
+    second: Cooker_Idle_52
+  - first:
+      213: -4943730554750627747
+    second: Cooker_Idle_53
+  - first:
+      213: 1079239728106754344
+    second: Cooker_Idle_54
+  - first:
+      213: 3684089542808859014
+    second: Cooker_Idle_55
+  - first:
+      213: 4521494278881438017
+    second: Cooker_Idle_56
+  - first:
+      213: 3480859502899553179
+    second: Cooker_Idle_57
+  - first:
+      213: -1373807975519326230
+    second: Cooker_Idle_58
+  - first:
+      213: -729524132541656598
+    second: Cooker_Idle_59
+  - first:
+      213: -4609991077270515986
+    second: Cooker_Idle_60
+  - first:
+      213: 2660414699062069880
+    second: Cooker_Idle_61
+  - first:
+      213: -1324569338410029474
+    second: Cooker_Idle_62
+  - first:
+      213: -3153535551943358954
+    second: Cooker_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cooker_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33873b8373ed45ae0800000000000000
+      internalID: -1561378842034866125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d331c185a96e7250800000000000000
+      internalID: 5944304717743076307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c672ab88d712f0800000000000000
+      internalID: -1002094297828898923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a193bbdcf51ebb7d0800000000000000
+      internalID: -2901477733320410854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195496b054939660800000000000000
+      internalID: 7391414487826585876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3638a5c0206b66eb0800000000000000
+      internalID: -4726890638965308573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec884bbef83589920800000000000000
+      internalID: 2997237429614971086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a25205baaabd960800000000000000
+      internalID: 7627878046642809418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2a042213b7e250800000000000000
+      internalID: 5973940321225682665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60923f16ba42bf70800000000000000
+      internalID: 9201499134739255404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f28ece57bdc8b50800000000000000
+      internalID: 6596888853723230091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c9dd7a3041a090800000000000000
+      internalID: -8025062441033809693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59468155f6d403c0800000000000000
+      internalID: -4394150987283674790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51698070dbe6a410800000000000000
+      internalID: 1488136007366304090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a4c33c76d04170800000000000000
+      internalID: 8160758353728152131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473248154f5deb20800000000000000
+      internalID: 3165290863475701573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb8b62a509697590800000000000000
+      internalID: -7675988616955589634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d16c0dc65376400800000000000000
+      internalID: 317281040228293959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa066d902c11aa20800000000000000
+      internalID: 3071767347248630433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3f9a1ca355a9180800000000000000
+      internalID: -9107873585557802051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0361eb7ac5bad030800000000000000
+      internalID: 3520325940009853706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68a52dc8f73ce60800000000000000
+      internalID: 7981363207431948004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef5b7a891b2c790800000000000000
+      internalID: -7511245959293698400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed6fbc820418b8e0800000000000000
+      internalID: -1677568860011663894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f716793c5d5c60800000000000000
+      internalID: 7808498730794479866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca9b009a01649e20800000000000000
+      internalID: 3356414320292108997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2a9e14f164b2a0800000000000000
+      internalID: -6722640642643972911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8432cf51bf62230800000000000000
+      internalID: 3613851822854457548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a2a88c272c6780800000000000000
+      internalID: -8688526508880125176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48e71b3042dc440800000000000000
+      internalID: 4957658363086144726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d12010d4a839870800000000000000
+      internalID: 8688440169461849489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445298fc6b48de30800000000000000
+      internalID: 4528452356719924296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66fd801a4412c710800000000000000
+      internalID: 1711953116692084332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe63b2ee3caced0800000000000000
+      internalID: -2392884824299344004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc11b401d2a4ce20800000000000000
+      internalID: 3369997439790554322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef782351660ec110800000000000000
+      internalID: 1282969958923927525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cfb24c7f9e25390800000000000000
+      internalID: -7830939551686460266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129d6bce95f32570800000000000000
+      internalID: 8440860188989035026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b678963fbefbaeba0800000000000000
+      internalID: -6058819328551581845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d67078adadce20800000000000000
+      internalID: 3372542634923315529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7a3141561a5250800000000000000
+      internalID: 5934079997256563682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b8be06ed215bc30800000000000000
+      internalID: 4374423359378393858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5045291ff0b6500800000000000000
+      internalID: 390423322914194917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b589b54d426920800000000000000
+      internalID: 2982030865133318601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe553d36e018df0800000000000000
+      internalID: -179846688207933568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54ecab0783a9370800000000000000
+      internalID: 8330032517596726709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ef7aca5f6a7e10800000000000000
+      internalID: 2196190204031656463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb60a537c719660800000000000000
+      internalID: 7390825298365169663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d0e3879018b5b0800000000000000
+      internalID: -5352509914191177755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c620644fd082edf0800000000000000
+      internalID: -152417740963961143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98168393db198de40800000000000000
+      internalID: 5681451171822723465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d37edcce4bc820800000000000000
+      internalID: 2939529823601809810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e07dc70be28fe4e0800000000000000
+      internalID: -1950196167668305692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5018d2e047546bb0800000000000000
+      internalID: -4943730554750627747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821da4d80da3afe00800000000000000
+      internalID: 1079239728106754344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817ad78be3802330800000000000000
+      internalID: 3684089542808859014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14960ba37139fbe30800000000000000
+      internalID: 4521494278881438017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ee57864f7e4030800000000000000
+      internalID: 3480859502899553179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef629dcce04fece0800000000000000
+      internalID: -1373807975519326230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae197c8aaa530e5f0800000000000000
+      internalID: -729524132541656598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee029d3a850600c0800000000000000
+      internalID: -4609991077270515986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a82d4c211bbe420800000000000000
+      internalID: 2660414699062069880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e22bf543f2e9de0800000000000000
+      internalID: -1324569338410029474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooker_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c9d7af146c34d0800000000000000
+      internalID: -3153535551943358954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cooker_Idle_0: -1561378842034866125
+      Cooker_Idle_1: 5944304717743076307
+      Cooker_Idle_10: 6596888853723230091
+      Cooker_Idle_11: -8025062441033809693
+      Cooker_Idle_12: -4394150987283674790
+      Cooker_Idle_13: 1488136007366304090
+      Cooker_Idle_14: 8160758353728152131
+      Cooker_Idle_15: 3165290863475701573
+      Cooker_Idle_16: -7675988616955589634
+      Cooker_Idle_17: 317281040228293959
+      Cooker_Idle_18: 3071767347248630433
+      Cooker_Idle_19: -9107873585557802051
+      Cooker_Idle_2: -1002094297828898923
+      Cooker_Idle_20: 3520325940009853706
+      Cooker_Idle_21: 7981363207431948004
+      Cooker_Idle_22: -7511245959293698400
+      Cooker_Idle_23: -1677568860011663894
+      Cooker_Idle_24: 7808498730794479866
+      Cooker_Idle_25: 3356414320292108997
+      Cooker_Idle_26: -6722640642643972911
+      Cooker_Idle_27: 3613851822854457548
+      Cooker_Idle_28: -8688526508880125176
+      Cooker_Idle_29: 4957658363086144726
+      Cooker_Idle_3: -2901477733320410854
+      Cooker_Idle_30: 8688440169461849489
+      Cooker_Idle_31: 4528452356719924296
+      Cooker_Idle_32: 1711953116692084332
+      Cooker_Idle_33: -2392884824299344004
+      Cooker_Idle_34: 3369997439790554322
+      Cooker_Idle_35: 1282969958923927525
+      Cooker_Idle_36: -7830939551686460266
+      Cooker_Idle_37: 8440860188989035026
+      Cooker_Idle_38: -6058819328551581845
+      Cooker_Idle_39: 3372542634923315529
+      Cooker_Idle_4: 7391414487826585876
+      Cooker_Idle_40: 5934079997256563682
+      Cooker_Idle_41: 4374423359378393858
+      Cooker_Idle_42: 390423322914194917
+      Cooker_Idle_43: 2982030865133318601
+      Cooker_Idle_44: -179846688207933568
+      Cooker_Idle_45: 8330032517596726709
+      Cooker_Idle_46: 2196190204031656463
+      Cooker_Idle_47: 7390825298365169663
+      Cooker_Idle_48: -5352509914191177755
+      Cooker_Idle_49: -152417740963961143
+      Cooker_Idle_5: -4726890638965308573
+      Cooker_Idle_50: 5681451171822723465
+      Cooker_Idle_51: 2939529823601809810
+      Cooker_Idle_52: -1950196167668305692
+      Cooker_Idle_53: -4943730554750627747
+      Cooker_Idle_54: 1079239728106754344
+      Cooker_Idle_55: 3684089542808859014
+      Cooker_Idle_56: 4521494278881438017
+      Cooker_Idle_57: 3480859502899553179
+      Cooker_Idle_58: -1373807975519326230
+      Cooker_Idle_59: -729524132541656598
+      Cooker_Idle_6: 2997237429614971086
+      Cooker_Idle_60: -4609991077270515986
+      Cooker_Idle_61: 2660414699062069880
+      Cooker_Idle_62: -1324569338410029474
+      Cooker_Idle_63: -3153535551943358954
+      Cooker_Idle_7: 7627878046642809418
+      Cooker_Idle_8: 5973940321225682665
+      Cooker_Idle_9: 9201499134739255404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

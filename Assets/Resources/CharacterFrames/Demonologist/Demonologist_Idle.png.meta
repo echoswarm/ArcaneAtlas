@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 1f6e7a679012b314dab607255d5f6c7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -702081435501347730
+    second: Demonologist_Idle_0
+  - first:
+      213: -687496886127822301
+    second: Demonologist_Idle_1
+  - first:
+      213: 140816257210398993
+    second: Demonologist_Idle_2
+  - first:
+      213: 3705755574488958190
+    second: Demonologist_Idle_3
+  - first:
+      213: 1208959122381569354
+    second: Demonologist_Idle_4
+  - first:
+      213: 867275799498958571
+    second: Demonologist_Idle_5
+  - first:
+      213: 7275620054826229344
+    second: Demonologist_Idle_6
+  - first:
+      213: 7260256352892636237
+    second: Demonologist_Idle_7
+  - first:
+      213: 6415000255145990219
+    second: Demonologist_Idle_8
+  - first:
+      213: -24221816228366141
+    second: Demonologist_Idle_9
+  - first:
+      213: -1221677059426838044
+    second: Demonologist_Idle_10
+  - first:
+      213: -7381467563837771348
+    second: Demonologist_Idle_11
+  - first:
+      213: 8706219391020926140
+    second: Demonologist_Idle_12
+  - first:
+      213: -8036101401398855998
+    second: Demonologist_Idle_13
+  - first:
+      213: -4668555485211821564
+    second: Demonologist_Idle_14
+  - first:
+      213: -6113426147528320255
+    second: Demonologist_Idle_15
+  - first:
+      213: 8506711793534167309
+    second: Demonologist_Idle_16
+  - first:
+      213: 4414434927654264003
+    second: Demonologist_Idle_17
+  - first:
+      213: 1090661128005277209
+    second: Demonologist_Idle_18
+  - first:
+      213: -4659213324667405443
+    second: Demonologist_Idle_19
+  - first:
+      213: 1681680024739494822
+    second: Demonologist_Idle_20
+  - first:
+      213: 78059899207477884
+    second: Demonologist_Idle_21
+  - first:
+      213: -4403417137838811165
+    second: Demonologist_Idle_22
+  - first:
+      213: 2016204216659718170
+    second: Demonologist_Idle_23
+  - first:
+      213: -1222689833381221023
+    second: Demonologist_Idle_24
+  - first:
+      213: -6926999879461799014
+    second: Demonologist_Idle_25
+  - first:
+      213: -4071124390000237730
+    second: Demonologist_Idle_26
+  - first:
+      213: 6647572301788491458
+    second: Demonologist_Idle_27
+  - first:
+      213: 6643733821485265275
+    second: Demonologist_Idle_28
+  - first:
+      213: 3532183101319416741
+    second: Demonologist_Idle_29
+  - first:
+      213: -1149558699775900547
+    second: Demonologist_Idle_30
+  - first:
+      213: 4856086991249958633
+    second: Demonologist_Idle_31
+  - first:
+      213: 270190795819575186
+    second: Demonologist_Idle_32
+  - first:
+      213: 8595203715152038601
+    second: Demonologist_Idle_33
+  - first:
+      213: 6292416192191820231
+    second: Demonologist_Idle_34
+  - first:
+      213: -8528748934966794134
+    second: Demonologist_Idle_35
+  - first:
+      213: -31892648575421313
+    second: Demonologist_Idle_36
+  - first:
+      213: -686919618877400606
+    second: Demonologist_Idle_37
+  - first:
+      213: 286669167736391211
+    second: Demonologist_Idle_38
+  - first:
+      213: 7279130947248956354
+    second: Demonologist_Idle_39
+  - first:
+      213: -6149410407876795963
+    second: Demonologist_Idle_40
+  - first:
+      213: 9148338710522244137
+    second: Demonologist_Idle_41
+  - first:
+      213: -1651620208883434790
+    second: Demonologist_Idle_42
+  - first:
+      213: -6553786382154278852
+    second: Demonologist_Idle_43
+  - first:
+      213: -1743398989560487002
+    second: Demonologist_Idle_44
+  - first:
+      213: -2270057868000601230
+    second: Demonologist_Idle_45
+  - first:
+      213: -8628762850930743810
+    second: Demonologist_Idle_46
+  - first:
+      213: 651077282065229155
+    second: Demonologist_Idle_47
+  - first:
+      213: 977159179519033492
+    second: Demonologist_Idle_48
+  - first:
+      213: 5964160804201387533
+    second: Demonologist_Idle_49
+  - first:
+      213: 4385372328687763834
+    second: Demonologist_Idle_50
+  - first:
+      213: 4570559009890124841
+    second: Demonologist_Idle_51
+  - first:
+      213: -7754191014080420959
+    second: Demonologist_Idle_52
+  - first:
+      213: 2644862819838966368
+    second: Demonologist_Idle_53
+  - first:
+      213: -827404625662956533
+    second: Demonologist_Idle_54
+  - first:
+      213: 5336376273632545081
+    second: Demonologist_Idle_55
+  - first:
+      213: -1019727037978237000
+    second: Demonologist_Idle_56
+  - first:
+      213: 283714823640031188
+    second: Demonologist_Idle_57
+  - first:
+      213: -8280310591879063544
+    second: Demonologist_Idle_58
+  - first:
+      213: 8231828294739917568
+    second: Demonologist_Idle_59
+  - first:
+      213: -3424158358275671009
+    second: Demonologist_Idle_60
+  - first:
+      213: 5752081925155360984
+    second: Demonologist_Idle_61
+  - first:
+      213: -4775445172808550415
+    second: Demonologist_Idle_62
+  - first:
+      213: -180923500718186358
+    second: Demonologist_Idle_63
+  - first:
+      213: 4625320425649615584
+    second: Demonologist_Idle_64
+  - first:
+      213: -795800071462879038
+    second: Demonologist_Idle_65
+  - first:
+      213: -4601662559637561445
+    second: Demonologist_Idle_66
+  - first:
+      213: -2207590689576173690
+    second: Demonologist_Idle_67
+  - first:
+      213: -7893244142685095305
+    second: Demonologist_Idle_68
+  - first:
+      213: 3377365219773524765
+    second: Demonologist_Idle_69
+  - first:
+      213: 2594949471875520260
+    second: Demonologist_Idle_70
+  - first:
+      213: -8294981581792665893
+    second: Demonologist_Idle_71
+  - first:
+      213: -1193877681177208026
+    second: Demonologist_Idle_72
+  - first:
+      213: 341712265166205487
+    second: Demonologist_Idle_73
+  - first:
+      213: -4944387189044639115
+    second: Demonologist_Idle_74
+  - first:
+      213: -8064547164458325918
+    second: Demonologist_Idle_75
+  - first:
+      213: -8307441363070962459
+    second: Demonologist_Idle_76
+  - first:
+      213: -3463473597947984473
+    second: Demonologist_Idle_77
+  - first:
+      213: -6526089597848277485
+    second: Demonologist_Idle_78
+  - first:
+      213: -4651695122894222403
+    second: Demonologist_Idle_79
+  - first:
+      213: 2774059129487451722
+    second: Demonologist_Idle_80
+  - first:
+      213: 2725784730393441119
+    second: Demonologist_Idle_81
+  - first:
+      213: -9155105613684744399
+    second: Demonologist_Idle_82
+  - first:
+      213: -191071997900575046
+    second: Demonologist_Idle_83
+  - first:
+      213: 3182641135002455003
+    second: Demonologist_Idle_84
+  - first:
+      213: -5874157114362977361
+    second: Demonologist_Idle_85
+  - first:
+      213: -7393034339032027720
+    second: Demonologist_Idle_86
+  - first:
+      213: 4015201241187714441
+    second: Demonologist_Idle_87
+  - first:
+      213: -2273794355786966614
+    second: Demonologist_Idle_88
+  - first:
+      213: 7146023029592436754
+    second: Demonologist_Idle_89
+  - first:
+      213: -8306910102435307790
+    second: Demonologist_Idle_90
+  - first:
+      213: 8965167113614667582
+    second: Demonologist_Idle_91
+  - first:
+      213: -5559670096561410320
+    second: Demonologist_Idle_92
+  - first:
+      213: -7809031633666589005
+    second: Demonologist_Idle_93
+  - first:
+      213: -1511595340087700961
+    second: Demonologist_Idle_94
+  - first:
+      213: 7405346003527685242
+    second: Demonologist_Idle_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demonologist_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbb8977a4b146f0800000000000000
+      internalID: -702081435501347730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af92e79358576f0800000000000000
+      internalID: -687496886127822301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11930adc3a744f100800000000000000
+      internalID: 140816257210398993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee486d1af0d7d6330800000000000000
+      internalID: 3705755574488958190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d758d9ae517c010800000000000000
+      internalID: 1208959122381569354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6ad6f9ebe290c00800000000000000
+      internalID: 867275799498958571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e10a854e138f460800000000000000
+      internalID: 7275620054826229344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c407cbfac91c460800000000000000
+      internalID: 7260256352892636237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4854027eb8a60950800000000000000
+      internalID: 6415000255145990219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b4efe262f9aff0800000000000000
+      internalID: -24221816228366141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99e9aef2bbb0fe0800000000000000
+      internalID: -1221677059426838044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b1600c52cf8990800000000000000
+      internalID: -7381467563837771348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48b6a9864b2d870800000000000000
+      internalID: 8706219391020926140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63a9e3a580a7090800000000000000
+      internalID: -8036101401398855998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a7fb17585f53fb0800000000000000
+      internalID: -4668555485211821564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b5df32f4fb82ba0800000000000000
+      internalID: -6113426147528320255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ea344e49ed0670800000000000000
+      internalID: 8506711793534167309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd8e29d29334d30800000000000000
+      internalID: 4414434927654264003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d411748ec22f00800000000000000
+      internalID: 1090661128005277209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bbe62ba26275fb0800000000000000
+      internalID: -4659213324667405443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb7749217865710800000000000000
+      internalID: 1681680024739494822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ae6739013551100800000000000000
+      internalID: 78059899207477884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 108
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e71045817be3e2c0800000000000000
+      internalID: -4403417137838811165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 108
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10b5a08d0ffafb10800000000000000
+      internalID: 2016204216659718170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da4da1312280fe0800000000000000
+      internalID: -1222689833381221023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b71897f4a5edf90800000000000000
+      internalID: -6926999879461799014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536b91efe57087c0800000000000000
+      internalID: -4071124390000237730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce24d2c9cbe04c50800000000000000
+      internalID: 6647572301788491458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b0ebe5b8433c50800000000000000
+      internalID: 6643733821485265275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab08cbf0d5d40130800000000000000
+      internalID: 3532183101319416741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74c5630472fb00f0800000000000000
+      internalID: -1149558699775900547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e669dfc369446340800000000000000
+      internalID: 4856086991249958633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297e766e819efb300800000000000000
+      internalID: 270190795819575186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca41c55d3c484770800000000000000
+      internalID: 8595203715152038601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 76
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1728a2037235750800000000000000
+      internalID: 6292416192191820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 76
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6820d8e70cc3a980800000000000000
+      internalID: -8528748934966794134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7437ba1ec1be8ff0800000000000000
+      internalID: -31892648575421313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d09ffe329776f0800000000000000
+      internalID: -686919618877400606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260cf6d6147af300800000000000000
+      internalID: 286669167736391211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 76
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a350b70ba40560800000000000000
+      internalID: 7279130947248956354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e964a0d7e8aaa0800000000000000
+      internalID: -6149410407876795963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 76
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c22a5569d65fe70800000000000000
+      internalID: 9148338710522244137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 76
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada75a1bb244419e0800000000000000
+      internalID: -1651620208883434790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38d6e542064c05a0800000000000000
+      internalID: -6553786382154278852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3e87d1bd33ec7e0800000000000000
+      internalID: -1743398989560487002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5e3675622f70e0800000000000000
+      internalID: -2270057868000601230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5af2b77e9704880800000000000000
+      internalID: -8628762850930743810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 76
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36523d6a657190900800000000000000
+      internalID: 651077282065229155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4908e38b8119f8d00800000000000000
+      internalID: 977159179519033492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065bb5e6a4f4c250800000000000000
+      internalID: 5964160804201387533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710343f5e8fbdc30800000000000000
+      internalID: 4385372328687763834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92446712433ed6f30800000000000000
+      internalID: 4570559009890124841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e53d2b54936490800000000000000
+      internalID: -7754191014080420959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab328b8b074b420800000000000000
+      internalID: 2644862819838966368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c28d170e77484f0800000000000000
+      internalID: -827404625662956533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c0b192fd9e0a40800000000000000
+      internalID: 5336376273632545081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7227569a339d1f0800000000000000
+      internalID: -1019727037978237000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df93900125ffe300800000000000000
+      internalID: 283714823640031188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d42d336d661d80800000000000000
+      internalID: -8280310591879063544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b7bff48345d3270800000000000000
+      internalID: 8231828294739917568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3b487d12fa70d0800000000000000
+      internalID: -3424158358275671009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d094dbf80083df40800000000000000
+      internalID: 5752081925155360984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7746eaae53abdb0800000000000000
+      internalID: -4775445172808550415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802c20e80b3d7df0800000000000000
+      internalID: -180923500718186358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2343fcb60703040800000000000000
+      internalID: 4625320425649615584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 44
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c089342d00c4f4f0800000000000000
+      internalID: -795800071462879038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f969c584c9320c0800000000000000
+      internalID: -4601662559637561445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_67
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3a52d6ff0d51e0800000000000000
+      internalID: -2207590689576173690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 44
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a72ddb540957290800000000000000
+      internalID: -7893244142685095305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_69
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2c59f5cfcede20800000000000000
+      internalID: 3377365219773524765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_70
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075a39cbcc130420800000000000000
+      internalID: 2594949471875520260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_71
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde17d6333e42ec80800000000000000
+      internalID: -8294981581792665893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b5a2c039e7e6fe0800000000000000
+      internalID: -1193877681177208026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2230a4ae710eb400800000000000000
+      internalID: 341712265166205487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a800d4c02026bb0800000000000000
+      internalID: -4944387189044639115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e31ce419f41090800000000000000
+      internalID: -8064547164458325918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b4c1581a06bc80800000000000000
+      internalID: -8307441363070962459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5cd59ec154fefc0800000000000000
+      internalID: -3463473597947984473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea1e3661cae65a0800000000000000
+      internalID: -6526089597848277485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb09747eebd17fb0800000000000000
+      internalID: -4651695122894222403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466707a4107f7620800000000000000
+      internalID: 2774059129487451722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53f84d35cee3d520800000000000000
+      internalID: 2725784730393441119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_82
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd22f33f782f080800000000000000
+      internalID: -9155105613684744399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_83
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 12
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeac9eb70d295df0800000000000000
+      internalID: -191071997900575046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_84
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0e5bff330b2c20800000000000000
+      internalID: 3182641135002455003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3af832a3dca7ea0800000000000000
+      internalID: -5874157114362977361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_86
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2bb9407aa66990800000000000000
+      internalID: -7393034339032027720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_87
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98583b2614cd8b730800000000000000
+      internalID: 4015201241187714441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_88
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9970b941cd170e0800000000000000
+      internalID: -2273794355786966614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_89
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2103e9b8516cb2360800000000000000
+      internalID: 7146023029592436754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_90
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe5d33164de7bc80800000000000000
+      internalID: -8306910102435307790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_91
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f24078dfbaa6c70800000000000000
+      internalID: 8965167113614667582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_92
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe681ae08518d2b0800000000000000
+      internalID: -5559670096561410320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_93
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beb38b6a1fb0a390800000000000000
+      internalID: -7809031633666589005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_94
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12dfe50c0cb50be0800000000000000
+      internalID: -1511595340087700961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonologist_Idle_95
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 12
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74502b74f215c660800000000000000
+      internalID: 7405346003527685242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Demonologist_Idle_0: -702081435501347730
+      Demonologist_Idle_1: -687496886127822301
+      Demonologist_Idle_10: -1221677059426838044
+      Demonologist_Idle_11: -7381467563837771348
+      Demonologist_Idle_12: 8706219391020926140
+      Demonologist_Idle_13: -8036101401398855998
+      Demonologist_Idle_14: -4668555485211821564
+      Demonologist_Idle_15: -6113426147528320255
+      Demonologist_Idle_16: 8506711793534167309
+      Demonologist_Idle_17: 4414434927654264003
+      Demonologist_Idle_18: 1090661128005277209
+      Demonologist_Idle_19: -4659213324667405443
+      Demonologist_Idle_2: 140816257210398993
+      Demonologist_Idle_20: 1681680024739494822
+      Demonologist_Idle_21: 78059899207477884
+      Demonologist_Idle_22: -4403417137838811165
+      Demonologist_Idle_23: 2016204216659718170
+      Demonologist_Idle_24: -1222689833381221023
+      Demonologist_Idle_25: -6926999879461799014
+      Demonologist_Idle_26: -4071124390000237730
+      Demonologist_Idle_27: 6647572301788491458
+      Demonologist_Idle_28: 6643733821485265275
+      Demonologist_Idle_29: 3532183101319416741
+      Demonologist_Idle_3: 3705755574488958190
+      Demonologist_Idle_30: -1149558699775900547
+      Demonologist_Idle_31: 4856086991249958633
+      Demonologist_Idle_32: 270190795819575186
+      Demonologist_Idle_33: 8595203715152038601
+      Demonologist_Idle_34: 6292416192191820231
+      Demonologist_Idle_35: -8528748934966794134
+      Demonologist_Idle_36: -31892648575421313
+      Demonologist_Idle_37: -686919618877400606
+      Demonologist_Idle_38: 286669167736391211
+      Demonologist_Idle_39: 7279130947248956354
+      Demonologist_Idle_4: 1208959122381569354
+      Demonologist_Idle_40: -6149410407876795963
+      Demonologist_Idle_41: 9148338710522244137
+      Demonologist_Idle_42: -1651620208883434790
+      Demonologist_Idle_43: -6553786382154278852
+      Demonologist_Idle_44: -1743398989560487002
+      Demonologist_Idle_45: -2270057868000601230
+      Demonologist_Idle_46: -8628762850930743810
+      Demonologist_Idle_47: 651077282065229155
+      Demonologist_Idle_48: 977159179519033492
+      Demonologist_Idle_49: 5964160804201387533
+      Demonologist_Idle_5: 867275799498958571
+      Demonologist_Idle_50: 4385372328687763834
+      Demonologist_Idle_51: 4570559009890124841
+      Demonologist_Idle_52: -7754191014080420959
+      Demonologist_Idle_53: 2644862819838966368
+      Demonologist_Idle_54: -827404625662956533
+      Demonologist_Idle_55: 5336376273632545081
+      Demonologist_Idle_56: -1019727037978237000
+      Demonologist_Idle_57: 283714823640031188
+      Demonologist_Idle_58: -8280310591879063544
+      Demonologist_Idle_59: 8231828294739917568
+      Demonologist_Idle_6: 7275620054826229344
+      Demonologist_Idle_60: -3424158358275671009
+      Demonologist_Idle_61: 5752081925155360984
+      Demonologist_Idle_62: -4775445172808550415
+      Demonologist_Idle_63: -180923500718186358
+      Demonologist_Idle_64: 4625320425649615584
+      Demonologist_Idle_65: -795800071462879038
+      Demonologist_Idle_66: -4601662559637561445
+      Demonologist_Idle_67: -2207590689576173690
+      Demonologist_Idle_68: -7893244142685095305
+      Demonologist_Idle_69: 3377365219773524765
+      Demonologist_Idle_7: 7260256352892636237
+      Demonologist_Idle_70: 2594949471875520260
+      Demonologist_Idle_71: -8294981581792665893
+      Demonologist_Idle_72: -1193877681177208026
+      Demonologist_Idle_73: 341712265166205487
+      Demonologist_Idle_74: -4944387189044639115
+      Demonologist_Idle_75: -8064547164458325918
+      Demonologist_Idle_76: -8307441363070962459
+      Demonologist_Idle_77: -3463473597947984473
+      Demonologist_Idle_78: -6526089597848277485
+      Demonologist_Idle_79: -4651695122894222403
+      Demonologist_Idle_8: 6415000255145990219
+      Demonologist_Idle_80: 2774059129487451722
+      Demonologist_Idle_81: 2725784730393441119
+      Demonologist_Idle_82: -9155105613684744399
+      Demonologist_Idle_83: -191071997900575046
+      Demonologist_Idle_84: 3182641135002455003
+      Demonologist_Idle_85: -5874157114362977361
+      Demonologist_Idle_86: -7393034339032027720
+      Demonologist_Idle_87: 4015201241187714441
+      Demonologist_Idle_88: -2273794355786966614
+      Demonologist_Idle_89: 7146023029592436754
+      Demonologist_Idle_9: -24221816228366141
+      Demonologist_Idle_90: -8306910102435307790
+      Demonologist_Idle_91: 8965167113614667582
+      Demonologist_Idle_92: -5559670096561410320
+      Demonologist_Idle_93: -7809031633666589005
+      Demonologist_Idle_94: -1511595340087700961
+      Demonologist_Idle_95: 7405346003527685242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

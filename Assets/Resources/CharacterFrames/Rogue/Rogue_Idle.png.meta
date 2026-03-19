@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 83878878fd5ec7248b912bb0e0bd3384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5743543263408251984
+    second: Rogue_Idle_0
+  - first:
+      213: 1061786074165840523
+    second: Rogue_Idle_1
+  - first:
+      213: -9728965519388545
+    second: Rogue_Idle_2
+  - first:
+      213: 2073785921506836650
+    second: Rogue_Idle_3
+  - first:
+      213: 5528535820241246515
+    second: Rogue_Idle_4
+  - first:
+      213: -7961235651440102504
+    second: Rogue_Idle_5
+  - first:
+      213: 4695353839381743819
+    second: Rogue_Idle_6
+  - first:
+      213: 5965739606971969212
+    second: Rogue_Idle_7
+  - first:
+      213: 8574902095609690954
+    second: Rogue_Idle_8
+  - first:
+      213: -2351092086788901127
+    second: Rogue_Idle_9
+  - first:
+      213: 2163351742474331836
+    second: Rogue_Idle_10
+  - first:
+      213: -6669982387257577889
+    second: Rogue_Idle_11
+  - first:
+      213: -6771935995465034975
+    second: Rogue_Idle_12
+  - first:
+      213: -7303382411959832430
+    second: Rogue_Idle_13
+  - first:
+      213: 3748289444346576026
+    second: Rogue_Idle_14
+  - first:
+      213: 461094455018093170
+    second: Rogue_Idle_15
+  - first:
+      213: 3753321388485527846
+    second: Rogue_Idle_16
+  - first:
+      213: 8732740062178125259
+    second: Rogue_Idle_17
+  - first:
+      213: 8263152498658069413
+    second: Rogue_Idle_18
+  - first:
+      213: 9144036315901261638
+    second: Rogue_Idle_19
+  - first:
+      213: -4496978120850583354
+    second: Rogue_Idle_20
+  - first:
+      213: -7300725432519195242
+    second: Rogue_Idle_21
+  - first:
+      213: -5357831056648283867
+    second: Rogue_Idle_22
+  - first:
+      213: -4354541437615782603
+    second: Rogue_Idle_23
+  - first:
+      213: -1319922169608384038
+    second: Rogue_Idle_24
+  - first:
+      213: -1441139063168589069
+    second: Rogue_Idle_25
+  - first:
+      213: 966754831384334121
+    second: Rogue_Idle_26
+  - first:
+      213: -2474809473487695077
+    second: Rogue_Idle_27
+  - first:
+      213: 2966913695733351306
+    second: Rogue_Idle_28
+  - first:
+      213: -688600932927836840
+    second: Rogue_Idle_29
+  - first:
+      213: -3154795597413902285
+    second: Rogue_Idle_30
+  - first:
+      213: 6650741284022999925
+    second: Rogue_Idle_31
+  - first:
+      213: 3080678613301059540
+    second: Rogue_Idle_32
+  - first:
+      213: -45973809624070056
+    second: Rogue_Idle_33
+  - first:
+      213: -7451304160596227669
+    second: Rogue_Idle_34
+  - first:
+      213: -8328377503223971931
+    second: Rogue_Idle_35
+  - first:
+      213: -3849275428856285566
+    second: Rogue_Idle_36
+  - first:
+      213: -4862218126857743258
+    second: Rogue_Idle_37
+  - first:
+      213: -8273135079106977119
+    second: Rogue_Idle_38
+  - first:
+      213: 4998026742985889515
+    second: Rogue_Idle_39
+  - first:
+      213: 269637818767426355
+    second: Rogue_Idle_40
+  - first:
+      213: -388515469645524095
+    second: Rogue_Idle_41
+  - first:
+      213: -9216278058934166619
+    second: Rogue_Idle_42
+  - first:
+      213: 7113750326438933683
+    second: Rogue_Idle_43
+  - first:
+      213: -6232828545198411845
+    second: Rogue_Idle_44
+  - first:
+      213: -7589794253450507426
+    second: Rogue_Idle_45
+  - first:
+      213: 5717988506311553773
+    second: Rogue_Idle_46
+  - first:
+      213: -829838871577562647
+    second: Rogue_Idle_47
+  - first:
+      213: -6597083492489502256
+    second: Rogue_Idle_48
+  - first:
+      213: 4124924795104484200
+    second: Rogue_Idle_49
+  - first:
+      213: -4052256406933818074
+    second: Rogue_Idle_50
+  - first:
+      213: 4772707527673140452
+    second: Rogue_Idle_51
+  - first:
+      213: -7087804381368495032
+    second: Rogue_Idle_52
+  - first:
+      213: -5776438915120370249
+    second: Rogue_Idle_53
+  - first:
+      213: -349751782377538980
+    second: Rogue_Idle_54
+  - first:
+      213: -2300181351839001938
+    second: Rogue_Idle_55
+  - first:
+      213: 3477861460393329747
+    second: Rogue_Idle_56
+  - first:
+      213: -660102972496417770
+    second: Rogue_Idle_57
+  - first:
+      213: -727224896139363410
+    second: Rogue_Idle_58
+  - first:
+      213: -9107089023272094800
+    second: Rogue_Idle_59
+  - first:
+      213: -4589295599682778594
+    second: Rogue_Idle_60
+  - first:
+      213: 7774409174222026465
+    second: Rogue_Idle_61
+  - first:
+      213: 1389995284596495052
+    second: Rogue_Idle_62
+  - first:
+      213: -1017229676057753305
+    second: Rogue_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb967025d5da40b0800000000000000
+      internalID: -5743543263408251984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a8c121fc83cbe00800000000000000
+      internalID: 1061786074165840523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f705f22be8f6ddff0800000000000000
+      internalID: -9728965519388545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00f97ee4197cc10800000000000000
+      internalID: 2073785921506836650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339908d790e49bc40800000000000000
+      internalID: 5528535820241246515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893bcbefa52048190800000000000000
+      internalID: -7961235651440102504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88d1b907f392140800000000000000
+      internalID: 4695353839381743819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeea0090909ac250800000000000000
+      internalID: 5965739606971969212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7190360c200770800000000000000
+      internalID: 8574902095609690954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f637b4243e3f5fd0800000000000000
+      internalID: -2351092086788901127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a766a2f4c50e10800000000000000
+      internalID: 2163351742474331836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e666d9b567f63a0800000000000000
+      internalID: -6669982387257577889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12310a467104502a0800000000000000
+      internalID: -6771935995465034975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2907c4c246c25aa90800000000000000
+      internalID: -7303382411959832430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cbf9de369940430800000000000000
+      internalID: 3748289444346576026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a714fb6f2266600800000000000000
+      internalID: 461094455018093170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294e88bae9761430800000000000000
+      internalID: 3753321388485527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc523f981dce03970800000000000000
+      internalID: 8732740062178125259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab456fda6d9ca270800000000000000
+      internalID: 8263152498658069413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647f096059426ee70800000000000000
+      internalID: 9144036315901261638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c05fff99368791c0800000000000000
+      internalID: -4496978120850583354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695880866ec9eaa90800000000000000
+      internalID: -7300725432519195242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295ced7a0925a5b0800000000000000
+      internalID: -5357831056648283867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535413342af8193c0800000000000000
+      internalID: -4354541437615782603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1545da7c1beade0800000000000000
+      internalID: -1319922169608384038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a5e358ab000ce0800000000000000
+      internalID: -1441139063168589069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f4e85a56a9a6d00800000000000000
+      internalID: 966754831384334121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139efd55e5b7add0800000000000000
+      internalID: -2474809473487695077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838d6179489c2920800000000000000
+      internalID: 2966913695733351306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d65d099199176f0800000000000000
+      internalID: -688600932927836840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3389d257e1ae734d0800000000000000
+      internalID: -3154795597413902285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b573fe5fd2c4c50800000000000000
+      internalID: 6650741284022999925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd3fc60e4c0ca20800000000000000
+      internalID: 3080678613301059540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c260501bac5ff0800000000000000
+      internalID: -45973809624070056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9854a3856a79890800000000000000
+      internalID: -7451304160596227669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5affaf459c8ab6c80800000000000000
+      internalID: -8328377503223971931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286b16c4460a49ac0800000000000000
+      internalID: -3849275428856285566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664dd20ff5ee58cb0800000000000000
+      internalID: -4862218126857743258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2610f7a7bef2d80800000000000000
+      internalID: -8273135079106977119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6939197de8c5540800000000000000
+      internalID: 4998026742985889515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c4a5ea22fdb300800000000000000
+      internalID: 269637818767426355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d8022d37bb9af0800000000000000
+      internalID: -388515469645524095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab90027fe3391080800000000000000
+      internalID: -9216278058934166619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4363c4b3e19b260800000000000000
+      internalID: 7113750326438933683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa889067b8089a0800000000000000
+      internalID: -6232828545198411845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b08c4c652aba690800000000000000
+      internalID: -7589794253450507426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2777450406a5f40800000000000000
+      internalID: 5717988506311553773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fec661f1db74f0800000000000000
+      internalID: -829838871577562647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e19434837274a0800000000000000
+      internalID: -6597083492489502256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b57611f3dae3930800000000000000
+      internalID: 4124924795104484200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b8e5844e73c7c0800000000000000
+      internalID: -4052256406933818074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45ac3a5301c3240800000000000000
+      internalID: 4772707527673140452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d21bc77f03ad90800000000000000
+      internalID: -7087804381368495032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde18d5967f5dfa0800000000000000
+      internalID: -5776438915120370249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab3d36b9e652bf0800000000000000
+      internalID: -349751782377538980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea298a45f3d1410e0800000000000000
+      internalID: -2300181351839001938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35404cc5298d34030800000000000000
+      internalID: 3477861460393329747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ceb2908d7d6d6f0800000000000000
+      internalID: -660102972496417770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabfac95fc068e5f0800000000000000
+      internalID: -727224896139363410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f106e8ce1d9180800000000000000
+      internalID: -9107089023272094800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a05ab97fb8f40c0800000000000000
+      internalID: -4589295599682778594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ba0014ff34eb60800000000000000
+      internalID: 7774409174222026465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc297d9c8514a4310800000000000000
+      internalID: 1389995284596495052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7298797cff212e1f0800000000000000
+      internalID: -1017229676057753305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rogue_Idle_0: -5743543263408251984
+      Rogue_Idle_1: 1061786074165840523
+      Rogue_Idle_10: 2163351742474331836
+      Rogue_Idle_11: -6669982387257577889
+      Rogue_Idle_12: -6771935995465034975
+      Rogue_Idle_13: -7303382411959832430
+      Rogue_Idle_14: 3748289444346576026
+      Rogue_Idle_15: 461094455018093170
+      Rogue_Idle_16: 3753321388485527846
+      Rogue_Idle_17: 8732740062178125259
+      Rogue_Idle_18: 8263152498658069413
+      Rogue_Idle_19: 9144036315901261638
+      Rogue_Idle_2: -9728965519388545
+      Rogue_Idle_20: -4496978120850583354
+      Rogue_Idle_21: -7300725432519195242
+      Rogue_Idle_22: -5357831056648283867
+      Rogue_Idle_23: -4354541437615782603
+      Rogue_Idle_24: -1319922169608384038
+      Rogue_Idle_25: -1441139063168589069
+      Rogue_Idle_26: 966754831384334121
+      Rogue_Idle_27: -2474809473487695077
+      Rogue_Idle_28: 2966913695733351306
+      Rogue_Idle_29: -688600932927836840
+      Rogue_Idle_3: 2073785921506836650
+      Rogue_Idle_30: -3154795597413902285
+      Rogue_Idle_31: 6650741284022999925
+      Rogue_Idle_32: 3080678613301059540
+      Rogue_Idle_33: -45973809624070056
+      Rogue_Idle_34: -7451304160596227669
+      Rogue_Idle_35: -8328377503223971931
+      Rogue_Idle_36: -3849275428856285566
+      Rogue_Idle_37: -4862218126857743258
+      Rogue_Idle_38: -8273135079106977119
+      Rogue_Idle_39: 4998026742985889515
+      Rogue_Idle_4: 5528535820241246515
+      Rogue_Idle_40: 269637818767426355
+      Rogue_Idle_41: -388515469645524095
+      Rogue_Idle_42: -9216278058934166619
+      Rogue_Idle_43: 7113750326438933683
+      Rogue_Idle_44: -6232828545198411845
+      Rogue_Idle_45: -7589794253450507426
+      Rogue_Idle_46: 5717988506311553773
+      Rogue_Idle_47: -829838871577562647
+      Rogue_Idle_48: -6597083492489502256
+      Rogue_Idle_49: 4124924795104484200
+      Rogue_Idle_5: -7961235651440102504
+      Rogue_Idle_50: -4052256406933818074
+      Rogue_Idle_51: 4772707527673140452
+      Rogue_Idle_52: -7087804381368495032
+      Rogue_Idle_53: -5776438915120370249
+      Rogue_Idle_54: -349751782377538980
+      Rogue_Idle_55: -2300181351839001938
+      Rogue_Idle_56: 3477861460393329747
+      Rogue_Idle_57: -660102972496417770
+      Rogue_Idle_58: -727224896139363410
+      Rogue_Idle_59: -9107089023272094800
+      Rogue_Idle_6: 4695353839381743819
+      Rogue_Idle_60: -4589295599682778594
+      Rogue_Idle_61: 7774409174222026465
+      Rogue_Idle_62: 1389995284596495052
+      Rogue_Idle_63: -1017229676057753305
+      Rogue_Idle_7: 5965739606971969212
+      Rogue_Idle_8: 8574902095609690954
+      Rogue_Idle_9: -2351092086788901127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: ddfea7bc91127094089d611638740b2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8862864935516038399
+    second: Cleric_Idle_0
+  - first:
+      213: 2752512696225213199
+    second: Cleric_Idle_1
+  - first:
+      213: 967537550754173454
+    second: Cleric_Idle_2
+  - first:
+      213: -4860801695703189941
+    second: Cleric_Idle_3
+  - first:
+      213: -4791606303182735967
+    second: Cleric_Idle_4
+  - first:
+      213: 558663025004991968
+    second: Cleric_Idle_5
+  - first:
+      213: 797782240524053278
+    second: Cleric_Idle_6
+  - first:
+      213: -7212712421991487051
+    second: Cleric_Idle_7
+  - first:
+      213: -4233919729180648260
+    second: Cleric_Idle_8
+  - first:
+      213: 3899029487678690782
+    second: Cleric_Idle_9
+  - first:
+      213: -6390985778199411783
+    second: Cleric_Idle_10
+  - first:
+      213: 1701701944777529311
+    second: Cleric_Idle_11
+  - first:
+      213: -1855989244984947442
+    second: Cleric_Idle_12
+  - first:
+      213: 895060759153236593
+    second: Cleric_Idle_13
+  - first:
+      213: 2082648882270990020
+    second: Cleric_Idle_14
+  - first:
+      213: 8462095678946189496
+    second: Cleric_Idle_15
+  - first:
+      213: -485556729514929942
+    second: Cleric_Idle_16
+  - first:
+      213: 8701695701552073824
+    second: Cleric_Idle_17
+  - first:
+      213: -3196075580953853648
+    second: Cleric_Idle_18
+  - first:
+      213: 1641863350055788508
+    second: Cleric_Idle_19
+  - first:
+      213: -3693970844542607587
+    second: Cleric_Idle_20
+  - first:
+      213: 6735182970682853942
+    second: Cleric_Idle_21
+  - first:
+      213: -4995622625148631418
+    second: Cleric_Idle_22
+  - first:
+      213: 3420709055822475137
+    second: Cleric_Idle_23
+  - first:
+      213: -5408486183363054492
+    second: Cleric_Idle_24
+  - first:
+      213: -946621032363853800
+    second: Cleric_Idle_25
+  - first:
+      213: -4879801394355296980
+    second: Cleric_Idle_26
+  - first:
+      213: 5666779903574509194
+    second: Cleric_Idle_27
+  - first:
+      213: -8201517381931195269
+    second: Cleric_Idle_28
+  - first:
+      213: 4792752386342011547
+    second: Cleric_Idle_29
+  - first:
+      213: -5694543591689643790
+    second: Cleric_Idle_30
+  - first:
+      213: -2559017821075383112
+    second: Cleric_Idle_31
+  - first:
+      213: -5344898140311683200
+    second: Cleric_Idle_32
+  - first:
+      213: -4823041762959216874
+    second: Cleric_Idle_33
+  - first:
+      213: 2922504540404300175
+    second: Cleric_Idle_34
+  - first:
+      213: 5344947628064547131
+    second: Cleric_Idle_35
+  - first:
+      213: 2384836671866574139
+    second: Cleric_Idle_36
+  - first:
+      213: 9048105276363588432
+    second: Cleric_Idle_37
+  - first:
+      213: -4656853414008957184
+    second: Cleric_Idle_38
+  - first:
+      213: 1479951981033580655
+    second: Cleric_Idle_39
+  - first:
+      213: -8978131406575022535
+    second: Cleric_Idle_40
+  - first:
+      213: -7164348312219239704
+    second: Cleric_Idle_41
+  - first:
+      213: 4665581080234934826
+    second: Cleric_Idle_42
+  - first:
+      213: -7649181078931379054
+    second: Cleric_Idle_43
+  - first:
+      213: -8026983446415442912
+    second: Cleric_Idle_44
+  - first:
+      213: 2160502820649645478
+    second: Cleric_Idle_45
+  - first:
+      213: -16806974691732044
+    second: Cleric_Idle_46
+  - first:
+      213: -6122643999601597998
+    second: Cleric_Idle_47
+  - first:
+      213: 7516548529606984179
+    second: Cleric_Idle_48
+  - first:
+      213: -6374456518632230381
+    second: Cleric_Idle_49
+  - first:
+      213: 5886396848345724881
+    second: Cleric_Idle_50
+  - first:
+      213: 6044702235393699338
+    second: Cleric_Idle_51
+  - first:
+      213: -767209385448564313
+    second: Cleric_Idle_52
+  - first:
+      213: 133847294756000608
+    second: Cleric_Idle_53
+  - first:
+      213: 6987480127413378275
+    second: Cleric_Idle_54
+  - first:
+      213: 118794880421296218
+    second: Cleric_Idle_55
+  - first:
+      213: 6181499647525883148
+    second: Cleric_Idle_56
+  - first:
+      213: 473499827948006555
+    second: Cleric_Idle_57
+  - first:
+      213: -6800602469324790474
+    second: Cleric_Idle_58
+  - first:
+      213: -1507080680514779745
+    second: Cleric_Idle_59
+  - first:
+      213: -6060139881522335907
+    second: Cleric_Idle_60
+  - first:
+      213: -9129392992395081171
+    second: Cleric_Idle_61
+  - first:
+      213: -2742243010232760161
+    second: Cleric_Idle_62
+  - first:
+      213: -6435004548614705811
+    second: Cleric_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cleric_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b1d427c47c00580800000000000000
+      internalID: -8862864935516038399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba14ab6b3e23620800000000000000
+      internalID: 2752512696225213199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02dd83b6426d6d00800000000000000
+      internalID: 967537550754173454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46bef38c96fa8cb0800000000000000
+      internalID: -4860801695703189941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5354b447bc08db0800000000000000
+      internalID: -4791606303182735967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55192bf05c0c700800000000000000
+      internalID: 558663025004991968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b2d8e88ba421b00800000000000000
+      internalID: 797782240524053278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9662c444c47eb90800000000000000
+      internalID: -7212712421991487051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5ba640781e35c0800000000000000
+      internalID: -4233919729180648260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed59cdd39a22c1630800000000000000
+      internalID: 3899029487678690782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3c9ddab48ae47a0800000000000000
+      internalID: -6390985778199411783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75e0c17e8ad9710800000000000000
+      internalID: 1701701944777529311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d0ab97d933e36e0800000000000000
+      internalID: -1855989244984947442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a58b9a405eb6c00800000000000000
+      internalID: 895060759153236593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce60a3cf1e07ec10800000000000000
+      internalID: 2082648882270990020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a4f69f276f6570800000000000000
+      internalID: 8462095678946189496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae056f22ab4f249f0800000000000000
+      internalID: -485556729514929942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c0e821322a2c870800000000000000
+      internalID: 8701695701552073824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03102f1513245a3d0800000000000000
+      internalID: -3196075580953853648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 76
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfdec5940219c610800000000000000
+      internalID: 1641863350055788508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5360a6116cbcc0800000000000000
+      internalID: -3693970844542607587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63acfc03a3d287d50800000000000000
+      internalID: 6735182970682853942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6868c1cb0bbfbaab0800000000000000
+      internalID: -4995622625148631418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa24833ccc87f20800000000000000
+      internalID: 3420709055822475137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464790cb87231f4b0800000000000000
+      internalID: -5408486183363054492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f90dbf2decd2f0800000000000000
+      internalID: -946621032363853800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252ff27c76774cb0800000000000000
+      internalID: -4879801394355296980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8681e46c4274ae40800000000000000
+      internalID: 5666779903574509194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74acc6056b5e2e80800000000000000
+      internalID: -8201517381931195269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92425cf6e6438240800000000000000
+      internalID: 4792752386342011547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89c5b36cae8f0b0800000000000000
+      internalID: -5694543591689643790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc58e899da8c7cd0800000000000000
+      internalID: -2559017821075383112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f731ab57b13d5b0800000000000000
+      internalID: -5344898140311683200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f21f5f11d111db0800000000000000
+      internalID: -4823041762959216874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b3493562de8820800000000000000
+      internalID: 2922504540404300175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31aad98c811d2a40800000000000000
+      internalID: 5344947628064547131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b359ee15154a81120800000000000000
+      internalID: 2384836671866574139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0534df75fc3519d70800000000000000
+      internalID: 9048105276363588432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075ee63e788f5fb0800000000000000
+      internalID: -4656853414008957184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6864225c78d98410800000000000000
+      internalID: 1479951981033580655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e415ccd05476380800000000000000
+      internalID: -8978131406575022535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eab00b1b2f139c90800000000000000
+      internalID: -7164348312219239704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 44
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22cf2ee5497fb040800000000000000
+      internalID: 4665581080234934826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce7a7f556a8d590800000000000000
+      internalID: -7649181078931379054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7772951d6a9090800000000000000
+      internalID: -8026983446415442912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a53d095ed5abfd10800000000000000
+      internalID: 2160502820649645478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b510c3452a44cff0800000000000000
+      internalID: -16806974691732044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e195b8bff70ba0800000000000000
+      internalID: -6122643999601597998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f185343015205860800000000000000
+      internalID: 7516548529606984179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312b0c2d1916987a0800000000000000
+      internalID: -6374456518632230381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d730a00fbea0b150800000000000000
+      internalID: 5886396848345724881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea6a928a813e350800000000000000
+      internalID: 6044702235393699338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91ef7f0235a55f0800000000000000
+      internalID: -767209385448564313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063141ac7658bd100800000000000000
+      internalID: 133847294756000608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec5395972488f060800000000000000
+      internalID: 6987480127413378275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5875a8705b06a100800000000000000
+      internalID: 118794880421296218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8bfdad2919c550800000000000000
+      internalID: 6181499647525883148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cac06b595329600800000000000000
+      internalID: 473499827948006555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356045d5186f91a0800000000000000
+      internalID: -6800602469324790474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95001e1b16c51be0800000000000000
+      internalID: -1507080680514779745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5feea0c2ee06eba0800000000000000
+      internalID: -6060139881522335907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac9596171ed4180800000000000000
+      internalID: -9129392992395081171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98474fd28891f9d0800000000000000
+      internalID: -2742243010232760161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleric_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2cc7057542b6a0800000000000000
+      internalID: -6435004548614705811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cleric_Idle_0: -8862864935516038399
+      Cleric_Idle_1: 2752512696225213199
+      Cleric_Idle_10: -6390985778199411783
+      Cleric_Idle_11: 1701701944777529311
+      Cleric_Idle_12: -1855989244984947442
+      Cleric_Idle_13: 895060759153236593
+      Cleric_Idle_14: 2082648882270990020
+      Cleric_Idle_15: 8462095678946189496
+      Cleric_Idle_16: -485556729514929942
+      Cleric_Idle_17: 8701695701552073824
+      Cleric_Idle_18: -3196075580953853648
+      Cleric_Idle_19: 1641863350055788508
+      Cleric_Idle_2: 967537550754173454
+      Cleric_Idle_20: -3693970844542607587
+      Cleric_Idle_21: 6735182970682853942
+      Cleric_Idle_22: -4995622625148631418
+      Cleric_Idle_23: 3420709055822475137
+      Cleric_Idle_24: -5408486183363054492
+      Cleric_Idle_25: -946621032363853800
+      Cleric_Idle_26: -4879801394355296980
+      Cleric_Idle_27: 5666779903574509194
+      Cleric_Idle_28: -8201517381931195269
+      Cleric_Idle_29: 4792752386342011547
+      Cleric_Idle_3: -4860801695703189941
+      Cleric_Idle_30: -5694543591689643790
+      Cleric_Idle_31: -2559017821075383112
+      Cleric_Idle_32: -5344898140311683200
+      Cleric_Idle_33: -4823041762959216874
+      Cleric_Idle_34: 2922504540404300175
+      Cleric_Idle_35: 5344947628064547131
+      Cleric_Idle_36: 2384836671866574139
+      Cleric_Idle_37: 9048105276363588432
+      Cleric_Idle_38: -4656853414008957184
+      Cleric_Idle_39: 1479951981033580655
+      Cleric_Idle_4: -4791606303182735967
+      Cleric_Idle_40: -8978131406575022535
+      Cleric_Idle_41: -7164348312219239704
+      Cleric_Idle_42: 4665581080234934826
+      Cleric_Idle_43: -7649181078931379054
+      Cleric_Idle_44: -8026983446415442912
+      Cleric_Idle_45: 2160502820649645478
+      Cleric_Idle_46: -16806974691732044
+      Cleric_Idle_47: -6122643999601597998
+      Cleric_Idle_48: 7516548529606984179
+      Cleric_Idle_49: -6374456518632230381
+      Cleric_Idle_5: 558663025004991968
+      Cleric_Idle_50: 5886396848345724881
+      Cleric_Idle_51: 6044702235393699338
+      Cleric_Idle_52: -767209385448564313
+      Cleric_Idle_53: 133847294756000608
+      Cleric_Idle_54: 6987480127413378275
+      Cleric_Idle_55: 118794880421296218
+      Cleric_Idle_56: 6181499647525883148
+      Cleric_Idle_57: 473499827948006555
+      Cleric_Idle_58: -6800602469324790474
+      Cleric_Idle_59: -1507080680514779745
+      Cleric_Idle_6: 797782240524053278
+      Cleric_Idle_60: -6060139881522335907
+      Cleric_Idle_61: -9129392992395081171
+      Cleric_Idle_62: -2742243010232760161
+      Cleric_Idle_63: -6435004548614705811
+      Cleric_Idle_7: -7212712421991487051
+      Cleric_Idle_8: -4233919729180648260
+      Cleric_Idle_9: 3899029487678690782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

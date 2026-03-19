@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 555d79586992ff14c95ca6d5ec3ed268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3257340869006243342
+    second: Barbarian_Idle_0
+  - first:
+      213: 1182896694566092080
+    second: Barbarian_Idle_1
+  - first:
+      213: -2847479379372891307
+    second: Barbarian_Idle_2
+  - first:
+      213: 5431891824275102810
+    second: Barbarian_Idle_3
+  - first:
+      213: 4617626496232783498
+    second: Barbarian_Idle_4
+  - first:
+      213: -9173818247492049702
+    second: Barbarian_Idle_5
+  - first:
+      213: 2005277168113224207
+    second: Barbarian_Idle_6
+  - first:
+      213: -8992479645641379133
+    second: Barbarian_Idle_7
+  - first:
+      213: -7974533573163147430
+    second: Barbarian_Idle_8
+  - first:
+      213: 8070872446484799
+    second: Barbarian_Idle_9
+  - first:
+      213: -4545942537149901576
+    second: Barbarian_Idle_10
+  - first:
+      213: 6881405805861970038
+    second: Barbarian_Idle_11
+  - first:
+      213: 4650505406480617476
+    second: Barbarian_Idle_12
+  - first:
+      213: 8108829530885422195
+    second: Barbarian_Idle_13
+  - first:
+      213: -2781219442117234279
+    second: Barbarian_Idle_14
+  - first:
+      213: -4148034813752888496
+    second: Barbarian_Idle_15
+  - first:
+      213: -1604679124734667028
+    second: Barbarian_Idle_16
+  - first:
+      213: -4558954782008670082
+    second: Barbarian_Idle_17
+  - first:
+      213: 4851075742797961823
+    second: Barbarian_Idle_18
+  - first:
+      213: 7203774033191015431
+    second: Barbarian_Idle_19
+  - first:
+      213: -3302170019653638762
+    second: Barbarian_Idle_20
+  - first:
+      213: -7305519185169018834
+    second: Barbarian_Idle_21
+  - first:
+      213: 1507906964417000614
+    second: Barbarian_Idle_22
+  - first:
+      213: -3823246202641448729
+    second: Barbarian_Idle_23
+  - first:
+      213: 5868243789926700207
+    second: Barbarian_Idle_24
+  - first:
+      213: -8944244793787306189
+    second: Barbarian_Idle_25
+  - first:
+      213: -2771087855954216928
+    second: Barbarian_Idle_26
+  - first:
+      213: 4410501507199544492
+    second: Barbarian_Idle_27
+  - first:
+      213: 4935643822201164378
+    second: Barbarian_Idle_28
+  - first:
+      213: 8688526761721695788
+    second: Barbarian_Idle_29
+  - first:
+      213: -8919651678908355765
+    second: Barbarian_Idle_30
+  - first:
+      213: 7859790396277729830
+    second: Barbarian_Idle_31
+  - first:
+      213: -4993469540331998380
+    second: Barbarian_Idle_32
+  - first:
+      213: -1949939739127840294
+    second: Barbarian_Idle_33
+  - first:
+      213: 5400083417706342277
+    second: Barbarian_Idle_34
+  - first:
+      213: -9101302725416307230
+    second: Barbarian_Idle_35
+  - first:
+      213: -393703491556034278
+    second: Barbarian_Idle_36
+  - first:
+      213: -393083851385462538
+    second: Barbarian_Idle_37
+  - first:
+      213: 8864348369658793229
+    second: Barbarian_Idle_38
+  - first:
+      213: 1911173617279021135
+    second: Barbarian_Idle_39
+  - first:
+      213: -8870111522729747666
+    second: Barbarian_Idle_40
+  - first:
+      213: 1532298415712253964
+    second: Barbarian_Idle_41
+  - first:
+      213: 6797945334888219836
+    second: Barbarian_Idle_42
+  - first:
+      213: 2479262842168859885
+    second: Barbarian_Idle_43
+  - first:
+      213: -3119500543963199062
+    second: Barbarian_Idle_44
+  - first:
+      213: 3691861869637494827
+    second: Barbarian_Idle_45
+  - first:
+      213: -2176857451038259390
+    second: Barbarian_Idle_46
+  - first:
+      213: 1162442790192305332
+    second: Barbarian_Idle_47
+  - first:
+      213: 5266523437867281198
+    second: Barbarian_Idle_48
+  - first:
+      213: -540474260683036837
+    second: Barbarian_Idle_49
+  - first:
+      213: 1040712642819312865
+    second: Barbarian_Idle_50
+  - first:
+      213: 4823301931279299616
+    second: Barbarian_Idle_51
+  - first:
+      213: -2826827082687588319
+    second: Barbarian_Idle_52
+  - first:
+      213: 7270902277204253208
+    second: Barbarian_Idle_53
+  - first:
+      213: 2352449566967117799
+    second: Barbarian_Idle_54
+  - first:
+      213: 4585171637096573237
+    second: Barbarian_Idle_55
+  - first:
+      213: 8258995373744939903
+    second: Barbarian_Idle_56
+  - first:
+      213: -1365520002885393671
+    second: Barbarian_Idle_57
+  - first:
+      213: 8825368649037695312
+    second: Barbarian_Idle_58
+  - first:
+      213: 5497944673618293835
+    second: Barbarian_Idle_59
+  - first:
+      213: 4968559489374209860
+    second: Barbarian_Idle_60
+  - first:
+      213: 7559374387333776252
+    second: Barbarian_Idle_61
+  - first:
+      213: 1515972806783218327
+    second: Barbarian_Idle_62
+  - first:
+      213: 7536757061638458303
+    second: Barbarian_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barbarian_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ba712346643d20800000000000000
+      internalID: 3257340869006243342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7895c64e7a6010800000000000000
+      internalID: 1182896694566092080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553aa3f4798bb78d0800000000000000
+      internalID: -2847479379372891307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c1444b5d4f16b40800000000000000
+      internalID: 5431891824275102810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef26545da151040800000000000000
+      internalID: 4617626496232783498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46d3ca8ec00b080800000000000000
+      internalID: -9173818247492049702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0791c5fc24db10800000000000000
+      internalID: 2005277168113224207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27d9f086b443380800000000000000
+      internalID: -8992479645641379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1f2257f3c45190800000000000000
+      internalID: -7974533573163147430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31433d6a6cac1000800000000000000
+      internalID: 8070872446484799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f497df095199e0c0800000000000000
+      internalID: -4545942537149901576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670a6b50f1aaf7f50800000000000000
+      internalID: 6881405805861970038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009f4b170ae98040800000000000000
+      internalID: 4650505406480617476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7f94fe79588070800000000000000
+      internalID: 8108829530885422195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991313627af1769d0800000000000000
+      internalID: -2781219442117234279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0533e4a60583f66c0800000000000000
+      internalID: -4148034813752888496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce694b786d80bb9e0800000000000000
+      internalID: -1604679124734667028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e780e47b7c65bb0c0800000000000000
+      internalID: -4558954782008670082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a9cfb9fab725340800000000000000
+      internalID: 4851075742797961823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7049882e052f8f360800000000000000
+      internalID: 7203774033191015431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695a99edcd55c22d0800000000000000
+      internalID: -3302170019653638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e201334e1059d9a90800000000000000
+      internalID: -7305519185169018834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b96815692de410800000000000000
+      internalID: 1507906964417000614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e002bac5d911fac0800000000000000
+      internalID: -3823246202641448729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa419f9b2a0307150800000000000000
+      internalID: 5868243789926700207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fab2aafb8afd380800000000000000
+      internalID: -8944244793787306189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0283370e64e1b89d0800000000000000
+      internalID: -2771087855954216928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 76
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac24f1c0cf353d30800000000000000
+      internalID: 4410501507199544492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d628f7edee7440800000000000000
+      internalID: 4935643822201164378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e85e55e09d39870800000000000000
+      internalID: 8688526761721695788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b637e6e08073480800000000000000
+      internalID: -8919651678908355765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a2923f8b5931d60800000000000000
+      internalID: 7859790396277729830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45337cbd8e1a3bab0800000000000000
+      internalID: -4993469540331998380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad10ed3732c60f4e0800000000000000
+      internalID: -1949939739127840294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872ddde143f0fa40800000000000000
+      internalID: 5400083417706342277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5344a546da1b180800000000000000
+      internalID: -9101302725416307230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b8f6a2c8498af0800000000000000
+      internalID: -393703491556034278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02a3fd15c7b8af0800000000000000
+      internalID: -393083851385462538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d43da70ed740b70800000000000000
+      internalID: 8864348369658793229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b302774ad58a10800000000000000
+      internalID: 1911173617279021135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b1891e09807e480800000000000000
+      internalID: -8870111522729747666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083c666a41d34510800000000000000
+      internalID: 1532298415712253964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44988d347275e50800000000000000
+      internalID: 6797945334888219836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decdc445b6c186220800000000000000
+      internalID: 2479262842168859885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98f6878ce45b4d0800000000000000
+      internalID: -3119500543963199062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b286d836fc02c3330800000000000000
+      internalID: 3691861869637494827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247c3388eaf3ac1e0800000000000000
+      internalID: -2176857451038259390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4502d0f83d12010800000000000000
+      internalID: 1162442790192305332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b295bd923761940800000000000000
+      internalID: 5266523437867281198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57eeb10689df78f0800000000000000
+      internalID: -540474260683036837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecc08c72aa517e00800000000000000
+      internalID: 1040712642819312865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024bb523d8fcfe240800000000000000
+      internalID: 4823301931279299616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d3f6deb715c8d0800000000000000
+      internalID: -2826827082687588319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9655291f67e460800000000000000
+      internalID: 7270902277204253208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b817da6495a020800000000000000
+      internalID: 2352449566967117799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53966578f4dc1af30800000000000000
+      internalID: 4585171637096573237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7369adc888dd9270800000000000000
+      internalID: 8258995373744939903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2635ecac2bc0de0800000000000000
+      internalID: -1365520002885393671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c2c907020a7a70800000000000000
+      internalID: 8825368649037695312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f4c12d8f9c4c40800000000000000
+      internalID: 5497944673618293835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447cb81f78ed3f440800000000000000
+      internalID: 4968559489374209860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73473934fa48e860800000000000000
+      internalID: 7559374387333776252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792377d5c31d90510800000000000000
+      internalID: 1515972806783218327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarian_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb8069bd90f79860800000000000000
+      internalID: 7536757061638458303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barbarian_Idle_0: 3257340869006243342
+      Barbarian_Idle_1: 1182896694566092080
+      Barbarian_Idle_10: -4545942537149901576
+      Barbarian_Idle_11: 6881405805861970038
+      Barbarian_Idle_12: 4650505406480617476
+      Barbarian_Idle_13: 8108829530885422195
+      Barbarian_Idle_14: -2781219442117234279
+      Barbarian_Idle_15: -4148034813752888496
+      Barbarian_Idle_16: -1604679124734667028
+      Barbarian_Idle_17: -4558954782008670082
+      Barbarian_Idle_18: 4851075742797961823
+      Barbarian_Idle_19: 7203774033191015431
+      Barbarian_Idle_2: -2847479379372891307
+      Barbarian_Idle_20: -3302170019653638762
+      Barbarian_Idle_21: -7305519185169018834
+      Barbarian_Idle_22: 1507906964417000614
+      Barbarian_Idle_23: -3823246202641448729
+      Barbarian_Idle_24: 5868243789926700207
+      Barbarian_Idle_25: -8944244793787306189
+      Barbarian_Idle_26: -2771087855954216928
+      Barbarian_Idle_27: 4410501507199544492
+      Barbarian_Idle_28: 4935643822201164378
+      Barbarian_Idle_29: 8688526761721695788
+      Barbarian_Idle_3: 5431891824275102810
+      Barbarian_Idle_30: -8919651678908355765
+      Barbarian_Idle_31: 7859790396277729830
+      Barbarian_Idle_32: -4993469540331998380
+      Barbarian_Idle_33: -1949939739127840294
+      Barbarian_Idle_34: 5400083417706342277
+      Barbarian_Idle_35: -9101302725416307230
+      Barbarian_Idle_36: -393703491556034278
+      Barbarian_Idle_37: -393083851385462538
+      Barbarian_Idle_38: 8864348369658793229
+      Barbarian_Idle_39: 1911173617279021135
+      Barbarian_Idle_4: 4617626496232783498
+      Barbarian_Idle_40: -8870111522729747666
+      Barbarian_Idle_41: 1532298415712253964
+      Barbarian_Idle_42: 6797945334888219836
+      Barbarian_Idle_43: 2479262842168859885
+      Barbarian_Idle_44: -3119500543963199062
+      Barbarian_Idle_45: 3691861869637494827
+      Barbarian_Idle_46: -2176857451038259390
+      Barbarian_Idle_47: 1162442790192305332
+      Barbarian_Idle_48: 5266523437867281198
+      Barbarian_Idle_49: -540474260683036837
+      Barbarian_Idle_5: -9173818247492049702
+      Barbarian_Idle_50: 1040712642819312865
+      Barbarian_Idle_51: 4823301931279299616
+      Barbarian_Idle_52: -2826827082687588319
+      Barbarian_Idle_53: 7270902277204253208
+      Barbarian_Idle_54: 2352449566967117799
+      Barbarian_Idle_55: 4585171637096573237
+      Barbarian_Idle_56: 8258995373744939903
+      Barbarian_Idle_57: -1365520002885393671
+      Barbarian_Idle_58: 8825368649037695312
+      Barbarian_Idle_59: 5497944673618293835
+      Barbarian_Idle_6: 2005277168113224207
+      Barbarian_Idle_60: 4968559489374209860
+      Barbarian_Idle_61: 7559374387333776252
+      Barbarian_Idle_62: 1515972806783218327
+      Barbarian_Idle_63: 7536757061638458303
+      Barbarian_Idle_7: -8992479645641379133
+      Barbarian_Idle_8: -7974533573163147430
+      Barbarian_Idle_9: 8070872446484799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

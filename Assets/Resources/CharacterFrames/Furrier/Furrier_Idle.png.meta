@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 7fc8be74f56eca044a4c3f8c4d183e12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5011803650560917232
+    second: Furrier_Idle_0
+  - first:
+      213: 3250518686644519253
+    second: Furrier_Idle_1
+  - first:
+      213: 3787291341921240083
+    second: Furrier_Idle_2
+  - first:
+      213: -7743822213803018767
+    second: Furrier_Idle_3
+  - first:
+      213: 2195003279869507810
+    second: Furrier_Idle_4
+  - first:
+      213: -4534343498252811354
+    second: Furrier_Idle_5
+  - first:
+      213: -7567422360741676070
+    second: Furrier_Idle_6
+  - first:
+      213: -3048216015947468083
+    second: Furrier_Idle_7
+  - first:
+      213: 303939930645035577
+    second: Furrier_Idle_8
+  - first:
+      213: 535366391114689153
+    second: Furrier_Idle_9
+  - first:
+      213: 2681934826086371497
+    second: Furrier_Idle_10
+  - first:
+      213: -6160234153273276128
+    second: Furrier_Idle_11
+  - first:
+      213: -6326343832692651237
+    second: Furrier_Idle_12
+  - first:
+      213: 8619406600434983100
+    second: Furrier_Idle_13
+  - first:
+      213: -8558309304655034786
+    second: Furrier_Idle_14
+  - first:
+      213: -3097875638117631132
+    second: Furrier_Idle_15
+  - first:
+      213: -9152176800461472103
+    second: Furrier_Idle_16
+  - first:
+      213: -5224098797081905563
+    second: Furrier_Idle_17
+  - first:
+      213: 5072156014067549171
+    second: Furrier_Idle_18
+  - first:
+      213: 6283015570941872841
+    second: Furrier_Idle_19
+  - first:
+      213: 6438884838337719487
+    second: Furrier_Idle_20
+  - first:
+      213: 6483385896344799326
+    second: Furrier_Idle_21
+  - first:
+      213: 1688942604293890458
+    second: Furrier_Idle_22
+  - first:
+      213: 1722239501839266509
+    second: Furrier_Idle_23
+  - first:
+      213: 6465427372660970346
+    second: Furrier_Idle_24
+  - first:
+      213: -7404718105090043065
+    second: Furrier_Idle_25
+  - first:
+      213: 3302047209226039227
+    second: Furrier_Idle_26
+  - first:
+      213: 1801820815505803547
+    second: Furrier_Idle_27
+  - first:
+      213: -957316345696396879
+    second: Furrier_Idle_28
+  - first:
+      213: -8067539372982889694
+    second: Furrier_Idle_29
+  - first:
+      213: 6641111614430360778
+    second: Furrier_Idle_30
+  - first:
+      213: 1263901731801583630
+    second: Furrier_Idle_31
+  - first:
+      213: 2727794611679727854
+    second: Furrier_Idle_32
+  - first:
+      213: 8243972458715539615
+    second: Furrier_Idle_33
+  - first:
+      213: -6207307321477506119
+    second: Furrier_Idle_34
+  - first:
+      213: 2593053532624010537
+    second: Furrier_Idle_35
+  - first:
+      213: 5600665805857970216
+    second: Furrier_Idle_36
+  - first:
+      213: 1864376378628595600
+    second: Furrier_Idle_37
+  - first:
+      213: 6095036132119316909
+    second: Furrier_Idle_38
+  - first:
+      213: 6603602616275658097
+    second: Furrier_Idle_39
+  - first:
+      213: 2736588965340028937
+    second: Furrier_Idle_40
+  - first:
+      213: 4495514023187984916
+    second: Furrier_Idle_41
+  - first:
+      213: 5360645935171969928
+    second: Furrier_Idle_42
+  - first:
+      213: -3048400676942000335
+    second: Furrier_Idle_43
+  - first:
+      213: 4519397110717691110
+    second: Furrier_Idle_44
+  - first:
+      213: 4502669238040147892
+    second: Furrier_Idle_45
+  - first:
+      213: -3431670414776122604
+    second: Furrier_Idle_46
+  - first:
+      213: 2203995013785059746
+    second: Furrier_Idle_47
+  - first:
+      213: -5083260637392825570
+    second: Furrier_Idle_48
+  - first:
+      213: -1393450283069206620
+    second: Furrier_Idle_49
+  - first:
+      213: -4530596287466507631
+    second: Furrier_Idle_50
+  - first:
+      213: 2780294195165790217
+    second: Furrier_Idle_51
+  - first:
+      213: -756932260599564371
+    second: Furrier_Idle_52
+  - first:
+      213: 1634779276269474332
+    second: Furrier_Idle_53
+  - first:
+      213: 1202561958106798296
+    second: Furrier_Idle_54
+  - first:
+      213: 8534817903361877120
+    second: Furrier_Idle_55
+  - first:
+      213: -7698050123281389849
+    second: Furrier_Idle_56
+  - first:
+      213: -2906188480203941455
+    second: Furrier_Idle_57
+  - first:
+      213: 5969319848130382776
+    second: Furrier_Idle_58
+  - first:
+      213: -6354911661910739915
+    second: Furrier_Idle_59
+  - first:
+      213: -865232162012007490
+    second: Furrier_Idle_60
+  - first:
+      213: 6544547270232788841
+    second: Furrier_Idle_61
+  - first:
+      213: 225666111899497706
+    second: Furrier_Idle_62
+  - first:
+      213: -30933182462854380
+    second: Furrier_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Furrier_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe70b3ddd08d8540800000000000000
+      internalID: 5011803650560917232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551473506892c1d20800000000000000
+      internalID: 3250518686644519253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314c028d8692f8430800000000000000
+      internalID: 3787291341921240083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5fd7e99ba688490800000000000000
+      internalID: -7743822213803018767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e870797ad7367e10800000000000000
+      internalID: 2195003279869507810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a30a01cc96c211c0800000000000000
+      internalID: -4534343498252811354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf4a2f47d1bf690800000000000000
+      internalID: -7567422360741676070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc27bc20faf82b5d0800000000000000
+      internalID: -3048216015947468083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a772fa1cfc73400800000000000000
+      internalID: 303939930645035577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ae21f65e00e6700800000000000000
+      internalID: 535366391114689153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a090abc385283520800000000000000
+      internalID: 2681934826086371497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029cae80da3728aa0800000000000000
+      internalID: -6160234153273276128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b0f557dcf4438a0800000000000000
+      internalID: -6326343832692651237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0a591b2a84e9770800000000000000
+      internalID: 8619406600434983100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56cd120807ca3980800000000000000
+      internalID: -8558309304655034786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b79a735822205d0800000000000000
+      internalID: -3097875638117631132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e3ce6b0bfecf080800000000000000
+      internalID: -9152176800461472103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566336092d54087b0800000000000000
+      internalID: -5224098797081905563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f38bd7750be36640800000000000000
+      internalID: 5072156014067549171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0d387f51c13750800000000000000
+      internalID: 6283015570941872841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca4c255a38b5950800000000000000
+      internalID: 6438884838337719487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c86d4f1d99f950800000000000000
+      internalID: 6483385896344799326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e5f6a954507710800000000000000
+      internalID: 1688942604293890458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2764db3bf96e710800000000000000
+      internalID: 1722239501839266509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635b8ca0ffc9b950800000000000000
+      internalID: 6465427372660970346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74354348d182d3990800000000000000
+      internalID: -7404718105090043065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfec79117a33dd20800000000000000
+      internalID: 3302047209226039227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c0293c7a510910800000000000000
+      internalID: 1801820815505803547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9571d0bdde6b2f0800000000000000
+      internalID: -957316345696396879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22390e51fa75a0090800000000000000
+      internalID: -8067539372982889694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4b7d3c3d7f92c50800000000000000
+      internalID: 6641111614430360778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00d80bbde74a8110800000000000000
+      internalID: 1263901731801583630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee015613fb21bd520800000000000000
+      internalID: 2727794611679727854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e7d3d549786270800000000000000
+      internalID: 8243972458715539615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd6abf0e63bd9a0800000000000000
+      internalID: -6207307321477506119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d30a703706cf320800000000000000
+      internalID: 2593053532624010537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82857d770ef89bd40800000000000000
+      internalID: 5600665805857970216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f59cf30789fd910800000000000000
+      internalID: 1864376378628595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9842cb11be59450800000000000000
+      internalID: 6095036132119316909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17563f49795b4ab50800000000000000
+      internalID: 6603602616275658097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a8573a215af520800000000000000
+      internalID: 2736588965340028937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41238e29f26436e30800000000000000
+      internalID: 4495514023187984916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883219c7317d46a40800000000000000
+      internalID: 5360645935171969928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fcfc54cb7e1b5d0800000000000000
+      internalID: -3048400676942000335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e431473abf18be30800000000000000
+      internalID: 4519397110717691110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7367ad0d1bc7e30800000000000000
+      internalID: 4502669238040147892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134d0580f14060d0800000000000000
+      internalID: -3431670414776122604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1046ba9c9269e10800000000000000
+      internalID: 2203995013785059746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13997fe161a479b0800000000000000
+      internalID: -5083260637392825570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af0e71b95879ace0800000000000000
+      internalID: -1393450283069206620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192fad04ea61021c0800000000000000
+      internalID: -4530596287466507631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90000f107d6959620800000000000000
+      internalID: 2780294195165790217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7fdef8e16de75f0800000000000000
+      internalID: -756932260599564371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1256302717efa610800000000000000
+      internalID: 1634779276269474332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89a5dbabb50b010800000000000000
+      internalID: 1202561958106798296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846788e9a3c17670800000000000000
+      internalID: 8534817903361877120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e629aae2380b2590800000000000000
+      internalID: -7698050123281389849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99c1399f42ba7d0800000000000000
+      internalID: -2906188480203941455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb008a66c847d250800000000000000
+      internalID: 5969319848130382776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b2d46381dec7a0800000000000000
+      internalID: -6354911661910739915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f70fcee31ef3f0800000000000000
+      internalID: -865232162012007490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f4af95117e2da50800000000000000
+      internalID: 6544547270232788841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fc95122ab12300800000000000000
+      internalID: 225666111899497706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furrier_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b77873f6a129ff0800000000000000
+      internalID: -30933182462854380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Furrier_Idle_0: 5011803650560917232
+      Furrier_Idle_1: 3250518686644519253
+      Furrier_Idle_10: 2681934826086371497
+      Furrier_Idle_11: -6160234153273276128
+      Furrier_Idle_12: -6326343832692651237
+      Furrier_Idle_13: 8619406600434983100
+      Furrier_Idle_14: -8558309304655034786
+      Furrier_Idle_15: -3097875638117631132
+      Furrier_Idle_16: -9152176800461472103
+      Furrier_Idle_17: -5224098797081905563
+      Furrier_Idle_18: 5072156014067549171
+      Furrier_Idle_19: 6283015570941872841
+      Furrier_Idle_2: 3787291341921240083
+      Furrier_Idle_20: 6438884838337719487
+      Furrier_Idle_21: 6483385896344799326
+      Furrier_Idle_22: 1688942604293890458
+      Furrier_Idle_23: 1722239501839266509
+      Furrier_Idle_24: 6465427372660970346
+      Furrier_Idle_25: -7404718105090043065
+      Furrier_Idle_26: 3302047209226039227
+      Furrier_Idle_27: 1801820815505803547
+      Furrier_Idle_28: -957316345696396879
+      Furrier_Idle_29: -8067539372982889694
+      Furrier_Idle_3: -7743822213803018767
+      Furrier_Idle_30: 6641111614430360778
+      Furrier_Idle_31: 1263901731801583630
+      Furrier_Idle_32: 2727794611679727854
+      Furrier_Idle_33: 8243972458715539615
+      Furrier_Idle_34: -6207307321477506119
+      Furrier_Idle_35: 2593053532624010537
+      Furrier_Idle_36: 5600665805857970216
+      Furrier_Idle_37: 1864376378628595600
+      Furrier_Idle_38: 6095036132119316909
+      Furrier_Idle_39: 6603602616275658097
+      Furrier_Idle_4: 2195003279869507810
+      Furrier_Idle_40: 2736588965340028937
+      Furrier_Idle_41: 4495514023187984916
+      Furrier_Idle_42: 5360645935171969928
+      Furrier_Idle_43: -3048400676942000335
+      Furrier_Idle_44: 4519397110717691110
+      Furrier_Idle_45: 4502669238040147892
+      Furrier_Idle_46: -3431670414776122604
+      Furrier_Idle_47: 2203995013785059746
+      Furrier_Idle_48: -5083260637392825570
+      Furrier_Idle_49: -1393450283069206620
+      Furrier_Idle_5: -4534343498252811354
+      Furrier_Idle_50: -4530596287466507631
+      Furrier_Idle_51: 2780294195165790217
+      Furrier_Idle_52: -756932260599564371
+      Furrier_Idle_53: 1634779276269474332
+      Furrier_Idle_54: 1202561958106798296
+      Furrier_Idle_55: 8534817903361877120
+      Furrier_Idle_56: -7698050123281389849
+      Furrier_Idle_57: -2906188480203941455
+      Furrier_Idle_58: 5969319848130382776
+      Furrier_Idle_59: -6354911661910739915
+      Furrier_Idle_6: -7567422360741676070
+      Furrier_Idle_60: -865232162012007490
+      Furrier_Idle_61: 6544547270232788841
+      Furrier_Idle_62: 225666111899497706
+      Furrier_Idle_63: -30933182462854380
+      Furrier_Idle_7: -3048216015947468083
+      Furrier_Idle_8: 303939930645035577
+      Furrier_Idle_9: 535366391114689153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

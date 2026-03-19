@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: dda8611d8fa49fb4b826c57aa45bcca0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9049177984622133258
+    second: Tech_Augmented_Gunslinger_Walk_0
+  - first:
+      213: 947097776003455720
+    second: Tech_Augmented_Gunslinger_Walk_1
+  - first:
+      213: 3123916515086119004
+    second: Tech_Augmented_Gunslinger_Walk_2
+  - first:
+      213: -8065576332612150783
+    second: Tech_Augmented_Gunslinger_Walk_3
+  - first:
+      213: -680449190756213434
+    second: Tech_Augmented_Gunslinger_Walk_4
+  - first:
+      213: 6971286003392289656
+    second: Tech_Augmented_Gunslinger_Walk_5
+  - first:
+      213: -7232557096509049341
+    second: Tech_Augmented_Gunslinger_Walk_6
+  - first:
+      213: -7644571196350066203
+    second: Tech_Augmented_Gunslinger_Walk_7
+  - first:
+      213: 1013528560122826489
+    second: Tech_Augmented_Gunslinger_Walk_8
+  - first:
+      213: -507048547714405372
+    second: Tech_Augmented_Gunslinger_Walk_9
+  - first:
+      213: -1283586631848279890
+    second: Tech_Augmented_Gunslinger_Walk_10
+  - first:
+      213: -5483325751609087952
+    second: Tech_Augmented_Gunslinger_Walk_11
+  - first:
+      213: 4692849527848003665
+    second: Tech_Augmented_Gunslinger_Walk_12
+  - first:
+      213: 8423743756133738350
+    second: Tech_Augmented_Gunslinger_Walk_13
+  - first:
+      213: -5627850003333766462
+    second: Tech_Augmented_Gunslinger_Walk_14
+  - first:
+      213: -8242733898140168882
+    second: Tech_Augmented_Gunslinger_Walk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffff4d419cda6280800000000000000
+      internalID: -9049177984622133258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9f3ac864c42d00800000000000000
+      internalID: 947097776003455720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c503fade4816a5b20800000000000000
+      internalID: 3123916515086119004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10adad90f01511090800000000000000
+      internalID: -8065576332612150783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d1641f01f8e86f0800000000000000
+      internalID: -680449190756213434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b99d34fabfeb060800000000000000
+      internalID: 6971286003392289656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f8d4f3abc0ab90800000000000000
+      internalID: -7232557096509049341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e11f55eff609e590800000000000000
+      internalID: -7644571196350066203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe85d30bd6c01e00800000000000000
+      internalID: 1013528560122826489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cea95480a96f8f0800000000000000
+      internalID: -507048547714405372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea04e3252c8cf2ee0800000000000000
+      internalID: -1283586631848279890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a693e74057e3b0800000000000000
+      internalID: -5483325751609087952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586db328c9502140800000000000000
+      internalID: 4692849527848003665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e672447b05627e470800000000000000
+      internalID: 8423743756133738350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22c165d3cd5e1b0800000000000000
+      internalID: -5627850003333766462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tech_Augmented_Gunslinger_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc847013deb9d80800000000000000
+      internalID: -8242733898140168882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tech_Augmented_Gunslinger_Walk_0: -9049177984622133258
+      Tech_Augmented_Gunslinger_Walk_1: 947097776003455720
+      Tech_Augmented_Gunslinger_Walk_10: -1283586631848279890
+      Tech_Augmented_Gunslinger_Walk_11: -5483325751609087952
+      Tech_Augmented_Gunslinger_Walk_12: 4692849527848003665
+      Tech_Augmented_Gunslinger_Walk_13: 8423743756133738350
+      Tech_Augmented_Gunslinger_Walk_14: -5627850003333766462
+      Tech_Augmented_Gunslinger_Walk_15: -8242733898140168882
+      Tech_Augmented_Gunslinger_Walk_2: 3123916515086119004
+      Tech_Augmented_Gunslinger_Walk_3: -8065576332612150783
+      Tech_Augmented_Gunslinger_Walk_4: -680449190756213434
+      Tech_Augmented_Gunslinger_Walk_5: 6971286003392289656
+      Tech_Augmented_Gunslinger_Walk_6: -7232557096509049341
+      Tech_Augmented_Gunslinger_Walk_7: -7644571196350066203
+      Tech_Augmented_Gunslinger_Walk_8: 1013528560122826489
+      Tech_Augmented_Gunslinger_Walk_9: -507048547714405372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

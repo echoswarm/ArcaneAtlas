@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 2a2be32928a47f44194c2a85b5a53191
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1067455936890291568
+    second: Frogfolk_Warrior_Idle_0
+  - first:
+      213: 6541082832996784751
+    second: Frogfolk_Warrior_Idle_1
+  - first:
+      213: 1457609906591018395
+    second: Frogfolk_Warrior_Idle_2
+  - first:
+      213: 5508743370960757483
+    second: Frogfolk_Warrior_Idle_3
+  - first:
+      213: -1383841247176945705
+    second: Frogfolk_Warrior_Idle_4
+  - first:
+      213: -9143810144664798986
+    second: Frogfolk_Warrior_Idle_5
+  - first:
+      213: -417299134608019192
+    second: Frogfolk_Warrior_Idle_6
+  - first:
+      213: -3284022468079048965
+    second: Frogfolk_Warrior_Idle_7
+  - first:
+      213: 8059954628214516929
+    second: Frogfolk_Warrior_Idle_8
+  - first:
+      213: -978691765100179737
+    second: Frogfolk_Warrior_Idle_9
+  - first:
+      213: 1819034460391359076
+    second: Frogfolk_Warrior_Idle_10
+  - first:
+      213: -3269752176224118581
+    second: Frogfolk_Warrior_Idle_11
+  - first:
+      213: 1817701842544705841
+    second: Frogfolk_Warrior_Idle_12
+  - first:
+      213: 1629686675159392540
+    second: Frogfolk_Warrior_Idle_13
+  - first:
+      213: 4805383858214301318
+    second: Frogfolk_Warrior_Idle_14
+  - first:
+      213: -8392408261415120205
+    second: Frogfolk_Warrior_Idle_15
+  - first:
+      213: 3121636131338902529
+    second: Frogfolk_Warrior_Idle_16
+  - first:
+      213: 8786829291566396245
+    second: Frogfolk_Warrior_Idle_17
+  - first:
+      213: 6642761019248404374
+    second: Frogfolk_Warrior_Idle_18
+  - first:
+      213: -6392336065922238987
+    second: Frogfolk_Warrior_Idle_19
+  - first:
+      213: -417914518634149308
+    second: Frogfolk_Warrior_Idle_20
+  - first:
+      213: -8839099674657994885
+    second: Frogfolk_Warrior_Idle_21
+  - first:
+      213: 1554038164585286092
+    second: Frogfolk_Warrior_Idle_22
+  - first:
+      213: -6937113776170723308
+    second: Frogfolk_Warrior_Idle_23
+  - first:
+      213: 4051689989402949321
+    second: Frogfolk_Warrior_Idle_24
+  - first:
+      213: -7339016122187146032
+    second: Frogfolk_Warrior_Idle_25
+  - first:
+      213: -21172339588467842
+    second: Frogfolk_Warrior_Idle_26
+  - first:
+      213: 1972748096633183043
+    second: Frogfolk_Warrior_Idle_27
+  - first:
+      213: 250081567075523949
+    second: Frogfolk_Warrior_Idle_28
+  - first:
+      213: -4628211325809403801
+    second: Frogfolk_Warrior_Idle_29
+  - first:
+      213: 3038632853713575290
+    second: Frogfolk_Warrior_Idle_30
+  - first:
+      213: 4348568933116945858
+    second: Frogfolk_Warrior_Idle_31
+  - first:
+      213: 2698455319872967261
+    second: Frogfolk_Warrior_Idle_32
+  - first:
+      213: 5908935940980629638
+    second: Frogfolk_Warrior_Idle_33
+  - first:
+      213: 2570708503968115882
+    second: Frogfolk_Warrior_Idle_34
+  - first:
+      213: 9140017922957979620
+    second: Frogfolk_Warrior_Idle_35
+  - first:
+      213: -4869606480792747693
+    second: Frogfolk_Warrior_Idle_36
+  - first:
+      213: -5851192256787663293
+    second: Frogfolk_Warrior_Idle_37
+  - first:
+      213: 522559566673278761
+    second: Frogfolk_Warrior_Idle_38
+  - first:
+      213: -5164810370250349139
+    second: Frogfolk_Warrior_Idle_39
+  - first:
+      213: -6088799665110619856
+    second: Frogfolk_Warrior_Idle_40
+  - first:
+      213: 821694121360529106
+    second: Frogfolk_Warrior_Idle_41
+  - first:
+      213: 3512709419522988060
+    second: Frogfolk_Warrior_Idle_42
+  - first:
+      213: 5954671103492916805
+    second: Frogfolk_Warrior_Idle_43
+  - first:
+      213: 7029520441742526921
+    second: Frogfolk_Warrior_Idle_44
+  - first:
+      213: 5873762541945074887
+    second: Frogfolk_Warrior_Idle_45
+  - first:
+      213: 6289421028679749667
+    second: Frogfolk_Warrior_Idle_46
+  - first:
+      213: -6124076352438450171
+    second: Frogfolk_Warrior_Idle_47
+  - first:
+      213: 7425932010022054374
+    second: Frogfolk_Warrior_Idle_48
+  - first:
+      213: -5758509648283925143
+    second: Frogfolk_Warrior_Idle_49
+  - first:
+      213: -6571087872919704777
+    second: Frogfolk_Warrior_Idle_50
+  - first:
+      213: 8365123204328105235
+    second: Frogfolk_Warrior_Idle_51
+  - first:
+      213: 4198652131674332091
+    second: Frogfolk_Warrior_Idle_52
+  - first:
+      213: -6220249799327194056
+    second: Frogfolk_Warrior_Idle_53
+  - first:
+      213: -7419834395635145986
+    second: Frogfolk_Warrior_Idle_54
+  - first:
+      213: 1354131286630292031
+    second: Frogfolk_Warrior_Idle_55
+  - first:
+      213: -8473702998058879062
+    second: Frogfolk_Warrior_Idle_56
+  - first:
+      213: 4245661935659906363
+    second: Frogfolk_Warrior_Idle_57
+  - first:
+      213: 5652612103650094237
+    second: Frogfolk_Warrior_Idle_58
+  - first:
+      213: -5546317572546180898
+    second: Frogfolk_Warrior_Idle_59
+  - first:
+      213: 2427947681310208083
+    second: Frogfolk_Warrior_Idle_60
+  - first:
+      213: 8723712838296027250
+    second: Frogfolk_Warrior_Idle_61
+  - first:
+      213: 4230741448820830449
+    second: Frogfolk_Warrior_Idle_62
+  - first:
+      213: -4778524023342699361
+    second: Frogfolk_Warrior_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ab5442b72af21f0800000000000000
+      internalID: -1067455936890291568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6add233e2896ca50800000000000000
+      internalID: 6541082832996784751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da27fbc787a3410800000000000000
+      internalID: 1457609906591018395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be267e8c8ecf27c40800000000000000
+      internalID: 5508743370960757483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0c74b7bb9bcce0800000000000000
+      internalID: -1383841247176945705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f834a19e19aa1180800000000000000
+      internalID: -9143810144664798986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017c94e5a4753af0800000000000000
+      internalID: -417299134608019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62fbbf6fecc62d0800000000000000
+      internalID: -3284022468079048965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cced78e706badf60800000000000000
+      internalID: 8059954628214516929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8a94660dfa62f0800000000000000
+      internalID: -978691765100179737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46242dd34328e3910800000000000000
+      internalID: 1819034460391359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d99838b18f92d0800000000000000
+      internalID: -3269752176224118581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1314378f136c93910800000000000000
+      internalID: 1817701842544705841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112018856fcd9610800000000000000
+      internalID: 1629686675159392540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e6246b82720b240800000000000000
+      internalID: 4805383858214301318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b25c40b62d288b80800000000000000
+      internalID: -8392408261415120205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cda76b587425b20800000000000000
+      internalID: 3121636131338902529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ffc1afa611f970800000000000000
+      internalID: 8786829291566396245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ec10c3f3df2c50800000000000000
+      internalID: 6642761019248404374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f579c1573cd947a0800000000000000
+      internalID: -6392336065922238987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a4552a5f4433af0800000000000000
+      internalID: -417914518634149308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774dbd6da5355580800000000000000
+      internalID: -8839099674657994885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9818f1a7d019510800000000000000
+      internalID: 1554038164585286092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41810e466cb6abf90800000000000000
+      internalID: -6937113776170723308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67e5e149e7a3830800000000000000
+      internalID: 4051689989402949321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc9b2c78b3962a90800000000000000
+      internalID: -7339016122187146032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73f3cb8ed7c4bff0800000000000000
+      internalID: -21172339588467842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b162b11fb906b10800000000000000
+      internalID: 1972748096633183043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd86a3cd7787300800000000000000
+      internalID: 250081567075523949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d0bb025a45cfb0800000000000000
+      internalID: -4628211325809403801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ddd682b746b2a20800000000000000
+      internalID: 3038632853713575290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52cbba768395c30800000000000000
+      internalID: 4348568933116945858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d529a4ff0d6d27520800000000000000
+      internalID: 2698455319872967261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68060b27ee1c00250800000000000000
+      internalID: 5908935940980629638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac6810a3cdfca320800000000000000
+      internalID: 2570708503968115882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2d9200edd7de70800000000000000
+      internalID: 9140017922957979620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351886cb4beab6cb0800000000000000
+      internalID: -4869606480792747693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b7a5b4a36ccea0800000000000000
+      internalID: -5851192256787663293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927fa814821804700800000000000000
+      internalID: 522559566673278761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da569f42558e258b0800000000000000
+      internalID: -5164810370250349139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0396094e6fc308ba0800000000000000
+      internalID: -6088799665110619856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d698b9237e376b00800000000000000
+      internalID: 821694121360529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1816dd1b96afb030800000000000000
+      internalID: 3512709419522988060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5468af5c1dd33a250800000000000000
+      internalID: 5954671103492916805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c90967099fdd8160800000000000000
+      internalID: 7029520441742526921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b1af49ebc38150800000000000000
+      internalID: 5873762541945074887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32014515a13884750800000000000000
+      internalID: 6289421028679749667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50849831109e20ba0800000000000000
+      internalID: -6124076352438450171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9219f91d53e0760800000000000000
+      internalID: 7425932010022054374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965806a1cf9a510b0800000000000000
+      internalID: -5758509648283925143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b6eba056ecec4a0800000000000000
+      internalID: -6571087872919704777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315aa58eb33e61470800000000000000
+      internalID: 8365123204328105235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb92eb4edb944a30800000000000000
+      internalID: 4198652131674332091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83468e883cb3da9a0800000000000000
+      internalID: -6220249799327194056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef221fbdde3770990800000000000000
+      internalID: -7419834395635145986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a57de0b37dac210800000000000000
+      internalID: 1354131286630292031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b984d40c576a80800000000000000
+      internalID: -8473702998058879062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f767390f9bea30800000000000000
+      internalID: 4245661935659906363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c232b62cc127e40800000000000000
+      internalID: 5652612103650094237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8c0ecad858703b0800000000000000
+      internalID: -5546317572546180898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507ab56d8dc1b120800000000000000
+      internalID: 2427947681310208083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27046213b9ad01970800000000000000
+      internalID: 8723712838296027250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0bc79aeec96ba30800000000000000
+      internalID: 4230741448820830449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogfolk_Warrior_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cecfde7b54fadb0800000000000000
+      internalID: -4778524023342699361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frogfolk_Warrior_Idle_0: -1067455936890291568
+      Frogfolk_Warrior_Idle_1: 6541082832996784751
+      Frogfolk_Warrior_Idle_10: 1819034460391359076
+      Frogfolk_Warrior_Idle_11: -3269752176224118581
+      Frogfolk_Warrior_Idle_12: 1817701842544705841
+      Frogfolk_Warrior_Idle_13: 1629686675159392540
+      Frogfolk_Warrior_Idle_14: 4805383858214301318
+      Frogfolk_Warrior_Idle_15: -8392408261415120205
+      Frogfolk_Warrior_Idle_16: 3121636131338902529
+      Frogfolk_Warrior_Idle_17: 8786829291566396245
+      Frogfolk_Warrior_Idle_18: 6642761019248404374
+      Frogfolk_Warrior_Idle_19: -6392336065922238987
+      Frogfolk_Warrior_Idle_2: 1457609906591018395
+      Frogfolk_Warrior_Idle_20: -417914518634149308
+      Frogfolk_Warrior_Idle_21: -8839099674657994885
+      Frogfolk_Warrior_Idle_22: 1554038164585286092
+      Frogfolk_Warrior_Idle_23: -6937113776170723308
+      Frogfolk_Warrior_Idle_24: 4051689989402949321
+      Frogfolk_Warrior_Idle_25: -7339016122187146032
+      Frogfolk_Warrior_Idle_26: -21172339588467842
+      Frogfolk_Warrior_Idle_27: 1972748096633183043
+      Frogfolk_Warrior_Idle_28: 250081567075523949
+      Frogfolk_Warrior_Idle_29: -4628211325809403801
+      Frogfolk_Warrior_Idle_3: 5508743370960757483
+      Frogfolk_Warrior_Idle_30: 3038632853713575290
+      Frogfolk_Warrior_Idle_31: 4348568933116945858
+      Frogfolk_Warrior_Idle_32: 2698455319872967261
+      Frogfolk_Warrior_Idle_33: 5908935940980629638
+      Frogfolk_Warrior_Idle_34: 2570708503968115882
+      Frogfolk_Warrior_Idle_35: 9140017922957979620
+      Frogfolk_Warrior_Idle_36: -4869606480792747693
+      Frogfolk_Warrior_Idle_37: -5851192256787663293
+      Frogfolk_Warrior_Idle_38: 522559566673278761
+      Frogfolk_Warrior_Idle_39: -5164810370250349139
+      Frogfolk_Warrior_Idle_4: -1383841247176945705
+      Frogfolk_Warrior_Idle_40: -6088799665110619856
+      Frogfolk_Warrior_Idle_41: 821694121360529106
+      Frogfolk_Warrior_Idle_42: 3512709419522988060
+      Frogfolk_Warrior_Idle_43: 5954671103492916805
+      Frogfolk_Warrior_Idle_44: 7029520441742526921
+      Frogfolk_Warrior_Idle_45: 5873762541945074887
+      Frogfolk_Warrior_Idle_46: 6289421028679749667
+      Frogfolk_Warrior_Idle_47: -6124076352438450171
+      Frogfolk_Warrior_Idle_48: 7425932010022054374
+      Frogfolk_Warrior_Idle_49: -5758509648283925143
+      Frogfolk_Warrior_Idle_5: -9143810144664798986
+      Frogfolk_Warrior_Idle_50: -6571087872919704777
+      Frogfolk_Warrior_Idle_51: 8365123204328105235
+      Frogfolk_Warrior_Idle_52: 4198652131674332091
+      Frogfolk_Warrior_Idle_53: -6220249799327194056
+      Frogfolk_Warrior_Idle_54: -7419834395635145986
+      Frogfolk_Warrior_Idle_55: 1354131286630292031
+      Frogfolk_Warrior_Idle_56: -8473702998058879062
+      Frogfolk_Warrior_Idle_57: 4245661935659906363
+      Frogfolk_Warrior_Idle_58: 5652612103650094237
+      Frogfolk_Warrior_Idle_59: -5546317572546180898
+      Frogfolk_Warrior_Idle_6: -417299134608019192
+      Frogfolk_Warrior_Idle_60: 2427947681310208083
+      Frogfolk_Warrior_Idle_61: 8723712838296027250
+      Frogfolk_Warrior_Idle_62: 4230741448820830449
+      Frogfolk_Warrior_Idle_63: -4778524023342699361
+      Frogfolk_Warrior_Idle_7: -3284022468079048965
+      Frogfolk_Warrior_Idle_8: 8059954628214516929
+      Frogfolk_Warrior_Idle_9: -978691765100179737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

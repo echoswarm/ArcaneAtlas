@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: b5df2dd1fb672534a8279ce84a700d62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7229483753686099455
+    second: Dark_Priest_Idle_0
+  - first:
+      213: 5263652054715270826
+    second: Dark_Priest_Idle_1
+  - first:
+      213: 8390981851978211863
+    second: Dark_Priest_Idle_2
+  - first:
+      213: 1840784572425227841
+    second: Dark_Priest_Idle_3
+  - first:
+      213: 1948460646299321986
+    second: Dark_Priest_Idle_4
+  - first:
+      213: 6114808091552330458
+    second: Dark_Priest_Idle_5
+  - first:
+      213: -1960047895765488683
+    second: Dark_Priest_Idle_6
+  - first:
+      213: 933328611045701076
+    second: Dark_Priest_Idle_7
+  - first:
+      213: -5160700600530482041
+    second: Dark_Priest_Idle_8
+  - first:
+      213: -2074858124381942775
+    second: Dark_Priest_Idle_9
+  - first:
+      213: 8219115127203824429
+    second: Dark_Priest_Idle_10
+  - first:
+      213: -5407080726857980613
+    second: Dark_Priest_Idle_11
+  - first:
+      213: 2792288058529483412
+    second: Dark_Priest_Idle_12
+  - first:
+      213: -4587966741530717945
+    second: Dark_Priest_Idle_13
+  - first:
+      213: 2967391460218880420
+    second: Dark_Priest_Idle_14
+  - first:
+      213: -1738244046707909051
+    second: Dark_Priest_Idle_15
+  - first:
+      213: -3683850833296631184
+    second: Dark_Priest_Idle_16
+  - first:
+      213: -8939427514708285145
+    second: Dark_Priest_Idle_17
+  - first:
+      213: -2991738302634966344
+    second: Dark_Priest_Idle_18
+  - first:
+      213: -9129768291045058426
+    second: Dark_Priest_Idle_19
+  - first:
+      213: -8851343178332846830
+    second: Dark_Priest_Idle_20
+  - first:
+      213: -8800561830291710174
+    second: Dark_Priest_Idle_21
+  - first:
+      213: -7599996721137243186
+    second: Dark_Priest_Idle_22
+  - first:
+      213: -2324805403033282019
+    second: Dark_Priest_Idle_23
+  - first:
+      213: 2799067956632097798
+    second: Dark_Priest_Idle_24
+  - first:
+      213: 4507765384406476108
+    second: Dark_Priest_Idle_25
+  - first:
+      213: -6775409860694646372
+    second: Dark_Priest_Idle_26
+  - first:
+      213: 8077308120153091025
+    second: Dark_Priest_Idle_27
+  - first:
+      213: -833390624958301535
+    second: Dark_Priest_Idle_28
+  - first:
+      213: 2812750622791005066
+    second: Dark_Priest_Idle_29
+  - first:
+      213: 4159663788113460679
+    second: Dark_Priest_Idle_30
+  - first:
+      213: -1993141093286333898
+    second: Dark_Priest_Idle_31
+  - first:
+      213: 489674974504754713
+    second: Dark_Priest_Idle_32
+  - first:
+      213: 1058411154897959324
+    second: Dark_Priest_Idle_33
+  - first:
+      213: -5584851318533969242
+    second: Dark_Priest_Idle_34
+  - first:
+      213: 5211917635119893847
+    second: Dark_Priest_Idle_35
+  - first:
+      213: 82392438129600309
+    second: Dark_Priest_Idle_36
+  - first:
+      213: -2154024280898752004
+    second: Dark_Priest_Idle_37
+  - first:
+      213: 1619040195395212761
+    second: Dark_Priest_Idle_38
+  - first:
+      213: 8094901159404150586
+    second: Dark_Priest_Idle_39
+  - first:
+      213: 659057404424542321
+    second: Dark_Priest_Idle_40
+  - first:
+      213: -5892499231002772355
+    second: Dark_Priest_Idle_41
+  - first:
+      213: -7189758675746327067
+    second: Dark_Priest_Idle_42
+  - first:
+      213: 5391588396766812575
+    second: Dark_Priest_Idle_43
+  - first:
+      213: 5313869859756323246
+    second: Dark_Priest_Idle_44
+  - first:
+      213: -2195898494106112485
+    second: Dark_Priest_Idle_45
+  - first:
+      213: 2169042321694771834
+    second: Dark_Priest_Idle_46
+  - first:
+      213: -4549408645894983006
+    second: Dark_Priest_Idle_47
+  - first:
+      213: 6426592116884768580
+    second: Dark_Priest_Idle_48
+  - first:
+      213: 2250521865789894442
+    second: Dark_Priest_Idle_49
+  - first:
+      213: -3532524851166769721
+    second: Dark_Priest_Idle_50
+  - first:
+      213: -368044415240165688
+    second: Dark_Priest_Idle_51
+  - first:
+      213: 7083601024066634181
+    second: Dark_Priest_Idle_52
+  - first:
+      213: 3274611170495780490
+    second: Dark_Priest_Idle_53
+  - first:
+      213: 6418408294232974690
+    second: Dark_Priest_Idle_54
+  - first:
+      213: -8577893360785046514
+    second: Dark_Priest_Idle_55
+  - first:
+      213: 3559773738824389917
+    second: Dark_Priest_Idle_56
+  - first:
+      213: -7109705548639287014
+    second: Dark_Priest_Idle_57
+  - first:
+      213: 1215721343620298680
+    second: Dark_Priest_Idle_58
+  - first:
+      213: -4728102118099474303
+    second: Dark_Priest_Idle_59
+  - first:
+      213: 1997277211030640377
+    second: Dark_Priest_Idle_60
+  - first:
+      213: 2137498110091557609
+    second: Dark_Priest_Idle_61
+  - first:
+      213: 8199555206656957995
+    second: Dark_Priest_Idle_62
+  - first:
+      213: 8124930123744299590
+    second: Dark_Priest_Idle_63
+  - first:
+      213: 2965859815392227594
+    second: Dark_Priest_Idle_64
+  - first:
+      213: -1622962910097630257
+    second: Dark_Priest_Idle_65
+  - first:
+      213: -3414356696383278760
+    second: Dark_Priest_Idle_66
+  - first:
+      213: 1864062672439605421
+    second: Dark_Priest_Idle_67
+  - first:
+      213: -1058256605348630682
+    second: Dark_Priest_Idle_68
+  - first:
+      213: -8421184649514735849
+    second: Dark_Priest_Idle_69
+  - first:
+      213: 886898948650131232
+    second: Dark_Priest_Idle_70
+  - first:
+      213: 7594781161009781201
+    second: Dark_Priest_Idle_71
+  - first:
+      213: 9199448138036616994
+    second: Dark_Priest_Idle_72
+  - first:
+      213: -657710642625215893
+    second: Dark_Priest_Idle_73
+  - first:
+      213: -9105644773825307863
+    second: Dark_Priest_Idle_74
+  - first:
+      213: 199342572154254932
+    second: Dark_Priest_Idle_75
+  - first:
+      213: -3253290735973274864
+    second: Dark_Priest_Idle_76
+  - first:
+      213: 2497788317588120508
+    second: Dark_Priest_Idle_77
+  - first:
+      213: 9141398136488087201
+    second: Dark_Priest_Idle_78
+  - first:
+      213: 3019503406500002493
+    second: Dark_Priest_Idle_79
+  - first:
+      213: -5140768037542952260
+    second: Dark_Priest_Idle_80
+  - first:
+      213: -834074563646136630
+    second: Dark_Priest_Idle_81
+  - first:
+      213: 248273981269689336
+    second: Dark_Priest_Idle_82
+  - first:
+      213: -3132647913188341273
+    second: Dark_Priest_Idle_83
+  - first:
+      213: 4169696319291891059
+    second: Dark_Priest_Idle_84
+  - first:
+      213: 7375015997430425612
+    second: Dark_Priest_Idle_85
+  - first:
+      213: -8455295795320318394
+    second: Dark_Priest_Idle_86
+  - first:
+      213: -57463374371520008
+    second: Dark_Priest_Idle_87
+  - first:
+      213: 8115307365481436348
+    second: Dark_Priest_Idle_88
+  - first:
+      213: 5503482108567749158
+    second: Dark_Priest_Idle_89
+  - first:
+      213: 2681707756412602329
+    second: Dark_Priest_Idle_90
+  - first:
+      213: -1121474672299839604
+    second: Dark_Priest_Idle_91
+  - first:
+      213: 3702049786073001158
+    second: Dark_Priest_Idle_92
+  - first:
+      213: 7163779666543621440
+    second: Dark_Priest_Idle_93
+  - first:
+      213: 2549932049395757506
+    second: Dark_Priest_Idle_94
+  - first:
+      213: -8677132009483737622
+    second: Dark_Priest_Idle_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a151854d6bbab90800000000000000
+      internalID: -7229483753686099455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa60f8ed7af3c0940800000000000000
+      internalID: 5263652054715270826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71229eb7981c27470800000000000000
+      internalID: 8390981851978211863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ecc63d0d7cb8910800000000000000
+      internalID: 1840784572425227841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cf7962a25a0b10800000000000000
+      internalID: 1948460646299321986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad239a6cf892cd450800000000000000
+      internalID: 6114808091552330458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6526d2d28cc4e0800000000000000
+      internalID: -1960047895765488683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d576104d69d3fc00800000000000000
+      internalID: 933328611045701076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c4c3975228168b0800000000000000
+      internalID: -5160700600530482041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c81e8678f9433e0800000000000000
+      internalID: -2074858124381942775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23060559a9201270800000000000000
+      internalID: 8219115127203824429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e4c31ab036f4b0800000000000000
+      internalID: -5407080726857980613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a073fe13330c620800000000000000
+      internalID: 2792288058529483412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70151c18e844450c0800000000000000
+      internalID: -4587966741530717945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1cfd7afca4e2920800000000000000
+      internalID: 2967391460218880420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e9907cf3480e7e0800000000000000
+      internalID: -1738244046707909051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ad3db5f2550ecc0800000000000000
+      internalID: -3683850833296631184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729a57ad906c0f380800000000000000
+      internalID: -8939427514708285145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2438a5dd53b76d0800000000000000
+      internalID: -2991738302634966344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68852a26c1c8c4180800000000000000
+      internalID: -9129768291045058426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215c4669646b92580800000000000000
+      internalID: -8851343178332846830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd99984af1ed580800000000000000
+      internalID: -8800561830291710174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb2b76af33678690800000000000000
+      internalID: -7599996721137243186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ada44adc1acbfd0800000000000000
+      internalID: -2324805403033282019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041c39f97948d620800000000000000
+      internalID: 2799067956632097798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45a954ebbcce8e30800000000000000
+      internalID: 4507765384406476108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ed9d11a8e8f1a0800000000000000
+      internalID: -6775409860694646372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6a1b90fc581070800000000000000
+      internalID: 8077308120153091025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa383064a33f64f0800000000000000
+      internalID: -833390624958301535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a837731f9c5e80720800000000000000
+      internalID: 2812750622791005066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdfe8b2d281ab930800000000000000
+      internalID: 4159663788113460679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6323f6b5cb0f654e0800000000000000
+      internalID: -1993141093286333898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e11ce7bccabc600800000000000000
+      internalID: 489674974504754713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f002765b30be00800000000000000
+      internalID: 1058411154897959324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa296bc05f9e72b0800000000000000
+      internalID: -5584851318533969242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4ae7a973745840800000000000000
+      internalID: 5211917635119893847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a4e66c77b42100800000000000000
+      internalID: 82392438129600309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b67b345e5b12e0800000000000000
+      internalID: -2154024280898752004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55c9bca7cf77610800000000000000
+      internalID: 1619040195395212761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f9e2247bdd65070800000000000000
+      internalID: 8094901159404150586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d05da731752900800000000000000
+      internalID: 659057404424542321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c31d05b23a93ea0800000000000000
+      internalID: -5892499231002772355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57b5fc398d83c90800000000000000
+      internalID: -7189758675746327067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99576cb415c2da40800000000000000
+      internalID: 5391588396766812575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea13e6dbb78aeb940800000000000000
+      internalID: 5313869859756323246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e6df734f99681e0800000000000000
+      internalID: -2195898494106112485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac76fdf7cf91e10800000000000000
+      internalID: 2169042321694771834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 76
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b65bb0f04dd0c0800000000000000
+      internalID: -4549408645894983006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470e331b77df2950800000000000000
+      internalID: 6426592116884768580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe7a196b57b3f10800000000000000
+      internalID: 2250521865789894442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd07fd2d53f9fec0800000000000000
+      internalID: -3532524851166769721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c62b08ed8174eaf0800000000000000
+      internalID: -368044415240165688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1c512d9910e4260800000000000000
+      internalID: 7083601024066634181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a865dea8281c17d20800000000000000
+      internalID: 3274611170495780490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656d216654c21950800000000000000
+      internalID: 6418408294232974690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c93d9f6335f880800000000000000
+      internalID: -8577893360785046514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15546fda5bd66130800000000000000
+      internalID: 3559773738824389917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194bbbe870455d90800000000000000
+      internalID: -7109705548639287014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b73950fe1c1fd010800000000000000
+      internalID: 1215721343620298680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a8e49c28626eb0800000000000000
+      internalID: -4728102118099474303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6d6799a01c7bb10800000000000000
+      internalID: 1997277211030640377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7318c43be9ad10800000000000000
+      internalID: 2137498110091557609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1ef0740caac170800000000000000
+      internalID: 8199555206656957995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a46aa56ec81c070800000000000000
+      internalID: 8124930123744299590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_64
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a013f0ec9c9d82920800000000000000
+      internalID: 2965859815392227594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb1ff305d31a79e0800000000000000
+      internalID: -1622962910097630257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_66
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8513997bca4cd90d0800000000000000
+      internalID: -3414356696383278760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_67
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f3d5df1b7ed910800000000000000
+      internalID: 1864062672439605421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_68
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66febfc69315051f0800000000000000
+      internalID: -1058256605348630682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_69
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a3b9bd21f12b80800000000000000
+      internalID: -8421184649514735849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_70
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f55f115e5ee4c00800000000000000
+      internalID: 886898948650131232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_71
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 44
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d911d02a35166960800000000000000
+      internalID: 7594781161009781201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f1d4d37510baf70800000000000000
+      internalID: 9199448138036616994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62845db7a75fd6f0800000000000000
+      internalID: -657710642625215893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b104d625042a180800000000000000
+      internalID: -9105644773825307863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fdd1630534c200800000000000000
+      internalID: 199342572154254932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b6e33ff4df9d2d0800000000000000
+      internalID: -3253290735973274864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3e5f1bd3de9a220800000000000000
+      internalID: 2497788317588120508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4ac30c25ccde70800000000000000
+      internalID: 9141398136488087201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab386a95e67e920800000000000000
+      internalID: 3019503406500002493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb20291f4b258a8b0800000000000000
+      internalID: -5140768037542952260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acedead7a95cc64f0800000000000000
+      internalID: -834074563646136630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34d8cdedb027300800000000000000
+      internalID: 248273981269689336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94a0802599684d0800000000000000
+      internalID: -3132647913188341273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d95acd5bcbdd930800000000000000
+      internalID: 4169696319291891059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_85
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e9a3a9f1595660800000000000000
+      internalID: 7375015997430425612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_86
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461411b541c8aa80800000000000000
+      internalID: -8455295795320318394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_87
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f18dfe8d59d33ff0800000000000000
+      internalID: -57463374371520008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_88
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d1aa5d0d5f9070800000000000000
+      internalID: 8115307365481436348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_89
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62206eca1db406c40800000000000000
+      internalID: 5503482108567749158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_90
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d702640ff6573520800000000000000
+      internalID: 2681707756412602329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f68f43ab8bf60f0800000000000000
+      internalID: -1121474672299839604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_92
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc21b78aa2506330800000000000000
+      internalID: 3702049786073001158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_93
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045bf71c6abda6360800000000000000
+      internalID: 7163779666543621440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_94
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c13e9550bd236320800000000000000
+      internalID: 2549932049395757506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Priest_Idle_95
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ec892962a49780800000000000000
+      internalID: -8677132009483737622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark_Priest_Idle_0: -7229483753686099455
+      Dark_Priest_Idle_1: 5263652054715270826
+      Dark_Priest_Idle_10: 8219115127203824429
+      Dark_Priest_Idle_11: -5407080726857980613
+      Dark_Priest_Idle_12: 2792288058529483412
+      Dark_Priest_Idle_13: -4587966741530717945
+      Dark_Priest_Idle_14: 2967391460218880420
+      Dark_Priest_Idle_15: -1738244046707909051
+      Dark_Priest_Idle_16: -3683850833296631184
+      Dark_Priest_Idle_17: -8939427514708285145
+      Dark_Priest_Idle_18: -2991738302634966344
+      Dark_Priest_Idle_19: -9129768291045058426
+      Dark_Priest_Idle_2: 8390981851978211863
+      Dark_Priest_Idle_20: -8851343178332846830
+      Dark_Priest_Idle_21: -8800561830291710174
+      Dark_Priest_Idle_22: -7599996721137243186
+      Dark_Priest_Idle_23: -2324805403033282019
+      Dark_Priest_Idle_24: 2799067956632097798
+      Dark_Priest_Idle_25: 4507765384406476108
+      Dark_Priest_Idle_26: -6775409860694646372
+      Dark_Priest_Idle_27: 8077308120153091025
+      Dark_Priest_Idle_28: -833390624958301535
+      Dark_Priest_Idle_29: 2812750622791005066
+      Dark_Priest_Idle_3: 1840784572425227841
+      Dark_Priest_Idle_30: 4159663788113460679
+      Dark_Priest_Idle_31: -1993141093286333898
+      Dark_Priest_Idle_32: 489674974504754713
+      Dark_Priest_Idle_33: 1058411154897959324
+      Dark_Priest_Idle_34: -5584851318533969242
+      Dark_Priest_Idle_35: 5211917635119893847
+      Dark_Priest_Idle_36: 82392438129600309
+      Dark_Priest_Idle_37: -2154024280898752004
+      Dark_Priest_Idle_38: 1619040195395212761
+      Dark_Priest_Idle_39: 8094901159404150586
+      Dark_Priest_Idle_4: 1948460646299321986
+      Dark_Priest_Idle_40: 659057404424542321
+      Dark_Priest_Idle_41: -5892499231002772355
+      Dark_Priest_Idle_42: -7189758675746327067
+      Dark_Priest_Idle_43: 5391588396766812575
+      Dark_Priest_Idle_44: 5313869859756323246
+      Dark_Priest_Idle_45: -2195898494106112485
+      Dark_Priest_Idle_46: 2169042321694771834
+      Dark_Priest_Idle_47: -4549408645894983006
+      Dark_Priest_Idle_48: 6426592116884768580
+      Dark_Priest_Idle_49: 2250521865789894442
+      Dark_Priest_Idle_5: 6114808091552330458
+      Dark_Priest_Idle_50: -3532524851166769721
+      Dark_Priest_Idle_51: -368044415240165688
+      Dark_Priest_Idle_52: 7083601024066634181
+      Dark_Priest_Idle_53: 3274611170495780490
+      Dark_Priest_Idle_54: 6418408294232974690
+      Dark_Priest_Idle_55: -8577893360785046514
+      Dark_Priest_Idle_56: 3559773738824389917
+      Dark_Priest_Idle_57: -7109705548639287014
+      Dark_Priest_Idle_58: 1215721343620298680
+      Dark_Priest_Idle_59: -4728102118099474303
+      Dark_Priest_Idle_6: -1960047895765488683
+      Dark_Priest_Idle_60: 1997277211030640377
+      Dark_Priest_Idle_61: 2137498110091557609
+      Dark_Priest_Idle_62: 8199555206656957995
+      Dark_Priest_Idle_63: 8124930123744299590
+      Dark_Priest_Idle_64: 2965859815392227594
+      Dark_Priest_Idle_65: -1622962910097630257
+      Dark_Priest_Idle_66: -3414356696383278760
+      Dark_Priest_Idle_67: 1864062672439605421
+      Dark_Priest_Idle_68: -1058256605348630682
+      Dark_Priest_Idle_69: -8421184649514735849
+      Dark_Priest_Idle_7: 933328611045701076
+      Dark_Priest_Idle_70: 886898948650131232
+      Dark_Priest_Idle_71: 7594781161009781201
+      Dark_Priest_Idle_72: 9199448138036616994
+      Dark_Priest_Idle_73: -657710642625215893
+      Dark_Priest_Idle_74: -9105644773825307863
+      Dark_Priest_Idle_75: 199342572154254932
+      Dark_Priest_Idle_76: -3253290735973274864
+      Dark_Priest_Idle_77: 2497788317588120508
+      Dark_Priest_Idle_78: 9141398136488087201
+      Dark_Priest_Idle_79: 3019503406500002493
+      Dark_Priest_Idle_8: -5160700600530482041
+      Dark_Priest_Idle_80: -5140768037542952260
+      Dark_Priest_Idle_81: -834074563646136630
+      Dark_Priest_Idle_82: 248273981269689336
+      Dark_Priest_Idle_83: -3132647913188341273
+      Dark_Priest_Idle_84: 4169696319291891059
+      Dark_Priest_Idle_85: 7375015997430425612
+      Dark_Priest_Idle_86: -8455295795320318394
+      Dark_Priest_Idle_87: -57463374371520008
+      Dark_Priest_Idle_88: 8115307365481436348
+      Dark_Priest_Idle_89: 5503482108567749158
+      Dark_Priest_Idle_9: -2074858124381942775
+      Dark_Priest_Idle_90: 2681707756412602329
+      Dark_Priest_Idle_91: -1121474672299839604
+      Dark_Priest_Idle_92: 3702049786073001158
+      Dark_Priest_Idle_93: 7163779666543621440
+      Dark_Priest_Idle_94: 2549932049395757506
+      Dark_Priest_Idle_95: -8677132009483737622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

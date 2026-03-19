@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 3110ad5b6eaf78640b872702e9cfd36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1719699290981622108
+    second: Butcher_Idle_0
+  - first:
+      213: 3890489302445584919
+    second: Butcher_Idle_1
+  - first:
+      213: 5395502594118053619
+    second: Butcher_Idle_2
+  - first:
+      213: 8767875580171485185
+    second: Butcher_Idle_3
+  - first:
+      213: 7630136360667552835
+    second: Butcher_Idle_4
+  - first:
+      213: -4063006027910473027
+    second: Butcher_Idle_5
+  - first:
+      213: -6596885092772057621
+    second: Butcher_Idle_6
+  - first:
+      213: -2768954237444306880
+    second: Butcher_Idle_7
+  - first:
+      213: -4735496008168613034
+    second: Butcher_Idle_8
+  - first:
+      213: 5351601136334130287
+    second: Butcher_Idle_9
+  - first:
+      213: -8021860484348190814
+    second: Butcher_Idle_10
+  - first:
+      213: -8340794734908856790
+    second: Butcher_Idle_11
+  - first:
+      213: -2252684863304087727
+    second: Butcher_Idle_12
+  - first:
+      213: -8969273577771093425
+    second: Butcher_Idle_13
+  - first:
+      213: 6684740823123902951
+    second: Butcher_Idle_14
+  - first:
+      213: -4566622416472966977
+    second: Butcher_Idle_15
+  - first:
+      213: 5155897587273097854
+    second: Butcher_Idle_16
+  - first:
+      213: 229088972126778555
+    second: Butcher_Idle_17
+  - first:
+      213: -8249463364389743424
+    second: Butcher_Idle_18
+  - first:
+      213: -1332454066483179485
+    second: Butcher_Idle_19
+  - first:
+      213: -4596732694740664944
+    second: Butcher_Idle_20
+  - first:
+      213: 1033425646340923290
+    second: Butcher_Idle_21
+  - first:
+      213: -6321515388073848407
+    second: Butcher_Idle_22
+  - first:
+      213: -3169378107306140475
+    second: Butcher_Idle_23
+  - first:
+      213: -9025886120260252043
+    second: Butcher_Idle_24
+  - first:
+      213: 4707050255397383486
+    second: Butcher_Idle_25
+  - first:
+      213: 4348560947155709771
+    second: Butcher_Idle_26
+  - first:
+      213: -6532892142633066609
+    second: Butcher_Idle_27
+  - first:
+      213: -1092650802836045176
+    second: Butcher_Idle_28
+  - first:
+      213: 1263041392053189914
+    second: Butcher_Idle_29
+  - first:
+      213: -3846460839774446140
+    second: Butcher_Idle_30
+  - first:
+      213: 6642980424081865463
+    second: Butcher_Idle_31
+  - first:
+      213: 7459256101616176142
+    second: Butcher_Idle_32
+  - first:
+      213: 2713224417129807393
+    second: Butcher_Idle_33
+  - first:
+      213: 7966584537559884675
+    second: Butcher_Idle_34
+  - first:
+      213: 6081486781639564715
+    second: Butcher_Idle_35
+  - first:
+      213: -4171722118968555635
+    second: Butcher_Idle_36
+  - first:
+      213: 3995956641697446704
+    second: Butcher_Idle_37
+  - first:
+      213: 2591934494027721025
+    second: Butcher_Idle_38
+  - first:
+      213: 7322065101671628897
+    second: Butcher_Idle_39
+  - first:
+      213: -6291165079859992044
+    second: Butcher_Idle_40
+  - first:
+      213: -4507145630053576094
+    second: Butcher_Idle_41
+  - first:
+      213: 3836591443768497317
+    second: Butcher_Idle_42
+  - first:
+      213: 3205988018506657183
+    second: Butcher_Idle_43
+  - first:
+      213: -4779715057074366752
+    second: Butcher_Idle_44
+  - first:
+      213: 1014551979255525831
+    second: Butcher_Idle_45
+  - first:
+      213: -7743221756499604692
+    second: Butcher_Idle_46
+  - first:
+      213: -3321613109680860673
+    second: Butcher_Idle_47
+  - first:
+      213: -3026651814455826102
+    second: Butcher_Idle_48
+  - first:
+      213: -4735132550797700992
+    second: Butcher_Idle_49
+  - first:
+      213: -2271534282830185392
+    second: Butcher_Idle_50
+  - first:
+      213: 5356531479022100778
+    second: Butcher_Idle_51
+  - first:
+      213: 2316257042368578611
+    second: Butcher_Idle_52
+  - first:
+      213: 2788542490447612231
+    second: Butcher_Idle_53
+  - first:
+      213: -8198355179419414145
+    second: Butcher_Idle_54
+  - first:
+      213: 5328204260168674363
+    second: Butcher_Idle_55
+  - first:
+      213: -9174471310039729406
+    second: Butcher_Idle_56
+  - first:
+      213: -5867985090767490552
+    second: Butcher_Idle_57
+  - first:
+      213: 1007742775282800042
+    second: Butcher_Idle_58
+  - first:
+      213: 5036386724752016035
+    second: Butcher_Idle_59
+  - first:
+      213: 6697233985547333922
+    second: Butcher_Idle_60
+  - first:
+      213: 5463734571177932076
+    second: Butcher_Idle_61
+  - first:
+      213: 2427751194099077806
+    second: Butcher_Idle_62
+  - first:
+      213: -1701719760825456489
+    second: Butcher_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Butcher_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae9c803b966228e0800000000000000
+      internalID: -1719699290981622108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f9ba686bcdf530800000000000000
+      internalID: 3890489302445584919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feea13d50da0ea40800000000000000
+      internalID: 5395502594118053619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10081fec260cda970800000000000000
+      internalID: 8767875580171485185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c91650890b3e960800000000000000
+      internalID: 7630136360667552835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba102a5b8d4d97c0800000000000000
+      internalID: -4063006027910473027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed604db5f72374a0800000000000000
+      internalID: -6596885092772057621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c1d5aac2b299d0800000000000000
+      internalID: -2768954237444306880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b54d56873284eb0800000000000000
+      internalID: -4735496008168613034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc5c621e4b44a40800000000000000
+      internalID: 5351601136334130287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdea02460aca090800000000000000
+      internalID: -8021860484348190814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a262f49416b8f3c80800000000000000
+      internalID: -8340794734908856790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574cd35d0bdcb0e0800000000000000
+      internalID: -2252684863304087727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4238a7c33db68380800000000000000
+      internalID: -8969273577771093425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e14ad18c58f4cc50800000000000000
+      internalID: 6684740823123902951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8fac27b1910a0c0800000000000000
+      internalID: -4566622416472966977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e4bbd98d6d8740800000000000000
+      internalID: 5155897587273097854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb47395d433ed2300800000000000000
+      internalID: 229088972126778555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c453f117c4048d80800000000000000
+      internalID: -8249463364389743424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320debf061c228de0800000000000000
+      internalID: -1332454066483179485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dfe8af7ff1530c0800000000000000
+      internalID: -4596732694740664944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fdde76627775e00800000000000000
+      internalID: 1033425646340923290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a151b35f377548a0800000000000000
+      internalID: -6321515388073848407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1e1b476b1404d0800000000000000
+      internalID: -3169378107306140475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e42c2156c9db280800000000000000
+      internalID: -9025886120260252043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6fdca44dc25140800000000000000
+      internalID: 4707050255397383486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f2a5b4421395c30800000000000000
+      internalID: 4348560947155709771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f5a6285318655a0800000000000000
+      internalID: -6532892142633066609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882896942ef16d0f0800000000000000
+      internalID: -1092650802836045176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df1f54479378110800000000000000
+      internalID: 1263041392053189914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd1bc2ee30ae9ac0800000000000000
+      internalID: -3846460839774446140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf54bef7b903c50800000000000000
+      internalID: 6642980424081865463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c4f7157e9948760800000000000000
+      internalID: 7459256101616176142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e30fa6b3f47a520800000000000000
+      internalID: 2713224417129807393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383606a9d6efe8e60800000000000000
+      internalID: 7966584537559884675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1cddb108c56450800000000000000
+      internalID: 6081486781639564715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874d35e5d01b16c0800000000000000
+      internalID: -4171722118968555635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b3d36e46d747730800000000000000
+      internalID: 3995956641697446704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149aa9d80b668f320800000000000000
+      internalID: 2591934494027721025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1600c6f7a633d9560800000000000000
+      internalID: 7322065101671628897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a6a9f11ba41b8a0800000000000000
+      internalID: -6291165079859992044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262d3b9ede66371c0800000000000000
+      internalID: -4507145630053576094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4df1a479f4e3530800000000000000
+      internalID: 3836591443768497317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6f35ed15fd7c20800000000000000
+      internalID: 3205988018506657183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e61f77ca7a0badb0800000000000000
+      internalID: -4779715057074366752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f1b956a9641e00800000000000000
+      internalID: 1014551979255525831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bc3ca76dc8a8490800000000000000
+      internalID: -7743221756499604692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11134b97247e1d0800000000000000
+      internalID: -3321613109680860673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a19ce53c2ff5d0800000000000000
+      internalID: -3026651814455826102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0805059680e694eb0800000000000000
+      internalID: -4735132550797700992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf8c8da93e970e0800000000000000
+      internalID: -2271534282830185392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a216f430009365a40800000000000000
+      internalID: 5356531479022100778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33440ea028ff42020800000000000000
+      internalID: 2316257042368578611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498638ee94e2b620800000000000000
+      internalID: 2788542490447612231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71d83ca667993e80800000000000000
+      internalID: -8198355179419414145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca31a6b8591f940800000000000000
+      internalID: 5328204260168674363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb113b3fabda080800000000000000
+      internalID: -9174471310039729406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802f38d56aab09ea0800000000000000
+      internalID: -5867985090767490552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa592b107b83cfd00800000000000000
+      internalID: 1007742775282800042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a24650da07d4e540800000000000000
+      internalID: 5036386724752016035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f83e83da51fc50800000000000000
+      internalID: 6697233985547333922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f416f4a513db40800000000000000
+      internalID: 5463734571177932076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25e4729da11b120800000000000000
+      internalID: 2427751194099077806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butcher_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7986cb4c4e64268e0800000000000000
+      internalID: -1701719760825456489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Butcher_Idle_0: -1719699290981622108
+      Butcher_Idle_1: 3890489302445584919
+      Butcher_Idle_10: -8021860484348190814
+      Butcher_Idle_11: -8340794734908856790
+      Butcher_Idle_12: -2252684863304087727
+      Butcher_Idle_13: -8969273577771093425
+      Butcher_Idle_14: 6684740823123902951
+      Butcher_Idle_15: -4566622416472966977
+      Butcher_Idle_16: 5155897587273097854
+      Butcher_Idle_17: 229088972126778555
+      Butcher_Idle_18: -8249463364389743424
+      Butcher_Idle_19: -1332454066483179485
+      Butcher_Idle_2: 5395502594118053619
+      Butcher_Idle_20: -4596732694740664944
+      Butcher_Idle_21: 1033425646340923290
+      Butcher_Idle_22: -6321515388073848407
+      Butcher_Idle_23: -3169378107306140475
+      Butcher_Idle_24: -9025886120260252043
+      Butcher_Idle_25: 4707050255397383486
+      Butcher_Idle_26: 4348560947155709771
+      Butcher_Idle_27: -6532892142633066609
+      Butcher_Idle_28: -1092650802836045176
+      Butcher_Idle_29: 1263041392053189914
+      Butcher_Idle_3: 8767875580171485185
+      Butcher_Idle_30: -3846460839774446140
+      Butcher_Idle_31: 6642980424081865463
+      Butcher_Idle_32: 7459256101616176142
+      Butcher_Idle_33: 2713224417129807393
+      Butcher_Idle_34: 7966584537559884675
+      Butcher_Idle_35: 6081486781639564715
+      Butcher_Idle_36: -4171722118968555635
+      Butcher_Idle_37: 3995956641697446704
+      Butcher_Idle_38: 2591934494027721025
+      Butcher_Idle_39: 7322065101671628897
+      Butcher_Idle_4: 7630136360667552835
+      Butcher_Idle_40: -6291165079859992044
+      Butcher_Idle_41: -4507145630053576094
+      Butcher_Idle_42: 3836591443768497317
+      Butcher_Idle_43: 3205988018506657183
+      Butcher_Idle_44: -4779715057074366752
+      Butcher_Idle_45: 1014551979255525831
+      Butcher_Idle_46: -7743221756499604692
+      Butcher_Idle_47: -3321613109680860673
+      Butcher_Idle_48: -3026651814455826102
+      Butcher_Idle_49: -4735132550797700992
+      Butcher_Idle_5: -4063006027910473027
+      Butcher_Idle_50: -2271534282830185392
+      Butcher_Idle_51: 5356531479022100778
+      Butcher_Idle_52: 2316257042368578611
+      Butcher_Idle_53: 2788542490447612231
+      Butcher_Idle_54: -8198355179419414145
+      Butcher_Idle_55: 5328204260168674363
+      Butcher_Idle_56: -9174471310039729406
+      Butcher_Idle_57: -5867985090767490552
+      Butcher_Idle_58: 1007742775282800042
+      Butcher_Idle_59: 5036386724752016035
+      Butcher_Idle_6: -6596885092772057621
+      Butcher_Idle_60: 6697233985547333922
+      Butcher_Idle_61: 5463734571177932076
+      Butcher_Idle_62: 2427751194099077806
+      Butcher_Idle_63: -1701719760825456489
+      Butcher_Idle_7: -2768954237444306880
+      Butcher_Idle_8: -4735496008168613034
+      Butcher_Idle_9: 5351601136334130287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

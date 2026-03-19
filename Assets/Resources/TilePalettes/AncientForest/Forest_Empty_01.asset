@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8353efa87a8cf47937a8589ef3f04f, type: 3}
+  m_Name: Forest_Empty_01
+  m_EditorClassIdentifier: Assembly-CSharp::ArcaneAtlas.Data.RoomTemplateData
+  TemplateName: Forest_Empty_01
+  BiomeName: AncientForest
+  AllowedTypes: 00000000
+  MinDifficultyTier: 1
+  MaxDifficultyTier: 6
+  HasExitUp: 1
+  HasExitDown: 1
+  HasExitLeft: 1
+  HasExitRight: 1
+  Prefab: {fileID: 8269830240686960746, guid: b106c0cc85241ba4b928e07745db2797, type: 3}
+  NpcSpawnPoints:
+  - {x: 0, y: 0}
+  - {x: -2, y: 1}
+  - {x: 2, y: -1}
+  PlayerSpawnDown: {x: 0, y: -3.5}
+  PlayerSpawnUp: {x: 0, y: 3.5}
+  PlayerSpawnLeft: {x: -4.5, y: 0}
+  PlayerSpawnRight: {x: 4.5, y: 0}

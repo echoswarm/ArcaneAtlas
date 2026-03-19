@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: fd08de439cf2fd740bf2b5770d7406ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2852250034409501191
+    second: Blacksmith_Idle_0
+  - first:
+      213: 1042296685870535901
+    second: Blacksmith_Idle_1
+  - first:
+      213: -3122328442913542183
+    second: Blacksmith_Idle_2
+  - first:
+      213: -6871949729102232875
+    second: Blacksmith_Idle_3
+  - first:
+      213: -7096615595448709680
+    second: Blacksmith_Idle_4
+  - first:
+      213: -2208913748556017529
+    second: Blacksmith_Idle_5
+  - first:
+      213: 620214959638059758
+    second: Blacksmith_Idle_6
+  - first:
+      213: 2109493596705898532
+    second: Blacksmith_Idle_7
+  - first:
+      213: 8531376639805591030
+    second: Blacksmith_Idle_8
+  - first:
+      213: 1078378699984585844
+    second: Blacksmith_Idle_9
+  - first:
+      213: 7287362707973145929
+    second: Blacksmith_Idle_10
+  - first:
+      213: -6427075257079238568
+    second: Blacksmith_Idle_11
+  - first:
+      213: 100824946712242857
+    second: Blacksmith_Idle_12
+  - first:
+      213: 8598672351326267940
+    second: Blacksmith_Idle_13
+  - first:
+      213: 5294071126051668165
+    second: Blacksmith_Idle_14
+  - first:
+      213: -2394596301354482397
+    second: Blacksmith_Idle_15
+  - first:
+      213: 8551270110090565502
+    second: Blacksmith_Idle_16
+  - first:
+      213: 9171433132163997812
+    second: Blacksmith_Idle_17
+  - first:
+      213: -3735783997088231755
+    second: Blacksmith_Idle_18
+  - first:
+      213: 7360335105205333343
+    second: Blacksmith_Idle_19
+  - first:
+      213: -7558415156485143986
+    second: Blacksmith_Idle_20
+  - first:
+      213: 5619904014650411947
+    second: Blacksmith_Idle_21
+  - first:
+      213: -1543013986282300096
+    second: Blacksmith_Idle_22
+  - first:
+      213: -7748063077684736063
+    second: Blacksmith_Idle_23
+  - first:
+      213: -1908842842499629867
+    second: Blacksmith_Idle_24
+  - first:
+      213: -3715664063118674512
+    second: Blacksmith_Idle_25
+  - first:
+      213: 1272038729709119514
+    second: Blacksmith_Idle_26
+  - first:
+      213: -2845389228969656656
+    second: Blacksmith_Idle_27
+  - first:
+      213: 412745566515704797
+    second: Blacksmith_Idle_28
+  - first:
+      213: 8054368113292431874
+    second: Blacksmith_Idle_29
+  - first:
+      213: -7053312459353884449
+    second: Blacksmith_Idle_30
+  - first:
+      213: -9199538881487208409
+    second: Blacksmith_Idle_31
+  - first:
+      213: -879430111205070074
+    second: Blacksmith_Idle_32
+  - first:
+      213: 8841401397815403512
+    second: Blacksmith_Idle_33
+  - first:
+      213: -6296649994109798859
+    second: Blacksmith_Idle_34
+  - first:
+      213: -6659801967562922570
+    second: Blacksmith_Idle_35
+  - first:
+      213: 4096461112579006540
+    second: Blacksmith_Idle_36
+  - first:
+      213: -5255396746167691242
+    second: Blacksmith_Idle_37
+  - first:
+      213: 4810189921970092082
+    second: Blacksmith_Idle_38
+  - first:
+      213: -553381300621175737
+    second: Blacksmith_Idle_39
+  - first:
+      213: 4229299045580511426
+    second: Blacksmith_Idle_40
+  - first:
+      213: 3236451008814948208
+    second: Blacksmith_Idle_41
+  - first:
+      213: 2864568727210839859
+    second: Blacksmith_Idle_42
+  - first:
+      213: 7861490674762068935
+    second: Blacksmith_Idle_43
+  - first:
+      213: -8150868975286052762
+    second: Blacksmith_Idle_44
+  - first:
+      213: 7207035808556483132
+    second: Blacksmith_Idle_45
+  - first:
+      213: 9025933654053045507
+    second: Blacksmith_Idle_46
+  - first:
+      213: -5703749457584468405
+    second: Blacksmith_Idle_47
+  - first:
+      213: 4167109117931905259
+    second: Blacksmith_Idle_48
+  - first:
+      213: 9048113825124924783
+    second: Blacksmith_Idle_49
+  - first:
+      213: -7177203305159512033
+    second: Blacksmith_Idle_50
+  - first:
+      213: 746089008523498657
+    second: Blacksmith_Idle_51
+  - first:
+      213: -325531689724425205
+    second: Blacksmith_Idle_52
+  - first:
+      213: 3718514357002655377
+    second: Blacksmith_Idle_53
+  - first:
+      213: 6085645896951538011
+    second: Blacksmith_Idle_54
+  - first:
+      213: 4358901532843281230
+    second: Blacksmith_Idle_55
+  - first:
+      213: -1942916853979076723
+    second: Blacksmith_Idle_56
+  - first:
+      213: 7627860357605787574
+    second: Blacksmith_Idle_57
+  - first:
+      213: -6813965962800967373
+    second: Blacksmith_Idle_58
+  - first:
+      213: -8473195499542233802
+    second: Blacksmith_Idle_59
+  - first:
+      213: -8163348476312799760
+    second: Blacksmith_Idle_60
+  - first:
+      213: -6251038572811450809
+    second: Blacksmith_Idle_61
+  - first:
+      213: -4273578686998686528
+    second: Blacksmith_Idle_62
+  - first:
+      213: 2637454502715621568
+    second: Blacksmith_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blacksmith_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f29f5b4a359720800000000000000
+      internalID: 2852250034409501191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd451ef305bf67e00800000000000000
+      internalID: 1042296685870535901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df2a00f2d24ba4d0800000000000000
+      internalID: -3122328442913542183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2058a612ee1a0a0800000000000000
+      internalID: -6871949729102232875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd48c527b1c38d90800000000000000
+      internalID: -7096615595448709680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78097d526ac5851e0800000000000000
+      internalID: -2208913748556017529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1c9148327b9800800000000000000
+      internalID: 620214959638059758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420cd97ef3d664d10800000000000000
+      internalID: 2109493596705898532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd8dac4ad9856670800000000000000
+      internalID: 8531376639805591030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474cde1d6bb27fe00800000000000000
+      internalID: 1078378699984585844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450b26d5c9e12560800000000000000
+      internalID: 7287362707973145929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f6151b117ec6a0800000000000000
+      internalID: -6427075257079238568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae74d31c3366100800000000000000
+      internalID: 100824946712242857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a66c022fe945770800000000000000
+      internalID: 8598672351326267940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c046f3d3a1587940800000000000000
+      internalID: 5294071126051668165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3254d4dd95fa4ced0800000000000000
+      internalID: -2394596301354482397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e771d5acbd63ca670800000000000000
+      internalID: 8551270110090565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47022e367d9774f70800000000000000
+      internalID: 9171433132163997812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be87f76f34d72cc0800000000000000
+      internalID: -3735783997088231755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de99d08c9252660800000000000000
+      internalID: 7360335105205333343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4246cc167d1b1790800000000000000
+      internalID: -7558415156485143986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab87010de8edfd40800000000000000
+      internalID: 5619904014650411947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1f2864fc169ae0800000000000000
+      internalID: -1543013986282300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf084d8ea9597490800000000000000
+      internalID: -7748063077684736063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc33c85c8d6285e0800000000000000
+      internalID: -1908842842499629867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57025983f4f6cc0800000000000000
+      internalID: -3715664063118674512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18e9d03c7037a110800000000000000
+      internalID: 1272038729709119514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7a8f52952388d0800000000000000
+      internalID: -2845389228969656656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd339cae7ed5ab500800000000000000
+      internalID: 412745566515704797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202570b002dd6cf60800000000000000
+      internalID: 8054368113292431874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ff5230b99d1e90800000000000000
+      internalID: -7053312459353884449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 76
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7208f87e02ca45080800000000000000
+      internalID: -9199538881487208409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be6d829f2abc3f0800000000000000
+      internalID: -879430111205070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ed614ab7f2ba70800000000000000
+      internalID: 8841401397815403512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536be12013ecd98a0800000000000000
+      internalID: -6296649994109798859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5e6f84561a393a0800000000000000
+      internalID: -6659801967562922570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40297b8dad89d830800000000000000
+      internalID: 4096461112579006540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6185eeee0841117b0800000000000000
+      internalID: -5255396746167691242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f031af3a31c240800000000000000
+      internalID: 4810189921970092082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744912793aef158f0800000000000000
+      internalID: -553381300621175737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c899bcf21d71ba30800000000000000
+      internalID: 4229299045580511426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9e598b0f2aec20800000000000000
+      internalID: 3236451008814948208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f481c841ef0c720800000000000000
+      internalID: 2864568727210839859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c33d32ed10a91d60800000000000000
+      internalID: 7861490674762068935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66892552adb42ee80800000000000000
+      internalID: -8150868975286052762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32878422e8840460800000000000000
+      internalID: 7207035808556483132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305431046de824d70800000000000000
+      internalID: 9025933654053045507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ec9dc861638d0b0800000000000000
+      internalID: -5703749457584468405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be06f9a1aab84d930800000000000000
+      internalID: 4167109117931905259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d3fd1c59b519d70800000000000000
+      internalID: 9048113825124924783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103533de93756c90800000000000000
+      internalID: -7177203305159512033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4ddd31004aa5a00800000000000000
+      internalID: 746089008523498657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc7d627aa7b7bf0800000000000000
+      internalID: -325531689724425205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196555d2b11da9330800000000000000
+      internalID: 3718514357002655377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b512c9c33be847450800000000000000
+      internalID: 6085645896951538011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b870489dded7c30800000000000000
+      internalID: 4358901532843281230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8725725a6f5905e0800000000000000
+      internalID: -1942916853979076723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b78063c49a9bd960800000000000000
+      internalID: 7627860357605787574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33155ab0f0eef61a0800000000000000
+      internalID: -6813965962800967373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db8590699296a80800000000000000
+      internalID: -8473195499542233802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f536a3efc5f5be80800000000000000
+      internalID: -8163348476312799760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460f469989df39a0800000000000000
+      internalID: -6251038572811450809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c453c993d231b4c0800000000000000
+      internalID: -4273578686998686528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blacksmith_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c08e9975ee1a9420800000000000000
+      internalID: 2637454502715621568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blacksmith_Idle_0: 2852250034409501191
+      Blacksmith_Idle_1: 1042296685870535901
+      Blacksmith_Idle_10: 7287362707973145929
+      Blacksmith_Idle_11: -6427075257079238568
+      Blacksmith_Idle_12: 100824946712242857
+      Blacksmith_Idle_13: 8598672351326267940
+      Blacksmith_Idle_14: 5294071126051668165
+      Blacksmith_Idle_15: -2394596301354482397
+      Blacksmith_Idle_16: 8551270110090565502
+      Blacksmith_Idle_17: 9171433132163997812
+      Blacksmith_Idle_18: -3735783997088231755
+      Blacksmith_Idle_19: 7360335105205333343
+      Blacksmith_Idle_2: -3122328442913542183
+      Blacksmith_Idle_20: -7558415156485143986
+      Blacksmith_Idle_21: 5619904014650411947
+      Blacksmith_Idle_22: -1543013986282300096
+      Blacksmith_Idle_23: -7748063077684736063
+      Blacksmith_Idle_24: -1908842842499629867
+      Blacksmith_Idle_25: -3715664063118674512
+      Blacksmith_Idle_26: 1272038729709119514
+      Blacksmith_Idle_27: -2845389228969656656
+      Blacksmith_Idle_28: 412745566515704797
+      Blacksmith_Idle_29: 8054368113292431874
+      Blacksmith_Idle_3: -6871949729102232875
+      Blacksmith_Idle_30: -7053312459353884449
+      Blacksmith_Idle_31: -9199538881487208409
+      Blacksmith_Idle_32: -879430111205070074
+      Blacksmith_Idle_33: 8841401397815403512
+      Blacksmith_Idle_34: -6296649994109798859
+      Blacksmith_Idle_35: -6659801967562922570
+      Blacksmith_Idle_36: 4096461112579006540
+      Blacksmith_Idle_37: -5255396746167691242
+      Blacksmith_Idle_38: 4810189921970092082
+      Blacksmith_Idle_39: -553381300621175737
+      Blacksmith_Idle_4: -7096615595448709680
+      Blacksmith_Idle_40: 4229299045580511426
+      Blacksmith_Idle_41: 3236451008814948208
+      Blacksmith_Idle_42: 2864568727210839859
+      Blacksmith_Idle_43: 7861490674762068935
+      Blacksmith_Idle_44: -8150868975286052762
+      Blacksmith_Idle_45: 7207035808556483132
+      Blacksmith_Idle_46: 9025933654053045507
+      Blacksmith_Idle_47: -5703749457584468405
+      Blacksmith_Idle_48: 4167109117931905259
+      Blacksmith_Idle_49: 9048113825124924783
+      Blacksmith_Idle_5: -2208913748556017529
+      Blacksmith_Idle_50: -7177203305159512033
+      Blacksmith_Idle_51: 746089008523498657
+      Blacksmith_Idle_52: -325531689724425205
+      Blacksmith_Idle_53: 3718514357002655377
+      Blacksmith_Idle_54: 6085645896951538011
+      Blacksmith_Idle_55: 4358901532843281230
+      Blacksmith_Idle_56: -1942916853979076723
+      Blacksmith_Idle_57: 7627860357605787574
+      Blacksmith_Idle_58: -6813965962800967373
+      Blacksmith_Idle_59: -8473195499542233802
+      Blacksmith_Idle_6: 620214959638059758
+      Blacksmith_Idle_60: -8163348476312799760
+      Blacksmith_Idle_61: -6251038572811450809
+      Blacksmith_Idle_62: -4273578686998686528
+      Blacksmith_Idle_63: 2637454502715621568
+      Blacksmith_Idle_7: 2109493596705898532
+      Blacksmith_Idle_8: 8531376639805591030
+      Blacksmith_Idle_9: 1078378699984585844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

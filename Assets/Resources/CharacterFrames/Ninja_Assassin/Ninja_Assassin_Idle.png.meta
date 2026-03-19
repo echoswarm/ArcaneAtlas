@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: c6e24741d0fec1148b8e39c076a56f77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2928740951283977284
+    second: Ninja_Assassin_Idle_0
+  - first:
+      213: 5817192890182904761
+    second: Ninja_Assassin_Idle_1
+  - first:
+      213: -3813302533726517173
+    second: Ninja_Assassin_Idle_2
+  - first:
+      213: 2585891489414883675
+    second: Ninja_Assassin_Idle_3
+  - first:
+      213: 4690807666422540075
+    second: Ninja_Assassin_Idle_4
+  - first:
+      213: -8877601754962715110
+    second: Ninja_Assassin_Idle_5
+  - first:
+      213: 5128220936731695056
+    second: Ninja_Assassin_Idle_6
+  - first:
+      213: -4647332496940922733
+    second: Ninja_Assassin_Idle_7
+  - first:
+      213: -2300969885269034465
+    second: Ninja_Assassin_Idle_8
+  - first:
+      213: -2493924517223890312
+    second: Ninja_Assassin_Idle_9
+  - first:
+      213: -8231418566356161740
+    second: Ninja_Assassin_Idle_10
+  - first:
+      213: 8117610332638157977
+    second: Ninja_Assassin_Idle_11
+  - first:
+      213: 6419312824468267793
+    second: Ninja_Assassin_Idle_12
+  - first:
+      213: -1101701382507260735
+    second: Ninja_Assassin_Idle_13
+  - first:
+      213: 2781672095978478067
+    second: Ninja_Assassin_Idle_14
+  - first:
+      213: 5315322270777217753
+    second: Ninja_Assassin_Idle_15
+  - first:
+      213: -7941110947845387912
+    second: Ninja_Assassin_Idle_16
+  - first:
+      213: 1916776581735026048
+    second: Ninja_Assassin_Idle_17
+  - first:
+      213: 4425233887082722628
+    second: Ninja_Assassin_Idle_18
+  - first:
+      213: 9009903988833417648
+    second: Ninja_Assassin_Idle_19
+  - first:
+      213: -3452169093419734346
+    second: Ninja_Assassin_Idle_20
+  - first:
+      213: 982782673360122447
+    second: Ninja_Assassin_Idle_21
+  - first:
+      213: 3369673969303724743
+    second: Ninja_Assassin_Idle_22
+  - first:
+      213: -6009868921145230471
+    second: Ninja_Assassin_Idle_23
+  - first:
+      213: -9115240111355554230
+    second: Ninja_Assassin_Idle_24
+  - first:
+      213: -3256506155373121405
+    second: Ninja_Assassin_Idle_25
+  - first:
+      213: -1796799323814583922
+    second: Ninja_Assassin_Idle_26
+  - first:
+      213: 8521247087917003834
+    second: Ninja_Assassin_Idle_27
+  - first:
+      213: 1622935598567261200
+    second: Ninja_Assassin_Idle_28
+  - first:
+      213: 1731408864846752429
+    second: Ninja_Assassin_Idle_29
+  - first:
+      213: 7007017948979374214
+    second: Ninja_Assassin_Idle_30
+  - first:
+      213: 8524210407051926657
+    second: Ninja_Assassin_Idle_31
+  - first:
+      213: -1833826641946192459
+    second: Ninja_Assassin_Idle_32
+  - first:
+      213: 7424993783787359254
+    second: Ninja_Assassin_Idle_33
+  - first:
+      213: 8390312353393696080
+    second: Ninja_Assassin_Idle_34
+  - first:
+      213: -6077091053521926317
+    second: Ninja_Assassin_Idle_35
+  - first:
+      213: 9011006402862709598
+    second: Ninja_Assassin_Idle_36
+  - first:
+      213: -4519049756469775741
+    second: Ninja_Assassin_Idle_37
+  - first:
+      213: 3390087449110832834
+    second: Ninja_Assassin_Idle_38
+  - first:
+      213: 6643000567584647426
+    second: Ninja_Assassin_Idle_39
+  - first:
+      213: -7343491991791285334
+    second: Ninja_Assassin_Idle_40
+  - first:
+      213: 9170482245208426339
+    second: Ninja_Assassin_Idle_41
+  - first:
+      213: -5041614022827270623
+    second: Ninja_Assassin_Idle_42
+  - first:
+      213: 2048250161417459548
+    second: Ninja_Assassin_Idle_43
+  - first:
+      213: -4407401029220639277
+    second: Ninja_Assassin_Idle_44
+  - first:
+      213: -1928955001517997422
+    second: Ninja_Assassin_Idle_45
+  - first:
+      213: 6421079840680801303
+    second: Ninja_Assassin_Idle_46
+  - first:
+      213: 7899428901580543238
+    second: Ninja_Assassin_Idle_47
+  - first:
+      213: -4502304352240781861
+    second: Ninja_Assassin_Idle_48
+  - first:
+      213: -6163735389303054024
+    second: Ninja_Assassin_Idle_49
+  - first:
+      213: 8085345938274079971
+    second: Ninja_Assassin_Idle_50
+  - first:
+      213: -2395191512159485021
+    second: Ninja_Assassin_Idle_51
+  - first:
+      213: 462023806676268631
+    second: Ninja_Assassin_Idle_52
+  - first:
+      213: -941717668278307545
+    second: Ninja_Assassin_Idle_53
+  - first:
+      213: 5250812211689682920
+    second: Ninja_Assassin_Idle_54
+  - first:
+      213: -2020104996028281041
+    second: Ninja_Assassin_Idle_55
+  - first:
+      213: -1983505021417816324
+    second: Ninja_Assassin_Idle_56
+  - first:
+      213: 7293265292330998494
+    second: Ninja_Assassin_Idle_57
+  - first:
+      213: -8416049162595981675
+    second: Ninja_Assassin_Idle_58
+  - first:
+      213: 2396418918535332925
+    second: Ninja_Assassin_Idle_59
+  - first:
+      213: 6954803094630524680
+    second: Ninja_Assassin_Idle_60
+  - first:
+      213: -4745304149239875653
+    second: Ninja_Assassin_Idle_61
+  - first:
+      213: 2622230882973008175
+    second: Ninja_Assassin_Idle_62
+  - first:
+      213: 3917359881174357901
+    second: Ninja_Assassin_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb334973f950b57d0800000000000000
+      internalID: -2928740951283977284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba741ec12dab050800000000000000
+      internalID: 5817192890182904761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b484220ac8d641bc0800000000000000
+      internalID: -3813302533726517173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a746eb9ee2e320800000000000000
+      internalID: 2585891489414883675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b276bca38b8191140800000000000000
+      internalID: 4690807666422540075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e101a4d3c6cc480800000000000000
+      internalID: -8877601754962715110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71d9f75c91b2740800000000000000
+      internalID: 5128220936731695056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39805b677bb518fb0800000000000000
+      internalID: -4647332496940922733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1afaa594105110e0800000000000000
+      internalID: -2300969885269034465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8728b3e6ddcc36dd0800000000000000
+      internalID: -2493924517223890312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b29c20d6024cd80800000000000000
+      internalID: -8231418566356161740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c10fda69b87a070800000000000000
+      internalID: 8117610332638157977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1136a8cb00bf51950800000000000000
+      internalID: 6419312824468267793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4191ffd68f5b0f0800000000000000
+      internalID: -1101701382507260735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9d96a880c7a9620800000000000000
+      internalID: 2781672095978478067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d216688171d3c940800000000000000
+      internalID: 5315322270777217753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c5bfaaa18bc190800000000000000
+      internalID: -7941110947845387912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d8a144522c99a10800000000000000
+      internalID: 1916776581735026048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445369f36c6996d30800000000000000
+      internalID: 4425233887082722628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97acaf0fb990d70800000000000000
+      internalID: 9009903988833417648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba622aff7e6710d0800000000000000
+      internalID: -3452169093419734346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42f90962ab83ad00800000000000000
+      internalID: 982782673360122447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2aa3d2f9c73ce20800000000000000
+      internalID: 3369673969303724743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b7a70de08a89ca0800000000000000
+      internalID: -6009868921145230471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a469240d969208180800000000000000
+      internalID: -9115240111355554230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380bc18c7e09ec2d0800000000000000
+      internalID: -3256506155373121405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ae5be88c7017e0800000000000000
+      internalID: -1796799323814583922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ff96341d814670800000000000000
+      internalID: 8521247087917003834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01400f50453d58610800000000000000
+      internalID: 1622935598567261200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa272e6033370810800000000000000
+      internalID: 1731408864846752429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a3b723bded3160800000000000000
+      internalID: 7007017948979374214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c9407b3341c4670800000000000000
+      internalID: 8524210407051926657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5562b9260fc86e0800000000000000
+      internalID: -1833826641946192459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c012ec180ea0760800000000000000
+      internalID: 7424993783787359254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5a92b1a0607470800000000000000
+      internalID: 8390312353393696080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3570f1772e5d9aba0800000000000000
+      internalID: -6077091053521926317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf66fb4968d0d70800000000000000
+      internalID: 9011006402862709598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bd4f703c1941c0800000000000000
+      internalID: -4519049756469775741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e2c1d2920c0f20800000000000000
+      internalID: 3390087449110832834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e991f1dda03c50800000000000000
+      internalID: 6643000567584647426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabca52e0fca61a90800000000000000
+      internalID: -7343491991791285334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367cca4c309144f70800000000000000
+      internalID: 9170482245208426339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e90c202c6980ab0800000000000000
+      internalID: -5041614022827270623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579c627ba8dc6c10800000000000000
+      internalID: 2048250161417459548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dddc968d14c5d2c0800000000000000
+      internalID: -4407401029220639277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2928eca65a9fa35e0800000000000000
+      internalID: -1928955001517997422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714733248124c1950800000000000000
+      internalID: 6421079840680801303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059927abb860ad60800000000000000
+      internalID: 7899428901580543238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53efdbb0a9481c0800000000000000
+      internalID: -4502304352240781861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831661ff153067aa0800000000000000
+      internalID: -6163735389303054024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e459f8fa4be43070800000000000000
+      internalID: 8085345938274079971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a304bc820292ced0800000000000000
+      internalID: -2395191512159485021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75676ba4430796600800000000000000
+      internalID: 462023806676268631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725ff8725c85ee2f0800000000000000
+      internalID: -941717668278307545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7fb04f2e1aed840800000000000000
+      internalID: 5250812211689682920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0eb6853527f3e0800000000000000
+      internalID: -2020104996028281041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeff2c21bc2974e0800000000000000
+      internalID: -1983505021417816324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda131a5422e63560800000000000000
+      internalID: 7293265292330998494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5962e3370ef243b80800000000000000
+      internalID: -8416049162595981675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3403544f4ac14120800000000000000
+      internalID: 2396418918535332925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8076d32019c648060800000000000000
+      internalID: 6954803094630524680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7be59940b452eb0800000000000000
+      internalID: -4745304149239875653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214aaa4819046420800000000000000
+      internalID: 2622230882973008175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja_Assassin_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8793ce8e024d5630800000000000000
+      internalID: 3917359881174357901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ninja_Assassin_Idle_0: -2928740951283977284
+      Ninja_Assassin_Idle_1: 5817192890182904761
+      Ninja_Assassin_Idle_10: -8231418566356161740
+      Ninja_Assassin_Idle_11: 8117610332638157977
+      Ninja_Assassin_Idle_12: 6419312824468267793
+      Ninja_Assassin_Idle_13: -1101701382507260735
+      Ninja_Assassin_Idle_14: 2781672095978478067
+      Ninja_Assassin_Idle_15: 5315322270777217753
+      Ninja_Assassin_Idle_16: -7941110947845387912
+      Ninja_Assassin_Idle_17: 1916776581735026048
+      Ninja_Assassin_Idle_18: 4425233887082722628
+      Ninja_Assassin_Idle_19: 9009903988833417648
+      Ninja_Assassin_Idle_2: -3813302533726517173
+      Ninja_Assassin_Idle_20: -3452169093419734346
+      Ninja_Assassin_Idle_21: 982782673360122447
+      Ninja_Assassin_Idle_22: 3369673969303724743
+      Ninja_Assassin_Idle_23: -6009868921145230471
+      Ninja_Assassin_Idle_24: -9115240111355554230
+      Ninja_Assassin_Idle_25: -3256506155373121405
+      Ninja_Assassin_Idle_26: -1796799323814583922
+      Ninja_Assassin_Idle_27: 8521247087917003834
+      Ninja_Assassin_Idle_28: 1622935598567261200
+      Ninja_Assassin_Idle_29: 1731408864846752429
+      Ninja_Assassin_Idle_3: 2585891489414883675
+      Ninja_Assassin_Idle_30: 7007017948979374214
+      Ninja_Assassin_Idle_31: 8524210407051926657
+      Ninja_Assassin_Idle_32: -1833826641946192459
+      Ninja_Assassin_Idle_33: 7424993783787359254
+      Ninja_Assassin_Idle_34: 8390312353393696080
+      Ninja_Assassin_Idle_35: -6077091053521926317
+      Ninja_Assassin_Idle_36: 9011006402862709598
+      Ninja_Assassin_Idle_37: -4519049756469775741
+      Ninja_Assassin_Idle_38: 3390087449110832834
+      Ninja_Assassin_Idle_39: 6643000567584647426
+      Ninja_Assassin_Idle_4: 4690807666422540075
+      Ninja_Assassin_Idle_40: -7343491991791285334
+      Ninja_Assassin_Idle_41: 9170482245208426339
+      Ninja_Assassin_Idle_42: -5041614022827270623
+      Ninja_Assassin_Idle_43: 2048250161417459548
+      Ninja_Assassin_Idle_44: -4407401029220639277
+      Ninja_Assassin_Idle_45: -1928955001517997422
+      Ninja_Assassin_Idle_46: 6421079840680801303
+      Ninja_Assassin_Idle_47: 7899428901580543238
+      Ninja_Assassin_Idle_48: -4502304352240781861
+      Ninja_Assassin_Idle_49: -6163735389303054024
+      Ninja_Assassin_Idle_5: -8877601754962715110
+      Ninja_Assassin_Idle_50: 8085345938274079971
+      Ninja_Assassin_Idle_51: -2395191512159485021
+      Ninja_Assassin_Idle_52: 462023806676268631
+      Ninja_Assassin_Idle_53: -941717668278307545
+      Ninja_Assassin_Idle_54: 5250812211689682920
+      Ninja_Assassin_Idle_55: -2020104996028281041
+      Ninja_Assassin_Idle_56: -1983505021417816324
+      Ninja_Assassin_Idle_57: 7293265292330998494
+      Ninja_Assassin_Idle_58: -8416049162595981675
+      Ninja_Assassin_Idle_59: 2396418918535332925
+      Ninja_Assassin_Idle_6: 5128220936731695056
+      Ninja_Assassin_Idle_60: 6954803094630524680
+      Ninja_Assassin_Idle_61: -4745304149239875653
+      Ninja_Assassin_Idle_62: 2622230882973008175
+      Ninja_Assassin_Idle_63: 3917359881174357901
+      Ninja_Assassin_Idle_7: -4647332496940922733
+      Ninja_Assassin_Idle_8: -2300969885269034465
+      Ninja_Assassin_Idle_9: -2493924517223890312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

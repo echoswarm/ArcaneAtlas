@@ -191,6 +191,65 @@ namespace ArcaneAtlas.Data
     {
         public TileKey Key;
         public TileBase Tile;
+        public TileTransformFlags Transform;
+    }
+
+    /// <summary>
+    /// Rotation and flip flags for tile sprites.
+    /// Can be combined (e.g., Rotate90 | FlipH).
+    /// </summary>
+    [Flags]
+    public enum TileTransformFlags : byte
+    {
+        None = 0,
+        Rotate90 = 1,    // 90° clockwise
+        Rotate180 = 2,   // 180°
+        FlipH = 4,       // Horizontal flip
+        FlipV = 8,       // Vertical flip
+    }
+
+    public static class TileTransformHelper
+    {
+        /// <summary>
+        /// Converts TileTransformFlags to a Matrix4x4 for Unity's Tile.transform.
+        /// </summary>
+        public static Matrix4x4 ToMatrix(TileTransformFlags flags)
+        {
+            var m = Matrix4x4.identity;
+
+            if ((flags & TileTransformFlags.FlipH) != 0)
+                m = Matrix4x4.Scale(new Vector3(-1f, 1f, 1f)) * m;
+
+            if ((flags & TileTransformFlags.FlipV) != 0)
+                m = Matrix4x4.Scale(new Vector3(1f, -1f, 1f)) * m;
+
+            // Rotation (applied after flips)
+            if ((flags & TileTransformFlags.Rotate180) != 0)
+                m = Matrix4x4.Rotate(Quaternion.Euler(0, 0, 180f)) * m;
+            else if ((flags & TileTransformFlags.Rotate90) != 0)
+                m = Matrix4x4.Rotate(Quaternion.Euler(0, 0, -90f)) * m;
+            else if ((flags & (TileTransformFlags.Rotate90 | TileTransformFlags.Rotate180)) ==
+                     (TileTransformFlags.Rotate90 | TileTransformFlags.Rotate180))
+                m = Matrix4x4.Rotate(Quaternion.Euler(0, 0, -270f)) * m;
+
+            return m;
+        }
+
+        /// <summary>
+        /// Gets a human-readable label for the transform.
+        /// </summary>
+        public static string ToLabel(TileTransformFlags flags)
+        {
+            if (flags == TileTransformFlags.None) return "";
+            var parts = new System.Collections.Generic.List<string>();
+            int rotation = (int)(flags & (TileTransformFlags.Rotate90 | TileTransformFlags.Rotate180));
+            if (rotation == 1) parts.Add("90°");
+            else if (rotation == 2) parts.Add("180°");
+            else if (rotation == 3) parts.Add("270°");
+            if ((flags & TileTransformFlags.FlipH) != 0) parts.Add("FlipH");
+            if ((flags & TileTransformFlags.FlipV) != 0) parts.Add("FlipV");
+            return string.Join("+", parts);
+        }
     }
 
     /// <summary>

@@ -34,6 +34,7 @@ namespace ArcaneAtlas.Editor
 
         // TileKey mapping
         private Dictionary<TileKey, Sprite> mappings = new Dictionary<TileKey, Sprite>();
+        private Dictionary<TileKey, TileTransformFlags> transforms = new Dictionary<TileKey, TileTransformFlags>();
         private TileKey? selectedKey = null;
         private Vector2 keyScrollPos;
 
@@ -51,14 +52,18 @@ namespace ArcaneAtlas.Editor
         private int npcCharIndex = 0;
         private int bossCharIndex = 0;
 
-        // Layout
+        // Layout — draggable splitter
         private float leftPanelWidth = 280f;
+        private bool isDraggingSplitter = false;
+        private const float SPLITTER_WIDTH = 6f;
+        private const float MIN_PANEL_WIDTH = 180f;
 
         // TileKey groups for organized display
         private static readonly (string Group, TileKey[] Keys)[] KEY_GROUPS = new[]
         {
             ("Ground", new[] {
-                TileKey.Ground, TileKey.GroundAlt, TileKey.Path
+                TileKey.Ground, TileKey.GroundAlt, TileKey.Path,
+                TileKey.PathEdgeN, TileKey.PathEdgeS, TileKey.PathEdgeE, TileKey.PathEdgeW,
             }),
             ("Walls", new[] {
                 TileKey.WallN, TileKey.WallS, TileKey.WallE, TileKey.WallW,
@@ -70,16 +75,41 @@ namespace ArcaneAtlas.Editor
             }),
             ("Detail", new[] {
                 TileKey.GrassDetail, TileKey.FlowerDetail, TileKey.CrackDetail, TileKey.MossDetail,
+                TileKey.MushroomDetail, TileKey.PebbleDetail,
             }),
             ("Shadow", new[] {
                 TileKey.ShadowWallN, TileKey.ShadowWallW, TileKey.ShadowCornerNW, TileKey.ShadowFull,
+                TileKey.ShadowSmall, TileKey.ShadowMedium, TileKey.ShadowLarge,
             }),
-            ("Props Below", new[] {
-                TileKey.TreeBase, TileKey.RockSmall, TileKey.RockLarge, TileKey.BushBase,
-                TileKey.Crate, TileKey.Chest, TileKey.Water, TileKey.WaterEdge,
+            ("Trees", new[] {
+                TileKey.TreeBase, TileKey.TreeTrunkBottom, TileKey.TreeTrunkMid, TileKey.TreeRoots,
+                TileKey.TreeCrown, TileKey.TreeCanopyBL, TileKey.TreeCanopyBC, TileKey.TreeCanopyBR,
+                TileKey.TreeCanopyTL, TileKey.TreeCanopyTC, TileKey.TreeCanopyTR,
+                TileKey.StumpSmall, TileKey.LogH,
             }),
-            ("Props Above", new[] {
-                TileKey.TreeCrown, TileKey.BushTop, TileKey.RockTop,
+            ("Rocks", new[] {
+                TileKey.RockSmall, TileKey.RockLarge,
+                TileKey.RockClusterBL, TileKey.RockClusterBR, TileKey.RockClusterTL, TileKey.RockClusterTR,
+                TileKey.RockTop,
+            }),
+            ("Bushes", new[] {
+                TileKey.BushBase, TileKey.BushSmall, TileKey.BushWide, TileKey.BushTop,
+            }),
+            ("Props", new[] {
+                TileKey.Crate, TileKey.Chest,
+                TileKey.FenceH, TileKey.FenceV,
+                TileKey.FencePostTL, TileKey.FencePostTR, TileKey.FencePostBL, TileKey.FencePostBR,
+            }),
+            ("Water", new[] {
+                TileKey.Water, TileKey.WaterEdge,
+                TileKey.WaterEdgeN, TileKey.WaterEdgeS, TileKey.WaterEdgeE, TileKey.WaterEdgeW,
+            }),
+            ("Buildings", new[] {
+                TileKey.BuildWallH, TileKey.BuildWallV,
+                TileKey.BuildCornerTL, TileKey.BuildCornerTR, TileKey.BuildCornerBL, TileKey.BuildCornerBR,
+                TileKey.BuildDoor, TileKey.BuildWindow, TileKey.BuildFloor,
+                TileKey.RoofTL, TileKey.RoofTC, TileKey.RoofTR,
+                TileKey.RoofBL, TileKey.RoofBC, TileKey.RoofBR, TileKey.RoofPeak,
             }),
             ("Overlay", new[] {
                 TileKey.OverlayVines, TileKey.OverlayFog,
@@ -107,6 +137,7 @@ namespace ArcaneAtlas.Editor
             DrawToolbar();
             EditorGUILayout.BeginHorizontal();
             DrawLeftPanel();
+            DrawSplitter();
             DrawRightPanel();
             EditorGUILayout.EndHorizontal();
         }
@@ -151,7 +182,10 @@ namespace ArcaneAtlas.Editor
             if (GUILayout.Button("Clear All", EditorStyles.toolbarButton, GUILayout.Width(60)))
             {
                 if (EditorUtility.DisplayDialog("Clear Mappings", "Clear all sprite assignments?", "Yes", "Cancel"))
+                {
                     mappings.Clear();
+                    transforms.Clear();
+                }
             }
 
             GUILayout.FlexibleSpace();
@@ -163,6 +197,47 @@ namespace ArcaneAtlas.Editor
             EditorGUILayout.LabelField($"Mapped: {mapped}/{total}", GUILayout.Width(90));
 
             EditorGUILayout.EndHorizontal();
+        }
+
+        // ════════════════════════════════════════════
+        //  SPLITTER (draggable divider between panels)
+        // ════════════════════════════════════════════
+
+        private void DrawSplitter()
+        {
+            var splitterRect = GUILayoutUtility.GetRect(SPLITTER_WIDTH, SPLITTER_WIDTH,
+                GUILayout.Width(SPLITTER_WIDTH), GUILayout.ExpandHeight(true));
+
+            // Draw splitter bar
+            EditorGUI.DrawRect(splitterRect, new Color(0.15f, 0.15f, 0.15f));
+            EditorGUI.DrawRect(new Rect(splitterRect.x + 2, splitterRect.y, 2, splitterRect.height),
+                new Color(0.35f, 0.35f, 0.35f));
+
+            // Change cursor to resize
+            EditorGUIUtility.AddCursorRect(splitterRect, MouseCursor.ResizeHorizontal);
+
+            // Handle drag
+            if (Event.current.type == EventType.MouseDown && splitterRect.Contains(Event.current.mousePosition))
+            {
+                isDraggingSplitter = true;
+                Event.current.Use();
+            }
+
+            if (isDraggingSplitter)
+            {
+                if (Event.current.type == EventType.MouseDrag)
+                {
+                    leftPanelWidth = Event.current.mousePosition.x;
+                    leftPanelWidth = Mathf.Clamp(leftPanelWidth, MIN_PANEL_WIDTH, position.width - MIN_PANEL_WIDTH);
+                    Event.current.Use();
+                    Repaint();
+                }
+                else if (Event.current.type == EventType.MouseUp)
+                {
+                    isDraggingSplitter = false;
+                    Event.current.Use();
+                }
+            }
         }
 
         // ════════════════════════════════════════════
@@ -232,6 +307,7 @@ namespace ArcaneAtlas.Editor
         {
             bool isSelected = selectedKey.HasValue && selectedKey.Value == key;
             Sprite assigned = mappings.ContainsKey(key) ? mappings[key] : null;
+            TileTransformFlags xform = transforms.ContainsKey(key) ? transforms[key] : TileTransformFlags.None;
 
             // Highlight selected row
             Color prevBg = GUI.backgroundColor;
@@ -240,20 +316,23 @@ namespace ArcaneAtlas.Editor
 
             EditorGUILayout.BeginHorizontal(EditorStyles.helpBox);
 
-            // Sprite preview (32x32)
+            // Sprite preview (32x32) with rotation applied visually
             Rect previewRect = GUILayoutUtility.GetRect(32, 32, GUILayout.Width(32), GUILayout.Height(32));
             if (assigned != null)
             {
-                DrawSpritePreview(previewRect, assigned);
+                DrawSpritePreviewTransformed(previewRect, assigned, xform);
             }
             else
             {
                 EditorGUI.DrawRect(previewRect, new Color(0.2f, 0.2f, 0.2f));
             }
 
-            // Key name
+            // Key name + transform label
             GUILayout.Space(4);
-            EditorGUILayout.LabelField(key.ToString(), GUILayout.Width(140), GUILayout.Height(32));
+            string label = key.ToString();
+            string xformLabel = TileTransformHelper.ToLabel(xform);
+            if (!string.IsNullOrEmpty(xformLabel)) label += $" [{xformLabel}]";
+            EditorGUILayout.LabelField(label, GUILayout.Width(140), GUILayout.Height(32));
 
             // Select button
             if (GUILayout.Button(isSelected ? "●" : "○", GUILayout.Width(24), GUILayout.Height(32)))
@@ -262,12 +341,38 @@ namespace ArcaneAtlas.Editor
                 selectedCharSlot = CharSlot.None; // Deselect character slot
             }
 
+            // Rotate/flip buttons (only when a sprite is assigned)
+            if (assigned != null)
+            {
+                // Rotate 90° CW
+                if (GUILayout.Button("↻", GUILayout.Width(20), GUILayout.Height(32)))
+                {
+                    int rot = (int)(xform & (TileTransformFlags.Rotate90 | TileTransformFlags.Rotate180));
+                    rot = (rot + 1) % 4; // cycle: 0 → 1 → 2 → 3 → 0
+                    xform = (TileTransformFlags)((int)(xform & (TileTransformFlags.FlipH | TileTransformFlags.FlipV)) | rot);
+                    transforms[key] = xform;
+                }
+                // Flip H
+                if (GUILayout.Button("⇔", GUILayout.Width(20), GUILayout.Height(32)))
+                {
+                    xform ^= TileTransformFlags.FlipH;
+                    transforms[key] = xform;
+                }
+                // Flip V
+                if (GUILayout.Button("⇕", GUILayout.Width(20), GUILayout.Height(32)))
+                {
+                    xform ^= TileTransformFlags.FlipV;
+                    transforms[key] = xform;
+                }
+            }
+
             // Clear button
             if (assigned != null)
             {
                 if (GUILayout.Button("×", GUILayout.Width(20), GUILayout.Height(32)))
                 {
                     mappings.Remove(key);
+                    transforms.Remove(key);
                 }
             }
 
@@ -493,6 +598,11 @@ namespace ArcaneAtlas.Editor
 
         private void DrawSpritePreview(Rect rect, Sprite sprite)
         {
+            DrawSpritePreviewTransformed(rect, sprite, TileTransformFlags.None);
+        }
+
+        private void DrawSpritePreviewTransformed(Rect rect, Sprite sprite, TileTransformFlags flags)
+        {
             if (sprite == null || sprite.texture == null) return;
 
             Rect texCoords = new Rect(
@@ -502,7 +612,38 @@ namespace ArcaneAtlas.Editor
                 sprite.rect.height / sprite.texture.height
             );
 
-            GUI.DrawTextureWithTexCoords(rect, sprite.texture, texCoords);
+            if (flags == TileTransformFlags.None)
+            {
+                GUI.DrawTextureWithTexCoords(rect, sprite.texture, texCoords);
+                return;
+            }
+
+            // Apply flip by adjusting UV coordinates
+            if ((flags & TileTransformFlags.FlipH) != 0)
+            {
+                texCoords.x += texCoords.width;
+                texCoords.width = -texCoords.width;
+            }
+            if ((flags & TileTransformFlags.FlipV) != 0)
+            {
+                texCoords.y += texCoords.height;
+                texCoords.height = -texCoords.height;
+            }
+
+            // For rotation, use GUIUtility.RotateAroundPivot
+            int rotation = (int)(flags & (TileTransformFlags.Rotate90 | TileTransformFlags.Rotate180));
+            if (rotation > 0)
+            {
+                float angle = rotation == 1 ? 90f : rotation == 2 ? 180f : 270f;
+                var pivot = rect.center;
+                GUIUtility.RotateAroundPivot(angle, pivot);
+                GUI.DrawTextureWithTexCoords(rect, sprite.texture, texCoords);
+                GUIUtility.RotateAroundPivot(-angle, pivot); // Reset rotation
+            }
+            else
+            {
+                GUI.DrawTextureWithTexCoords(rect, sprite.texture, texCoords);
+            }
         }
 
         private void AdvanceToNextUnmappedKey(TileKey current)
@@ -625,9 +766,14 @@ namespace ArcaneAtlas.Editor
                 }
                 tile.sprite = sprite;
                 tile.color = Color.white;
+
+                // Apply rotation/flip transform to the tile
+                TileTransformFlags xform = transforms.ContainsKey(key) ? transforms[key] : TileTransformFlags.None;
+                tile.transform = TileTransformHelper.ToMatrix(xform);
+                tile.flags = TileFlags.LockAll; // Prevent tilemap from overriding transform
                 EditorUtility.SetDirty(tile);
 
-                tileMappings.Add(new TileMapping { Key = key, Tile = tile });
+                tileMappings.Add(new TileMapping { Key = key, Tile = tile, Transform = xform });
             }
 
             // Create or update the TilePaletteDef
@@ -690,12 +836,17 @@ namespace ArcaneAtlas.Editor
             npcCharIndex = FindCharIndex(palette.NpcCharacter);
             bossCharIndex = FindCharIndex(palette.BossCharacter);
 
+            transforms.Clear();
             if (palette.Mappings != null)
             {
                 foreach (var m in palette.Mappings)
                 {
                     if (m.Tile is Tile tile && tile.sprite != null)
+                    {
                         mappings[m.Key] = tile.sprite;
+                        if (m.Transform != TileTransformFlags.None)
+                            transforms[m.Key] = m.Transform;
+                    }
                 }
             }
 

@@ -583,7 +583,7 @@ PrefabInstance:
     - target: {fileID: 4872794062157602057, guid: 0eb5f47b42c0f1b48b1273a6a40d105e, type: 3}
       propertyPath: tilePalette
       value: 
-      objectReference: {fileID: 11400000, guid: 0c90d3fb07364344e9386805729d4512, type: 2}
+      objectReference: {fileID: 11400000, guid: 3ed0a3b0b600a8f4ca559a2d9f8d19f7, type: 2}
     - target: {fileID: 7654776027421261753, guid: 0eb5f47b42c0f1b48b1273a6a40d105e, type: 3}
       propertyPath: tilePalette
       value: 

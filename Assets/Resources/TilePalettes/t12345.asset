@@ -28,13 +28,13 @@ MonoBehaviour:
     Transform: 0
   - Key: 5
     Tile: {fileID: 11400000, guid: fbbe13ddd7147d84eaaf1311adaeb141, type: 2}
-    Transform: 2
+    Transform: 0
   - Key: 6
     Tile: {fileID: 11400000, guid: c9aebb21a469e224381f60b7ada2cd21, type: 2}
-    Transform: 1
+    Transform: 0
   - Key: 7
     Tile: {fileID: 11400000, guid: bd89817f0adfd554ebd7d65688f6e455, type: 2}
-    Transform: 3
+    Transform: 0
   - Key: 8
     Tile: {fileID: 11400000, guid: 101e3e44c2fa9ae46937e3aeb4eae6dd, type: 2}
     Transform: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
     Transform: 0
   - Key: 43
     Tile: {fileID: 11400000, guid: 795deb932c59dd845b99e911d6c13ce3, type: 2}
-    Transform: 0
+    Transform: 1
   - Key: 44
     Tile: {fileID: 11400000, guid: 6832f1f043e51664182bc41228197996, type: 2}
     Transform: 0
@@ -181,7 +181,7 @@ MonoBehaviour:
     Transform: 0
   - Key: 74
     Tile: {fileID: 11400000, guid: 114638b1a97f3ab4189b3b133f7778d8, type: 2}
-    Transform: 0
+    Transform: 2
   - Key: 47
     Tile: {fileID: 11400000, guid: 72ff31a14543a6746b61fb6146c151ed, type: 2}
     Transform: 0

@@ -308,5 +308,133 @@ namespace ArcaneAtlas.Data
                     s.Collision[x, y] = TileKey.CollisionWater;
             return s;
         }
+
+        // ═══════════════════════════════════════
+        //  VILLAGE BUILDINGS
+        // ═══════════════════════════════════════
+
+        /// <summary>
+        /// Small house: 4 wide × 4 tall. Simpler than SmallCottage.
+        /// </summary>
+        public static PropStamp SmallHouse()
+        {
+            var s = new PropStamp(4, 4, 2, 0) { Name = "SmallHouse" };
+            // Walls
+            s.PropsAbove[0, 0] = TileKey.BuildCornerBL;
+            s.PropsAbove[3, 0] = TileKey.BuildCornerBR;
+            s.PropsAbove[1, 0] = TileKey.BuildDoor;
+            s.PropsAbove[2, 0] = TileKey.BuildWallH;
+            s.PropsAbove[0, 1] = TileKey.BuildWallV;
+            s.PropsAbove[3, 1] = TileKey.BuildWallV;
+            s.PropsAbove[0, 2] = TileKey.BuildCornerTL;
+            s.PropsAbove[1, 2] = TileKey.BuildWindow;
+            s.PropsAbove[2, 2] = TileKey.BuildWallH;
+            s.PropsAbove[3, 2] = TileKey.BuildCornerTR;
+            // Roof
+            s.PropsAbove[0, 3] = TileKey.RoofBL;
+            s.PropsAbove[1, 3] = TileKey.RoofBC;
+            s.PropsAbove[2, 3] = TileKey.RoofBC;
+            s.PropsAbove[3, 3] = TileKey.RoofBR;
+            // Floor
+            s.Ground[1, 1] = TileKey.BuildFloor;
+            s.Ground[2, 1] = TileKey.BuildFloor;
+            // Collision
+            for (int x = 0; x < 4; x++)
+            {
+                s.Collision[x, 0] = TileKey.CollisionSolid;
+                s.Collision[x, 2] = TileKey.CollisionSolid;
+            }
+            s.Collision[0, 1] = TileKey.CollisionSolid;
+            s.Collision[3, 1] = TileKey.CollisionSolid;
+            s.Collision[1, 0] = TileKey.Empty; // Door passable
+            return s;
+        }
+
+        /// <summary>
+        /// Tower: 3 wide × 6 tall. Tall narrow structure.
+        /// </summary>
+        public static PropStamp Tower()
+        {
+            var s = new PropStamp(3, 6, 1, 0) { Name = "Tower" };
+            // Base walls
+            s.PropsAbove[0, 0] = TileKey.BuildCornerBL;
+            s.PropsAbove[1, 0] = TileKey.BuildDoor;
+            s.PropsAbove[2, 0] = TileKey.BuildCornerBR;
+            // Middle walls
+            for (int y = 1; y < 4; y++)
+            {
+                s.PropsAbove[0, y] = TileKey.BuildWallV;
+                s.PropsAbove[2, y] = TileKey.BuildWallV;
+            }
+            s.PropsAbove[1, 2] = TileKey.BuildWindow;
+            // Top walls
+            s.PropsAbove[0, 4] = TileKey.BuildCornerTL;
+            s.PropsAbove[1, 4] = TileKey.BuildWallH;
+            s.PropsAbove[2, 4] = TileKey.BuildCornerTR;
+            // Roof peak
+            s.PropsAbove[1, 5] = TileKey.RoofPeak;
+            // Collision
+            for (int y = 0; y < 5; y++)
+            {
+                s.Collision[0, y] = TileKey.CollisionSolid;
+                s.Collision[2, y] = TileKey.CollisionSolid;
+            }
+            s.Collision[1, 0] = TileKey.Empty; // Door
+            for (int y = 1; y < 5; y++)
+                s.Collision[1, y] = TileKey.CollisionSolid;
+            return s;
+        }
+
+        /// <summary>
+        /// Market stall: 3 wide × 2 tall. Open-front shop.
+        /// </summary>
+        public static PropStamp MarketStall()
+        {
+            var s = new PropStamp(3, 2, 1, 0) { Name = "MarketStall" };
+            s.PropsAbove[0, 0] = TileKey.Crate;
+            s.PropsAbove[1, 0] = TileKey.Crate;
+            s.PropsAbove[2, 0] = TileKey.Crate;
+            // Awning/roof
+            s.PropsAbove[0, 1] = TileKey.RoofBL;
+            s.PropsAbove[1, 1] = TileKey.RoofBC;
+            s.PropsAbove[2, 1] = TileKey.RoofBR;
+            // Collision on crates
+            for (int x = 0; x < 3; x++)
+                s.Collision[x, 0] = TileKey.CollisionSolid;
+            return s;
+        }
+
+        /// <summary>
+        /// Well: 2×2 circular structure.
+        /// </summary>
+        public static PropStamp Well()
+        {
+            var s = new PropStamp(2, 2, 0, 0) { Name = "Well" };
+            s.PropsAbove[0, 0] = TileKey.BuildCornerBL;
+            s.PropsAbove[1, 0] = TileKey.BuildCornerBR;
+            s.PropsAbove[0, 1] = TileKey.BuildCornerTL;
+            s.PropsAbove[1, 1] = TileKey.BuildCornerTR;
+            s.Ground[0, 0] = TileKey.Water;
+            s.Ground[1, 0] = TileKey.Water;
+            for (int x = 0; x < 2; x++)
+                for (int y = 0; y < 2; y++)
+                    s.Collision[x, y] = TileKey.CollisionSolid;
+            return s;
+        }
+
+        /// <summary>
+        /// Vertical fence: 1 wide × 4 tall.
+        /// </summary>
+        public static PropStamp FenceVertical()
+        {
+            var s = new PropStamp(1, 4, 0, 0) { Name = "FenceV" };
+            s.PropsAbove[0, 0] = TileKey.FencePostBL;
+            s.PropsAbove[0, 1] = TileKey.FenceV;
+            s.PropsAbove[0, 2] = TileKey.FenceV;
+            s.PropsAbove[0, 3] = TileKey.FencePostTL;
+            for (int y = 0; y < 4; y++)
+                s.Collision[y < 4 ? 0 : 0, y] = TileKey.CollisionSolid;
+            return s;
+        }
     }
 }

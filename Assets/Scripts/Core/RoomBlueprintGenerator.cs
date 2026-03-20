@@ -48,23 +48,26 @@ namespace ArcaneAtlas.Core
             switch (room.Type)
             {
                 case RoomType.Empty:
-                    LayoutEmptyRoom(bp, rng);
+                    LayoutEmptyRoom(bp, rng, room);
                     break;
                 case RoomType.NPC:
-                    LayoutNpcRoom(bp, rng, room.NpcCount);
+                    LayoutNpcRoom(bp, rng, room);
                     break;
                 case RoomType.Treasure:
-                    LayoutTreasureRoom(bp, rng);
+                    LayoutTreasureRoom(bp, rng, room);
                     break;
                 case RoomType.Boss:
-                    LayoutBossRoom(bp, rng);
+                    LayoutBossRoom(bp, rng, room);
                     break;
                 case RoomType.Event:
-                    LayoutEventRoom(bp, rng);
+                    LayoutEventRoom(bp, rng, room);
                     break;
             }
 
-            // Step 7: Set player spawn based on entries
+            // Step 7: Clear props/collision from roads so they're walkable
+            ClearRoads(bp);
+
+            // Step 8: Set player spawn based on entries
             SetPlayerSpawn(bp, room);
 
             return bp;
@@ -310,48 +313,95 @@ namespace ArcaneAtlas.Core
 
         // ─────────── Room Type Layouts ───────────
 
-        private static void LayoutEmptyRoom(RoomBlueprint bp, System.Random rng)
+        private static void LayoutEmptyRoom(RoomBlueprint bp, System.Random rng, RoomData room)
         {
-            // Scatter a moderate amount of natural props
-            ScatterProps(bp, rng, 4);
+            // 40% chance of road
+            if (rng.NextDouble() < 0.4)
+                ConnectDoors(bp, room);
 
-            // Occasional pond
-            if (rng.NextDouble() < 0.2)
+            // Pick a variant for variety (weighted towards buildings)
+            int variant = rng.Next(5); // 0-4, two building variants
+            if (variant == 0)
+            {
+                // Forest clearing — lots of trees
+                ScatterProps(bp, rng, 6);
+            }
+            else if (variant == 1)
+            {
+                // Abandoned cottage in the woods
+                ConnectDoors(bp, room);
+                TryPlaceStamp(bp, PropStampLibrary.SmallCottage(), rng, 8, 5);
+                ScatterProps(bp, rng, 3);
+            }
+            else if (variant == 2)
+            {
+                // Pond area
                 TryPlaceStamp(bp, PropStampLibrary.SmallPond(), rng);
+                ScatterProps(bp, rng, 4);
+            }
+            else if (variant == 3)
+            {
+                // Ruins — scattered building parts and rocks
+                ConnectDoors(bp, room);
+                TryPlaceStamp(bp, PropStampLibrary.SmallHouse(), rng, 12, 5);
+                TryPlaceStamp(bp, PropStampLibrary.FenceHorizontal(), rng, 12, 4);
+                TryPlaceStamp(bp, PropStampLibrary.RockCluster(), rng);
+                ScatterProps(bp, rng, 3);
+            }
+            else
+            {
+                // Outpost — tower + cottage
+                ConnectDoors(bp, room);
+                TryPlaceStamp(bp, PropStampLibrary.Tower(), rng, 12, 5);
+                TryPlaceStamp(bp, PropStampLibrary.SmallCottage(), rng, 12, 5);
+                TryPlaceStamp(bp, PropStampLibrary.Well(), rng, 12, 4);
+                ScatterProps(bp, rng, 2);
+            }
         }
 
-        private static void LayoutNpcRoom(RoomBlueprint bp, System.Random rng, int npcCount)
+        private static void LayoutNpcRoom(RoomBlueprint bp, System.Random rng, RoomData room)
         {
-            int count = Mathf.Max(npcCount, 1);
+            int count = Mathf.Max(room.NpcCount, 1);
+            int cx = RoomBlueprint.WIDTH / 2;
+            int cy = RoomBlueprint.HEIGHT / 2;
+
+            // Connect doors with roads
+            ConnectDoors(bp, room);
 
             // Place NPC spawn markers in a spread pattern
             int spacing = (INNER_RIGHT - INNER_LEFT - 4) / Mathf.Max(count, 1);
             for (int i = 0; i < count; i++)
             {
                 int x = INNER_LEFT + 3 + i * spacing;
-                int y = RoomBlueprint.HEIGHT / 2 + rng.Next(-3, 4);
+                int y = cy + rng.Next(-3, 4);
                 x = Mathf.Clamp(x, INNER_LEFT + 2, INNER_RIGHT - 3);
                 y = Mathf.Clamp(y, INNER_BOTTOM + 2, INNER_TOP - 3);
                 bp.Set(x, y, TileKey.MarkerNpcSpawn);
             }
 
-            // Scatter lighter props (fewer than empty rooms to leave space for NPCs)
-            ScatterProps(bp, rng, 2);
-
-            // Some decorative props around edges
-            for (int i = 0; i < 3; i++)
+            // Buildings along the road
+            if (rng.NextDouble() < 0.6)
             {
-                int x = rng.Next(INNER_LEFT + 1, INNER_RIGHT - 1);
-                int y = rng.Next(INNER_BOTTOM + 1, INNER_BOTTOM + 4);
-                if (bp.PropsBelow[x, y] == TileKey.Empty)
-                    bp.Set(x, y, TileKey.RockSmall);
+                TryPlaceStamp(bp, PropStampLibrary.SmallHouse(), rng, 12, 5);
+                if (rng.NextDouble() < 0.5)
+                    TryPlaceStamp(bp, PropStampLibrary.MarketStall(), rng, 12, 4);
             }
+            else
+            {
+                TryPlaceStamp(bp, PropStampLibrary.MarketStall(), rng, 12, 4);
+            }
+
+            // Scatter lighter props
+            ScatterProps(bp, rng, 2);
         }
 
-        private static void LayoutTreasureRoom(RoomBlueprint bp, System.Random rng)
+        private static void LayoutTreasureRoom(RoomBlueprint bp, System.Random rng, RoomData room)
         {
             int cx = RoomBlueprint.WIDTH / 2;
             int cy = RoomBlueprint.HEIGHT / 2;
+
+            // Road from doors to treasure
+            ConnectDoors(bp, room);
 
             // Center chest
             PropStampLibrary.TreasureChest().PlaceOn(bp, cx, cy);
@@ -361,24 +411,20 @@ namespace ArcaneAtlas.Core
             PropStampLibrary.RockCluster().PlaceOn(bp, cx - 4, cy - 1);
             PropStampLibrary.RockCluster().PlaceOn(bp, cx + 3, cy - 1);
 
-            // Corner trees — large ones for dramatic framing
-            var largeTree = PropStampLibrary.LargeTree();
-            largeTree.PlaceOn(bp, INNER_LEFT + 4, INNER_TOP - 8);
-            largeTree.PlaceOn(bp, INNER_RIGHT - 5, INNER_TOP - 8);
-
-            var smallTree = PropStampLibrary.SmallTree();
-            smallTree.PlaceOn(bp, INNER_LEFT + 3, INNER_BOTTOM + 2);
-            smallTree.PlaceOn(bp, INNER_RIGHT - 4, INNER_BOTTOM + 2);
+            // Corner trees
+            PropStampLibrary.LargeTree().PlaceOn(bp, INNER_LEFT + 4, INNER_TOP - 8);
+            PropStampLibrary.LargeTree().PlaceOn(bp, INNER_RIGHT - 5, INNER_TOP - 8);
+            PropStampLibrary.SmallTree().PlaceOn(bp, INNER_LEFT + 3, INNER_BOTTOM + 2);
+            PropStampLibrary.SmallTree().PlaceOn(bp, INNER_RIGHT - 4, INNER_BOTTOM + 2);
 
             // Fence around the treasure area
             PropStampLibrary.FenceHorizontal().PlaceOn(bp, cx - 4, cy - 3);
             PropStampLibrary.FenceHorizontal().PlaceOn(bp, cx + 1, cy - 3);
 
-            // Scatter a few bushes
             ScatterProps(bp, rng, 1);
         }
 
-        private static void LayoutBossRoom(RoomBlueprint bp, System.Random rng)
+        private static void LayoutBossRoom(RoomBlueprint bp, System.Random rng, RoomData room)
         {
             int cx = RoomBlueprint.WIDTH / 2;
             int cy = RoomBlueprint.HEIGHT / 2;
@@ -386,52 +432,68 @@ namespace ArcaneAtlas.Core
             // Boss spawn in upper center
             bp.Set(cx, cy + 6, TileKey.MarkerBossSpawn);
 
+            // Grand road from south door to boss
+            ConnectDoors(bp, room);
+
             // Rock pillars framing the arena
             PropStampLibrary.RockCluster().PlaceOn(bp, INNER_LEFT + 5, INNER_TOP - 7);
             PropStampLibrary.RockCluster().PlaceOn(bp, INNER_RIGHT - 7, INNER_TOP - 7);
             PropStampLibrary.RockCluster().PlaceOn(bp, INNER_LEFT + 5, INNER_BOTTOM + 3);
             PropStampLibrary.RockCluster().PlaceOn(bp, INNER_RIGHT - 7, INNER_BOTTOM + 3);
 
-            // Trees along the edges for atmosphere
+            // Trees along the edges
             PropStampLibrary.LargeTree().PlaceOn(bp, INNER_LEFT + 3, INNER_TOP - 10);
             PropStampLibrary.LargeTree().PlaceOn(bp, INNER_RIGHT - 4, INNER_TOP - 10);
 
-            // Path leading to boss
-            for (int y = INNER_BOTTOM + 1; y < cy + 5; y++)
+            // Towers flanking the boss area
+            if (rng.NextDouble() < 0.5)
             {
-                bp.Ground[cx - 1, y] = TileKey.Path;
-                bp.Ground[cx, y] = TileKey.Path;
-                bp.Ground[cx + 1, y] = TileKey.Path;
-            }
-            // Path edges
-            for (int y = INNER_BOTTOM + 1; y < cy + 5; y++)
-            {
-                bp.Ground[cx - 2, y] = TileKey.PathEdgeW;
-                bp.Ground[cx + 2, y] = TileKey.PathEdgeE;
+                TryPlaceStamp(bp, PropStampLibrary.Tower(), rng, 5, 8);
+                TryPlaceStamp(bp, PropStampLibrary.Tower(), rng, 5, 8);
             }
         }
 
-        private static void LayoutEventRoom(RoomBlueprint bp, System.Random rng)
+        private static void LayoutEventRoom(RoomBlueprint bp, System.Random rng, RoomData room)
         {
             int cx = RoomBlueprint.WIDTH / 2;
             int cy = RoomBlueprint.HEIGHT / 2;
 
-            // Trees framing a clearing
-            PropStampLibrary.SmallTree().PlaceOn(bp, cx - 5, cy + 1);
-            PropStampLibrary.SmallTree().PlaceOn(bp, cx + 5, cy + 1);
+            // Roads connecting doors through a village center
+            ConnectDoors(bp, room);
 
-            // Bush groups around edges
-            PropStampLibrary.BushGroup().PlaceOn(bp, cx - 3, cy - 2);
-            PropStampLibrary.BushGroup().PlaceOn(bp, cx + 2, cy - 2);
+            // Village layout: buildings around a central area
+            int variant = rng.Next(3);
+
+            if (variant == 0)
+            {
+                // Small village: 2-3 houses around center
+                TryPlaceStamp(bp, PropStampLibrary.SmallHouse(), rng, 8, 5);
+                TryPlaceStamp(bp, PropStampLibrary.SmallHouse(), rng, 8, 5);
+                TryPlaceStamp(bp, PropStampLibrary.MarketStall(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.Well(), rng, 8, 4);
+            }
+            else if (variant == 1)
+            {
+                // Outpost: tower + cottage + fences
+                TryPlaceStamp(bp, PropStampLibrary.Tower(), rng, 8, 5);
+                TryPlaceStamp(bp, PropStampLibrary.SmallCottage(), rng, 8, 5);
+                TryPlaceStamp(bp, PropStampLibrary.FenceHorizontal(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.FenceVertical(), rng, 8, 4);
+            }
+            else
+            {
+                // Market area: stalls + crates
+                TryPlaceStamp(bp, PropStampLibrary.MarketStall(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.MarketStall(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.CrateStack(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.CrateStack(), rng, 8, 4);
+                TryPlaceStamp(bp, PropStampLibrary.Well(), rng, 8, 4);
+            }
 
             bp.Set(cx, cy, TileKey.MarkerNpcSpawn);
 
-            // Crate stacks nearby
-            PropStampLibrary.CrateStack().PlaceOn(bp, cx - 2, cy + 2);
-            PropStampLibrary.CrateStack().PlaceOn(bp, cx + 2, cy + 2);
-
-            // A few scattered natural elements
-            ScatterProps(bp, rng, 1);
+            // Scatter natural props around the village
+            ScatterProps(bp, rng, 2);
         }
 
         // ─────────── Player Spawn ───────────
@@ -453,6 +515,116 @@ namespace ArcaneAtlas.Core
                 bp.PlayerSpawn = new Vector2Int(cx, RoomBlueprint.HEIGHT - WALL - 3);
             else
                 bp.PlayerSpawn = new Vector2Int(cx, cy);
+        }
+
+        // ─────────── Road Drawing ───────────
+
+        /// <summary>
+        /// Draws a straight 3-wide path segment (horizontal or vertical).
+        /// </summary>
+        private static void DrawRoadSegment(RoomBlueprint bp, int x1, int y1, int x2, int y2, int width = 3)
+        {
+            int half = width / 2;
+            int minX = Mathf.Min(x1, x2);
+            int maxX = Mathf.Max(x1, x2);
+            int minY = Mathf.Min(y1, y2);
+            int maxY = Mathf.Max(y1, y2);
+
+            for (int x = minX; x <= maxX; x++)
+            {
+                for (int y = minY; y <= maxY; y++)
+                {
+                    // Fill the road width perpendicular to direction
+                    bool isHorizontal = (maxX - minX) >= (maxY - minY);
+                    if (isHorizontal)
+                    {
+                        for (int w = -half; w <= half; w++)
+                            if (RoomBlueprint.InBounds(x, y + w))
+                                bp.Ground[x, y + w] = TileKey.Path;
+                    }
+                    else
+                    {
+                        for (int w = -half; w <= half; w++)
+                            if (RoomBlueprint.InBounds(x + w, y))
+                                bp.Ground[x + w, y] = TileKey.Path;
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// Connects all doors to the room center with paths.
+        /// Fills junction areas to avoid corner gaps.
+        /// Then clears props/collision from road tiles.
+        /// </summary>
+        private static void ConnectDoors(RoomBlueprint bp, RoomData room)
+        {
+            int cx = RoomBlueprint.WIDTH / 2;
+            int cy = RoomBlueprint.HEIGHT / 2;
+            int half = 1; // road half-width
+
+            // Draw each road segment from door to center
+            if (room.ExitUp)
+                DrawRoadSegment(bp, cx, cy, cx, RoomBlueprint.HEIGHT - WALL);
+            if (room.ExitDown)
+                DrawRoadSegment(bp, cx, WALL - 1, cx, cy);
+            if (room.ExitLeft)
+                DrawRoadSegment(bp, WALL - 1, cy, cx, cy);
+            if (room.ExitRight)
+                DrawRoadSegment(bp, cx, cy, RoomBlueprint.WIDTH - WALL, cy);
+
+            // Fill the center junction (3x3 block of path)
+            for (int dx = -half; dx <= half; dx++)
+                for (int dy = -half; dy <= half; dy++)
+                    if (RoomBlueprint.InBounds(cx + dx, cy + dy))
+                        bp.Ground[cx + dx, cy + dy] = TileKey.Path;
+
+            // Add path edges along roads (only where ground is not already path)
+            for (int x = 0; x < RoomBlueprint.WIDTH; x++)
+            {
+                for (int y = 0; y < RoomBlueprint.HEIGHT; y++)
+                {
+                    if (bp.Ground[x, y] != TileKey.Path) continue;
+
+                    // Check each neighbor — if not path, add edge
+                    if (RoomBlueprint.InBounds(x, y + 1) && bp.Ground[x, y + 1] != TileKey.Path
+                        && bp.Ground[x, y + 1] != TileKey.PathEdgeN && bp.Ground[x, y + 1] != TileKey.PathEdgeS)
+                        bp.Ground[x, y + 1] = TileKey.PathEdgeN;
+                    if (RoomBlueprint.InBounds(x, y - 1) && bp.Ground[x, y - 1] != TileKey.Path
+                        && bp.Ground[x, y - 1] != TileKey.PathEdgeN && bp.Ground[x, y - 1] != TileKey.PathEdgeS)
+                        bp.Ground[x, y - 1] = TileKey.PathEdgeS;
+                    if (RoomBlueprint.InBounds(x + 1, y) && bp.Ground[x + 1, y] != TileKey.Path
+                        && bp.Ground[x + 1, y] != TileKey.PathEdgeE && bp.Ground[x + 1, y] != TileKey.PathEdgeW)
+                        bp.Ground[x + 1, y] = TileKey.PathEdgeE;
+                    if (RoomBlueprint.InBounds(x - 1, y) && bp.Ground[x - 1, y] != TileKey.Path
+                        && bp.Ground[x - 1, y] != TileKey.PathEdgeE && bp.Ground[x - 1, y] != TileKey.PathEdgeW)
+                        bp.Ground[x - 1, y] = TileKey.PathEdgeW;
+                }
+            }
+        }
+
+        /// <summary>
+        /// Clears props, details, and collision from any tile that has a path on the ground layer.
+        /// Call AFTER all props have been placed.
+        /// </summary>
+        private static void ClearRoads(RoomBlueprint bp)
+        {
+            for (int x = 0; x < RoomBlueprint.WIDTH; x++)
+            {
+                for (int y = 0; y < RoomBlueprint.HEIGHT; y++)
+                {
+                    if (bp.Ground[x, y] == TileKey.Path ||
+                        bp.Ground[x, y] == TileKey.PathEdgeN || bp.Ground[x, y] == TileKey.PathEdgeS ||
+                        bp.Ground[x, y] == TileKey.PathEdgeE || bp.Ground[x, y] == TileKey.PathEdgeW)
+                    {
+                        bp.Detail[x, y] = TileKey.Empty;
+                        bp.PropsBelow[x, y] = TileKey.Empty;
+                        bp.PropsAbove[x, y] = TileKey.Empty;
+                        bp.Collision[x, y] = TileKey.Empty;
+                        bp.Shadow[x, y] = TileKey.Empty;
+                    }
+                }
+            }
         }
 
         // ─────────── Helpers ───────────

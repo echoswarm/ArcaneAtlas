@@ -8,11 +8,15 @@ namespace ArcaneAtlas.UI
     /// <summary>
     /// Renders scrolling parallax layers inside a Canvas panel.
     /// Works for full-screen panels (combat) and sub-panels (title screen quadrants).
-    /// Attach to a RectTransform; add RectMask2D on the same object to clip layers
-    /// to any panel shape (required for quadrant use on the title screen).
+    /// Attach to a RectTransform; add RectMask2D on the same object to clip layers.
     ///
-    /// UV tiling is computed lazily once the RectTransform has valid dimensions.
-    /// Call LoadByBiomeName() or LoadConfig() to switch biomes at runtime.
+    /// Layer layout rules:
+    ///   scrollFactor == 0  →  sky: stretch to fill panel vertically (UV Y = 1, no repeat).
+    ///   scrollFactor  > 0  →  foreground: bottom-anchored, native aspect-ratio height,
+    ///                         only tiles horizontally (UV X scrolls, UV Y = 1 always).
+    ///
+    /// UV widths and foreground heights are computed lazily on the first Update() frame
+    /// after the RectTransform has valid dimensions.
     /// </summary>
     public class ParallaxBackgroundController : MonoBehaviour
     {
@@ -22,7 +26,6 @@ namespace ArcaneAtlas.UI
         private RawImage _dimOverlay;
         private bool _playing = true;
         private ParallaxBiomeConfig _active;
-        // UV widths are set lazily once the RectTransform has been laid out
         private bool _uvReady;
 
         void Awake()
@@ -36,19 +39,30 @@ namespace ArcaneAtlas.UI
             if (!_playing || _active == null) return;
 
             // First frame after BuildLayers: wait for a valid rect, then fix UV widths
+            // and foreground layer heights using the real panel dimensions.
             if (!_uvReady)
             {
                 var rt = GetComponent<RectTransform>();
                 if (rt.rect.width > 1f)
                 {
                     float dispW = rt.rect.width;
-                    float dispH = rt.rect.height;
                     for (int i = 0; i < _layerImages.Count && i < _active.layers.Count; i++)
                     {
-                        var tex = _active.layers[i].texture;
-                        if (_layerImages[i] != null && tex != null)
-                            _layerImages[i].uvRect = new Rect(0f, 0f,
-                                dispW / tex.width, dispH / tex.height);
+                        var layer = _active.layers[i];
+                        var tex   = layer.texture;
+                        if (_layerImages[i] == null || tex == null) continue;
+
+                        // Correct UV X width — Y stays 1 (no vertical tiling ever)
+                        var uv = _layerImages[i].uvRect;
+                        uv.width = dispW / tex.width;
+                        _layerImages[i].uvRect = uv;
+
+                        // Correct foreground height to native aspect ratio at actual panel width
+                        if (layer.scrollFactor > 0f)
+                        {
+                            _layerImages[i].rectTransform.sizeDelta =
+                                new Vector2(0f, (float)tex.height / tex.width * dispW);
+                        }
                     }
                     _uvReady = true;
                 }
@@ -118,9 +132,9 @@ namespace ArcaneAtlas.UI
             _uvReady = false;
 
             var rt = GetComponent<RectTransform>();
-            // Use rect size if already laid out; fall back to 1920x1080 for first-frame builds
-            float dispW = rt.rect.width > 0 ? rt.rect.width : 1920f;
-            float dispH = rt.rect.height > 0 ? rt.rect.height : 1080f;
+            // Use actual size if laid out; fall back to full-screen for first-frame builds.
+            // Lazy init in Update() will correct this once the real rect is known.
+            float dispW = rt.rect.width  > 0 ? rt.rect.width  : 1920f;
 
             foreach (var layer in cfg.layers)
             {
@@ -133,20 +147,39 @@ namespace ArcaneAtlas.UI
 
                 if (layer.texture != null)
                 {
-                    // Ensure Repeat wrap so UV offset scrolls seamlessly
+                    // Repeat only needed in X for horizontal scrolling.
+                    // UV Y is always 1 — vertical tiling is never wanted.
                     layer.texture.wrapMode = TextureWrapMode.Repeat;
                     img.texture = layer.texture;
-                    // uvRect width/height = display pixels / texture pixels → tiles the texture
-                    img.uvRect = new Rect(0f, 0f,
-                        dispW / layer.texture.width,
-                        dispH / layer.texture.height);
+                    img.uvRect  = new Rect(0f, 0f, dispW / layer.texture.width, 1f);
                 }
 
                 var layerRt = go.GetComponent<RectTransform>();
-                layerRt.anchorMin = Vector2.zero;
-                layerRt.anchorMax = Vector2.one;
-                layerRt.offsetMin = Vector2.zero;
-                layerRt.offsetMax = Vector2.zero;
+
+                if (layer.scrollFactor == 0f)
+                {
+                    // Sky / static background — stretch to fill the panel.
+                    // UV Y = 1 so it shows exactly once, scaled to the panel height.
+                    layerRt.anchorMin = Vector2.zero;
+                    layerRt.anchorMax = Vector2.one;
+                    layerRt.offsetMin = Vector2.zero;
+                    layerRt.offsetMax = Vector2.zero;
+                }
+                else
+                {
+                    // Foreground layer — anchor to bottom, native aspect-ratio height.
+                    // This prevents vertical repetition: the sprite appears once at the
+                    // bottom of the panel, clipped above by RectMask2D if needed.
+                    float layerH = layer.texture != null
+                        ? (float)layer.texture.height / layer.texture.width * dispW
+                        : dispW * 9f / 16f;
+
+                    layerRt.anchorMin       = new Vector2(0f, 0f);
+                    layerRt.anchorMax       = new Vector2(1f, 0f);
+                    layerRt.pivot           = new Vector2(0.5f, 0f);
+                    layerRt.sizeDelta       = new Vector2(0f, layerH);
+                    layerRt.anchoredPosition = Vector2.zero;
+                }
 
                 _layerImages.Add(img);
             }

@@ -214,7 +214,6 @@ namespace ArcaneAtlas.Editor
 
             // Biome showcase — cycles quadrants to full-screen in order: Fire→Earth→Water→Wind
             var showcase = root.AddComponent<TitleScreenBiomeShowcase>();
-            showcase.showcaseParent = root.GetComponent<RectTransform>();
             showcase.showcaseOrder = new ParallaxBackgroundController[]
             {
                 plxFire,   // VolcanicWastes

@@ -5,19 +5,17 @@ namespace ArcaneAtlas.UI
 {
     /// <summary>
     /// Cycles each title-screen parallax quadrant to full-screen and back in an endless loop.
-    /// Attach to Screen_MainMenu. Assign showcaseOrder (the 4 quadrant controllers in cycle order)
-    /// and showcaseParent (the Screen_MainMenu RectTransform) via CanvasBuilderTool or Inspector.
+    /// Quadrants stay inside BG_Title at all times — only their anchors are animated.
+    /// SetAsLastSibling within BG_Title brings the active one in front of the other three;
+    /// Logo and ButtonGroup live one level up in Screen_MainMenu so they naturally render on top.
     ///
-    /// When the screen is hidden (OnDisable), any expanded quadrant is synchronously restored
-    /// so navigation away always leaves the hierarchy in a clean state.
+    /// OnDisable only resets anchors (no hierarchy changes) so it is safe to call even while
+    /// Unity is deactivating the parent Screen_MainMenu.
     /// </summary>
     public class TitleScreenBiomeShowcase : MonoBehaviour
     {
         [Header("Quadrants in cycle order")]
         public ParallaxBackgroundController[] showcaseOrder;
-
-        [Header("Parent that owns Logo + ButtonGroup (Screen_MainMenu root)")]
-        public RectTransform showcaseParent;
 
         [Header("Timing (seconds)")]
         public float initialPause   = 3f;
@@ -28,14 +26,13 @@ namespace ArcaneAtlas.UI
 
         // Saved state for the currently-expanded quadrant
         private ParallaxBackgroundController _expanded;
-        private Transform _expandedOrigParent;
-        private int       _expandedOrigSiblingIndex;
-        private Vector2   _expandedOrigAnchorMin;
-        private Vector2   _expandedOrigAnchorMax;
+        private int     _expandedOrigSiblingIndex;
+        private Vector2 _expandedOrigAnchorMin;
+        private Vector2 _expandedOrigAnchorMax;
 
         void OnEnable()
         {
-            if (showcaseOrder == null || showcaseOrder.Length == 0 || showcaseParent == null) return;
+            if (showcaseOrder == null || showcaseOrder.Length == 0) return;
             StartCoroutine(ShowcaseLoop());
         }
 
@@ -60,33 +57,33 @@ namespace ArcaneAtlas.UI
                 }
 
                 var rt = ctrl.GetComponent<RectTransform>();
-                Vector2 fromMin = rt.anchorMin;
-                Vector2 fromMax = rt.anchorMax;
 
-                // Save original placement
-                _expandedOrigParent       = rt.parent;
+                // Save original state (quadrant stays in BG_Title — no reparenting)
                 _expandedOrigSiblingIndex = rt.GetSiblingIndex();
-                _expandedOrigAnchorMin    = fromMin;
-                _expandedOrigAnchorMax    = fromMax;
-
-                // Reparent into Screen_MainMenu at index 1:
-                //   [0] BG_Title  [1] this quadrant  [2] Logo  [3] ButtonGroup
-                // so it renders above the bg but below the title text and buttons.
-                rt.SetParent(showcaseParent, false);
-                rt.SetSiblingIndex(1);
+                _expandedOrigAnchorMin    = rt.anchorMin;
+                _expandedOrigAnchorMax    = rt.anchorMax;
                 _expanded = ctrl;
 
-                // Expand to full screen
-                yield return TweenAnchors(rt, fromMin, fromMax, Vector2.zero, Vector2.one, expandDuration);
+                // Bring in front of the other three quadrants within BG_Title.
+                // Logo and ButtonGroup are siblings of BG_Title in Screen_MainMenu,
+                // so they always render above everything inside BG_Title.
+                rt.SetAsLastSibling();
 
-                // Hold full screen
+                // Expand to fill BG_Title (= fill screen, since BG_Title stretches full)
+                yield return TweenAnchors(rt,
+                    _expandedOrigAnchorMin, _expandedOrigAnchorMax,
+                    Vector2.zero, Vector2.one,
+                    expandDuration);
+
                 yield return new WaitForSeconds(holdDuration);
 
-                // Shrink back to quadrant
-                yield return TweenAnchors(rt, Vector2.zero, Vector2.one, fromMin, fromMax, shrinkDuration);
+                // Shrink back to original quadrant position
+                yield return TweenAnchors(rt,
+                    Vector2.zero, Vector2.one,
+                    _expandedOrigAnchorMin, _expandedOrigAnchorMax,
+                    shrinkDuration);
 
-                // Restore to BG_Title
-                rt.SetParent(_expandedOrigParent, false);
+                // Restore sibling index (screen is still active here — safe to call)
                 rt.SetSiblingIndex(_expandedOrigSiblingIndex);
                 rt.offsetMin = rt.offsetMax = Vector2.zero;
                 _expanded = null;
@@ -117,16 +114,19 @@ namespace ArcaneAtlas.UI
             rt.offsetMin = rt.offsetMax = Vector2.zero;
         }
 
+        // Called from OnDisable — must NOT touch the transform hierarchy.
+        // Only anchor resets are safe while the parent is being deactivated.
         private void RestoreExpanded()
         {
             if (_expanded == null) return;
             var rt = _expanded.GetComponent<RectTransform>();
-            rt.SetParent(_expandedOrigParent, false);
-            rt.SetSiblingIndex(_expandedOrigSiblingIndex);
             rt.anchorMin = _expandedOrigAnchorMin;
             rt.anchorMax = _expandedOrigAnchorMax;
             rt.offsetMin = rt.offsetMax = Vector2.zero;
             _expanded = null;
+            // Note: sibling index is intentionally NOT restored here.
+            // The quadrants don't overlap in their normal positions so order doesn't matter,
+            // and SetSiblingIndex throws during parent deactivation.
         }
     }
 }

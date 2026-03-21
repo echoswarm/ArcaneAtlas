@@ -43,6 +43,9 @@ namespace ArcaneAtlas.UI
         public TextMeshProUGUI resultText;
         public Button btnContinue;
 
+        [Header("Parallax Background")]
+        public ParallaxBackgroundController parallaxBackground;
+
         private int selectedShopIndex = -1;
 
         // Card detail tooltip
@@ -93,6 +96,14 @@ namespace ArcaneAtlas.UI
 
             SetPhaseLayout(CombatPhase.Shop);
 
+            // Load parallax background for the current zone
+            if (parallaxBackground != null)
+            {
+                var zone = ZoneData.GetByName(GameState.CurrentZone);
+                parallaxBackground.LoadByBiomeName(zone?.BiomePalette ?? "");
+                parallaxBackground.SetPlaying(true);
+            }
+
             var cm = FindFirstObjectByType<CombatManager>();
             if (cm == null)
             {
@@ -100,6 +111,12 @@ namespace ArcaneAtlas.UI
                 cm = go.AddComponent<CombatManager>();
             }
             cm.StartMatch();
+        }
+
+        void OnDisable()
+        {
+            if (parallaxBackground != null)
+                parallaxBackground.SetPlaying(false);
         }
 
         public void SetPhaseLayout(CombatPhase phase)

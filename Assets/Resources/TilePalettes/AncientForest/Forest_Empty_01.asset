@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ArcaneAtlas.Data.RoomTemplateData
   TemplateName: Forest_Empty_01
   BiomeName: AncientForest
-  AllowedTypes: 00000000
+  AllowedTypes: 01000000020000000300000004000000
   MinDifficultyTier: 1
   MaxDifficultyTier: 6
   HasExitUp: 1

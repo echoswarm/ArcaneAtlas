@@ -11,6 +11,12 @@ namespace ArcaneAtlas.Data
         public string NextZoneName;
         public ElementType AdjacentElement;
 
+        /// <summary>
+        /// Name of the TilePaletteDef in Resources/TilePalettes/ to use for this zone.
+        /// If null/empty, falls back to ExplorationManager's default palette.
+        /// </summary>
+        public string BiomePalette;
+
         public static ZoneData[] GetAllZones()
         {
             return new ZoneData[]
@@ -24,6 +30,7 @@ namespace ArcaneAtlas.Data
                     IsUnlocked = true,
                     NextZoneName = "Volcanic Wastes",
                     AdjacentElement = ElementType.Fire,
+                    BiomePalette = "AncientForest",
                     ZoneEntryText = "The Atlas stirs. Its pages turn to a chapter thick with moss and vine. 'The Forest remembers,' it whispers. 'Gather its guardians, and I will show you the way deeper.'"
                 },
                 new ZoneData
@@ -35,6 +42,7 @@ namespace ArcaneAtlas.Data
                     IsUnlocked = false,
                     NextZoneName = "Sky Peaks",
                     AdjacentElement = ElementType.Wind,
+                    BiomePalette = "VolcanicWastes",
                     ZoneEntryText = "The Atlas burns warm in your hands. New pages reveal themselves \u2014 charred at the edges, glowing with ember-script. 'Fire tests all who seek passage.'"
                 },
                 new ZoneData
@@ -46,6 +54,7 @@ namespace ArcaneAtlas.Data
                     IsUnlocked = false,
                     NextZoneName = null,
                     AdjacentElement = ElementType.Earth,
+                    BiomePalette = "CoralDepths",
                     ZoneEntryText = "The Atlas dampens. Ink bleeds into new patterns \u2014 currents and tides mapped in impossible detail. 'The deep does not give up its treasures easily.'"
                 },
                 new ZoneData
@@ -57,6 +66,7 @@ namespace ArcaneAtlas.Data
                     IsUnlocked = false,
                     NextZoneName = "Coral Depths",
                     AdjacentElement = ElementType.Water,
+                    BiomePalette = "SkyPeaks",
                     ZoneEntryText = "The Atlas grows light, its pages fluttering as if caught in a wind that isn't there. 'The high places hold secrets only the bold may claim.'"
                 }
             };

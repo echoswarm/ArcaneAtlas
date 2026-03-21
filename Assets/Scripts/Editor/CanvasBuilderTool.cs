@@ -181,6 +181,25 @@ namespace ArcaneAtlas.Editor
             menuUI.btnContinue = CreateButton("Btn_Continue", group.transform, "Continue", 56f);
             menuUI.btnCollection = CreateButton("Btn_Collection", group.transform, "Collection", 56f);
             menuUI.btnOptions = CreateButton("Btn_Options", group.transform, "Options", 56f);
+            menuUI.btnOpenPack = CreateButton("Btn_OpenPack", group.transform, "Open Pack", 56f);
+            menuUI.btnQuickDuel = CreateButton("Btn_QuickDuel", group.transform, "Quick Duel", 56f);
+            menuUI.btnTestMode = CreateButton("Btn_TestMode", group.transform, "Test Mode", 56f);
+
+            // Style special buttons
+            var packColors = menuUI.btnOpenPack.colors;
+            packColors.normalColor = new Color(0.3f, 0.45f, 0.3f);
+            packColors.highlightedColor = new Color(0.4f, 0.55f, 0.4f);
+            menuUI.btnOpenPack.colors = packColors;
+
+            var duelColors = menuUI.btnQuickDuel.colors;
+            duelColors.normalColor = new Color(0.35f, 0.3f, 0.5f);
+            duelColors.highlightedColor = new Color(0.45f, 0.4f, 0.6f);
+            menuUI.btnQuickDuel.colors = duelColors;
+
+            var testColors = menuUI.btnTestMode.colors;
+            testColors.normalColor = new Color(0.6f, 0.3f, 0.3f);
+            testColors.highlightedColor = new Color(0.7f, 0.4f, 0.4f);
+            menuUI.btnTestMode.colors = testColors;
 
             menuUI.btnContinue.interactable = false;
 

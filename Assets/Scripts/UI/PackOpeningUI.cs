@@ -60,22 +60,14 @@ namespace ArcaneAtlas.UI
                 if (i < cardBacks.Length && cardBacks[i] != null)
                     cardBacks[i].gameObject.SetActive(false);
 
+                // Render full modular card on the card slot
                 if (i < cardImages.Length && cardImages[i] != null)
                 {
-                    Sprite sprite = Resources.Load<Sprite>(CardDatabase.GetSpritePath(card));
-                    if (sprite != null)
-                    {
-                        cardImages[i].sprite = sprite;
-                        cardImages[i].color = Color.white;
-                        cardImages[i].preserveAspect = true;
-                    }
-                    else
-                    {
-                        cardImages[i].color = GetElementColor(card.Element);
-                    }
+                    CardDisplayHelper.ClearCard(cardImages[i].transform);
+                    CardDisplayHelper.RenderCard(cardImages[i].transform, card);
                 }
                 if (i < cardTexts.Length && cardTexts[i] != null)
-                    cardTexts[i].text = $"{card.CardName}\n{card.Attack}/{card.Health}";
+                    cardTexts[i].text = ""; // Name is now rendered by the card display
 
                 bool isNew = !PlayerCollection.Cards.Any(c => c.CardName == card.CardName);
                 if (i < newBadges.Length && newBadges[i] != null)

@@ -1,0 +1,362 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5775d85d09ce3543bf9aa8fd87eccd0, type: 3}
+  m_Name: MiniFantasyDefault
+  m_EditorClassIdentifier: Assembly-CSharp::ArcaneAtlas.Data.CardStyleDef
+  StyleName: MiniFantasyDefault
+  FrameCommon: {fileID: 21300000, guid: 83ff227f3407a1f4c90aadaddc4fe18f, type: 3}
+  FrameUncommon: {fileID: 21300000, guid: 0b7773ee3a2f42542989b20f16a2633e, type: 3}
+  FrameRare: {fileID: 21300000, guid: f92aaac94b416f5419750df6b25ef7cc, type: 3}
+  FrameLegendary: {fileID: 21300000, guid: d52017dc26cf42548a33311ba04d7b25, type: 3}
+  DetailCommon: {fileID: 21300000, guid: 9bcc197e08754014bb42b0b41a50b8f1, type: 3}
+  DetailUncommon: {fileID: 21300000, guid: 9af610a28381bde4cae87df41a9a3d12, type: 3}
+  DetailRare: {fileID: 21300000, guid: 8adc8a90bdd00244babb5d4cffec1ab5, type: 3}
+  DetailLegendary: {fileID: 21300000, guid: 18ec88c071585d24e8362ba9005c28d0, type: 3}
+  ShopFrameCommon: {fileID: 21300000, guid: af04922577b4fbc47ab267710c120274, type: 3}
+  ShopFrameUncommon: {fileID: 21300000, guid: f9c9e6d63a518f94188903acd6c69579, type: 3}
+  ShopFrameRare: {fileID: 21300000, guid: 881b37a07841c5940bb40ac5ad56280a, type: 3}
+  ShopFrameLegendary: {fileID: 21300000, guid: 55f962e435eeb48499a9850b9a6c95a0, type: 3}
+  IconFire: {fileID: 21300000, guid: 1e504449e1922f9428be83939cfcdb83, type: 3}
+  IconWater: {fileID: 21300000, guid: 4823afe2505416448bbed09049355d81, type: 3}
+  IconEarth: {fileID: 21300000, guid: 6fae770acc0187a4a864a84c02a26aa0, type: 3}
+  IconWind: {fileID: 21300000, guid: 2656519541c0d014a9d4d0e9b68d6720, type: 3}
+  TintFire: {r: 0.85, g: 0.2, b: 0.1, a: 1}
+  TintWater: {r: 0.1, g: 0.35, b: 0.75, a: 1}
+  TintEarth: {r: 0.2, g: 0.55, b: 0.15, a: 1}
+  TintWind: {r: 0.7, g: 0.72, b: 0.85, a: 1}
+  BadgeBronze: {fileID: 21300000, guid: a7a20ad59f6bc1b4bbd895b1da1a4934, type: 3}
+  BadgeSilver: {fileID: 21300000, guid: ef95b40e4facff947aeedc48c0e37e71, type: 3}
+  BadgeGold: {fileID: 21300000, guid: 456c9bcc40458d6489a89260ad340d84, type: 3}
+  ModBgFire: {fileID: -1936172589257692895, guid: 80b821f566e0dd243a9450b6b4976ab9, type: 3}
+  ModBgWater: {fileID: 1465692134675969643, guid: 3a34c5bb57b90fa479b70d2c82b83a18, type: 3}
+  ModBgEarth: {fileID: 7297556061609348676, guid: 3c98fa0592f9d6e41a9076f17781838d, type: 3}
+  ModBgWind: {fileID: -1478291995710609612, guid: a7be1c50d3aa9f14595ba474c3df574f, type: 3}
+  ModBorderFire: {fileID: -7819477938447945560, guid: 646eef19aaca71244b204b7573ee4014, type: 3}
+  ModBorderWater: {fileID: -2495838832440557991, guid: a388e60346c78c745ad366d67e433676, type: 3}
+  ModBorderEarth: {fileID: -2208412033639321911, guid: d313856cc8d27eb46bf9aa544240424a, type: 3}
+  ModBorderWind: {fileID: -7964945845241940652, guid: c4d32bb391d59ff478d53636be0b4b57, type: 3}
+  ModFrameCommon: {fileID: -3484882005297348478, guid: 0f7c45f8955793f4cabda074effa2f8f, type: 3}
+  ModFrameRare: {fileID: 4365764117695327626, guid: 03148f10c37d8db4597537e101c99ead, type: 3}
+  ModFrameLegendary: {fileID: 6636635281891839716, guid: 66c31b92251d15c49aaaa3a21464f9b3, type: 3}
+  ModCaptionFire: {fileID: 1411681465398667708, guid: 85eb3b41e5eb4224085e2d0772badca1, type: 3}
+  ModCaptionWater: {fileID: -4351980758344976289, guid: c242dd4e9a914d04f8e79ddd9d40d5f5, type: 3}
+  ModCaptionEarth: {fileID: 8818066678803944073, guid: 3f84c9df4ba505f4b8535c3f552d766b, type: 3}
+  ModCaptionWind: {fileID: 669540076345191808, guid: c7f0d94c4459f9945b73c899e59c549b, type: 3}
+  ModTitleBar: {fileID: -9169567396378743798, guid: a0f03448810fdff41a8f1bcc678d4424, type: 3}
+  ModDescriptionBar: {fileID: 8854061150831856654, guid: 838ce3b77b7839b419c9e74ab26d8626, type: 3}
+  ModCostCircle: {fileID: -7908747124736170260, guid: 84fa0beafbf0277459b9ffd1332fbbd4, type: 3}
+  ModStatSquare: {fileID: 6852496212716319457, guid: b440e04ae20078643bd69fd3d4d0c745, type: 3}
+  ModGlowRare: {fileID: 2939456492837671148, guid: e6122fabf3887424992f00e6d3ab1061, type: 3}
+  ModGlowLegendary: {fileID: -4760451040359314159, guid: ea3a2b622204e5d4c8736b330a303091, type: 3}
+  CardBack: {fileID: 21300000, guid: 785e4616def8edc43864994f46b59a56, type: 3}
+  CardBackShop: {fileID: 21300000, guid: fba0f76224af9ac4f8ebe24572a9303b, type: 3}
+  CreatureOverrides:
+  - Element: 0
+    SpriteIndex: 1
+    Sprite: {fileID: 21300000, guid: 3e5ded4560a692444a6decfc1c5ae474, type: 3}
+  - Element: 0
+    SpriteIndex: 2
+    Sprite: {fileID: 21300000, guid: 71bef89d32421be40a8624c7f95484e5, type: 3}
+  - Element: 0
+    SpriteIndex: 3
+    Sprite: {fileID: 21300000, guid: 9390edd7ce436b6419d13ba8f748532e, type: 3}
+  - Element: 0
+    SpriteIndex: 4
+    Sprite: {fileID: 21300000, guid: 66fd13e6c5222754f851e3d701275c31, type: 3}
+  - Element: 0
+    SpriteIndex: 5
+    Sprite: {fileID: 21300000, guid: ff941fe35afc6b44c91e96c5278337ff, type: 3}
+  - Element: 0
+    SpriteIndex: 6
+    Sprite: {fileID: 21300000, guid: 04412fd4bb5d47b43aac0f2ab3307214, type: 3}
+  - Element: 0
+    SpriteIndex: 7
+    Sprite: {fileID: 21300000, guid: f2cd42aa1c3660447a5a4f78e6f3a085, type: 3}
+  - Element: 0
+    SpriteIndex: 8
+    Sprite: {fileID: 21300000, guid: 89c19080a4177f34fad1197eb77f858f, type: 3}
+  - Element: 0
+    SpriteIndex: 9
+    Sprite: {fileID: 21300000, guid: 65bbc443d77ee4443951cf7b10e49339, type: 3}
+  - Element: 0
+    SpriteIndex: 10
+    Sprite: {fileID: 21300000, guid: 8e4ca6dbcf452f045996c03f17277663, type: 3}
+  - Element: 0
+    SpriteIndex: 11
+    Sprite: {fileID: 21300000, guid: 9f43e1d0239b389429905b053ec3479e, type: 3}
+  - Element: 0
+    SpriteIndex: 12
+    Sprite: {fileID: 21300000, guid: 7663ae2f71addb249a0183fc9e896d7a, type: 3}
+  - Element: 0
+    SpriteIndex: 13
+    Sprite: {fileID: 21300000, guid: 1996ac35dbdde674a8b88017c6c2709f, type: 3}
+  - Element: 0
+    SpriteIndex: 14
+    Sprite: {fileID: 21300000, guid: 847f6abced99b824da2def782df1e47a, type: 3}
+  - Element: 0
+    SpriteIndex: 15
+    Sprite: {fileID: 21300000, guid: 45656a0b031dfda4d89073c24411bd74, type: 3}
+  - Element: 0
+    SpriteIndex: 16
+    Sprite: {fileID: 21300000, guid: 8b3739a0b11e93540a371b762c31d7a3, type: 3}
+  - Element: 0
+    SpriteIndex: 17
+    Sprite: {fileID: 21300000, guid: 9acc364d954b22c47af5b4cce1544f14, type: 3}
+  - Element: 0
+    SpriteIndex: 18
+    Sprite: {fileID: 21300000, guid: f2b38c169f4dbcb498ee16a5c0966f43, type: 3}
+  - Element: 0
+    SpriteIndex: 19
+    Sprite: {fileID: 21300000, guid: 4eb3b5416442cbc449c96969ec9d780b, type: 3}
+  - Element: 0
+    SpriteIndex: 20
+    Sprite: {fileID: 21300000, guid: 41965c2386bdb194f965024e6483a905, type: 3}
+  - Element: 0
+    SpriteIndex: 21
+    Sprite: {fileID: 21300000, guid: 8a9f0b59c5eaad74fad7c100ff6ca337, type: 3}
+  - Element: 0
+    SpriteIndex: 22
+    Sprite: {fileID: 21300000, guid: 25dcbb55a344c0743a9bfdf957c79cb2, type: 3}
+  - Element: 0
+    SpriteIndex: 23
+    Sprite: {fileID: 21300000, guid: c93f4bec1d115d84e9baf0db8fb8cece, type: 3}
+  - Element: 0
+    SpriteIndex: 24
+    Sprite: {fileID: 21300000, guid: 997e6e3b819971241b255a261263016e, type: 3}
+  - Element: 0
+    SpriteIndex: 25
+    Sprite: {fileID: 21300000, guid: 834b3e90211293c4483da4d67b247c23, type: 3}
+  - Element: 1
+    SpriteIndex: 1
+    Sprite: {fileID: 21300000, guid: b9aab706f248a5946b461f0791f8ac77, type: 3}
+  - Element: 1
+    SpriteIndex: 2
+    Sprite: {fileID: 21300000, guid: 425de58eed960ba44bb4ad114b6f2846, type: 3}
+  - Element: 1
+    SpriteIndex: 3
+    Sprite: {fileID: 21300000, guid: 776a137481367854cae265631e11524f, type: 3}
+  - Element: 1
+    SpriteIndex: 4
+    Sprite: {fileID: 21300000, guid: 6ab891019947ef449954da8103a10320, type: 3}
+  - Element: 1
+    SpriteIndex: 5
+    Sprite: {fileID: 21300000, guid: 5660da7cbb79a2d4aa96f80d4cbacfdd, type: 3}
+  - Element: 1
+    SpriteIndex: 6
+    Sprite: {fileID: 21300000, guid: 48da447fc240610449e88bacaff499fb, type: 3}
+  - Element: 1
+    SpriteIndex: 7
+    Sprite: {fileID: 21300000, guid: 62526d3cc66d906419982e95fe74f2db, type: 3}
+  - Element: 1
+    SpriteIndex: 8
+    Sprite: {fileID: 21300000, guid: 7ae5458f60402da4a9a6ded2211611b8, type: 3}
+  - Element: 1
+    SpriteIndex: 9
+    Sprite: {fileID: 21300000, guid: 6fe124fd82d723e438785a8c3e5c226a, type: 3}
+  - Element: 1
+    SpriteIndex: 10
+    Sprite: {fileID: 21300000, guid: d0adf3950761e4043941f28f94fd3d63, type: 3}
+  - Element: 1
+    SpriteIndex: 11
+    Sprite: {fileID: 21300000, guid: 9f28d5992f66d7f4a892168f282f6441, type: 3}
+  - Element: 1
+    SpriteIndex: 12
+    Sprite: {fileID: 21300000, guid: afe4cc835b9f94b42bb1599f1055337c, type: 3}
+  - Element: 1
+    SpriteIndex: 13
+    Sprite: {fileID: 21300000, guid: 5d7f09015c1774c4d9d9476408f7c1fe, type: 3}
+  - Element: 1
+    SpriteIndex: 14
+    Sprite: {fileID: 21300000, guid: c09fa4dfc6c8d5b4689d06ac2f68bdf3, type: 3}
+  - Element: 1
+    SpriteIndex: 15
+    Sprite: {fileID: 21300000, guid: b7ee661624067d84d987000e5b0aab36, type: 3}
+  - Element: 1
+    SpriteIndex: 16
+    Sprite: {fileID: 21300000, guid: f3e32240fe5710045a42f2b229057c9f, type: 3}
+  - Element: 1
+    SpriteIndex: 17
+    Sprite: {fileID: 21300000, guid: f138ea71d13c754499d90d17605bba59, type: 3}
+  - Element: 1
+    SpriteIndex: 18
+    Sprite: {fileID: 21300000, guid: d20d4e3f3451b194d9ec5cfa3dae7c15, type: 3}
+  - Element: 1
+    SpriteIndex: 19
+    Sprite: {fileID: 21300000, guid: 6f95e1639b190da48892a9390a7457bc, type: 3}
+  - Element: 1
+    SpriteIndex: 20
+    Sprite: {fileID: 21300000, guid: 01ce0849f476ef24f9619afdcbe5a3ec, type: 3}
+  - Element: 1
+    SpriteIndex: 21
+    Sprite: {fileID: 21300000, guid: 870c9ded40b0c5e49874fb5ae1ab94b0, type: 3}
+  - Element: 1
+    SpriteIndex: 22
+    Sprite: {fileID: 21300000, guid: 42974c47ea97fa24b994badc39bdcc9b, type: 3}
+  - Element: 1
+    SpriteIndex: 23
+    Sprite: {fileID: 21300000, guid: 3a3d67cb505e04a46bc82a380454f894, type: 3}
+  - Element: 1
+    SpriteIndex: 24
+    Sprite: {fileID: 21300000, guid: ebad2570a970cc746b0d27aaa6fa0635, type: 3}
+  - Element: 1
+    SpriteIndex: 25
+    Sprite: {fileID: 21300000, guid: 96843ca6a7b27a84a8d78c0bfbb4b1de, type: 3}
+  - Element: 2
+    SpriteIndex: 1
+    Sprite: {fileID: 21300000, guid: a6712b8688ef2e74a95efd90c5bb1f0b, type: 3}
+  - Element: 2
+    SpriteIndex: 2
+    Sprite: {fileID: 21300000, guid: 8f6b8994eb358264a9017ad6fecbd65f, type: 3}
+  - Element: 2
+    SpriteIndex: 3
+    Sprite: {fileID: 21300000, guid: f2de1773b11ad0842815b3a04e989c19, type: 3}
+  - Element: 2
+    SpriteIndex: 4
+    Sprite: {fileID: 21300000, guid: e1e5109dbf9c2114b92f986c101741f0, type: 3}
+  - Element: 2
+    SpriteIndex: 5
+    Sprite: {fileID: 21300000, guid: 221602e4525b90d49a44be2c2bfbf591, type: 3}
+  - Element: 2
+    SpriteIndex: 6
+    Sprite: {fileID: 21300000, guid: 578411336ed334f488c6d4743f4bb838, type: 3}
+  - Element: 2
+    SpriteIndex: 7
+    Sprite: {fileID: 21300000, guid: 114e1281a08d64a45965040599dbe082, type: 3}
+  - Element: 2
+    SpriteIndex: 8
+    Sprite: {fileID: 21300000, guid: a1dfc1eb24623c84391b4de550f2f4c0, type: 3}
+  - Element: 2
+    SpriteIndex: 9
+    Sprite: {fileID: 21300000, guid: 4b615730739d30d4f9cf32cbd27a0523, type: 3}
+  - Element: 2
+    SpriteIndex: 10
+    Sprite: {fileID: 21300000, guid: caf7d89ef8e28894d87ca2b8d224c924, type: 3}
+  - Element: 2
+    SpriteIndex: 11
+    Sprite: {fileID: 21300000, guid: e926ef805231e9e4984613512ec5d7d5, type: 3}
+  - Element: 2
+    SpriteIndex: 12
+    Sprite: {fileID: 21300000, guid: bb3b1931a3c05cb469b0b2cc814d6936, type: 3}
+  - Element: 2
+    SpriteIndex: 13
+    Sprite: {fileID: 21300000, guid: 6b14bc1531b585642b310ff62d215e51, type: 3}
+  - Element: 2
+    SpriteIndex: 14
+    Sprite: {fileID: 21300000, guid: 22535799e48c33e4682bd3153b9385d2, type: 3}
+  - Element: 2
+    SpriteIndex: 15
+    Sprite: {fileID: 21300000, guid: 370374aafcb33f9419be7900fe6d0549, type: 3}
+  - Element: 2
+    SpriteIndex: 16
+    Sprite: {fileID: 21300000, guid: 76c7b7a88576e6f4db9c93c98c37c757, type: 3}
+  - Element: 2
+    SpriteIndex: 17
+    Sprite: {fileID: 21300000, guid: 5643c7c3d415fce4abe629d0fbef0477, type: 3}
+  - Element: 2
+    SpriteIndex: 18
+    Sprite: {fileID: 21300000, guid: 98b039aa2e15d1b45975d23183e4b396, type: 3}
+  - Element: 2
+    SpriteIndex: 19
+    Sprite: {fileID: 21300000, guid: 148b2cc4de956464badb3de0af464622, type: 3}
+  - Element: 2
+    SpriteIndex: 20
+    Sprite: {fileID: 21300000, guid: 4dd16d4340c39ef4894e43ac7df72f56, type: 3}
+  - Element: 2
+    SpriteIndex: 21
+    Sprite: {fileID: 21300000, guid: 8dec6a78f1435f940a4d37b21d7ec645, type: 3}
+  - Element: 2
+    SpriteIndex: 22
+    Sprite: {fileID: 21300000, guid: de6202aaf33d3d24d84cc0f087406cda, type: 3}
+  - Element: 2
+    SpriteIndex: 23
+    Sprite: {fileID: 21300000, guid: 2a48225bd4b2e9b4e982252b8c0c188c, type: 3}
+  - Element: 2
+    SpriteIndex: 24
+    Sprite: {fileID: 21300000, guid: 54b7c74dd931cf04891b702a662433c4, type: 3}
+  - Element: 2
+    SpriteIndex: 25
+    Sprite: {fileID: 21300000, guid: fe2ba165afe887e438b55644ac833ded, type: 3}
+  - Element: 3
+    SpriteIndex: 1
+    Sprite: {fileID: 21300000, guid: 9ec43189d5c5a844487d98c9b33c5324, type: 3}
+  - Element: 3
+    SpriteIndex: 2
+    Sprite: {fileID: 21300000, guid: 19bf776d7891e5f45931dad065688bb0, type: 3}
+  - Element: 3
+    SpriteIndex: 3
+    Sprite: {fileID: 21300000, guid: 7975cd885b2ab54458e994381a248b82, type: 3}
+  - Element: 3
+    SpriteIndex: 4
+    Sprite: {fileID: 21300000, guid: 230214f73583be34dafcfd7b8a5bacc8, type: 3}
+  - Element: 3
+    SpriteIndex: 5
+    Sprite: {fileID: 21300000, guid: ca1405a55d9225a4ebb4c64c741786da, type: 3}
+  - Element: 3
+    SpriteIndex: 6
+    Sprite: {fileID: 21300000, guid: f01165dd7efd0494cb77b3299ef22805, type: 3}
+  - Element: 3
+    SpriteIndex: 7
+    Sprite: {fileID: 21300000, guid: 887f1fff49339604bb944a8d5f66ebe1, type: 3}
+  - Element: 3
+    SpriteIndex: 8
+    Sprite: {fileID: 21300000, guid: 122fbbba3ce47484fa4ad541919e13e7, type: 3}
+  - Element: 3
+    SpriteIndex: 9
+    Sprite: {fileID: 21300000, guid: 178d1df077584ed4ea305181043b0c66, type: 3}
+  - Element: 3
+    SpriteIndex: 10
+    Sprite: {fileID: 21300000, guid: 387eaa75826f7844ba45ec45a4b3b35a, type: 3}
+  - Element: 3
+    SpriteIndex: 11
+    Sprite: {fileID: 21300000, guid: 5fbd0f1dff1f9b9489facabeea23f8a0, type: 3}
+  - Element: 3
+    SpriteIndex: 12
+    Sprite: {fileID: 21300000, guid: 6c9b4792e111e2d4ea593240b25b4b66, type: 3}
+  - Element: 3
+    SpriteIndex: 13
+    Sprite: {fileID: 21300000, guid: aebdab9bf188c094786acb2d83fc957c, type: 3}
+  - Element: 3
+    SpriteIndex: 14
+    Sprite: {fileID: 21300000, guid: f7074e35de1409943bfeebe783fe7784, type: 3}
+  - Element: 3
+    SpriteIndex: 15
+    Sprite: {fileID: 21300000, guid: 6f2b3b59e8fe1e24cac34c46ad41a41f, type: 3}
+  - Element: 3
+    SpriteIndex: 16
+    Sprite: {fileID: 21300000, guid: 2305d0dd6cf5d9340adce55f1a45ee37, type: 3}
+  - Element: 3
+    SpriteIndex: 17
+    Sprite: {fileID: 21300000, guid: 261204f9c3bf1724f9fa07ff29d46bbb, type: 3}
+  - Element: 3
+    SpriteIndex: 18
+    Sprite: {fileID: 21300000, guid: e7e1e1bb87c8b304c86004089c61fb42, type: 3}
+  - Element: 3
+    SpriteIndex: 19
+    Sprite: {fileID: 21300000, guid: e85dde8a3161ce545964913e6a986b19, type: 3}
+  - Element: 3
+    SpriteIndex: 20
+    Sprite: {fileID: 21300000, guid: 7a2714f46bb94484bbbe6d454392447d, type: 3}
+  - Element: 3
+    SpriteIndex: 21
+    Sprite: {fileID: 21300000, guid: 98d13903700f4174d9c7a86acfc42838, type: 3}
+  - Element: 3
+    SpriteIndex: 22
+    Sprite: {fileID: 21300000, guid: 5989902ea82f28e428f2f4a7026e0f27, type: 3}
+  - Element: 3
+    SpriteIndex: 23
+    Sprite: {fileID: 21300000, guid: 6e0f39aa4bc15964b939051c31410284, type: 3}
+  - Element: 3
+    SpriteIndex: 24
+    Sprite: {fileID: 21300000, guid: 31d5cb49e7234424ca6dfd12fdc86cf1, type: 3}
+  - Element: 3
+    SpriteIndex: 25
+    Sprite: {fileID: 21300000, guid: 3f7038e73296024479f67984426a19ed, type: 3}

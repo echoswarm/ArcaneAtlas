@@ -68,6 +68,9 @@ namespace ArcaneAtlas.Core
             // Initialize room template system
             RoomTemplateLoader.Initialize();
 
+            // Load biome-specific palette based on current zone
+            LoadBiomePalette();
+
             // Find or add CameraController on main camera
             if (cameraController == null)
             {
@@ -253,6 +256,28 @@ namespace ArcaneAtlas.Core
             if (room.Type == RoomType.NPC || room.Type == RoomType.Boss)
             {
                 GenerateRoomNpcs(room);
+            }
+        }
+
+        /// <summary>
+        /// Loads the TilePaletteDef for the current zone's biome from Resources.
+        /// Falls back to the prefab-assigned palette if no biome palette found.
+        /// </summary>
+        private void LoadBiomePalette()
+        {
+            var zone = ZoneData.GetByName(GameState.CurrentZone);
+            if (zone != null && !string.IsNullOrEmpty(zone.BiomePalette))
+            {
+                var biomePalette = Resources.Load<TilePaletteDef>($"TilePalettes/{zone.BiomePalette}");
+                if (biomePalette != null)
+                {
+                    tilePalette = biomePalette;
+                    Debug.Log($"[Exploration] Loaded biome palette: {zone.BiomePalette}");
+                }
+                else
+                {
+                    Debug.LogWarning($"[Exploration] Biome palette '{zone.BiomePalette}' not found in Resources/TilePalettes/. Using default.");
+                }
             }
         }
 

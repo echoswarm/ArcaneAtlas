@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: ba67c24e51f2c0346b1f12a74b474ecf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8083841664550886022
+    second: mf_earth_04_0
+  - first:
+      213: -1015025182041060611
+    second: mf_earth_04_1
+  - first:
+      213: 8374407958525745187
+    second: mf_earth_04_2
+  - first:
+      213: 8876187008640321081
+    second: mf_earth_04_3
+  - first:
+      213: 5729564552397374713
+    second: mf_earth_04_4
+  - first:
+      213: 411821418342297768
+    second: mf_earth_04_5
+  - first:
+      213: -6097310403129278921
+    second: mf_earth_04_6
+  - first:
+      213: 8728544377627702543
+    second: mf_earth_04_7
+  - first:
+      213: 1519280728656442559
+    second: mf_earth_04_8
+  - first:
+      213: 4983006553094978859
+    second: mf_earth_04_9
+  - first:
+      213: -3870478310880507423
+    second: mf_earth_04_10
+  - first:
+      213: 1026336305954077634
+    second: mf_earth_04_11
+  - first:
+      213: 8425365996059476580
+    second: mf_earth_04_12
+  - first:
+      213: -5221454101235379365
+    second: mf_earth_04_13
+  - first:
+      213: 3868950040997786924
+    second: mf_earth_04_14
+  - first:
+      213: -8880575493377040957
+    second: mf_earth_04_15
+  - first:
+      213: -2860861799469298384
+    second: mf_earth_04_16
+  - first:
+      213: -3195260802780956723
+    second: mf_earth_04_17
+  - first:
+      213: -3831461837231426618
+    second: mf_earth_04_18
+  - first:
+      213: -2530431364506211409
+    second: mf_earth_04_19
+  - first:
+      213: -5809040680618101662
+    second: mf_earth_04_20
+  - first:
+      213: 6802109127136686806
+    second: mf_earth_04_21
+  - first:
+      213: -5518830869159973427
+    second: mf_earth_04_22
+  - first:
+      213: -8681817133826853979
+    second: mf_earth_04_23
+  - first:
+      213: 4832627761072651106
+    second: mf_earth_04_24
+  - first:
+      213: -3649353956516709915
+    second: mf_earth_04_25
+  - first:
+      213: -6013783760906178866
+    second: mf_earth_04_26
+  - first:
+      213: 261179578345604015
+    second: mf_earth_04_27
+  - first:
+      213: 5566707856141556169
+    second: mf_earth_04_28
+  - first:
+      213: -2058178339304316656
+    second: mf_earth_04_29
+  - first:
+      213: -2117421561737020761
+    second: mf_earth_04_30
+  - first:
+      213: -7015885196036803193
+    second: mf_earth_04_31
+  - first:
+      213: 8594128396306786061
+    second: mf_earth_04_32
+  - first:
+      213: -41591380895515936
+    second: mf_earth_04_33
+  - first:
+      213: 929485277296015562
+    second: mf_earth_04_34
+  - first:
+      213: -6801484314397717607
+    second: mf_earth_04_35
+  - first:
+      213: 1742962078234392296
+    second: mf_earth_04_36
+  - first:
+      213: 3987462595818981768
+    second: mf_earth_04_37
+  - first:
+      213: -117147159000670341
+    second: mf_earth_04_38
+  - first:
+      213: 4536619644616329725
+    second: mf_earth_04_39
+  - first:
+      213: 2951996458522170382
+    second: mf_earth_04_40
+  - first:
+      213: 820663709930613449
+    second: mf_earth_04_41
+  - first:
+      213: -7906386294551712537
+    second: mf_earth_04_42
+  - first:
+      213: -1162885985138979547
+    second: mf_earth_04_43
+  - first:
+      213: 6643645498480443584
+    second: mf_earth_04_44
+  - first:
+      213: 6808192791271630432
+    second: mf_earth_04_45
+  - first:
+      213: -2024223722913388586
+    second: mf_earth_04_46
+  - first:
+      213: -1810871023970439203
+    second: mf_earth_04_47
+  - first:
+      213: 5174501421076017535
+    second: mf_earth_04_48
+  - first:
+      213: -595538012225336294
+    second: mf_earth_04_49
+  - first:
+      213: 5575474459536146567
+    second: mf_earth_04_50
+  - first:
+      213: -4696361496461508886
+    second: mf_earth_04_51
+  - first:
+      213: 6543976853212688210
+    second: mf_earth_04_52
+  - first:
+      213: 2251967460028715874
+    second: mf_earth_04_53
+  - first:
+      213: -2803979245081123648
+    second: mf_earth_04_54
+  - first:
+      213: -6212308206814814306
+    second: mf_earth_04_55
+  - first:
+      213: -2697934053251130308
+    second: mf_earth_04_56
+  - first:
+      213: 5466164865300882059
+    second: mf_earth_04_57
+  - first:
+      213: 8204887892498724555
+    second: mf_earth_04_58
+  - first:
+      213: -6283949035731489483
+    second: mf_earth_04_59
+  - first:
+      213: -1165063872635770359
+    second: mf_earth_04_60
+  - first:
+      213: -6786153096892279299
+    second: mf_earth_04_61
+  - first:
+      213: -8920425596132400351
+    second: mf_earth_04_62
+  - first:
+      213: -2791194237499388461
+    second: mf_earth_04_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mf_earth_04_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7521fb06dc60df80800000000000000
+      internalID: -8083841664550886022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfacd5a89f7e9e1f0800000000000000
+      internalID: -1015025182041060611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32891243bafd73470800000000000000
+      internalID: 8374407958525745187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93681f96e0d8e2b70800000000000000
+      internalID: 8876187008640321081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c0579a90838f40800000000000000
+      internalID: 5729564552397374713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b037e56517b500800000000000000
+      internalID: 411821418342297768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e7f284e70026ba0800000000000000
+      internalID: -6097310403129278921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f057bba9dd4022970800000000000000
+      internalID: 8728544377627702543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4f9a1f5c1951510800000000000000
+      internalID: 1519280728656442559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7ba61f02372540800000000000000
+      internalID: 4983006553094978859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e90d11ab7c494ac0800000000000000
+      internalID: -3870478310880507423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbba78be674e3e00800000000000000
+      internalID: 1026336305954077634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462c7c1ebb9ece470800000000000000
+      internalID: 8425365996059476580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53dbdcc82ba987b0800000000000000
+      internalID: -5221454101235379365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f76f409541b530800000000000000
+      internalID: 3868950040997786924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd83cd3abd1c480800000000000000
+      internalID: -8880575493377040957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc523d95d2c48d0800000000000000
+      internalID: -2860861799469298384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7f285aa3728a3d0800000000000000
+      internalID: -3195260802780956723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3fa5d42c9e3dac0800000000000000
+      internalID: -3831461837231426618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faba91ea41a12ecd0800000000000000
+      internalID: -2530431364506211409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f6f15744226fa0800000000000000
+      internalID: -5809040680618101662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2bc664632f56e50800000000000000
+      internalID: 6802109127136686806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd6244809c2963b0800000000000000
+      internalID: -5518830869159973427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3b955a05df38780800000000000000
+      internalID: -8681817133826853979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3d662851f01340800000000000000
+      internalID: 4832627761072651106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b72269e3ea5dc0800000000000000
+      internalID: -3649353956516709915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceac27288fba8ca0800000000000000
+      internalID: -6013783760906178866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa340e55175ef9300800000000000000
+      internalID: 261179578345604015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c991bd2d4be04d40800000000000000
+      internalID: 5566707856141556169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ec5184b1ef63e0800000000000000
+      internalID: -2058178339304316656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa79e4ee486d92e0800000000000000
+      internalID: -2117421561737020761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fd41069192ae90800000000000000
+      internalID: -7015885196036803193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a6f72e3a744770800000000000000
+      internalID: 8594128396306786061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea31040cdc3c6ff0800000000000000
+      internalID: -41591380895515936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac83f216fe136ec00800000000000000
+      internalID: 929485277296015562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bcee64d064c91a0800000000000000
+      internalID: -6801484314397717607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6332a86ce303810800000000000000
+      internalID: 1742962078234392296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88982faba10565730800000000000000
+      internalID: 3987462595818981768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f9151974fcf5ef0800000000000000
+      internalID: -117147159000670341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94a6ed78f45fe30800000000000000
+      internalID: 4536619644616329725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04dc60832997f820800000000000000
+      internalID: 2951996458522170382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cae77ecb45936b00800000000000000
+      internalID: 820663709930613449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6a301e8fd64290800000000000000
+      internalID: -7906386294551712537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc2859b599cdfe0800000000000000
+      internalID: -1162885985138979547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0cc8e9168f23c50800000000000000
+      internalID: 6643645498480443584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066ee16b54f8b7e50800000000000000
+      internalID: 6808192791271630432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d724d1bf3388e3e0800000000000000
+      internalID: -2024223722913388586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa13ae56e7ed6e0800000000000000
+      internalID: -1810871023970439203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717df470a58fc740800000000000000
+      internalID: 5174501421076017535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c011b45593cb7f0800000000000000
+      internalID: -595538012225336294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7804ae61b70106d40800000000000000
+      internalID: 5575474459536146567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeef692f91c23deb0800000000000000
+      internalID: -4696361496461508886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fee1ac640e0da50800000000000000
+      internalID: 6543976853212688210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26310c43978904f10800000000000000
+      internalID: 2251967460028715874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c42f539bb34619d0800000000000000
+      internalID: -2803979245081123648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f1f81a99279c9a0800000000000000
+      internalID: -6212308206814814306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5988d5430f8ad0800000000000000
+      internalID: -2697934053251130308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82eaf7ebf7bbdb40800000000000000
+      internalID: 5466164865300882059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63a4e111e9dd170800000000000000
+      internalID: 8204887892498724555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de09255adeac8a0800000000000000
+      internalID: -6283949035731489483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a67e2a49cd4dfe0800000000000000
+      internalID: -1165063872635770359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5915486bdb2d1a0800000000000000
+      internalID: -6786153096892279299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e939ce28443480800000000000000
+      internalID: -8920425596132400351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mf_earth_04_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd4bbe11afa349d0800000000000000
+      internalID: -2791194237499388461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mf_earth_04_0: -8083841664550886022
+      mf_earth_04_1: -1015025182041060611
+      mf_earth_04_10: -3870478310880507423
+      mf_earth_04_11: 1026336305954077634
+      mf_earth_04_12: 8425365996059476580
+      mf_earth_04_13: -5221454101235379365
+      mf_earth_04_14: 3868950040997786924
+      mf_earth_04_15: -8880575493377040957
+      mf_earth_04_16: -2860861799469298384
+      mf_earth_04_17: -3195260802780956723
+      mf_earth_04_18: -3831461837231426618
+      mf_earth_04_19: -2530431364506211409
+      mf_earth_04_2: 8374407958525745187
+      mf_earth_04_20: -5809040680618101662
+      mf_earth_04_21: 6802109127136686806
+      mf_earth_04_22: -5518830869159973427
+      mf_earth_04_23: -8681817133826853979
+      mf_earth_04_24: 4832627761072651106
+      mf_earth_04_25: -3649353956516709915
+      mf_earth_04_26: -6013783760906178866
+      mf_earth_04_27: 261179578345604015
+      mf_earth_04_28: 5566707856141556169
+      mf_earth_04_29: -2058178339304316656
+      mf_earth_04_3: 8876187008640321081
+      mf_earth_04_30: -2117421561737020761
+      mf_earth_04_31: -7015885196036803193
+      mf_earth_04_32: 8594128396306786061
+      mf_earth_04_33: -41591380895515936
+      mf_earth_04_34: 929485277296015562
+      mf_earth_04_35: -6801484314397717607
+      mf_earth_04_36: 1742962078234392296
+      mf_earth_04_37: 3987462595818981768
+      mf_earth_04_38: -117147159000670341
+      mf_earth_04_39: 4536619644616329725
+      mf_earth_04_4: 5729564552397374713
+      mf_earth_04_40: 2951996458522170382
+      mf_earth_04_41: 820663709930613449
+      mf_earth_04_42: -7906386294551712537
+      mf_earth_04_43: -1162885985138979547
+      mf_earth_04_44: 6643645498480443584
+      mf_earth_04_45: 6808192791271630432
+      mf_earth_04_46: -2024223722913388586
+      mf_earth_04_47: -1810871023970439203
+      mf_earth_04_48: 5174501421076017535
+      mf_earth_04_49: -595538012225336294
+      mf_earth_04_5: 411821418342297768
+      mf_earth_04_50: 5575474459536146567
+      mf_earth_04_51: -4696361496461508886
+      mf_earth_04_52: 6543976853212688210
+      mf_earth_04_53: 2251967460028715874
+      mf_earth_04_54: -2803979245081123648
+      mf_earth_04_55: -6212308206814814306
+      mf_earth_04_56: -2697934053251130308
+      mf_earth_04_57: 5466164865300882059
+      mf_earth_04_58: 8204887892498724555
+      mf_earth_04_59: -6283949035731489483
+      mf_earth_04_6: -6097310403129278921
+      mf_earth_04_60: -1165063872635770359
+      mf_earth_04_61: -6786153096892279299
+      mf_earth_04_62: -8920425596132400351
+      mf_earth_04_63: -2791194237499388461
+      mf_earth_04_7: 8728544377627702543
+      mf_earth_04_8: 1519280728656442559
+      mf_earth_04_9: 4983006553094978859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

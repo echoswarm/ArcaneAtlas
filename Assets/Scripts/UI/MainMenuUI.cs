@@ -1,3 +1,4 @@
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 using ArcaneAtlas.Core;
@@ -11,6 +12,9 @@ namespace ArcaneAtlas.UI
         public Button btnContinue;
         public Button btnCollection;
         public Button btnOptions;
+        public Button btnTestMode;
+        public Button btnOpenPack;
+        public Button btnQuickDuel;
 
         void Start()
         {
@@ -19,7 +23,6 @@ namespace ArcaneAtlas.UI
 
         void OnEnable()
         {
-            // Update Continue button availability each time menu is shown
             if (btnContinue != null)
                 btnContinue.interactable = SaveSystem.HasSave();
         }
@@ -31,6 +34,13 @@ namespace ArcaneAtlas.UI
             btnContinue.onClick.AddListener(OnContinue);
             btnCollection.onClick.AddListener(() => sm.ShowScreen(sm.screenCollection));
             btnOptions.onClick.AddListener(() => sm.ShowScreen(sm.screenSettings));
+
+            if (btnTestMode != null)
+                btnTestMode.onClick.AddListener(OnTestMode);
+            if (btnOpenPack != null)
+                btnOpenPack.onClick.AddListener(OnOpenPack);
+            if (btnQuickDuel != null)
+                btnQuickDuel.onClick.AddListener(OnQuickDuel);
 
             btnContinue.interactable = SaveSystem.HasSave();
         }
@@ -55,8 +65,14 @@ namespace ArcaneAtlas.UI
             GameState.HasSeenIntro = false;
             QuestManager.Initialize();
 
-            // Show intro sequence for new journeys
             ScreenManager.Instance.ShowScreen(ScreenManager.Instance.screenIntro, showHUD: false);
+        }
+
+        private void OnTestMode()
+        {
+            SaveSystem.DeleteSave();
+            TestMode.Activate();
+            ScreenManager.Instance.ShowScreen(ScreenManager.Instance.screenTown);
         }
 
         private void OnContinue()
@@ -65,6 +81,105 @@ namespace ArcaneAtlas.UI
             {
                 ScreenManager.Instance.ShowScreen(ScreenManager.Instance.screenTown);
             }
+        }
+
+        /// <summary>
+        /// Opens a booster pack from the title screen.
+        /// If a save exists, loads it first so cards go to that collection.
+        /// If no save, initializes a starter collection so the pack cards have a home.
+        /// After pack opening, saves the game.
+        /// </summary>
+        private void OnOpenPack()
+        {
+            // Load existing save if available, otherwise create minimal state
+            if (SaveSystem.HasSave())
+            {
+                SaveSystem.Load();
+            }
+            else
+            {
+                // No save — set up minimal state for pack cards
+                if (PlayerCollection.Cards.Count == 0)
+                    PlayerCollection.InitializeStarterCollection();
+                QuestManager.Initialize();
+            }
+
+            // Add a free pack and open the pack screen
+            GameState.Packs = Mathf.Max(GameState.Packs, 1);
+
+            var sm = ScreenManager.Instance;
+            if (sm.screenPackOpening != null)
+            {
+                sm.ShowScreen(sm.screenPackOpening, showHUD: false);
+            }
+            else
+            {
+                Debug.LogWarning("[MainMenu] Pack opening screen not found!");
+            }
+        }
+
+        /// <summary>
+        /// Starts a quick duel against a random NPC from unlocked zones.
+        /// Loads the save if available, picks a random zone and NPC,
+        /// sets up the encounter, and jumps to combat.
+        /// </summary>
+        private void OnQuickDuel()
+        {
+            // Load existing save if available
+            if (SaveSystem.HasSave())
+            {
+                SaveSystem.Load();
+            }
+            else
+            {
+                // No save — initialize minimal state
+                if (PlayerCollection.Cards.Count == 0)
+                    PlayerCollection.InitializeStarterCollection();
+                GameState.Gold = Mathf.Max(GameState.Gold, 40);
+                QuestManager.Initialize();
+            }
+
+            // Pick a random unlocked zone
+            var zones = ZoneData.GetAllZones();
+            var unlocked = zones.Where((z, i) => i < GameState.ZonesUnlocked.Length && GameState.ZonesUnlocked[i]).ToArray();
+            if (unlocked.Length == 0)
+            {
+                Debug.LogWarning("[MainMenu] No zones unlocked for quick duel!");
+                return;
+            }
+
+            var zone = unlocked[Random.Range(0, unlocked.Length)];
+            GameState.CurrentZone = zone.Name;
+
+            // Get NPCs for this zone and pick a random non-boss
+            var zoneNpcs = NpcData.GetNpcsForZone(zone.Name);
+            var eligible = zoneNpcs.Where(n => !n.IsBoss).ToArray();
+            if (eligible.Length == 0)
+            {
+                Debug.LogWarning($"[MainMenu] No NPCs found for zone '{zone.Name}'!");
+                return;
+            }
+
+            var npc = eligible[Random.Range(0, eligible.Length)];
+
+            // Clone and set up the opponent
+            var opponent = new NpcData
+            {
+                Name = npc.Name,
+                Element = npc.Element,
+                Difficulty = npc.Difficulty,
+                DialogueLines = npc.DialogueLines,
+                IsBoss = npc.IsBoss,
+                BossCardName = npc.BossCardName,
+            };
+            opponent.GenerateOpponentPool(zone.Difficulty);
+
+            // Set as current opponent and jump directly to combat
+            GameState.CurrentOpponent = opponent;
+
+            var sm = ScreenManager.Instance;
+            sm.ShowScreen(sm.screenCombat, showHUD: false);
+            Debug.Log($"[MainMenu] Quick Duel: {opponent.Name} ({zone.Name}, {zone.Element})");
         }
     }
 }

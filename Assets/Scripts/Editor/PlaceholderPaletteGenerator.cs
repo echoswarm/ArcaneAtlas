@@ -18,16 +18,28 @@ namespace ArcaneAtlas.Editor
         [MenuItem("Arcane Atlas/Generate Placeholder Palette", priority = 35)]
         public static void Generate()
         {
-            string spriteFolder = "Assets/Art/Sprites/placeholder_tiles";
-            string tileFolder = "Assets/Art/Tiles/placeholder";
+            GeneratePalette("Placeholder", "placeholder", BuildColorMap());
+        }
+
+        [MenuItem("Arcane Atlas/Generate Biome Palettes", priority = 36)]
+        public static void GenerateAllBiomes()
+        {
+            GeneratePalette("Placeholder", "placeholder", BuildColorMap());
+            GeneratePalette("VolcanicWastes", "volcanic", BuildVolcanicColorMap());
+            GeneratePalette("SkyPeaks", "skypeaks", BuildSkyPeaksColorMap());
+            GeneratePalette("CoralDepths", "coral", BuildCoralDepthsColorMap());
+            Debug.Log("[PlaceholderPalette] Generated all biome palettes.");
+        }
+
+        private static void GeneratePalette(string paletteName, string folderSuffix, Dictionary<TileKey, Color> colorMap)
+        {
+            string spriteFolder = $"Assets/Art/Sprites/placeholder_tiles_{folderSuffix}";
+            string tileFolder = $"Assets/Art/Tiles/placeholder_{folderSuffix}";
             string paletteFolder = "Assets/Resources/TilePalettes";
 
             EnsureFolder(spriteFolder);
             EnsureFolder(tileFolder);
             EnsureFolder(paletteFolder);
-
-            // Define colors for each TileKey
-            var colorMap = BuildColorMap();
 
             var mappings = new List<TileMapping>();
             int created = 0;
@@ -111,21 +123,21 @@ namespace ArcaneAtlas.Editor
             }
 
             // Create the TilePaletteDef ScriptableObject
-            string defPath = $"{paletteFolder}/Placeholder.asset";
+            string defPath = $"{paletteFolder}/{paletteName}.asset";
             var paletteDef = AssetDatabase.LoadAssetAtPath<TilePaletteDef>(defPath);
             if (paletteDef == null)
             {
                 paletteDef = ScriptableObject.CreateInstance<TilePaletteDef>();
                 AssetDatabase.CreateAsset(paletteDef, defPath);
             }
-            paletteDef.PaletteName = "Placeholder";
+            paletteDef.PaletteName = paletteName;
             paletteDef.Mappings = mappings.ToArray();
             EditorUtility.SetDirty(paletteDef);
 
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
 
-            Debug.Log($"[PlaceholderPalette] Generated {created} new textures, {mappings.Count} tile mappings. Palette at: {defPath}");
+            Debug.Log($"[PlaceholderPalette] Generated '{paletteName}': {created} textures, {mappings.Count} mappings.");
         }
 
         private static Dictionary<TileKey, Color> BuildColorMap()
@@ -254,6 +266,181 @@ namespace ArcaneAtlas.Editor
             map[TileKey.CollisionWater] = new Color(0f, 0f, 1f, 0.5f);  // Blue (debug visible)
 
             return map;
+        }
+
+        // ═══════════════════════════════════════
+        //  VOLCANIC WASTES — reds, oranges, charcoal
+        // ═══════════════════════════════════════
+        private static Dictionary<TileKey, Color> BuildVolcanicColorMap()
+        {
+            var m = new Dictionary<TileKey, Color>();
+            Color ground = new Color(0.35f, 0.25f, 0.20f); // Charred earth
+            Color groundAlt = new Color(0.40f, 0.28f, 0.18f);
+            Color path = new Color(0.55f, 0.35f, 0.22f); // Scorched path
+            Color wall = new Color(0.25f, 0.15f, 0.10f); // Dark obsidian
+            Color corner = new Color(0.20f, 0.12f, 0.08f);
+            Color door = new Color(0.60f, 0.30f, 0.15f); // Lava glow door
+            Color detail = new Color(0.70f, 0.35f, 0.10f); // Ember
+            Color shadow = new Color(0.10f, 0f, 0f, 0.5f); // Dark red shadow
+            Color trunk = new Color(0.30f, 0.18f, 0.12f); // Charred trunk
+            Color canopy = new Color(0.45f, 0.20f, 0.10f); // Burnt foliage
+            Color rock = new Color(0.30f, 0.28f, 0.26f); // Volcanic rock
+            Color water = new Color(0.85f, 0.35f, 0.08f); // Lava
+            Color roof = new Color(0.40f, 0.15f, 0.10f); // Dark red roof
+            Color buildWall = new Color(0.35f, 0.25f, 0.22f); // Basalt
+
+            m[TileKey.Ground] = ground; m[TileKey.GroundAlt] = groundAlt;
+            m[TileKey.Path] = path;
+            m[TileKey.PathEdgeN] = path * 0.9f; m[TileKey.PathEdgeS] = path * 0.9f;
+            m[TileKey.PathEdgeE] = path * 0.9f; m[TileKey.PathEdgeW] = path * 0.9f;
+            m[TileKey.WallN] = wall; m[TileKey.WallS] = wall; m[TileKey.WallE] = wall; m[TileKey.WallW] = wall;
+            m[TileKey.WallCornerNW] = corner; m[TileKey.WallCornerNE] = corner;
+            m[TileKey.WallCornerSW] = corner; m[TileKey.WallCornerSE] = corner;
+            m[TileKey.WallInnerNW] = corner; m[TileKey.WallInnerNE] = corner;
+            m[TileKey.WallInnerSW] = corner; m[TileKey.WallInnerSE] = corner;
+            m[TileKey.DoorN] = door; m[TileKey.DoorS] = door; m[TileKey.DoorE] = door; m[TileKey.DoorW] = door;
+            m[TileKey.GrassDetail] = new Color(0.50f, 0.30f, 0.15f); m[TileKey.FlowerDetail] = new Color(0.90f, 0.40f, 0.10f);
+            m[TileKey.CrackDetail] = new Color(0.80f, 0.25f, 0.05f); m[TileKey.MossDetail] = new Color(0.40f, 0.30f, 0.15f);
+            m[TileKey.MushroomDetail] = new Color(0.60f, 0.25f, 0.12f); m[TileKey.PebbleDetail] = new Color(0.38f, 0.35f, 0.30f);
+            m[TileKey.ShadowWallN] = shadow; m[TileKey.ShadowWallW] = shadow; m[TileKey.ShadowCornerNW] = shadow;
+            m[TileKey.ShadowFull] = new Color(0.10f, 0f, 0f, 0.6f);
+            m[TileKey.ShadowSmall] = shadow; m[TileKey.ShadowMedium] = shadow; m[TileKey.ShadowLarge] = shadow;
+            m[TileKey.TreeBase] = trunk; m[TileKey.TreeTrunkBottom] = trunk; m[TileKey.TreeTrunkMid] = trunk;
+            m[TileKey.TreeRoots] = new Color(0.28f, 0.16f, 0.10f); m[TileKey.StumpSmall] = trunk; m[TileKey.LogH] = trunk;
+            m[TileKey.TreeCrown] = canopy; m[TileKey.TreeCanopyBL] = canopy; m[TileKey.TreeCanopyBR] = canopy;
+            m[TileKey.TreeCanopyBC] = canopy; m[TileKey.TreeCanopyTL] = canopy; m[TileKey.TreeCanopyTR] = canopy; m[TileKey.TreeCanopyTC] = canopy;
+            m[TileKey.RockSmall] = rock; m[TileKey.RockLarge] = rock;
+            m[TileKey.RockClusterBL] = rock; m[TileKey.RockClusterBR] = rock; m[TileKey.RockClusterTL] = rock; m[TileKey.RockClusterTR] = rock;
+            m[TileKey.RockTop] = rock; m[TileKey.BushBase] = canopy; m[TileKey.BushSmall] = canopy; m[TileKey.BushWide] = canopy; m[TileKey.BushTop] = canopy;
+            m[TileKey.Crate] = new Color(0.45f, 0.30f, 0.18f); m[TileKey.Chest] = new Color(0.80f, 0.55f, 0.10f);
+            m[TileKey.FenceH] = trunk; m[TileKey.FenceV] = trunk;
+            m[TileKey.FencePostTL] = trunk; m[TileKey.FencePostTR] = trunk; m[TileKey.FencePostBL] = trunk; m[TileKey.FencePostBR] = trunk;
+            m[TileKey.Water] = water; m[TileKey.WaterEdge] = water * 0.8f;
+            m[TileKey.WaterEdgeN] = water * 0.8f; m[TileKey.WaterEdgeS] = water * 0.8f; m[TileKey.WaterEdgeE] = water * 0.8f; m[TileKey.WaterEdgeW] = water * 0.8f;
+            m[TileKey.BuildWallH] = buildWall; m[TileKey.BuildWallV] = buildWall;
+            m[TileKey.BuildCornerTL] = buildWall; m[TileKey.BuildCornerTR] = buildWall; m[TileKey.BuildCornerBL] = buildWall; m[TileKey.BuildCornerBR] = buildWall;
+            m[TileKey.BuildDoor] = door; m[TileKey.BuildWindow] = new Color(0.80f, 0.40f, 0.15f); m[TileKey.BuildFloor] = groundAlt;
+            m[TileKey.RoofBL] = roof; m[TileKey.RoofBR] = roof; m[TileKey.RoofBC] = roof;
+            m[TileKey.RoofTL] = roof; m[TileKey.RoofTR] = roof; m[TileKey.RoofTC] = roof; m[TileKey.RoofPeak] = roof;
+            m[TileKey.OverlayVines] = new Color(0.30f, 0.15f, 0.05f, 0.5f); m[TileKey.OverlayFog] = new Color(0.50f, 0.25f, 0.10f, 0.3f);
+            m[TileKey.CollisionSolid] = new Color(1f, 0f, 0f, 0.5f); m[TileKey.CollisionWater] = new Color(1f, 0.3f, 0f, 0.5f);
+            return m;
+        }
+
+        // ═══════════════════════════════════════
+        //  SKY PEAKS — light blues, whites, cloud gray
+        // ═══════════════════════════════════════
+        private static Dictionary<TileKey, Color> BuildSkyPeaksColorMap()
+        {
+            var m = new Dictionary<TileKey, Color>();
+            Color ground = new Color(0.70f, 0.75f, 0.80f); // Stone gray-blue
+            Color groundAlt = new Color(0.65f, 0.72f, 0.78f);
+            Color path = new Color(0.80f, 0.82f, 0.85f); // Light stone
+            Color wall = new Color(0.50f, 0.55f, 0.65f); // Mountain stone
+            Color corner = new Color(0.45f, 0.50f, 0.60f);
+            Color door = new Color(0.75f, 0.78f, 0.82f);
+            Color shadow = new Color(0.2f, 0.25f, 0.35f, 0.35f);
+            Color trunk = new Color(0.55f, 0.50f, 0.45f); // Pale wood
+            Color canopy = new Color(0.40f, 0.65f, 0.50f); // Alpine green
+            Color rock = new Color(0.58f, 0.62f, 0.68f); // Mountain rock
+            Color water = new Color(0.55f, 0.75f, 0.90f); // Sky blue water
+            Color roof = new Color(0.50f, 0.58f, 0.70f); // Slate
+            Color buildWall = new Color(0.72f, 0.74f, 0.78f); // White stone
+
+            m[TileKey.Ground] = ground; m[TileKey.GroundAlt] = groundAlt;
+            m[TileKey.Path] = path;
+            m[TileKey.PathEdgeN] = path * 0.95f; m[TileKey.PathEdgeS] = path * 0.95f;
+            m[TileKey.PathEdgeE] = path * 0.95f; m[TileKey.PathEdgeW] = path * 0.95f;
+            m[TileKey.WallN] = wall; m[TileKey.WallS] = wall; m[TileKey.WallE] = wall; m[TileKey.WallW] = wall;
+            m[TileKey.WallCornerNW] = corner; m[TileKey.WallCornerNE] = corner;
+            m[TileKey.WallCornerSW] = corner; m[TileKey.WallCornerSE] = corner;
+            m[TileKey.WallInnerNW] = corner; m[TileKey.WallInnerNE] = corner;
+            m[TileKey.WallInnerSW] = corner; m[TileKey.WallInnerSE] = corner;
+            m[TileKey.DoorN] = door; m[TileKey.DoorS] = door; m[TileKey.DoorE] = door; m[TileKey.DoorW] = door;
+            m[TileKey.GrassDetail] = new Color(0.50f, 0.70f, 0.55f); m[TileKey.FlowerDetail] = new Color(0.80f, 0.70f, 0.90f);
+            m[TileKey.CrackDetail] = new Color(0.60f, 0.62f, 0.65f); m[TileKey.MossDetail] = new Color(0.45f, 0.60f, 0.50f);
+            m[TileKey.MushroomDetail] = new Color(0.75f, 0.72f, 0.70f); m[TileKey.PebbleDetail] = new Color(0.68f, 0.70f, 0.72f);
+            m[TileKey.ShadowWallN] = shadow; m[TileKey.ShadowWallW] = shadow; m[TileKey.ShadowCornerNW] = shadow;
+            m[TileKey.ShadowFull] = new Color(0.2f, 0.25f, 0.35f, 0.5f);
+            m[TileKey.ShadowSmall] = shadow; m[TileKey.ShadowMedium] = shadow; m[TileKey.ShadowLarge] = shadow;
+            m[TileKey.TreeBase] = trunk; m[TileKey.TreeTrunkBottom] = trunk; m[TileKey.TreeTrunkMid] = trunk;
+            m[TileKey.TreeRoots] = trunk; m[TileKey.StumpSmall] = trunk; m[TileKey.LogH] = trunk;
+            m[TileKey.TreeCrown] = canopy; m[TileKey.TreeCanopyBL] = canopy; m[TileKey.TreeCanopyBR] = canopy;
+            m[TileKey.TreeCanopyBC] = canopy; m[TileKey.TreeCanopyTL] = canopy; m[TileKey.TreeCanopyTR] = canopy; m[TileKey.TreeCanopyTC] = canopy;
+            m[TileKey.RockSmall] = rock; m[TileKey.RockLarge] = rock;
+            m[TileKey.RockClusterBL] = rock; m[TileKey.RockClusterBR] = rock; m[TileKey.RockClusterTL] = rock; m[TileKey.RockClusterTR] = rock;
+            m[TileKey.RockTop] = rock; m[TileKey.BushBase] = canopy; m[TileKey.BushSmall] = canopy; m[TileKey.BushWide] = canopy; m[TileKey.BushTop] = canopy;
+            m[TileKey.Crate] = new Color(0.60f, 0.58f, 0.52f); m[TileKey.Chest] = new Color(0.85f, 0.80f, 0.60f);
+            m[TileKey.FenceH] = trunk; m[TileKey.FenceV] = trunk;
+            m[TileKey.FencePostTL] = trunk; m[TileKey.FencePostTR] = trunk; m[TileKey.FencePostBL] = trunk; m[TileKey.FencePostBR] = trunk;
+            m[TileKey.Water] = water; m[TileKey.WaterEdge] = water * 0.9f;
+            m[TileKey.WaterEdgeN] = water * 0.9f; m[TileKey.WaterEdgeS] = water * 0.9f; m[TileKey.WaterEdgeE] = water * 0.9f; m[TileKey.WaterEdgeW] = water * 0.9f;
+            m[TileKey.BuildWallH] = buildWall; m[TileKey.BuildWallV] = buildWall;
+            m[TileKey.BuildCornerTL] = buildWall; m[TileKey.BuildCornerTR] = buildWall; m[TileKey.BuildCornerBL] = buildWall; m[TileKey.BuildCornerBR] = buildWall;
+            m[TileKey.BuildDoor] = door; m[TileKey.BuildWindow] = new Color(0.70f, 0.82f, 0.92f); m[TileKey.BuildFloor] = groundAlt;
+            m[TileKey.RoofBL] = roof; m[TileKey.RoofBR] = roof; m[TileKey.RoofBC] = roof;
+            m[TileKey.RoofTL] = roof; m[TileKey.RoofTR] = roof; m[TileKey.RoofTC] = roof; m[TileKey.RoofPeak] = roof;
+            m[TileKey.OverlayVines] = new Color(0.60f, 0.70f, 0.65f, 0.4f); m[TileKey.OverlayFog] = new Color(0.90f, 0.92f, 0.95f, 0.4f);
+            m[TileKey.CollisionSolid] = new Color(1f, 0f, 0f, 0.5f); m[TileKey.CollisionWater] = new Color(0f, 0f, 1f, 0.5f);
+            return m;
+        }
+
+        // ═══════════════════════════════════════
+        //  CORAL DEPTHS — deep blues, teals, purple
+        // ═══════════════════════════════════════
+        private static Dictionary<TileKey, Color> BuildCoralDepthsColorMap()
+        {
+            var m = new Dictionary<TileKey, Color>();
+            Color ground = new Color(0.15f, 0.30f, 0.40f); // Deep ocean floor
+            Color groundAlt = new Color(0.18f, 0.32f, 0.38f);
+            Color path = new Color(0.25f, 0.45f, 0.50f); // Sandy underwater path
+            Color wall = new Color(0.10f, 0.20f, 0.35f); // Deep reef wall
+            Color corner = new Color(0.08f, 0.18f, 0.30f);
+            Color door = new Color(0.20f, 0.40f, 0.55f);
+            Color shadow = new Color(0f, 0.05f, 0.15f, 0.5f);
+            Color trunk = new Color(0.50f, 0.30f, 0.45f); // Coral stalk (purple)
+            Color canopy = new Color(0.65f, 0.25f, 0.50f); // Coral fan (pink-purple)
+            Color rock = new Color(0.20f, 0.35f, 0.42f); // Reef rock
+            Color water = new Color(0.10f, 0.25f, 0.55f); // Deep water
+            Color roof = new Color(0.30f, 0.22f, 0.45f); // Purple shell
+            Color buildWall = new Color(0.22f, 0.38f, 0.45f); // Coral brick
+
+            m[TileKey.Ground] = ground; m[TileKey.GroundAlt] = groundAlt;
+            m[TileKey.Path] = path;
+            m[TileKey.PathEdgeN] = path * 0.9f; m[TileKey.PathEdgeS] = path * 0.9f;
+            m[TileKey.PathEdgeE] = path * 0.9f; m[TileKey.PathEdgeW] = path * 0.9f;
+            m[TileKey.WallN] = wall; m[TileKey.WallS] = wall; m[TileKey.WallE] = wall; m[TileKey.WallW] = wall;
+            m[TileKey.WallCornerNW] = corner; m[TileKey.WallCornerNE] = corner;
+            m[TileKey.WallCornerSW] = corner; m[TileKey.WallCornerSE] = corner;
+            m[TileKey.WallInnerNW] = corner; m[TileKey.WallInnerNE] = corner;
+            m[TileKey.WallInnerSW] = corner; m[TileKey.WallInnerSE] = corner;
+            m[TileKey.DoorN] = door; m[TileKey.DoorS] = door; m[TileKey.DoorE] = door; m[TileKey.DoorW] = door;
+            m[TileKey.GrassDetail] = new Color(0.15f, 0.50f, 0.40f); m[TileKey.FlowerDetail] = new Color(0.70f, 0.30f, 0.55f);
+            m[TileKey.CrackDetail] = new Color(0.25f, 0.35f, 0.40f); m[TileKey.MossDetail] = new Color(0.10f, 0.40f, 0.35f);
+            m[TileKey.MushroomDetail] = new Color(0.55f, 0.30f, 0.50f); m[TileKey.PebbleDetail] = new Color(0.30f, 0.38f, 0.42f);
+            m[TileKey.ShadowWallN] = shadow; m[TileKey.ShadowWallW] = shadow; m[TileKey.ShadowCornerNW] = shadow;
+            m[TileKey.ShadowFull] = new Color(0f, 0.05f, 0.15f, 0.6f);
+            m[TileKey.ShadowSmall] = shadow; m[TileKey.ShadowMedium] = shadow; m[TileKey.ShadowLarge] = shadow;
+            m[TileKey.TreeBase] = trunk; m[TileKey.TreeTrunkBottom] = trunk; m[TileKey.TreeTrunkMid] = trunk;
+            m[TileKey.TreeRoots] = trunk; m[TileKey.StumpSmall] = trunk; m[TileKey.LogH] = trunk;
+            m[TileKey.TreeCrown] = canopy; m[TileKey.TreeCanopyBL] = canopy; m[TileKey.TreeCanopyBR] = canopy;
+            m[TileKey.TreeCanopyBC] = canopy; m[TileKey.TreeCanopyTL] = canopy; m[TileKey.TreeCanopyTR] = canopy; m[TileKey.TreeCanopyTC] = canopy;
+            m[TileKey.RockSmall] = rock; m[TileKey.RockLarge] = rock;
+            m[TileKey.RockClusterBL] = rock; m[TileKey.RockClusterBR] = rock; m[TileKey.RockClusterTL] = rock; m[TileKey.RockClusterTR] = rock;
+            m[TileKey.RockTop] = rock; m[TileKey.BushBase] = canopy; m[TileKey.BushSmall] = canopy; m[TileKey.BushWide] = canopy; m[TileKey.BushTop] = canopy;
+            m[TileKey.Crate] = new Color(0.35f, 0.40f, 0.30f); m[TileKey.Chest] = new Color(0.65f, 0.55f, 0.20f);
+            m[TileKey.FenceH] = trunk; m[TileKey.FenceV] = trunk;
+            m[TileKey.FencePostTL] = trunk; m[TileKey.FencePostTR] = trunk; m[TileKey.FencePostBL] = trunk; m[TileKey.FencePostBR] = trunk;
+            m[TileKey.Water] = water; m[TileKey.WaterEdge] = water * 0.8f;
+            m[TileKey.WaterEdgeN] = water * 0.8f; m[TileKey.WaterEdgeS] = water * 0.8f; m[TileKey.WaterEdgeE] = water * 0.8f; m[TileKey.WaterEdgeW] = water * 0.8f;
+            m[TileKey.BuildWallH] = buildWall; m[TileKey.BuildWallV] = buildWall;
+            m[TileKey.BuildCornerTL] = buildWall; m[TileKey.BuildCornerTR] = buildWall; m[TileKey.BuildCornerBL] = buildWall; m[TileKey.BuildCornerBR] = buildWall;
+            m[TileKey.BuildDoor] = door; m[TileKey.BuildWindow] = new Color(0.30f, 0.55f, 0.65f); m[TileKey.BuildFloor] = groundAlt;
+            m[TileKey.RoofBL] = roof; m[TileKey.RoofBR] = roof; m[TileKey.RoofBC] = roof;
+            m[TileKey.RoofTL] = roof; m[TileKey.RoofTR] = roof; m[TileKey.RoofTC] = roof; m[TileKey.RoofPeak] = roof;
+            m[TileKey.OverlayVines] = new Color(0.10f, 0.35f, 0.30f, 0.5f); m[TileKey.OverlayFog] = new Color(0.15f, 0.30f, 0.50f, 0.3f);
+            m[TileKey.CollisionSolid] = new Color(1f, 0f, 0f, 0.5f); m[TileKey.CollisionWater] = new Color(0f, 0f, 1f, 0.5f);
+            return m;
         }
 
         private static void EnsureFolder(string path)

@@ -168,11 +168,8 @@ namespace ArcaneAtlas.UI
                 var cm = CombatManager.Instance;
                 if (cm.playerBoard[slot] != null)
                 {
-                    // During shop phase: show detail + sell button
-                    if (cm.currentPhase == CombatPhase.Shop)
-                        ShowCardDetail(cm.playerBoard[slot].Data, cm.playerBoard[slot], slot);
-                    else
-                        HideCardDetail();
+                    // Show detail for any board card (shop phase enables sell button)
+                    ShowCardDetail(cm.playerBoard[slot].Data, cm.playerBoard[slot], slot);
 
                     // Only sell if no detail panel was just opened (sell via long-press or double-tap later)
                     // For now: clicking a board card during shop shows info; clicking empty slot does nothing
@@ -227,9 +224,8 @@ namespace ArcaneAtlas.UI
                 {
                     var card = cm.shopOffers[i];
                     SetCardDisplay(slot, card, null, shopTexts[i], i == selectedShopIndex);
-                    // Show cost as gold sprite number (bottom-center overlay)
-                    NumberRenderer.Set(slot, "CostNum", card.Cost, NumberRenderer.Gold,
-                        16f, new Vector2(0.30f, 0.28f), new Vector2(0.70f, 0.38f), 0.5f);
+                    // Cost is already shown via TierNum in SetCardDisplay — no separate overlay needed
+                    NumberRenderer.Clear(slot, "CostNum");
                     shopButtons[i].interactable = cm.currentPhase == CombatPhase.Shop;
                 }
                 else
@@ -293,82 +289,213 @@ namespace ArcaneAtlas.UI
         private void SetCardDisplay(Transform slot, CardData card, CardInstance instance, TextMeshProUGUI mainText, bool isSelected)
         {
             if (card == null) return;
+            var style = GetCardStyle();
 
             // 1. Rarity border via Outline
             var outline = slot.GetComponent<Outline>();
             if (outline != null)
+            {
                 outline.effectColor = GetRarityColor(card.Rarity);
+                float borderSize = card.Rarity == CardRarity.Legendary ? 3f :
+                                   card.Rarity == CardRarity.Rare ? 2.5f : 2f;
+                outline.effectDistance = new Vector2(borderSize, -borderSize);
+            }
 
-            // 2. Background tint based on element + rank
+            // ── Modular Card Layers (if available) ──
+            if (style != null && style.HasModularCards)
+            {
+                // Layer 1: Element background (full card)
+                var bgImg = GetOrCreateChild<Image>(slot, "ModBg", Vector2.zero, Vector2.one);
+                bgImg.sprite = style.GetModBg(card.Element);
+                bgImg.color = Color.white;
+                bgImg.raycastTarget = false;
+                bgImg.transform.SetAsFirstSibling();
+
+                // Layer 2: Glow for rare/legendary (behind frame)
+                Sprite glow = style.GetModGlow(card.Rarity);
+                var glowImg = GetOrCreateChild<Image>(slot, "ModGlow", new Vector2(-0.05f, -0.05f), new Vector2(1.05f, 1.05f));
+                glowImg.sprite = glow;
+                glowImg.color = glow != null ? Color.white : Color.clear;
+                glowImg.raycastTarget = false;
+
+                // Layer 3: Frame by rarity
+                var frameImg = GetOrCreateChild<Image>(slot, "ModFrame", Vector2.zero, Vector2.one);
+                frameImg.sprite = style.GetModFrame(card.Rarity);
+                frameImg.color = Color.white;
+                frameImg.raycastTarget = false;
+
+                // Layer 4: Border by element
+                var borderImg = GetOrCreateChild<Image>(slot, "ModBorder", Vector2.zero, Vector2.one);
+                borderImg.sprite = style.GetModBorder(card.Element);
+                borderImg.color = Color.white;
+                borderImg.raycastTarget = false;
+            }
+
+            // 2. Background tint (used when no modular layers)
             var slotImg = slot.GetComponent<Image>();
             if (slotImg != null)
             {
-                if (isSelected)
-                    slotImg.color = new Color(0.3f, 0.3f, 0.15f, 0.95f);
-                else if (instance != null && instance.Tier == CardTier.Gold)
-                    slotImg.color = new Color(0.2f, 0.17f, 0.05f, 0.95f);
-                else if (instance != null && instance.Tier == CardTier.Silver)
-                    slotImg.color = new Color(0.15f, 0.15f, 0.18f, 0.95f);
+                if (style != null && style.HasModularCards)
+                    slotImg.color = new Color(0.1f, 0.1f, 0.1f, 0.95f); // Dark base behind modular layers
                 else
-                    slotImg.color = GetElementColor(card.Element);
+                {
+                    Color elemColor = GetElementColor(card.Element);
+                    if (isSelected) elemColor = Color.Lerp(elemColor, Color.yellow, 0.3f);
+                    slotImg.color = elemColor;
+                }
             }
 
-            // 3. Creature art (upper area)
+            // 4. Creature art (fills center)
             SetSlotArt(slot, card);
 
-            // 4. Tier badge (top-left) — sprite number showing cost/tier
-            NumberRenderer.Set(slot, "TierNum", card.Tier, NumberRenderer.Gold,
-                14f, new Vector2(0.02f, 0.85f), new Vector2(0.25f, 1f), 0f);
+            // 5. Caption bar at TOP for card name
+            if (style != null && style.HasModularCards)
+            {
+                var captionImg = GetOrCreateChild<Image>(slot, "ModCaption",
+                    new Vector2(0.0f, 0.80f), new Vector2(1.0f, 0.98f));
+                captionImg.sprite = style.GetModCaption(card.Element);
+                captionImg.color = Color.white;
+                captionImg.raycastTarget = false;
+            }
 
-            // 5. Rank stars (top-right)
+            if (mainText != null)
+            {
+                mainText.text = card.CardName;
+                mainText.fontSize = 15f;
+                mainText.fontStyle = TMPro.FontStyles.Normal;
+                mainText.alignment = TextAlignmentOptions.Center;
+                mainText.color = Color.white;
+                // 3. Shifted left ~5px by adjusting margins (less right margin)
+                mainText.margin = new Vector4(14f, 0f, 8f, 0f);
+
+                // Reposition mainText to top of card, centered better
+                var mtRT = mainText.GetComponent<RectTransform>();
+                if (mtRT != null)
+                {
+                    mtRT.anchorMin = new Vector2(0.12f, 0.80f);
+                    mtRT.anchorMax = new Vector2(0.92f, 0.98f);
+                    mtRT.offsetMin = mtRT.offsetMax = Vector2.zero;
+                }
+
+                if (pixelFont == null)
+                    pixelFont = Resources.Load<TMPro.TMP_FontAsset>("Fonts/Pixeled SDF");
+                if (pixelFont != null)
+                    mainText.font = pixelFont;
+
+                // 4. Drop shadow on card name
+                var shadow = mainText.GetComponent<Shadow>();
+                if (shadow == null) shadow = mainText.gameObject.AddComponent<Shadow>();
+                shadow.effectColor = new Color(0f, 0f, 0f, 0.8f);
+                shadow.effectDistance = new Vector2(1.5f, -1.5f);
+            }
+
+            // 5b. Row indicator — 2. moved down ~10px
+            string rowLetter = card.Row == RowPreference.Front ? "F" :
+                               card.Row == RowPreference.Back ? "B" : "*";
+            var rowTMP = GetOrCreateChild<TextMeshProUGUI>(slot, "RowTag",
+                new Vector2(0.30f, 0.15f), new Vector2(0.70f, 0.32f));
+            rowTMP.text = rowLetter;
+            rowTMP.fontSize = 20f;
+            rowTMP.alignment = TextAlignmentOptions.Center;
+            rowTMP.color = new Color(1f, 1f, 1f, 0.6f);
+            if (pixelFont != null) rowTMP.font = pixelFont;
+
+            // 6. Cost — 1. dark circle instead of gold (gold-on-gold was unreadable)
+            if (style != null && style.ModCostCircle != null)
+            {
+                var costCircle = GetOrCreateChild<Image>(slot, "CostBg",
+                    new Vector2(-0.04f, 0.82f), new Vector2(0.14f, 1.04f));
+                costCircle.sprite = style.ModCostCircle;
+                costCircle.color = new Color(0.15f, 0.12f, 0.08f); // Dark brown tint for readability
+                costCircle.raycastTarget = false;
+                costCircle.preserveAspect = true;
+            }
+            else
+            {
+                var costBg = GetOrCreateChild<Image>(slot, "CostBg",
+                    new Vector2(0.0f, 0.85f), new Vector2(0.15f, 1.0f));
+                costBg.color = new Color(0f, 0f, 0f, 0.7f);
+                costBg.raycastTarget = false;
+            }
+
+            NumberRenderer.Set(slot, "TierNum", card.Cost, NumberRenderer.Gold,
+                22f, new Vector2(-0.02f, 0.84f), new Vector2(0.12f, 1.02f), 0.5f);
+
+            // 7. Rank stars (top-right, only for board cards)
             var rankTMP = GetOrCreateChild<TextMeshProUGUI>(slot, "RankStars",
-                new Vector2(0.60f, 0.82f), new Vector2(1f, 1f));
+                new Vector2(0.70f, 0.87f), new Vector2(0.98f, 1f));
             if (instance != null)
             {
                 string stars = instance.Tier == CardTier.Gold ? "<color=#FFD700>***</color>" :
                                instance.Tier == CardTier.Silver ? "<color=#C0C0C0>**</color>" :
                                "<color=#CD7F32>*</color>";
                 string mergeInfo = instance.Tier < CardTier.Gold && instance.MergeCount > 1
-                    ? $" <size=9>{instance.MergeCount}/3</size>" : "";
+                    ? $" <size=10>{instance.MergeCount}/3</size>" : "";
                 rankTMP.text = stars + mergeInfo;
             }
             else
             {
-                rankTMP.text = ""; // Shop cards have no rank
+                rankTMP.text = "";
             }
-            rankTMP.fontSize = 12f;
+            rankTMP.fontSize = 14f;
             rankTMP.alignment = TextAlignmentOptions.TopRight;
-            rankTMP.margin = new Vector4(0f, 0f, 3f, 0f);
 
-            // 6. Card name (center)
-            if (mainText != null)
-            {
-                mainText.text = card.CardName;
-                mainText.fontSize = 11f;
-                mainText.alignment = TextAlignmentOptions.Center;
-            }
-
-            // 7. ATK/HP (bottom — sprite-rendered, large and prominent)
+            // 8. ATK — bottom-left with modular square or dark backing
             int atk = instance != null ? instance.CurrentAttack : card.Attack;
             int hp = instance != null ? instance.CurrentHealth : card.Health;
 
-            // ATK on left side (red sprites, +40% size)
+            var atkBg = GetOrCreateChild<Image>(slot, "AtkBg",
+                new Vector2(-0.01f, -0.01f), new Vector2(0.19f, 0.19f));
+            atkBg.sprite = (style != null && style.ModStatSquare != null) ? style.ModStatSquare : null;
+            atkBg.color = (atkBg.sprite != null) ? Color.white : new Color(0f, 0f, 0f, 0.7f);
+            atkBg.raycastTarget = false;
+            atkBg.preserveAspect = true;
+
+            // ATK number centered in the box
             NumberRenderer.Set(slot, "AtkNum", atk, NumberRenderer.Red,
-                31f, new Vector2(0.02f, 0.01f), new Vector2(0.45f, 0.30f), 0.5f);
+                32f, new Vector2(0.0f, 0.0f), new Vector2(0.18f, 0.18f), 0.5f);
 
-            // HP on right side (green sprites, +40% size)
+            // 9. HP — bottom-right with modular square or dark backing
+            var hpBg = GetOrCreateChild<Image>(slot, "HpBg",
+                new Vector2(0.81f, -0.01f), new Vector2(1.01f, 0.19f));
+            hpBg.sprite = (style != null && style.ModStatSquare != null) ? style.ModStatSquare : null;
+            hpBg.color = (hpBg.sprite != null) ? Color.white : new Color(0f, 0f, 0f, 0.7f);
+            hpBg.raycastTarget = false;
+            hpBg.preserveAspect = true;
+
+            // HP number centered in the box
             NumberRenderer.Set(slot, "HpNum", hp, NumberRenderer.Green,
-                31f, new Vector2(0.55f, 0.01f), new Vector2(0.98f, 0.30f), 0.5f);
+                32f, new Vector2(0.82f, 0.0f), new Vector2(1.0f, 0.18f), 0.5f);
 
-            // Row indicator stays as small TMP (not a number)
-            string rowTag = card.Row == RowPreference.Front ? "F" :
-                            card.Row == RowPreference.Back ? "B" : "*";
-            var rowTMP = GetOrCreateChild<TextMeshProUGUI>(slot, "RowTag",
-                new Vector2(0.40f, 0.02f), new Vector2(0.60f, 0.15f));
-            rowTMP.text = rowTag;
-            rowTMP.fontSize = 10f;
-            rowTMP.color = new Color(0.7f, 0.7f, 0.7f, 0.6f);
-            rowTMP.alignment = TextAlignmentOptions.Center;
+            // 10. Enforce rendering order: bg → frame → border → creature → caption → text/numbers
+            // Earlier siblings render behind, later siblings render in front.
+            SetSiblingOrder(slot, "ModBg", 0);
+            SetSiblingOrder(slot, "ModGlow", 1);
+            SetSiblingOrder(slot, "ModFrame", 2);
+            SetSiblingOrder(slot, "ModBorder", 3);
+            BringToFront(slot, "CreatureArt");    // Creature on top of frame layers
+            BringToFront(slot, "RowTag");         // Row letter on portrait
+            BringToFront(slot, "ModCaption");     // Name bar on top of creature
+            BringToFront(slot, "CostBg");
+            BringToFront(slot, "TierNum");
+            if (mainText != null) mainText.transform.SetAsLastSibling();
+            BringToFront(slot, "RankStars");
+            BringToFront(slot, "AtkBg");
+            BringToFront(slot, "AtkNum");
+            BringToFront(slot, "HpBg");
+            BringToFront(slot, "HpNum");
+        }
+
+        private void BringToFront(Transform parent, string childName)
+        {
+            var child = parent.Find(childName);
+            if (child != null) child.SetAsLastSibling();
+        }
+
+        private void SetSiblingOrder(Transform parent, string childName, int index)
+        {
+            var child = parent.Find(childName);
+            if (child != null) child.SetSiblingIndex(index);
         }
 
         /// <summary>
@@ -376,20 +503,30 @@ namespace ArcaneAtlas.UI
         /// </summary>
         private void ClearCardDisplay(Transform slot, TextMeshProUGUI mainText)
         {
-            ClearSlotArt(slot);
-
             if (mainText != null)
             {
                 mainText.text = "";
                 mainText.fontSize = 14f;
             }
 
-            // Clear dynamic children
-            SetChildText(slot, "RankStars", "");
-            SetChildText(slot, "RowTag", "");
+            // Destroy ALL dynamic children — guarantees clean slate
+            // Keep only children that existed in the prefab (mainText, the slot's own Image/Outline)
+            string[] dynamicChildren = {
+                "CreatureArt", "CardFrame", "ElementIcon", "ElemBg",
+                "ModBg", "ModGlow", "ModFrame", "ModBorder", "ModCaption",
+                "CostBg", "AtkBg", "HpBg", "RankStars", "RowTag"
+            };
+            foreach (string childName in dynamicChildren)
+            {
+                var child = slot.Find(childName);
+                if (child != null) Destroy(child.gameObject);
+            }
+
+            // Clear number renderers
             NumberRenderer.Clear(slot, "TierNum");
             NumberRenderer.Clear(slot, "AtkNum");
             NumberRenderer.Clear(slot, "HpNum");
+            NumberRenderer.Clear(slot, "CostNum");
 
             // Reset outline
             var outline = slot.GetComponent<Outline>();
@@ -461,10 +598,37 @@ namespace ArcaneAtlas.UI
 
         // ── Card Art Helpers ──
 
+        // Cached card style and font — loaded once from Resources
+        private static CardStyleDef cachedCardStyle;
+        private static TMPro.TMP_FontAsset pixelFont;
+        private static bool hasLoggedStyleLoad = false;
+        private static CardStyleDef GetCardStyle()
+        {
+            if (cachedCardStyle == null)
+            {
+                cachedCardStyle = Resources.Load<CardStyleDef>("CardStyles/MiniFantasyDefault");
+                if (cachedCardStyle == null)
+                    cachedCardStyle = Resources.Load<CardStyleDef>("CardStyles/Default");
+
+                if (!hasLoggedStyleLoad)
+                {
+                    hasLoggedStyleLoad = true;
+                    if (cachedCardStyle != null)
+                        Debug.Log($"[CombatUI] Loaded card style: '{cachedCardStyle.StyleName}' with {cachedCardStyle.CreatureOverrides?.Length ?? 0} creature overrides");
+                    else
+                        Debug.LogError("[CombatUI] FAILED to load any CardStyleDef from Resources/CardStyles/!");
+                }
+            }
+            return cachedCardStyle;
+        }
+
         private void SetSlotArt(Transform slot, CardData card)
         {
             if (card == null || card.SpriteIndex <= 0) return;
 
+            var style = GetCardStyle();
+
+            // Creature art
             var artTransform = slot.Find("CreatureArt");
             Image artImage;
 
@@ -479,15 +643,28 @@ namespace ArcaneAtlas.UI
                 artImage = artGO.GetComponent<Image>();
                 artImage.raycastTarget = false;
                 artImage.preserveAspect = true;
-                artGO.transform.SetAsFirstSibling();
             }
             else
             {
                 artImage = artTransform.GetComponent<Image>();
             }
 
-            string path = CardDatabase.GetSpritePath(card);
-            Sprite sprite = Resources.Load<Sprite>(path);
+            // Try style overrides first, then direct loading with Texture2D fallback
+            Sprite sprite = null;
+            if (style != null)
+                sprite = style.GetCreatureArt(card);
+            if (sprite == null)
+            {
+                string path = CardDatabase.GetSpritePath(card);
+                sprite = Resources.Load<Sprite>(path);
+                if (sprite == null)
+                {
+                    var tex = Resources.Load<Texture2D>(path);
+                    if (tex != null)
+                        sprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), new Vector2(0.5f, 0.5f), 32f);
+                }
+            }
+
             if (sprite != null)
             {
                 artImage.sprite = sprite;
@@ -495,8 +672,66 @@ namespace ArcaneAtlas.UI
             }
             else
             {
+                // Debug: log the failed path so we can diagnose
+                Debug.LogWarning($"[CombatUI] No creature sprite for {card.CardName}: path='{CardDatabase.GetSpritePath(card)}' SpriteIndex={card.SpriteIndex}");
                 artImage.sprite = null;
                 artImage.color = GetElementColor(card.Element);
+            }
+
+            // Card frame overlay — skip legacy frames when modular cards are active
+            if (style != null && !style.HasModularCards)
+            {
+                Sprite frame = style.GetFrame(card.Rarity);
+                if (frame != null)
+                {
+                    var frameTransform = slot.Find("CardFrame");
+                    Image frameImage;
+                    if (frameTransform == null)
+                    {
+                        var frameGO = new GameObject("CardFrame", typeof(RectTransform), typeof(Image));
+                        frameGO.transform.SetParent(slot, false);
+                        var frt = frameGO.GetComponent<RectTransform>();
+                        frt.anchorMin = Vector2.zero;
+                        frt.anchorMax = Vector2.one;
+                        frt.offsetMin = frt.offsetMax = Vector2.zero;
+                        frameImage = frameGO.GetComponent<Image>();
+                        frameImage.raycastTarget = false;
+                        frameGO.transform.SetAsFirstSibling();
+                    }
+                    else
+                    {
+                        frameImage = frameTransform.GetComponent<Image>();
+                    }
+                    frameImage.sprite = frame;
+                    frameImage.color = Color.white;
+                    frameImage.type = Image.Type.Sliced;
+                }
+
+                // Element icon
+                Sprite icon = style.GetElementIcon(card.Element);
+                if (icon != null)
+                {
+                    var iconTransform = slot.Find("ElementIcon");
+                    Image iconImage;
+                    if (iconTransform == null)
+                    {
+                        var iconGO = new GameObject("ElementIcon", typeof(RectTransform), typeof(Image));
+                        iconGO.transform.SetParent(slot, false);
+                        var irt = iconGO.GetComponent<RectTransform>();
+                        irt.anchorMin = new Vector2(0.02f, 0.82f);
+                        irt.anchorMax = new Vector2(0.18f, 0.98f);
+                        irt.offsetMin = irt.offsetMax = Vector2.zero;
+                        iconImage = iconGO.GetComponent<Image>();
+                        iconImage.raycastTarget = false;
+                        iconImage.preserveAspect = true;
+                    }
+                    else
+                    {
+                        iconImage = iconTransform.GetComponent<Image>();
+                    }
+                    iconImage.sprite = icon;
+                    iconImage.color = Color.white;
+                }
             }
         }
 
@@ -515,10 +750,10 @@ namespace ArcaneAtlas.UI
         {
             switch (element)
             {
-                case ElementType.Fire:  return new Color(0.25f, 0.08f, 0.08f, 0.95f);
-                case ElementType.Water: return new Color(0.08f, 0.12f, 0.25f, 0.95f);
-                case ElementType.Earth: return new Color(0.08f, 0.20f, 0.08f, 0.95f);
-                case ElementType.Wind:  return new Color(0.15f, 0.08f, 0.22f, 0.95f);
+                case ElementType.Fire:  return new Color(0.40f, 0.12f, 0.08f, 0.95f);
+                case ElementType.Water: return new Color(0.08f, 0.18f, 0.40f, 0.95f);
+                case ElementType.Earth: return new Color(0.12f, 0.32f, 0.10f, 0.95f);
+                case ElementType.Wind:  return new Color(0.22f, 0.22f, 0.38f, 0.95f);
                 default:                return new Color(0.15f, 0.15f, 0.2f, 0.95f);
             }
         }
@@ -548,8 +783,8 @@ namespace ArcaneAtlas.UI
             detailBg.color = new Color(0.08f, 0.08f, 0.12f, 0.95f);
 
             detailOutline = detailPanel.GetComponent<Outline>();
-            detailOutline.effectColor = Color.gray;
-            detailOutline.effectDistance = new Vector2(2f, -2f);
+            detailOutline.effectColor = new Color(0.6f, 0.5f, 0.3f);
+            detailOutline.effectDistance = new Vector2(3f, -3f);
 
             // X close button (top-right corner)
             var closeGO = new GameObject("CloseBtn", typeof(RectTransform), typeof(Image), typeof(Button));
@@ -573,73 +808,80 @@ namespace ArcaneAtlas.UI
             closeTxtRT.anchorMax = Vector2.one;
             closeTxtRT.offsetMin = closeTxtRT.offsetMax = Vector2.zero;
 
-            // Card name — top
-            var nameGO = new GameObject("DetailName", typeof(RectTransform), typeof(TextMeshProUGUI));
+            // Card name — top, large and bold
+            var nameGO = new GameObject("DetailName", typeof(RectTransform), typeof(TextMeshProUGUI), typeof(Shadow));
             nameGO.transform.SetParent(detailPanel.transform, false);
             detailName = nameGO.GetComponent<TextMeshProUGUI>();
             var nameRT = nameGO.GetComponent<RectTransform>();
-            nameRT.anchorMin = new Vector2(0.05f, 0.88f);
-            nameRT.anchorMax = new Vector2(0.83f, 0.97f);
+            nameRT.anchorMin = new Vector2(0.05f, 0.91f);
+            nameRT.anchorMax = new Vector2(0.83f, 0.99f);
             nameRT.offsetMin = nameRT.offsetMax = Vector2.zero;
-            detailName.fontSize = 18f;
-            detailName.alignment = TextAlignmentOptions.Center;
+            detailName.fontSize = 22f;
+            detailName.fontStyle = TMPro.FontStyles.Bold;
+            detailName.alignment = TextAlignmentOptions.Left;
+            detailName.margin = new Vector4(6f, 0f, 0f, 0f);
             detailName.color = Color.white;
             detailName.raycastTarget = false;
+            var nameShadow = nameGO.GetComponent<Shadow>();
+            nameShadow.effectColor = new Color(0f, 0f, 0f, 0.8f);
+            nameShadow.effectDistance = new Vector2(2f, -2f);
 
-            // Tier + Rank info
+            // Tier + Rank info — compact line below name
             var tierGO = new GameObject("DetailTierRank", typeof(RectTransform), typeof(TextMeshProUGUI));
             tierGO.transform.SetParent(detailPanel.transform, false);
             detailTierRank = tierGO.GetComponent<TextMeshProUGUI>();
             var tierRT = tierGO.GetComponent<RectTransform>();
-            tierRT.anchorMin = new Vector2(0.05f, 0.81f);
-            tierRT.anchorMax = new Vector2(0.95f, 0.88f);
+            tierRT.anchorMin = new Vector2(0.05f, 0.86f);
+            tierRT.anchorMax = new Vector2(0.95f, 0.91f);
             tierRT.offsetMin = tierRT.offsetMax = Vector2.zero;
-            detailTierRank.fontSize = 12f;
+            detailTierRank.fontSize = 15f;
             detailTierRank.alignment = TextAlignmentOptions.Center;
             detailTierRank.color = new Color(0.8f, 0.8f, 0.8f, 0.9f);
             detailTierRank.raycastTarget = false;
             detailTierRank.richText = true;
 
-            // Art area — compact center
+            // Art area — large portrait center
             var artGO = new GameObject("DetailArt", typeof(RectTransform), typeof(Image));
             artGO.transform.SetParent(detailPanel.transform, false);
             detailArt = artGO.GetComponent<Image>();
             var artRT = artGO.GetComponent<RectTransform>();
-            artRT.anchorMin = new Vector2(0.20f, 0.52f);
-            artRT.anchorMax = new Vector2(0.80f, 0.80f);
+            artRT.anchorMin = new Vector2(0.10f, 0.44f);
+            artRT.anchorMax = new Vector2(0.90f, 0.86f);
             artRT.offsetMin = artRT.offsetMax = Vector2.zero;
             detailArt.preserveAspect = true;
             detailArt.raycastTarget = false;
 
-            // Stats — ATK (left) | Row (center) | HP (right)
+            // ── Info section below portrait ──
+
+            // Stats row: ATK | Row | HP
             var statsGO = new GameObject("DetailStats", typeof(RectTransform), typeof(TextMeshProUGUI));
             statsGO.transform.SetParent(detailPanel.transform, false);
             detailStats = statsGO.GetComponent<TextMeshProUGUI>();
             var statsRT = statsGO.GetComponent<RectTransform>();
-            statsRT.anchorMin = new Vector2(0.05f, 0.42f);
-            statsRT.anchorMax = new Vector2(0.95f, 0.52f);
+            statsRT.anchorMin = new Vector2(0.05f, 0.36f);
+            statsRT.anchorMax = new Vector2(0.95f, 0.44f);
             statsRT.offsetMin = statsRT.offsetMax = Vector2.zero;
-            detailStats.fontSize = 16f;
+            detailStats.fontSize = 20f;
             detailStats.alignment = TextAlignmentOptions.Center;
             detailStats.color = Color.white;
             detailStats.raycastTarget = false;
             detailStats.richText = true;
 
-            // Damage threat line
+            // Damage threat — warning line
             detailDamageThreat = CreateDetailTMP(detailPanel.transform, "DetailDmgThreat",
-                new Vector2(0.05f, 0.34f), new Vector2(0.95f, 0.42f), 12f, TextAlignmentOptions.Center,
+                new Vector2(0.05f, 0.28f), new Vector2(0.95f, 0.36f), 13f, TextAlignmentOptions.Center,
                 new Color(1f, 0.7f, 0.3f, 0.9f));
 
-            // Ability text / cost info
+            // Ability / description — main info area
             var abilityGO = new GameObject("DetailAbility", typeof(RectTransform), typeof(TextMeshProUGUI));
             abilityGO.transform.SetParent(detailPanel.transform, false);
             detailAbility = abilityGO.GetComponent<TextMeshProUGUI>();
             var abilityRT = abilityGO.GetComponent<RectTransform>();
-            abilityRT.anchorMin = new Vector2(0.08f, 0.12f);
-            abilityRT.anchorMax = new Vector2(0.92f, 0.34f);
+            abilityRT.anchorMin = new Vector2(0.08f, 0.04f);
+            abilityRT.anchorMax = new Vector2(0.92f, 0.28f);
             abilityRT.offsetMin = abilityRT.offsetMax = Vector2.zero;
-            detailAbility.fontSize = 12f;
-            detailAbility.alignment = TextAlignmentOptions.TopLeft;
+            detailAbility.fontSize = 14f;
+            detailAbility.alignment = TextAlignmentOptions.Center;
             detailAbility.color = new Color(0.9f, 0.85f, 0.7f, 1f);
             detailAbility.raycastTarget = false;
             detailAbility.richText = true;
@@ -713,6 +955,10 @@ namespace ArcaneAtlas.UI
             EnsureDetailPanel();
             detailPanel.SetActive(true);
 
+            // Element-tinted background
+            detailBg.color = GetElementColor(card.Element);
+            detailOutline.effectColor = GetRarityColor(card.Rarity);
+
             // Name
             detailName.text = card.CardName;
 
@@ -731,12 +977,25 @@ namespace ArcaneAtlas.UI
             // Rarity border
             detailOutline.effectColor = GetRarityColor(card.Rarity);
 
-            // Art
-            string path = CardDatabase.GetSpritePath(card);
-            Sprite sprite = Resources.Load<Sprite>(path);
-            if (sprite != null)
+            // Art — use CardStyleDef overrides (same as shop cards)
+            var style = GetCardStyle();
+            Sprite artSprite = null;
+            if (style != null)
+                artSprite = style.GetCreatureArt(card);
+            if (artSprite == null)
             {
-                detailArt.sprite = sprite;
+                string path = CardDatabase.GetSpritePath(card);
+                artSprite = Resources.Load<Sprite>(path);
+                if (artSprite == null)
+                {
+                    var tex = Resources.Load<Texture2D>(path);
+                    if (tex != null)
+                        artSprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), new Vector2(0.5f, 0.5f), 32f);
+                }
+            }
+            if (artSprite != null)
+            {
+                detailArt.sprite = artSprite;
                 detailArt.color = Color.white;
             }
             else

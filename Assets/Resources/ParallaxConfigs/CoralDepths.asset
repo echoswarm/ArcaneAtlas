@@ -15,28 +15,24 @@ MonoBehaviour:
   biomeName: CoralDepths
   layers:
   - label: sky
-    texture: {fileID: 2800000, guid: c03123ebf271ea541bf0388570aa9fcd, type: 3}
+    texture: {fileID: 2800000, guid: b8e5f8564d3d85e4cba4e285dfcc5f1c, type: 3}
     scrollFactor: 0
     tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: real far
-    texture: {fileID: 2800000, guid: cb5da30bc65f110419b79c45aaa472ff, type: 3}
-    scrollFactor: 0.08
+  - label: super far
+    texture: {fileID: 2800000, guid: 8e330e3835ac5eb4f8da848844d5d065, type: 3}
+    scrollFactor: 0.1
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: far
-    texture: {fileID: 2800000, guid: 9c6b3d0d83bf4554abcafc43fc802a6a, type: 3}
-    scrollFactor: 0.18
-    tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: far mid
-    texture: {fileID: 2800000, guid: 6c51cb55887d72f41b7aede501a304a7, type: 3}
-    scrollFactor: 0.3
+    texture: {fileID: 2800000, guid: 9b4bd01020fe47145847ae0f4e51357c, type: 3}
+    scrollFactor: 0.27
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: mid
-    texture: {fileID: 2800000, guid: 7d15512254e80654ba309e83e9a28042, type: 3}
-    scrollFactor: 0.44
+    texture: {fileID: 2800000, guid: a195d9865cc2ddf438f2228f43d7897a, type: 3}
+    scrollFactor: 0.45
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: close
-    texture: {fileID: 2800000, guid: a1ff5480b5c3d3c4a8912f0a0d01e4f1, type: 3}
+    texture: {fileID: 2800000, guid: f62c546f8f7258047b7332902be6d240, type: 3}
     scrollFactor: 0.6
     tint: {r: 1, g: 1, b: 1, a: 1}
-  masterSpeed: 0.035
-  dimColor: {r: 0, g: 0.01, b: 0.06, a: 0.4}
+  masterSpeed: 0.04
+  dimColor: {r: 0, g: 0.06, b: 0.22, a: 0.38}

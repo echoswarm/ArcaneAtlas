@@ -15,32 +15,24 @@ MonoBehaviour:
   biomeName: SkyPeaks
   layers:
   - label: sky
-    texture: {fileID: 2800000, guid: 9cac83e25d559c44fa8a3e223e59ea3a, type: 3}
+    texture: {fileID: 2800000, guid: b51540a05e4302f41847680fdc7dc960, type: 3}
     scrollFactor: 0
     tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: BG gears far
-    texture: {fileID: 2800000, guid: adbcf7ffba558964ba07e4c21e2fe34d, type: 3}
-    scrollFactor: 0.05
+  - label: super far
+    texture: {fileID: 2800000, guid: 57bd10065ef32e54386c1273fadc2906, type: 3}
+    scrollFactor: 0.1
     tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: BG gears
-    texture: {fileID: 2800000, guid: d370cc7e5cb143f4687b481d5ebff292, type: 3}
-    scrollFactor: 0.12
+  - label: far
+    texture: {fileID: 2800000, guid: aabe2c007360f2246a0f457550e03307, type: 3}
+    scrollFactor: 0.27
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: mid
-    texture: {fileID: 2800000, guid: 0ab898191972abf4cb272634f81a898b, type: 3}
-    scrollFactor: 0.22
-    tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: close far
-    texture: {fileID: 2800000, guid: bf5b031027a959c42906f09479834cf4, type: 3}
-    scrollFactor: 0.35
+    texture: {fileID: 2800000, guid: ac89e767a185b58428d447281f580ba9, type: 3}
+    scrollFactor: 0.45
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: close
-    texture: {fileID: 2800000, guid: fbbc92126016e4245bdebfd000f6af13, type: 3}
-    scrollFactor: 0.48
-    tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: near
-    texture: {fileID: 2800000, guid: 4bc1d44b685a493458045125c4860829, type: 3}
+    texture: {fileID: 2800000, guid: 2fe25202e3982e448a30a6ac1063424d, type: 3}
     scrollFactor: 0.6
     tint: {r: 1, g: 1, b: 1, a: 1}
   masterSpeed: 0.055
-  dimColor: {r: 0, g: 0.01, b: 0.04, a: 0.35}
+  dimColor: {r: 0.08, g: 0.03, b: 0.18, a: 0.3}

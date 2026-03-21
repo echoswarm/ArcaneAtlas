@@ -15,28 +15,32 @@ MonoBehaviour:
   biomeName: VolcanicWastes
   layers:
   - label: sky
-    texture: {fileID: 2800000, guid: 165c6376e700a0942bf04f824f9895b2, type: 3}
+    texture: {fileID: 2800000, guid: a55613e5e41f4f942a723f655ea69bfa, type: 3}
     scrollFactor: 0
     tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: real far
-    texture: {fileID: 2800000, guid: 738f13c30bec0f448aa52a961fbe44e1, type: 3}
-    scrollFactor: 0.08
+  - label: BG gears far
+    texture: {fileID: 2800000, guid: b8b90e118f64f094ea27c1db20ff6c97, type: 3}
+    scrollFactor: 0.05
     tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: far
-    texture: {fileID: 2800000, guid: b1cfc7adc2fb0aa4ab8fc6ba4d33d392, type: 3}
-    scrollFactor: 0.18
-    tint: {r: 1, g: 1, b: 1, a: 1}
-  - label: far mid
-    texture: {fileID: 2800000, guid: 3f0cd79574ce43a468f806a14d656c9e, type: 3}
-    scrollFactor: 0.3
+  - label: BG gears
+    texture: {fileID: 2800000, guid: c896fb862c87d484899462c294e0dc4c, type: 3}
+    scrollFactor: 0.12
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: mid
-    texture: {fileID: 2800000, guid: dc90337c14d436f4d99552bb33ad7f33, type: 3}
-    scrollFactor: 0.44
+    texture: {fileID: 2800000, guid: 82ab6b265f0924044ae696aab5bd93e1, type: 3}
+    scrollFactor: 0.22
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: close far
+    texture: {fileID: 2800000, guid: 7c4789246e7630a4f965eb153c951f3f, type: 3}
+    scrollFactor: 0.35
     tint: {r: 1, g: 1, b: 1, a: 1}
   - label: close
-    texture: {fileID: 2800000, guid: d77ff0f624c18c540b1b0056a7af3202, type: 3}
+    texture: {fileID: 2800000, guid: 18319f9aba9ac904ba0e07400b5c170e, type: 3}
+    scrollFactor: 0.48
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: near
+    texture: {fileID: 2800000, guid: 9bc9269a93c56b440bea77bc3eebb6ea, type: 3}
     scrollFactor: 0.6
     tint: {r: 1, g: 1, b: 1, a: 1}
   masterSpeed: 0.05
-  dimColor: {r: 0.06, g: 0, b: 0, a: 0.45}
+  dimColor: {r: 0.22, g: 0.05, b: 0, a: 0.35}

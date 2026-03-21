@@ -6,11 +6,12 @@ using ArcaneAtlas.Data;
 namespace ArcaneAtlas.UI
 {
     /// <summary>
-    /// Renders scrolling parallax layers inside a Canvas panel behind combat UI.
-    /// Place this component on a full-screen RectTransform as the FIRST child of the
-    /// CombatUI panel so it renders behind all combat elements.
+    /// Renders scrolling parallax layers inside a Canvas panel.
+    /// Works for full-screen panels (combat) and sub-panels (title screen quadrants).
+    /// Attach to a RectTransform; add RectMask2D on the same object to clip layers
+    /// to any panel shape (required for quadrant use on the title screen).
     ///
-    /// Layers use RawImage UV-offset scrolling for seamless horizontal tiling.
+    /// UV tiling is computed lazily once the RectTransform has valid dimensions.
     /// Call LoadByBiomeName() or LoadConfig() to switch biomes at runtime.
     /// </summary>
     public class ParallaxBackgroundController : MonoBehaviour
@@ -21,6 +22,8 @@ namespace ArcaneAtlas.UI
         private RawImage _dimOverlay;
         private bool _playing = true;
         private ParallaxBiomeConfig _active;
+        // UV widths are set lazily once the RectTransform has been laid out
+        private bool _uvReady;
 
         void Awake()
         {
@@ -31,6 +34,26 @@ namespace ArcaneAtlas.UI
         void Update()
         {
             if (!_playing || _active == null) return;
+
+            // First frame after BuildLayers: wait for a valid rect, then fix UV widths
+            if (!_uvReady)
+            {
+                var rt = GetComponent<RectTransform>();
+                if (rt.rect.width > 1f)
+                {
+                    float dispW = rt.rect.width;
+                    float dispH = rt.rect.height;
+                    for (int i = 0; i < _layerImages.Count && i < _active.layers.Count; i++)
+                    {
+                        var tex = _active.layers[i].texture;
+                        if (_layerImages[i] != null && tex != null)
+                            _layerImages[i].uvRect = new Rect(0f, 0f,
+                                dispW / tex.width, dispH / tex.height);
+                    }
+                    _uvReady = true;
+                }
+                return;
+            }
 
             for (int i = 0; i < _layerImages.Count && i < _active.layers.Count; i++)
             {
@@ -92,6 +115,7 @@ namespace ArcaneAtlas.UI
         private void BuildLayers(ParallaxBiomeConfig cfg)
         {
             _active = cfg;
+            _uvReady = false;
 
             var rt = GetComponent<RectTransform>();
             // Use rect size if already laid out; fall back to 1920x1080 for first-frame builds

@@ -16,6 +16,12 @@ namespace ArcaneAtlas.UI
         public Button btnOpenPack;
         public Button btnQuickDuel;
 
+        [Header("Parallax Quadrants")]
+        public ParallaxBackgroundController parallaxFire;
+        public ParallaxBackgroundController parallaxWind;
+        public ParallaxBackgroundController parallaxWater;
+        public ParallaxBackgroundController parallaxEarth;
+
         void Start()
         {
             WireButtons();
@@ -25,6 +31,28 @@ namespace ArcaneAtlas.UI
         {
             if (btnContinue != null)
                 btnContinue.interactable = SaveSystem.HasSave();
+
+            // Start parallax backgrounds — no dim overlay on the title screen
+            LoadParallax(parallaxFire,  "VolcanicWastes");
+            LoadParallax(parallaxWind,  "SkyPeaks");
+            LoadParallax(parallaxWater, "CoralDepths");
+            LoadParallax(parallaxEarth, "AncientForest");
+        }
+
+        void OnDisable()
+        {
+            parallaxFire?.SetPlaying(false);
+            parallaxWind?.SetPlaying(false);
+            parallaxWater?.SetPlaying(false);
+            parallaxEarth?.SetPlaying(false);
+        }
+
+        private void LoadParallax(ParallaxBackgroundController ctrl, string biomeName)
+        {
+            if (ctrl == null) return;
+            ctrl.LoadByBiomeName(biomeName);
+            ctrl.SetDim(0f);
+            ctrl.SetPlaying(true);
         }
 
         public void WireButtons()

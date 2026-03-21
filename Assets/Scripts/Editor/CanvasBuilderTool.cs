@@ -141,14 +141,16 @@ namespace ArcaneAtlas.Editor
             var bg = CreatePanel("BG_Title", root.transform);
             StretchFill(bg);
 
-            CreateQuadrant("Quad_Fire", bg.transform, ElementColors.Fire,
-                new Vector2(0f, 0.5f), new Vector2(0.5f, 1f));
-            CreateQuadrant("Quad_Wind", bg.transform, ElementColors.Wind,
-                new Vector2(0.5f, 0.5f), new Vector2(1f, 1f));
-            CreateQuadrant("Quad_Water", bg.transform, ElementColors.Water,
-                new Vector2(0f, 0f), new Vector2(0.5f, 0.5f));
-            CreateQuadrant("Quad_Earth", bg.transform, ElementColors.Earth,
-                new Vector2(0.5f, 0f), new Vector2(1f, 0.5f));
+            // Each quadrant is a RectMask2D panel with a ParallaxBackgroundController.
+            // MainMenuUI.OnEnable loads the biome config at runtime so layers are sized correctly.
+            var plxFire  = CreateParallaxQuadrant("Quad_Fire",  bg.transform,
+                new Vector2(0f,   0.5f), new Vector2(0.5f, 1f));
+            var plxWind  = CreateParallaxQuadrant("Quad_Wind",  bg.transform,
+                new Vector2(0.5f, 0.5f), new Vector2(1f,   1f));
+            var plxWater = CreateParallaxQuadrant("Quad_Water", bg.transform,
+                new Vector2(0f,   0f),   new Vector2(0.5f, 0.5f));
+            var plxEarth = CreateParallaxQuadrant("Quad_Earth", bg.transform,
+                new Vector2(0.5f, 0f),   new Vector2(1f,   0.5f));
 
             var logo = CreateTMP("Logo", root.transform, "ARCANE ATLAS", 72f, ElementColors.Gold,
                 TextAlignmentOptions.Center, FontStyles.Bold);
@@ -163,27 +165,34 @@ namespace ArcaneAtlas.Editor
             var group = new GameObject("ButtonGroup", typeof(RectTransform), typeof(VerticalLayoutGroup));
             group.transform.SetParent(root.transform, false);
             var groupRT = group.GetComponent<RectTransform>();
-            groupRT.anchorMin = new Vector2(0.5f, 0.08f);
-            groupRT.anchorMax = new Vector2(0.5f, 0.45f);
-            groupRT.sizeDelta = new Vector2(260f, 0f);
-            groupRT.pivot = new Vector2(0.5f, 0.5f);
+            groupRT.anchorMin = new Vector2(0.02f, 0.02f);
+            groupRT.anchorMax = new Vector2(0.02f, 0.92f);
+            groupRT.sizeDelta = new Vector2(240f, 0f);
+            groupRT.pivot = new Vector2(0f, 1f); // Top-left anchor
 
             var vlg = group.GetComponent<VerticalLayoutGroup>();
-            vlg.spacing = 16f;
-            vlg.childAlignment = TextAnchor.MiddleCenter;
+            vlg.spacing = 8f;
+            vlg.childAlignment = TextAnchor.UpperLeft;
+            vlg.padding = new RectOffset(8, 8, 8, 8);
             vlg.childControlWidth = true;
             vlg.childControlHeight = false;
             vlg.childForceExpandWidth = true;
             vlg.childForceExpandHeight = false;
 
             var menuUI = root.AddComponent<MainMenuUI>();
-            menuUI.btnNewJourney = CreateButton("Btn_NewJourney", group.transform, "New Journey", 56f);
-            menuUI.btnContinue = CreateButton("Btn_Continue", group.transform, "Continue", 56f);
-            menuUI.btnCollection = CreateButton("Btn_Collection", group.transform, "Collection", 56f);
-            menuUI.btnOptions = CreateButton("Btn_Options", group.transform, "Options", 56f);
-            menuUI.btnOpenPack = CreateButton("Btn_OpenPack", group.transform, "Open Pack", 56f);
-            menuUI.btnQuickDuel = CreateButton("Btn_QuickDuel", group.transform, "Quick Duel", 56f);
-            menuUI.btnTestMode = CreateButton("Btn_TestMode", group.transform, "Test Mode", 56f);
+            menuUI.btnNewJourney = CreateButton("Btn_NewJourney", group.transform, "New Journey", 44f);
+            menuUI.btnContinue = CreateButton("Btn_Continue", group.transform, "Continue", 44f);
+            menuUI.btnCollection = CreateButton("Btn_Collection", group.transform, "Collection", 44f);
+            menuUI.btnOptions = CreateButton("Btn_Options", group.transform, "Options", 44f);
+            menuUI.btnOpenPack = CreateButton("Btn_OpenPack", group.transform, "Open Pack", 44f);
+            menuUI.btnQuickDuel = CreateButton("Btn_QuickDuel", group.transform, "Quick Duel", 44f);
+            menuUI.btnTestMode = CreateButton("Btn_TestMode", group.transform, "Test Mode", 44f);
+
+            // Wire parallax quadrant controllers
+            menuUI.parallaxFire  = plxFire;
+            menuUI.parallaxWind  = plxWind;
+            menuUI.parallaxWater = plxWater;
+            menuUI.parallaxEarth = plxEarth;
 
             // Style special buttons
             var packColors = menuUI.btnOpenPack.colors;
@@ -1643,12 +1652,25 @@ namespace ArcaneAtlas.Editor
             bb3RT.pivot = new Vector2(0.5f, 0f);
             bb3RT.sizeDelta = new Vector2(0f, 48f);
 
+            // Reset Data button
+            var btnReset = CreateButton("Btn_ResetData", panel2.transform, "Reset All Data", 48f);
+            var resetRT = btnReset.GetComponent<RectTransform>();
+            resetRT.anchorMin = new Vector2(0.1f, 0.20f);
+            resetRT.anchorMax = new Vector2(0.9f, 0.20f);
+            resetRT.pivot = new Vector2(0.5f, 0f);
+            resetRT.sizeDelta = new Vector2(0f, 48f);
+            var resetColors = btnReset.colors;
+            resetColors.normalColor = new Color(0.5f, 0.2f, 0.2f);
+            resetColors.highlightedColor = new Color(0.6f, 0.3f, 0.3f);
+            btnReset.colors = resetColors;
+
             // Wire SettingsUI
             var sUI = root.AddComponent<SettingsUI>();
             sUI.volumeSlider = slider;
             sUI.fullscreenToggle = toggle;
             sUI.btnApply = btnApply;
             sUI.btnBack = btnBack3;
+            sUI.btnResetData = btnReset;
 
             return root;
         }
@@ -1949,6 +1971,23 @@ namespace ArcaneAtlas.Editor
             rt.anchorMin = anchorMin;
             rt.anchorMax = anchorMax;
             rt.offsetMin = rt.offsetMax = Vector2.zero;
+        }
+
+        /// <summary>
+        /// Creates a quadrant panel with RectMask2D clipping and a ParallaxBackgroundController.
+        /// MainMenuUI.OnEnable calls LoadByBiomeName on each controller at runtime.
+        /// </summary>
+        private static ParallaxBackgroundController CreateParallaxQuadrant(
+            string name, Transform parent, Vector2 anchorMin, Vector2 anchorMax)
+        {
+            var go = new GameObject(name, typeof(RectTransform));
+            go.transform.SetParent(parent, false);
+            var rt = go.GetComponent<RectTransform>();
+            rt.anchorMin = anchorMin;
+            rt.anchorMax = anchorMax;
+            rt.offsetMin = rt.offsetMax = Vector2.zero;
+            go.AddComponent<RectMask2D>();
+            return go.AddComponent<ParallaxBackgroundController>();
         }
 
         private static GameObject CreateTMP(string name, Transform parent, string text, float fontSize,

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ef687918257a44b9beec297d4fa7c6, type: 3}
+  m_Name: SkyPeaks
+  m_EditorClassIdentifier:
+  biomeName: SkyPeaks
+  layers:
+  - label: sky
+    texture: {fileID: 2800000, guid: 9cac83e25d559c44fa8a3e223e59ea3a, type: 3}
+    scrollFactor: 0
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: BG gears far
+    texture: {fileID: 2800000, guid: adbcf7ffba558964ba07e4c21e2fe34d, type: 3}
+    scrollFactor: 0.05
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: BG gears
+    texture: {fileID: 2800000, guid: d370cc7e5cb143f4687b481d5ebff292, type: 3}
+    scrollFactor: 0.12
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: mid
+    texture: {fileID: 2800000, guid: 0ab898191972abf4cb272634f81a898b, type: 3}
+    scrollFactor: 0.22
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: close far
+    texture: {fileID: 2800000, guid: bf5b031027a959c42906f09479834cf4, type: 3}
+    scrollFactor: 0.35
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: close
+    texture: {fileID: 2800000, guid: fbbc92126016e4245bdebfd000f6af13, type: 3}
+    scrollFactor: 0.48
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  - label: near
+    texture: {fileID: 2800000, guid: 4bc1d44b685a493458045125c4860829, type: 3}
+    scrollFactor: 0.6
+    tint: {r: 1, g: 1, b: 1, a: 1}
+  masterSpeed: 0.055
+  dimColor: {r: 0, g: 0.01, b: 0.04, a: 0.35}

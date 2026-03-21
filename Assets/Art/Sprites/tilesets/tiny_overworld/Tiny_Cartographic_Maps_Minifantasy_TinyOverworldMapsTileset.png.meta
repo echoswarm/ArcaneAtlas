@@ -1,0 +1,2816 @@
+fileFormatVersion: 2
+guid: 9de28bf0a0a94aa4b86895f08419c649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5925738254207350618
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0
+  - first:
+      213: 3090576291675651376
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1
+  - first:
+      213: 1745497234739130205
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2
+  - first:
+      213: -9173663838688556642
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3
+  - first:
+      213: 6340024795152035605
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_4
+  - first:
+      213: 4285459532998157532
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_5
+  - first:
+      213: -6521390841436478036
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_6
+  - first:
+      213: -4125295938917478940
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_7
+  - first:
+      213: -3755226034302175903
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_8
+  - first:
+      213: -5558572644207737346
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_9
+  - first:
+      213: -771847043317628647
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_10
+  - first:
+      213: 8928967554919943327
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_11
+  - first:
+      213: 8639486094131420391
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_12
+  - first:
+      213: -2972895305281795019
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_13
+  - first:
+      213: -1350189564219478325
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_14
+  - first:
+      213: -7142514804813211414
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_0
+  - first:
+      213: -3750153008177711062
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_1
+  - first:
+      213: -8408425225606990015
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_2
+  - first:
+      213: -5623213699770511565
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_3
+  - first:
+      213: 269423983026772815
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_4
+  - first:
+      213: 6201934651070053347
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_5
+  - first:
+      213: -2937659729164974966
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_6
+  - first:
+      213: -2703481457815931463
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_7
+  - first:
+      213: -4712748494488812427
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_8
+  - first:
+      213: 6455867348725413464
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_9
+  - first:
+      213: -5735148410644886645
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_10
+  - first:
+      213: 5198842407069648418
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_11
+  - first:
+      213: 5388098737468423962
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_12
+  - first:
+      213: 6325576924050376873
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_13
+  - first:
+      213: -5797329817045415668
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_14
+  - first:
+      213: 891081432747739487
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_15
+  - first:
+      213: -2652316302366606327
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_16
+  - first:
+      213: 1510070181906216440
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_17
+  - first:
+      213: 838821457988984903
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_18
+  - first:
+      213: -2374792667487104412
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_19
+  - first:
+      213: -6442181666675894454
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_20
+  - first:
+      213: -7179089927348632910
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_21
+  - first:
+      213: 7087886768009666711
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_22
+  - first:
+      213: -8402525513331165106
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_23
+  - first:
+      213: -3072997129531363758
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_24
+  - first:
+      213: 8360424215762042436
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_0
+  - first:
+      213: 3814852913751648704
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_1
+  - first:
+      213: 3492239522924536517
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_2
+  - first:
+      213: 2381599473081892157
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_3
+  - first:
+      213: 7782773495629261659
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_4
+  - first:
+      213: -6116292713459126136
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_5
+  - first:
+      213: -2117105919443293486
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_6
+  - first:
+      213: -3056632568675177228
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_7
+  - first:
+      213: -6848510368192418734
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_8
+  - first:
+      213: 8901719157886569140
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_9
+  - first:
+      213: -9155793616398043107
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_10
+  - first:
+      213: -2298548436038732741
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_11
+  - first:
+      213: 1506512330643269364
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_12
+  - first:
+      213: 2782052234700175658
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_13
+  - first:
+      213: 3784164954558181963
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_14
+  - first:
+      213: -7188835864853625868
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_15
+  - first:
+      213: -1325240144781849475
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_16
+  - first:
+      213: -1322565095390612898
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_17
+  - first:
+      213: -8900485973929536770
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_18
+  - first:
+      213: 5456299424928012794
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_19
+  - first:
+      213: -7076660440135187042
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_20
+  - first:
+      213: -3020745794914868989
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_21
+  - first:
+      213: -4864244678268986320
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_22
+  - first:
+      213: -4561445732655903048
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_23
+  - first:
+      213: -505763715932595616
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_24
+  - first:
+      213: 1812762832527260280
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_0
+  - first:
+      213: -4681794401215915591
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_1
+  - first:
+      213: 6323486758154197183
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_2
+  - first:
+      213: -1868788900125987157
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_3
+  - first:
+      213: -523969490647906883
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_4
+  - first:
+      213: 1593309132044010406
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_5
+  - first:
+      213: 6744278600923796013
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_6
+  - first:
+      213: 3586909465330325917
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_7
+  - first:
+      213: -1785017183114637563
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_8
+  - first:
+      213: -8974932380684373744
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_9
+  - first:
+      213: 5651150845507785378
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_10
+  - first:
+      213: 1182417064058005169
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_11
+  - first:
+      213: 4218571039049347860
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_12
+  - first:
+      213: 4248819145322670429
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_13
+  - first:
+      213: -8930354272060130040
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_14
+  - first:
+      213: 4824536776333931625
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_15
+  - first:
+      213: -3907725052395757699
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_16
+  - first:
+      213: -808902196450578540
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_17
+  - first:
+      213: -6336881444724009317
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_18
+  - first:
+      213: -804561843567889301
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_19
+  - first:
+      213: -7427210164920946414
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_20
+  - first:
+      213: 863610997508196036
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_21
+  - first:
+      213: -5529962753639078285
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_22
+  - first:
+      213: 5568471125178809358
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_23
+  - first:
+      213: -7145597885629069801
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_24
+  - first:
+      213: -3240865914235218546
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_0
+  - first:
+      213: 7174257098349314297
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_1
+  - first:
+      213: -4226115151606935002
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_2
+  - first:
+      213: -7814697083548031193
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_3
+  - first:
+      213: 6093767900564744645
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_4
+  - first:
+      213: 6280842372994150119
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_5
+  - first:
+      213: -5268912081326712812
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_6
+  - first:
+      213: 3713628072909977781
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_7
+  - first:
+      213: 2765657002408036120
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_8
+  - first:
+      213: 5710382536141948416
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_9
+  - first:
+      213: -3806434053224674569
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_10
+  - first:
+      213: 7462262765058677057
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_11
+  - first:
+      213: 8631706180557267112
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_12
+  - first:
+      213: -8532702137330355768
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_13
+  - first:
+      213: 3089627330594802524
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_14
+  - first:
+      213: 5398482114370524418
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_15
+  - first:
+      213: -644824670533132443
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_16
+  - first:
+      213: 4116267044732587385
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_17
+  - first:
+      213: 6515688101987680422
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_18
+  - first:
+      213: 6174270552955295688
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_19
+  - first:
+      213: -5995216826705289199
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_20
+  - first:
+      213: -4341315949808825610
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_21
+  - first:
+      213: 5955291182237824491
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_22
+  - first:
+      213: -7665578235435572768
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_23
+  - first:
+      213: 4178659346191855011
+    second: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8d320b0a0b0ec90800000000000000
+      internalID: -7142514804813211414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28743e45b7c4fbc0800000000000000
+      internalID: -3750153008177711062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f24b9ec54f4b80800000000000000
+      internalID: -8408425225606990015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f8111eee456f1b0800000000000000
+      internalID: -5623213699770511565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b18426faf2db300800000000000000
+      internalID: 269423983026772815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb7735b4b2b11650800000000000000
+      internalID: 6201934651070053347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c62c6a065b37d0800000000000000
+      internalID: -2937659729164974966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b60210fd4b7ad0800000000000000
+      internalID: -2703481457815931463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574cc36a634f89eb0800000000000000
+      internalID: -4712748494488812427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85632d52629d79950800000000000000
+      internalID: 6455867348725413464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b8d5918e8a860b0800000000000000
+      internalID: -5735148410644886645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268f94ef9ff52840800000000000000
+      internalID: 5198842407069648418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f398d114f56ca40800000000000000
+      internalID: 5388098737468423962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84e65b2b6f8c750800000000000000
+      internalID: 6325576924050376873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094a393f3fbb8fa0800000000000000
+      internalID: -5797329817045415668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5900e887d1cd5c00800000000000000
+      internalID: 891081432747739487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf5752064113bd0800000000000000
+      internalID: -2652316302366606327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5fd6a64d8d4f410800000000000000
+      internalID: 1510070181906216440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a869fba714ab00800000000000000
+      internalID: 838821457988984903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629a3fa6aa0b0fd0800000000000000
+      internalID: -2374792667487104412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47df3308e5c896a0800000000000000
+      internalID: -6442181666675894454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2cccd5fbfbe5c90800000000000000
+      internalID: -7179089927348632910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906867567b3d5260800000000000000
+      internalID: 7087886768009666711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e483db9609b346b80800000000000000
+      internalID: -8402525513331165106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eec7264658a55d0800000000000000
+      internalID: -3072997129531363758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef1106781360470800000000000000
+      internalID: 8360424215762042436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e78a538411f430800000000000000
+      internalID: 3814852913751648704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22f7ae75de67030800000000000000
+      internalID: 3492239522924536517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dbd4e3a142d0120800000000000000
+      internalID: 2381599473081892157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bae466247f10c60800000000000000
+      internalID: 7782773495629261659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88075ffbe209e1ba0800000000000000
+      internalID: -6116292713459126136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daa4b712678e92e0800000000000000
+      internalID: -2117105919443293486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fce93f9fd8a495d0800000000000000
+      internalID: -3056632568675177228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25caf47ea1435f0a0800000000000000
+      internalID: -6848510368192418734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba4e182962498b70800000000000000
+      internalID: 8901719157886569140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183ec1273610f080800000000000000
+      internalID: -9155793616398043107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b1ea206ae910e0800000000000000
+      internalID: -2298548436038732741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ecbd9bf438e410800000000000000
+      internalID: 1506512330643269364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b2eb74c5db9620800000000000000
+      internalID: 2782052234700175658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b423cef0afd048430800000000000000
+      internalID: 3784164954558181963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3cfc67edf1c3c90800000000000000
+      internalID: -7188835864853625868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc0381c1dcb9de0800000000000000
+      internalID: -1325240144781849475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5279e09d0e45ade0800000000000000
+      internalID: -1322565095390612898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2559bd92f1b7480800000000000000
+      internalID: -8900485973929536770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af990031b6ba8bb40800000000000000
+      internalID: 5456299424928012794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ceadc2d6aacd90800000000000000
+      internalID: -7076660440135187042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301285144b72416d0800000000000000
+      internalID: -3020745794914868989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c513bac3bbe7cb0800000000000000
+      internalID: -4864244678268986320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec2d2164d72b0c0800000000000000
+      internalID: -4561445732655903048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a5e8b749a2bf8f0800000000000000
+      internalID: -505763715932595616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a71d6113a382910800000000000000
+      internalID: 1812762832527260280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9dc1c1ccce60fb0800000000000000
+      internalID: -4681794401215915591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8daa904b981c750800000000000000
+      internalID: 6323486758154197183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae2cc7856ab016e0800000000000000
+      internalID: -1868788900125987157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50acc368c7ab8f0800000000000000
+      internalID: -523969490647906883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38ed0c6329c1610800000000000000
+      internalID: 1593309132044010406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22d452a7ad789d50800000000000000
+      internalID: 6744278600923796013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99108a872347c130800000000000000
+      internalID: 3586909465330325917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fcb7254585a37e0800000000000000
+      internalID: -1785017183114637563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011382e0d82a27380800000000000000
+      internalID: -8974932380684373744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d3aeb0cbec6e40800000000000000
+      internalID: 5651150845507785378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a9871e0ac86010800000000000000
+      internalID: 1182417064058005169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413794252006b8a30800000000000000
+      internalID: 4218571039049347860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5926df5086d6fa30800000000000000
+      internalID: 4248819145322670429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db677ca12011480800000000000000
+      internalID: -8930354272060130040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643137f2a234f240800000000000000
+      internalID: 4824536776333931625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5e04d4c8f4c9c0800000000000000
+      internalID: -3907725052395757699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa782fcb336c4f0800000000000000
+      internalID: -808902196450578540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96167776efde08a0800000000000000
+      internalID: -6336881444724009317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b647d4a144f95d4f0800000000000000
+      internalID: -804561843567889301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21177bfb4bf3de890800000000000000
+      internalID: -7427210164920946414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c89a60a92cfb00800000000000000
+      internalID: 863610997508196036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376a330bc20a143b0800000000000000
+      internalID: -5529962753639078285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7d4e3cfe274d40800000000000000
+      internalID: 5568471125178809358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160c4ff49cb5dc90800000000000000
+      internalID: -7145597885629069801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8596513f912603d0800000000000000
+      internalID: -3240865914235218546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f08f62f1d4109360800000000000000
+      internalID: 7174257098349314297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622929819a2d955c0800000000000000
+      internalID: -4226115151606935002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727a6d3186e9c8390800000000000000
+      internalID: -7814697083548031193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9e6d09e99619450800000000000000
+      internalID: 6093767900564744645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea9846cd80a2750800000000000000
+      internalID: 6280842372994150119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d1cfb06011e6b0800000000000000
+      internalID: -5268912081326712812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b7b18e05798330800000000000000
+      internalID: 3713628072909977781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174a1ff366916620800000000000000
+      internalID: 2765657002408036120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c55669aa5f3f40800000000000000
+      internalID: 5710382536141948416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac79c5564dc2bc0800000000000000
+      internalID: -3806434053224674569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14952f3b2784f8760800000000000000
+      internalID: 7462262765058677057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e8a9d90bf9c770800000000000000
+      internalID: 8631706180557267112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c135324d90c59980800000000000000
+      internalID: -8532702137330355768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b017800bf80ea20800000000000000
+      internalID: 3089627330594802524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205da5171e24bea40800000000000000
+      internalID: 5398482114370524418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fd67ae06f1d07f0800000000000000
+      internalID: -644824670533132443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dcee9711bef1930800000000000000
+      internalID: 4116267044732587385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00732aecf5c6a50800000000000000
+      internalID: 6515688101987680422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c71e00fa5a6fa550800000000000000
+      internalID: 6174270552955295688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11069c46f06bccca0800000000000000
+      internalID: -5995216826705289199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa48e9152c80c3c0800000000000000
+      internalID: -4341315949808825610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53d4b17c175a250800000000000000
+      internalID: 5955291182237824491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a5e675356e9590800000000000000
+      internalID: -7665578235435572768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada12f29849df930800000000000000
+      internalID: 4178659346191855011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0: -5925738254207350618
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_0: -7142514804813211414
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_1: -3750153008177711062
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_10: -5735148410644886645
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_11: 5198842407069648418
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_12: 5388098737468423962
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_13: 6325576924050376873
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_14: -5797329817045415668
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_15: 891081432747739487
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_16: -2652316302366606327
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_17: 1510070181906216440
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_18: 838821457988984903
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_19: -2374792667487104412
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_2: -8408425225606990015
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_20: -6442181666675894454
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_21: -7179089927348632910
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_22: 7087886768009666711
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_23: -8402525513331165106
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_24: -3072997129531363758
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_3: -5623213699770511565
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_4: 269423983026772815
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_5: 6201934651070053347
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_6: -2937659729164974966
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_7: -2703481457815931463
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_8: -4712748494488812427
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_0_9: 6455867348725413464
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1: 3090576291675651376
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_10: -771847043317628647
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_11: 8928967554919943327
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_12: 8639486094131420391
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_13: -2972895305281795019
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_14: -1350189564219478325
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_0: 8360424215762042436
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_1: 3814852913751648704
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_10: -9155793616398043107
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_11: -2298548436038732741
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_12: 1506512330643269364
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_13: 2782052234700175658
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_14: 3784164954558181963
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_15: -7188835864853625868
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_16: -1325240144781849475
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_17: -1322565095390612898
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_18: -8900485973929536770
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_19: 5456299424928012794
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_2: 3492239522924536517
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_20: -7076660440135187042
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_21: -3020745794914868989
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_22: -4864244678268986320
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_23: -4561445732655903048
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_24: -505763715932595616
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_3: 2381599473081892157
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_4: 7782773495629261659
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_5: -6116292713459126136
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_6: -2117105919443293486
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_7: -3056632568675177228
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_8: -6848510368192418734
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_1_9: 8901719157886569140
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2: 1745497234739130205
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_0: 1812762832527260280
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_1: -4681794401215915591
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_10: 5651150845507785378
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_11: 1182417064058005169
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_12: 4218571039049347860
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_13: 4248819145322670429
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_14: -8930354272060130040
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_15: 4824536776333931625
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_16: -3907725052395757699
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_17: -808902196450578540
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_18: -6336881444724009317
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_19: -804561843567889301
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_2: 6323486758154197183
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_20: -7427210164920946414
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_21: 863610997508196036
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_22: -5529962753639078285
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_23: 5568471125178809358
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_24: -7145597885629069801
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_3: -1868788900125987157
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_4: -523969490647906883
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_5: 1593309132044010406
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_6: 6744278600923796013
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_7: 3586909465330325917
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_8: -1785017183114637563
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_2_9: -8974932380684373744
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3: -9173663838688556642
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_0: -3240865914235218546
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_1: 7174257098349314297
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_10: -3806434053224674569
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_11: 7462262765058677057
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_12: 8631706180557267112
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_13: -8532702137330355768
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_14: 3089627330594802524
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_15: 5398482114370524418
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_16: -644824670533132443
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_17: 4116267044732587385
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_18: 6515688101987680422
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_19: 6174270552955295688
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_2: -4226115151606935002
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_20: -5995216826705289199
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_21: -4341315949808825610
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_22: 5955291182237824491
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_23: -7665578235435572768
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_24: 4178659346191855011
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_3: -7814697083548031193
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_4: 6093767900564744645
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_5: 6280842372994150119
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_6: -5268912081326712812
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_7: 3713628072909977781
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_8: 2765657002408036120
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_3_9: 5710382536141948416
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_4: 6340024795152035605
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_5: 4285459532998157532
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_6: -6521390841436478036
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_7: -4125295938917478940
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_8: -3755226034302175903
+      Tiny_Cartographic_Maps_Minifantasy_TinyOverworldMapsTileset_9: -5558572644207737346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

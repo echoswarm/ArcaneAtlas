@@ -1,0 +1,4120 @@
+fileFormatVersion: 2
+guid: f90ee0d7e73c7d144bc2e2e24493fc08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1049880427262945422
+    second: Minifantasy_IcyWildernessPropsShadows_0
+  - first:
+      213: -3692361952794218127
+    second: Minifantasy_IcyWildernessPropsShadows_1
+  - first:
+      213: -6201440251463368857
+    second: Minifantasy_IcyWildernessPropsShadows_2
+  - first:
+      213: 107952442374670809
+    second: Minifantasy_IcyWildernessPropsShadows_0_0
+  - first:
+      213: -8259662269168457033
+    second: Minifantasy_IcyWildernessPropsShadows_0_1
+  - first:
+      213: -1797281366214232124
+    second: Minifantasy_IcyWildernessPropsShadows_0_2
+  - first:
+      213: 8400551056644152652
+    second: Minifantasy_IcyWildernessPropsShadows_0_3
+  - first:
+      213: 5502418360950606305
+    second: Minifantasy_IcyWildernessPropsShadows_0_4
+  - first:
+      213: 2592901001038271142
+    second: Minifantasy_IcyWildernessPropsShadows_0_5
+  - first:
+      213: 2305583144450111338
+    second: Minifantasy_IcyWildernessPropsShadows_0_6
+  - first:
+      213: -2699224246647108147
+    second: Minifantasy_IcyWildernessPropsShadows_0_7
+  - first:
+      213: -7385360356204163886
+    second: Minifantasy_IcyWildernessPropsShadows_0_8
+  - first:
+      213: 2755759601689791246
+    second: Minifantasy_IcyWildernessPropsShadows_0_9
+  - first:
+      213: -8227756818937745706
+    second: Minifantasy_IcyWildernessPropsShadows_0_10
+  - first:
+      213: 8844811176046114777
+    second: Minifantasy_IcyWildernessPropsShadows_0_11
+  - first:
+      213: -5476071795945605728
+    second: Minifantasy_IcyWildernessPropsShadows_0_12
+  - first:
+      213: 7539757123699953017
+    second: Minifantasy_IcyWildernessPropsShadows_0_13
+  - first:
+      213: 3092126471731845414
+    second: Minifantasy_IcyWildernessPropsShadows_0_14
+  - first:
+      213: -6599797902533441601
+    second: Minifantasy_IcyWildernessPropsShadows_0_15
+  - first:
+      213: 1477844069340533336
+    second: Minifantasy_IcyWildernessPropsShadows_0_16
+  - first:
+      213: 4376737181960385824
+    second: Minifantasy_IcyWildernessPropsShadows_0_17
+  - first:
+      213: 2561200135358568716
+    second: Minifantasy_IcyWildernessPropsShadows_0_18
+  - first:
+      213: 5400909286278785031
+    second: Minifantasy_IcyWildernessPropsShadows_1_0
+  - first:
+      213: -6092589572847623394
+    second: Minifantasy_IcyWildernessPropsShadows_1_1
+  - first:
+      213: 7709341865295341677
+    second: Minifantasy_IcyWildernessPropsShadows_1_2
+  - first:
+      213: 3109442517924953437
+    second: Minifantasy_IcyWildernessPropsShadows_1_3
+  - first:
+      213: -5540146885692661019
+    second: Minifantasy_IcyWildernessPropsShadows_1_4
+  - first:
+      213: -733067418314871428
+    second: Minifantasy_IcyWildernessPropsShadows_1_5
+  - first:
+      213: 5640009353978270085
+    second: Minifantasy_IcyWildernessPropsShadows_1_6
+  - first:
+      213: -6953586962988657623
+    second: Minifantasy_IcyWildernessPropsShadows_1_7
+  - first:
+      213: -8892961879854051828
+    second: Minifantasy_IcyWildernessPropsShadows_1_8
+  - first:
+      213: -7610429637847787595
+    second: Minifantasy_IcyWildernessPropsShadows_1_9
+  - first:
+      213: 551381550015204257
+    second: Minifantasy_IcyWildernessPropsShadows_1_10
+  - first:
+      213: 1259319551400315476
+    second: Minifantasy_IcyWildernessPropsShadows_1_11
+  - first:
+      213: 1576349354283587097
+    second: Minifantasy_IcyWildernessPropsShadows_1_12
+  - first:
+      213: -3897644148502654033
+    second: Minifantasy_IcyWildernessPropsShadows_1_13
+  - first:
+      213: 8989811476829191539
+    second: Minifantasy_IcyWildernessPropsShadows_1_14
+  - first:
+      213: -652461689631516732
+    second: Minifantasy_IcyWildernessPropsShadows_1_15
+  - first:
+      213: -2274573425109909136
+    second: Minifantasy_IcyWildernessPropsShadows_1_16
+  - first:
+      213: 3096251880557189422
+    second: Minifantasy_IcyWildernessPropsShadows_1_17
+  - first:
+      213: 7340469574807697265
+    second: Minifantasy_IcyWildernessPropsShadows_1_18
+  - first:
+      213: 7242542550086212924
+    second: Minifantasy_IcyWildernessPropsShadows_2_0
+  - first:
+      213: 2543279402245749787
+    second: Minifantasy_IcyWildernessPropsShadows_2_1
+  - first:
+      213: -3160734431092977214
+    second: Minifantasy_IcyWildernessPropsShadows_2_2
+  - first:
+      213: -2566166465061903931
+    second: Minifantasy_IcyWildernessPropsShadows_2_3
+  - first:
+      213: -518396824484456946
+    second: Minifantasy_IcyWildernessPropsShadows_2_4
+  - first:
+      213: 5028513926116424325
+    second: Minifantasy_IcyWildernessPropsShadows_2_5
+  - first:
+      213: -4025491551239643719
+    second: Minifantasy_IcyWildernessPropsShadows_2_6
+  - first:
+      213: -9217754244664552914
+    second: Minifantasy_IcyWildernessPropsShadows_2_7
+  - first:
+      213: -8036392072031444488
+    second: Minifantasy_IcyWildernessPropsShadows_2_8
+  - first:
+      213: 7426072874655826598
+    second: Minifantasy_IcyWildernessPropsShadows_2_9
+  - first:
+      213: -8820459760058443618
+    second: Minifantasy_IcyWildernessPropsShadows_2_10
+  - first:
+      213: 3068757325376139559
+    second: Minifantasy_IcyWildernessPropsShadows_2_11
+  - first:
+      213: 5948570002294357079
+    second: Minifantasy_IcyWildernessPropsShadows_2_12
+  - first:
+      213: 4973626135992664144
+    second: Minifantasy_IcyWildernessPropsShadows_2_13
+  - first:
+      213: 5532129612826619694
+    second: Minifantasy_IcyWildernessPropsShadows_2_14
+  - first:
+      213: -8003152445359527263
+    second: Minifantasy_IcyWildernessPropsShadows_2_15
+  - first:
+      213: -1436606838374825084
+    second: Minifantasy_IcyWildernessPropsShadows_2_16
+  - first:
+      213: 4706774313138829027
+    second: Minifantasy_IcyWildernessPropsShadows_2_17
+  - first:
+      213: -5235718557748505879
+    second: Minifantasy_IcyWildernessPropsShadows_2_18
+  - first:
+      213: -3610390853969984169
+    second: Minifantasy_IcyWildernessPropsShadows_3_0
+  - first:
+      213: -2976620676776955330
+    second: Minifantasy_IcyWildernessPropsShadows_3_1
+  - first:
+      213: 7696890698355041056
+    second: Minifantasy_IcyWildernessPropsShadows_3_2
+  - first:
+      213: 751099424450486787
+    second: Minifantasy_IcyWildernessPropsShadows_3_3
+  - first:
+      213: -5456177885468378686
+    second: Minifantasy_IcyWildernessPropsShadows_3_4
+  - first:
+      213: -3692358740505697235
+    second: Minifantasy_IcyWildernessPropsShadows_3_5
+  - first:
+      213: 8361612405746108541
+    second: Minifantasy_IcyWildernessPropsShadows_3_6
+  - first:
+      213: 2987915098313435044
+    second: Minifantasy_IcyWildernessPropsShadows_3_7
+  - first:
+      213: 8495405534488483509
+    second: Minifantasy_IcyWildernessPropsShadows_3_8
+  - first:
+      213: -3244937276815890820
+    second: Minifantasy_IcyWildernessPropsShadows_3_9
+  - first:
+      213: 8569481703974454919
+    second: Minifantasy_IcyWildernessPropsShadows_3_10
+  - first:
+      213: 8318445319848572880
+    second: Minifantasy_IcyWildernessPropsShadows_3_11
+  - first:
+      213: 3731197855808283396
+    second: Minifantasy_IcyWildernessPropsShadows_3_12
+  - first:
+      213: 6041054449888996563
+    second: Minifantasy_IcyWildernessPropsShadows_3_13
+  - first:
+      213: -2278255684530832705
+    second: Minifantasy_IcyWildernessPropsShadows_3_14
+  - first:
+      213: 2445349657088287820
+    second: Minifantasy_IcyWildernessPropsShadows_3_15
+  - first:
+      213: 2182623063834857636
+    second: Minifantasy_IcyWildernessPropsShadows_3_16
+  - first:
+      213: 5940482888473999546
+    second: Minifantasy_IcyWildernessPropsShadows_3_17
+  - first:
+      213: 7665086849466611612
+    second: Minifantasy_IcyWildernessPropsShadows_3_18
+  - first:
+      213: -6760207793275240416
+    second: Minifantasy_IcyWildernessPropsShadows_4_0
+  - first:
+      213: -7681977549267848419
+    second: Minifantasy_IcyWildernessPropsShadows_4_1
+  - first:
+      213: -4064380665169460995
+    second: Minifantasy_IcyWildernessPropsShadows_4_2
+  - first:
+      213: 5051874783404166997
+    second: Minifantasy_IcyWildernessPropsShadows_4_3
+  - first:
+      213: 2494225590587206738
+    second: Minifantasy_IcyWildernessPropsShadows_4_4
+  - first:
+      213: 3245860871001495413
+    second: Minifantasy_IcyWildernessPropsShadows_4_5
+  - first:
+      213: -8279194547129367613
+    second: Minifantasy_IcyWildernessPropsShadows_4_6
+  - first:
+      213: -8307326018983779815
+    second: Minifantasy_IcyWildernessPropsShadows_4_7
+  - first:
+      213: -5829440616976772864
+    second: Minifantasy_IcyWildernessPropsShadows_4_8
+  - first:
+      213: -1413107836701153571
+    second: Minifantasy_IcyWildernessPropsShadows_4_9
+  - first:
+      213: 7445761541455571770
+    second: Minifantasy_IcyWildernessPropsShadows_4_10
+  - first:
+      213: -1688092917293565146
+    second: Minifantasy_IcyWildernessPropsShadows_4_11
+  - first:
+      213: 5257075241583885238
+    second: Minifantasy_IcyWildernessPropsShadows_4_12
+  - first:
+      213: -8250421547842055798
+    second: Minifantasy_IcyWildernessPropsShadows_4_13
+  - first:
+      213: 2077610836249962495
+    second: Minifantasy_IcyWildernessPropsShadows_4_14
+  - first:
+      213: 30567689845223116
+    second: Minifantasy_IcyWildernessPropsShadows_4_15
+  - first:
+      213: -3869217649524617565
+    second: Minifantasy_IcyWildernessPropsShadows_4_16
+  - first:
+      213: 9055752946022291294
+    second: Minifantasy_IcyWildernessPropsShadows_4_17
+  - first:
+      213: 7064953045722790179
+    second: Minifantasy_IcyWildernessPropsShadows_4_18
+  - first:
+      213: -2670920796353442739
+    second: Minifantasy_IcyWildernessPropsShadows_5_0
+  - first:
+      213: -7593345812664331717
+    second: Minifantasy_IcyWildernessPropsShadows_5_1
+  - first:
+      213: 493025141494817920
+    second: Minifantasy_IcyWildernessPropsShadows_5_2
+  - first:
+      213: 6165075175101798626
+    second: Minifantasy_IcyWildernessPropsShadows_5_3
+  - first:
+      213: 588659315045290786
+    second: Minifantasy_IcyWildernessPropsShadows_5_4
+  - first:
+      213: -6123154190664032997
+    second: Minifantasy_IcyWildernessPropsShadows_5_5
+  - first:
+      213: -520646555010844653
+    second: Minifantasy_IcyWildernessPropsShadows_5_6
+  - first:
+      213: -2055122756631794805
+    second: Minifantasy_IcyWildernessPropsShadows_5_7
+  - first:
+      213: -6831064858981367860
+    second: Minifantasy_IcyWildernessPropsShadows_5_8
+  - first:
+      213: 5375405911039888561
+    second: Minifantasy_IcyWildernessPropsShadows_5_9
+  - first:
+      213: 3800351920628227543
+    second: Minifantasy_IcyWildernessPropsShadows_5_10
+  - first:
+      213: -130739240848234704
+    second: Minifantasy_IcyWildernessPropsShadows_5_11
+  - first:
+      213: 8966406416469774094
+    second: Minifantasy_IcyWildernessPropsShadows_5_12
+  - first:
+      213: 3322141065647357772
+    second: Minifantasy_IcyWildernessPropsShadows_5_13
+  - first:
+      213: -1756886480814777199
+    second: Minifantasy_IcyWildernessPropsShadows_5_14
+  - first:
+      213: 448764434293713232
+    second: Minifantasy_IcyWildernessPropsShadows_5_15
+  - first:
+      213: -1642904408289396353
+    second: Minifantasy_IcyWildernessPropsShadows_5_16
+  - first:
+      213: 154037061473274266
+    second: Minifantasy_IcyWildernessPropsShadows_5_17
+  - first:
+      213: 8168117217251935907
+    second: Minifantasy_IcyWildernessPropsShadows_5_18
+  - first:
+      213: -5177209560783207660
+    second: Minifantasy_IcyWildernessPropsShadows_6_0
+  - first:
+      213: -5014906191504789382
+    second: Minifantasy_IcyWildernessPropsShadows_6_1
+  - first:
+      213: -7610028168627658498
+    second: Minifantasy_IcyWildernessPropsShadows_6_2
+  - first:
+      213: 442929605806718876
+    second: Minifantasy_IcyWildernessPropsShadows_6_3
+  - first:
+      213: -5807917082379123502
+    second: Minifantasy_IcyWildernessPropsShadows_6_4
+  - first:
+      213: 2860607034349675180
+    second: Minifantasy_IcyWildernessPropsShadows_6_5
+  - first:
+      213: -7848580809286692475
+    second: Minifantasy_IcyWildernessPropsShadows_6_6
+  - first:
+      213: -6451418999322143980
+    second: Minifantasy_IcyWildernessPropsShadows_6_7
+  - first:
+      213: 7139173881785698316
+    second: Minifantasy_IcyWildernessPropsShadows_6_8
+  - first:
+      213: -4234558029162997685
+    second: Minifantasy_IcyWildernessPropsShadows_6_9
+  - first:
+      213: 5191705916073758495
+    second: Minifantasy_IcyWildernessPropsShadows_6_10
+  - first:
+      213: -9187768152603121990
+    second: Minifantasy_IcyWildernessPropsShadows_6_11
+  - first:
+      213: -8087892029093861787
+    second: Minifantasy_IcyWildernessPropsShadows_6_12
+  - first:
+      213: 8910529579669032551
+    second: Minifantasy_IcyWildernessPropsShadows_6_13
+  - first:
+      213: -2643452077673303804
+    second: Minifantasy_IcyWildernessPropsShadows_6_14
+  - first:
+      213: -7108481882960792877
+    second: Minifantasy_IcyWildernessPropsShadows_6_15
+  - first:
+      213: -6352837930507789787
+    second: Minifantasy_IcyWildernessPropsShadows_6_16
+  - first:
+      213: 5065935841343489142
+    second: Minifantasy_IcyWildernessPropsShadows_6_17
+  - first:
+      213: -8184900213931649550
+    second: Minifantasy_IcyWildernessPropsShadows_6_18
+  - first:
+      213: -934861950386472833
+    second: Minifantasy_IcyWildernessPropsShadows_7_0
+  - first:
+      213: -3705207144113128062
+    second: Minifantasy_IcyWildernessPropsShadows_7_1
+  - first:
+      213: 6457690197482666481
+    second: Minifantasy_IcyWildernessPropsShadows_7_2
+  - first:
+      213: 1582310920825994591
+    second: Minifantasy_IcyWildernessPropsShadows_7_3
+  - first:
+      213: 8508966947780721108
+    second: Minifantasy_IcyWildernessPropsShadows_7_4
+  - first:
+      213: -5172803236247659487
+    second: Minifantasy_IcyWildernessPropsShadows_7_5
+  - first:
+      213: 2774535213425947777
+    second: Minifantasy_IcyWildernessPropsShadows_7_6
+  - first:
+      213: -9080383408022572025
+    second: Minifantasy_IcyWildernessPropsShadows_7_7
+  - first:
+      213: -7429759196873851883
+    second: Minifantasy_IcyWildernessPropsShadows_7_8
+  - first:
+      213: 6570924034810813981
+    second: Minifantasy_IcyWildernessPropsShadows_7_9
+  - first:
+      213: -2528356790426772398
+    second: Minifantasy_IcyWildernessPropsShadows_7_10
+  - first:
+      213: -3447014467296308019
+    second: Minifantasy_IcyWildernessPropsShadows_7_11
+  - first:
+      213: -8105912663793428566
+    second: Minifantasy_IcyWildernessPropsShadows_7_12
+  - first:
+      213: -1786464469610154419
+    second: Minifantasy_IcyWildernessPropsShadows_7_13
+  - first:
+      213: -8716346807234454743
+    second: Minifantasy_IcyWildernessPropsShadows_7_14
+  - first:
+      213: -4336451296517098362
+    second: Minifantasy_IcyWildernessPropsShadows_7_15
+  - first:
+      213: 4012542282758048066
+    second: Minifantasy_IcyWildernessPropsShadows_7_16
+  - first:
+      213: 1599990081376366709
+    second: Minifantasy_IcyWildernessPropsShadows_7_17
+  - first:
+      213: -4053091488861935781
+    second: Minifantasy_IcyWildernessPropsShadows_7_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c064ac268f7100800000000000000
+      internalID: 107952442374670809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba64818de8cf5d80800000000000000
+      internalID: -8259662269168457033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c73f5dae16ce07e0800000000000000
+      internalID: -1797281366214232124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9ec09da0c49470800000000000000
+      internalID: 8400551056644152652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e94c02a8548c5c40800000000000000
+      internalID: 5502418360950606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a214a009b5dbf320800000000000000
+      internalID: 2592901001038271142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b31587a31fff10800000000000000
+      internalID: 2305583144450111338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4a7949dd6a8ad0800000000000000
+      internalID: -2699224246647108147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcc236a2ede18990800000000000000
+      internalID: -7385360356204163886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b8711d1cc6e3620800000000000000
+      internalID: 2755759601689791246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deeae404c221dd80800000000000000
+      internalID: -8227756818937745706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d732ad17e41fba70800000000000000
+      internalID: 8844811176046114777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5702e07b51104b0800000000000000
+      internalID: -5476071795945605728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d4bda182992a860800000000000000
+      internalID: 7539757123699953017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629982ca4a079ea20800000000000000
+      internalID: 3092126471731845414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7402e56cec864a0800000000000000
+      internalID: -6599797902533441601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852d572e95b528410800000000000000
+      internalID: 1477844069340533336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253efd274b4dbc30800000000000000
+      internalID: 4376737181960385824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09daba04f53b8320800000000000000
+      internalID: 2561200135358568716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70861c07162e3fa40800000000000000
+      internalID: 5400909286278785031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e132b2c3016c27ba0800000000000000
+      internalID: -6092589572847623394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e9f4a4951dfa60800000000000000
+      internalID: 7709341865295341677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db96ade75f62b20800000000000000
+      internalID: 3109442517924953437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26dcaa2c17d13b0800000000000000
+      internalID: -5540146885692661019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dede6211f93d5f0800000000000000
+      internalID: -733067418314871428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58151c910a6554e40800000000000000
+      internalID: 5640009353978270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9241644bf75ef7f90800000000000000
+      internalID: -6953586962988657623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e8536894ad59480800000000000000
+      internalID: -8892961879854051828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75affe092526690800000000000000
+      internalID: -7610429637847787595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4c503996e6a700800000000000000
+      internalID: 551381550015204257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8be7b5700a7110800000000000000
+      internalID: 1259319551400315476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165df7c26150e510800000000000000
+      internalID: 1576349354283587097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa39e9b2c49c8e9c0800000000000000
+      internalID: -3897644148502654033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d322a78e932cc70800000000000000
+      internalID: 8989811476829191539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c756f7dc8df1f6f0800000000000000
+      internalID: -652461689631516732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071c7c465871f60e0800000000000000
+      internalID: -2274573425109909136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291fb34ea818fa20800000000000000
+      internalID: 3096251880557189422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b9f2df269ed560800000000000000
+      internalID: 7340469574807697265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5a80a31ea28460800000000000000
+      internalID: 7242542550086212924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cfc67342b8b4320800000000000000
+      internalID: 2543279402245749787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15b5df7c0d224d0800000000000000
+      internalID: -3160734431092977214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c127773235236cd0800000000000000
+      internalID: -2566166465061903931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d9efa5d84ec8f0800000000000000
+      internalID: -518396824484456946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a364a06ced8c540800000000000000
+      internalID: 5028513926116424325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd560a13c49228c0800000000000000
+      internalID: -4025491551239643719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e229beb2a55f31080800000000000000
+      internalID: -9217754244664552914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1ecc63dfff87090800000000000000
+      internalID: -8036392072031444488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2460a3fe5be0760800000000000000
+      internalID: 7426072874655826598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d61eb49e679580800000000000000
+      internalID: -8820459760058443618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213ce8478a669a20800000000000000
+      internalID: 3068757325376139559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbc4476e09d8250800000000000000
+      internalID: 5948570002294357079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05001798e9ed50540800000000000000
+      internalID: 4973626135992664144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f23f7829216cc40800000000000000
+      internalID: 5532129612826619694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaeb03e0471fe090800000000000000
+      internalID: -8003152445359527263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48385c421b5201ce0800000000000000
+      internalID: -1436606838374825084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b29cdc42d15140800000000000000
+      internalID: 4706774313138829027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2da7536bdf657b0800000000000000
+      internalID: -5235718557748505879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ccc0a5a055edc0800000000000000
+      internalID: -3610390853969984169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3270a9e34be0b6d0800000000000000
+      internalID: -2976620676776955330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023e57e6f49d0da60800000000000000
+      internalID: 7696890698355041056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3022f5172f07c6a00800000000000000
+      internalID: 751099424450486787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b0590f13c744b0800000000000000
+      internalID: -5456177885468378686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2469d8d94b12ccc0800000000000000
+      internalID: -3692358740505697235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780ff96e2a6a0470800000000000000
+      internalID: 8361612405746108541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7aff583f4377920800000000000000
+      internalID: 2987915098313435044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6d212b25eb5e570800000000000000
+      internalID: 8495405534488483509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7627f83dbaa7f2d0800000000000000
+      internalID: -3244937276815890820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864b9ae43aece670800000000000000
+      internalID: 8569481703974454919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b51502fd017370800000000000000
+      internalID: 8318445319848572880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e62e5ea0e7c330800000000000000
+      internalID: 3731197855808283396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2d6ae30326d350800000000000000
+      internalID: 6041054449888996563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba760096820260e0800000000000000
+      internalID: -2278255684530832705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ee5e9e80afe120800000000000000
+      internalID: 2445349657088287820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0937ecc1c3a4e10800000000000000
+      internalID: 2182623063834857636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab877c986b5d07250800000000000000
+      internalID: 5940482888473999546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b9f2d0ebdf5a60800000000000000
+      internalID: 7665086849466611612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020800244daee22a0800000000000000
+      internalID: -6760207793275240416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133d5bae12246590800000000000000
+      internalID: -7681977549267848419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0cb9ca15b6897c0800000000000000
+      internalID: -4064380665169460995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f0f8a795ddb1640800000000000000
+      internalID: 5051874783404166997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ca3aca5f44d9220800000000000000
+      internalID: 2494225590587206738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577526ec34d9b0d20800000000000000
+      internalID: 3245860871001495413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3c008ac646a1d80800000000000000
+      internalID: -8279194547129367613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ac15fff276bc80800000000000000
+      internalID: -8307326018983779815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0019dd105aaa91fa0800000000000000
+      internalID: -5829440616976772864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd66b14d8e1a36ce0800000000000000
+      internalID: -1413107836701153571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b69b03ca8a45760800000000000000
+      internalID: 7445761541455571770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b3dd48f60b298e0800000000000000
+      internalID: -1688092917293565146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbbb1c3412e4f840800000000000000
+      internalID: 5257075241583885238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8155a9905d908d80800000000000000
+      internalID: -8250421547842055798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76e244c0825dc10800000000000000
+      internalID: 2077610836249962495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce24d6e6299c6000800000000000000
+      internalID: 30567689845223116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aec9693c07cd4ac0800000000000000
+      internalID: -3869217649524617565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e571b51335f7cad70800000000000000
+      internalID: 9055752946022291294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329fe150d51cb0260800000000000000
+      internalID: 7064953045722790179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4626dfabfeead0800000000000000
+      internalID: -2670920796353442739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325173f6340f9690800000000000000
+      internalID: -7593345812664331717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a22801c397d600800000000000000
+      internalID: 493025141494817920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e89581353fbe8550800000000000000
+      internalID: 6165075175101798626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223dff637865b2800800000000000000
+      internalID: 588659315045290786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d968894bf260ba0800000000000000
+      internalID: -6123154190664032997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3183c0b77ba46c8f0800000000000000
+      internalID: -520646555010844653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be329cdbcba73e0800000000000000
+      internalID: -2055122756631794805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff2ca04be2331a0800000000000000
+      internalID: -6831064858981367860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc411b2237499a40800000000000000
+      internalID: 5375405911039888561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd48acfef8db430800000000000000
+      internalID: 3800351920628227543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03769076a558f2ef0800000000000000
+      internalID: -130739240848234704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc67531231f6c70800000000000000
+      internalID: 8966406416469774094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff5af92bd9a1e20800000000000000
+      internalID: 3322141065647357772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5958dd094e97e0800000000000000
+      internalID: -1756886480814777199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059e7e510e45a3600800000000000000
+      internalID: 448764434293713232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79bcf7252b3339e0800000000000000
+      internalID: -1642904408289396353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990c5b24ef332200800000000000000
+      internalID: 154037061473274266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_5_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6cd02255bfa5170800000000000000
+      internalID: 8168117217251935907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c2c1a55bd628b0800000000000000
+      internalID: -5177209560783207660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7033719369776ab0800000000000000
+      internalID: -5014906191504789382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef06b3643bfb36690800000000000000
+      internalID: -7610028168627658498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ffc96312a952600800000000000000
+      internalID: 442929605806718876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48edb6f22266fa0800000000000000
+      internalID: -5807917082379123502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2656c01fae2b720800000000000000
+      internalID: 2860607034349675180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d487665d341390800000000000000
+      internalID: -7848580809286692475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139238e994f776a0800000000000000
+      internalID: -6451418999322143980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08459d02d0731360800000000000000
+      internalID: 7139173881785698316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4816fa78e3db35c0800000000000000
+      internalID: -4234558029162997685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fced91605ac0840800000000000000
+      internalID: 5191705916073758495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a1794b8d7e7080800000000000000
+      internalID: -9187768152603121990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566a5201d0902cf80800000000000000
+      internalID: -8087892029093861787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e88c4517f88ab70800000000000000
+      internalID: 8910529579669032551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b3894752905bd0800000000000000
+      internalID: -2643452077673303804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d272d9c369995d90800000000000000
+      internalID: -7108481882960792877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a947c9f8f26d7a0800000000000000
+      internalID: -6352837930507789787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c236aec1dd4640800000000000000
+      internalID: 5065935841343489142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_6_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d592fe94696e80800000000000000
+      internalID: -8184900213931649550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787f2d5204b603f0800000000000000
+      internalID: -934861950386472833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db5e3cbb5749cc0800000000000000
+      internalID: -3705207144113128062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f97235035e9950800000000000000
+      internalID: 6457690197482666481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dfd08266f75f510800000000000000
+      internalID: 1582310920825994591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d972084b5ce51670800000000000000
+      internalID: 8508966947780721108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c97720dd28638b0800000000000000
+      internalID: -5172803236247659487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f0159311218620800000000000000
+      internalID: 2774535213425947777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b67c766ffbf180800000000000000
+      internalID: -9080383408022572025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c74afff5134e890800000000000000
+      internalID: -7429759196873851883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e99fc689c903b50800000000000000
+      internalID: 6570924034810813981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c5a2915e879ecd0800000000000000
+      internalID: -2528356790426772398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4db25ea9eb920d0800000000000000
+      internalID: -3447014467296308019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa790461163028f80800000000000000
+      internalID: -8105912663793428566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b70da7043537e0800000000000000
+      internalID: -1786464469610154419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1eaf82c0590780800000000000000
+      internalID: -8716346807234454743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f0557584d1d3c0800000000000000
+      internalID: -4336451296517098362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249470262f96fa730800000000000000
+      internalID: 4012542282758048066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570369c708e443610800000000000000
+      internalID: 1599990081376366709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsShadows_7_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a93cd3c680c7c0800000000000000
+      internalID: -4053091488861935781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_IcyWildernessPropsShadows_0: -1049880427262945422
+      Minifantasy_IcyWildernessPropsShadows_0_0: 107952442374670809
+      Minifantasy_IcyWildernessPropsShadows_0_1: -8259662269168457033
+      Minifantasy_IcyWildernessPropsShadows_0_10: -8227756818937745706
+      Minifantasy_IcyWildernessPropsShadows_0_11: 8844811176046114777
+      Minifantasy_IcyWildernessPropsShadows_0_12: -5476071795945605728
+      Minifantasy_IcyWildernessPropsShadows_0_13: 7539757123699953017
+      Minifantasy_IcyWildernessPropsShadows_0_14: 3092126471731845414
+      Minifantasy_IcyWildernessPropsShadows_0_15: -6599797902533441601
+      Minifantasy_IcyWildernessPropsShadows_0_16: 1477844069340533336
+      Minifantasy_IcyWildernessPropsShadows_0_17: 4376737181960385824
+      Minifantasy_IcyWildernessPropsShadows_0_18: 2561200135358568716
+      Minifantasy_IcyWildernessPropsShadows_0_2: -1797281366214232124
+      Minifantasy_IcyWildernessPropsShadows_0_3: 8400551056644152652
+      Minifantasy_IcyWildernessPropsShadows_0_4: 5502418360950606305
+      Minifantasy_IcyWildernessPropsShadows_0_5: 2592901001038271142
+      Minifantasy_IcyWildernessPropsShadows_0_6: 2305583144450111338
+      Minifantasy_IcyWildernessPropsShadows_0_7: -2699224246647108147
+      Minifantasy_IcyWildernessPropsShadows_0_8: -7385360356204163886
+      Minifantasy_IcyWildernessPropsShadows_0_9: 2755759601689791246
+      Minifantasy_IcyWildernessPropsShadows_1: -3692361952794218127
+      Minifantasy_IcyWildernessPropsShadows_1_0: 5400909286278785031
+      Minifantasy_IcyWildernessPropsShadows_1_1: -6092589572847623394
+      Minifantasy_IcyWildernessPropsShadows_1_10: 551381550015204257
+      Minifantasy_IcyWildernessPropsShadows_1_11: 1259319551400315476
+      Minifantasy_IcyWildernessPropsShadows_1_12: 1576349354283587097
+      Minifantasy_IcyWildernessPropsShadows_1_13: -3897644148502654033
+      Minifantasy_IcyWildernessPropsShadows_1_14: 8989811476829191539
+      Minifantasy_IcyWildernessPropsShadows_1_15: -652461689631516732
+      Minifantasy_IcyWildernessPropsShadows_1_16: -2274573425109909136
+      Minifantasy_IcyWildernessPropsShadows_1_17: 3096251880557189422
+      Minifantasy_IcyWildernessPropsShadows_1_18: 7340469574807697265
+      Minifantasy_IcyWildernessPropsShadows_1_2: 7709341865295341677
+      Minifantasy_IcyWildernessPropsShadows_1_3: 3109442517924953437
+      Minifantasy_IcyWildernessPropsShadows_1_4: -5540146885692661019
+      Minifantasy_IcyWildernessPropsShadows_1_5: -733067418314871428
+      Minifantasy_IcyWildernessPropsShadows_1_6: 5640009353978270085
+      Minifantasy_IcyWildernessPropsShadows_1_7: -6953586962988657623
+      Minifantasy_IcyWildernessPropsShadows_1_8: -8892961879854051828
+      Minifantasy_IcyWildernessPropsShadows_1_9: -7610429637847787595
+      Minifantasy_IcyWildernessPropsShadows_2: -6201440251463368857
+      Minifantasy_IcyWildernessPropsShadows_2_0: 7242542550086212924
+      Minifantasy_IcyWildernessPropsShadows_2_1: 2543279402245749787
+      Minifantasy_IcyWildernessPropsShadows_2_10: -8820459760058443618
+      Minifantasy_IcyWildernessPropsShadows_2_11: 3068757325376139559
+      Minifantasy_IcyWildernessPropsShadows_2_12: 5948570002294357079
+      Minifantasy_IcyWildernessPropsShadows_2_13: 4973626135992664144
+      Minifantasy_IcyWildernessPropsShadows_2_14: 5532129612826619694
+      Minifantasy_IcyWildernessPropsShadows_2_15: -8003152445359527263
+      Minifantasy_IcyWildernessPropsShadows_2_16: -1436606838374825084
+      Minifantasy_IcyWildernessPropsShadows_2_17: 4706774313138829027
+      Minifantasy_IcyWildernessPropsShadows_2_18: -5235718557748505879
+      Minifantasy_IcyWildernessPropsShadows_2_2: -3160734431092977214
+      Minifantasy_IcyWildernessPropsShadows_2_3: -2566166465061903931
+      Minifantasy_IcyWildernessPropsShadows_2_4: -518396824484456946
+      Minifantasy_IcyWildernessPropsShadows_2_5: 5028513926116424325
+      Minifantasy_IcyWildernessPropsShadows_2_6: -4025491551239643719
+      Minifantasy_IcyWildernessPropsShadows_2_7: -9217754244664552914
+      Minifantasy_IcyWildernessPropsShadows_2_8: -8036392072031444488
+      Minifantasy_IcyWildernessPropsShadows_2_9: 7426072874655826598
+      Minifantasy_IcyWildernessPropsShadows_3_0: -3610390853969984169
+      Minifantasy_IcyWildernessPropsShadows_3_1: -2976620676776955330
+      Minifantasy_IcyWildernessPropsShadows_3_10: 8569481703974454919
+      Minifantasy_IcyWildernessPropsShadows_3_11: 8318445319848572880
+      Minifantasy_IcyWildernessPropsShadows_3_12: 3731197855808283396
+      Minifantasy_IcyWildernessPropsShadows_3_13: 6041054449888996563
+      Minifantasy_IcyWildernessPropsShadows_3_14: -2278255684530832705
+      Minifantasy_IcyWildernessPropsShadows_3_15: 2445349657088287820
+      Minifantasy_IcyWildernessPropsShadows_3_16: 2182623063834857636
+      Minifantasy_IcyWildernessPropsShadows_3_17: 5940482888473999546
+      Minifantasy_IcyWildernessPropsShadows_3_18: 7665086849466611612
+      Minifantasy_IcyWildernessPropsShadows_3_2: 7696890698355041056
+      Minifantasy_IcyWildernessPropsShadows_3_3: 751099424450486787
+      Minifantasy_IcyWildernessPropsShadows_3_4: -5456177885468378686
+      Minifantasy_IcyWildernessPropsShadows_3_5: -3692358740505697235
+      Minifantasy_IcyWildernessPropsShadows_3_6: 8361612405746108541
+      Minifantasy_IcyWildernessPropsShadows_3_7: 2987915098313435044
+      Minifantasy_IcyWildernessPropsShadows_3_8: 8495405534488483509
+      Minifantasy_IcyWildernessPropsShadows_3_9: -3244937276815890820
+      Minifantasy_IcyWildernessPropsShadows_4_0: -6760207793275240416
+      Minifantasy_IcyWildernessPropsShadows_4_1: -7681977549267848419
+      Minifantasy_IcyWildernessPropsShadows_4_10: 7445761541455571770
+      Minifantasy_IcyWildernessPropsShadows_4_11: -1688092917293565146
+      Minifantasy_IcyWildernessPropsShadows_4_12: 5257075241583885238
+      Minifantasy_IcyWildernessPropsShadows_4_13: -8250421547842055798
+      Minifantasy_IcyWildernessPropsShadows_4_14: 2077610836249962495
+      Minifantasy_IcyWildernessPropsShadows_4_15: 30567689845223116
+      Minifantasy_IcyWildernessPropsShadows_4_16: -3869217649524617565
+      Minifantasy_IcyWildernessPropsShadows_4_17: 9055752946022291294
+      Minifantasy_IcyWildernessPropsShadows_4_18: 7064953045722790179
+      Minifantasy_IcyWildernessPropsShadows_4_2: -4064380665169460995
+      Minifantasy_IcyWildernessPropsShadows_4_3: 5051874783404166997
+      Minifantasy_IcyWildernessPropsShadows_4_4: 2494225590587206738
+      Minifantasy_IcyWildernessPropsShadows_4_5: 3245860871001495413
+      Minifantasy_IcyWildernessPropsShadows_4_6: -8279194547129367613
+      Minifantasy_IcyWildernessPropsShadows_4_7: -8307326018983779815
+      Minifantasy_IcyWildernessPropsShadows_4_8: -5829440616976772864
+      Minifantasy_IcyWildernessPropsShadows_4_9: -1413107836701153571
+      Minifantasy_IcyWildernessPropsShadows_5_0: -2670920796353442739
+      Minifantasy_IcyWildernessPropsShadows_5_1: -7593345812664331717
+      Minifantasy_IcyWildernessPropsShadows_5_10: 3800351920628227543
+      Minifantasy_IcyWildernessPropsShadows_5_11: -130739240848234704
+      Minifantasy_IcyWildernessPropsShadows_5_12: 8966406416469774094
+      Minifantasy_IcyWildernessPropsShadows_5_13: 3322141065647357772
+      Minifantasy_IcyWildernessPropsShadows_5_14: -1756886480814777199
+      Minifantasy_IcyWildernessPropsShadows_5_15: 448764434293713232
+      Minifantasy_IcyWildernessPropsShadows_5_16: -1642904408289396353
+      Minifantasy_IcyWildernessPropsShadows_5_17: 154037061473274266
+      Minifantasy_IcyWildernessPropsShadows_5_18: 8168117217251935907
+      Minifantasy_IcyWildernessPropsShadows_5_2: 493025141494817920
+      Minifantasy_IcyWildernessPropsShadows_5_3: 6165075175101798626
+      Minifantasy_IcyWildernessPropsShadows_5_4: 588659315045290786
+      Minifantasy_IcyWildernessPropsShadows_5_5: -6123154190664032997
+      Minifantasy_IcyWildernessPropsShadows_5_6: -520646555010844653
+      Minifantasy_IcyWildernessPropsShadows_5_7: -2055122756631794805
+      Minifantasy_IcyWildernessPropsShadows_5_8: -6831064858981367860
+      Minifantasy_IcyWildernessPropsShadows_5_9: 5375405911039888561
+      Minifantasy_IcyWildernessPropsShadows_6_0: -5177209560783207660
+      Minifantasy_IcyWildernessPropsShadows_6_1: -5014906191504789382
+      Minifantasy_IcyWildernessPropsShadows_6_10: 5191705916073758495
+      Minifantasy_IcyWildernessPropsShadows_6_11: -9187768152603121990
+      Minifantasy_IcyWildernessPropsShadows_6_12: -8087892029093861787
+      Minifantasy_IcyWildernessPropsShadows_6_13: 8910529579669032551
+      Minifantasy_IcyWildernessPropsShadows_6_14: -2643452077673303804
+      Minifantasy_IcyWildernessPropsShadows_6_15: -7108481882960792877
+      Minifantasy_IcyWildernessPropsShadows_6_16: -6352837930507789787
+      Minifantasy_IcyWildernessPropsShadows_6_17: 5065935841343489142
+      Minifantasy_IcyWildernessPropsShadows_6_18: -8184900213931649550
+      Minifantasy_IcyWildernessPropsShadows_6_2: -7610028168627658498
+      Minifantasy_IcyWildernessPropsShadows_6_3: 442929605806718876
+      Minifantasy_IcyWildernessPropsShadows_6_4: -5807917082379123502
+      Minifantasy_IcyWildernessPropsShadows_6_5: 2860607034349675180
+      Minifantasy_IcyWildernessPropsShadows_6_6: -7848580809286692475
+      Minifantasy_IcyWildernessPropsShadows_6_7: -6451418999322143980
+      Minifantasy_IcyWildernessPropsShadows_6_8: 7139173881785698316
+      Minifantasy_IcyWildernessPropsShadows_6_9: -4234558029162997685
+      Minifantasy_IcyWildernessPropsShadows_7_0: -934861950386472833
+      Minifantasy_IcyWildernessPropsShadows_7_1: -3705207144113128062
+      Minifantasy_IcyWildernessPropsShadows_7_10: -2528356790426772398
+      Minifantasy_IcyWildernessPropsShadows_7_11: -3447014467296308019
+      Minifantasy_IcyWildernessPropsShadows_7_12: -8105912663793428566
+      Minifantasy_IcyWildernessPropsShadows_7_13: -1786464469610154419
+      Minifantasy_IcyWildernessPropsShadows_7_14: -8716346807234454743
+      Minifantasy_IcyWildernessPropsShadows_7_15: -4336451296517098362
+      Minifantasy_IcyWildernessPropsShadows_7_16: 4012542282758048066
+      Minifantasy_IcyWildernessPropsShadows_7_17: 1599990081376366709
+      Minifantasy_IcyWildernessPropsShadows_7_18: -4053091488861935781
+      Minifantasy_IcyWildernessPropsShadows_7_2: 6457690197482666481
+      Minifantasy_IcyWildernessPropsShadows_7_3: 1582310920825994591
+      Minifantasy_IcyWildernessPropsShadows_7_4: 8508966947780721108
+      Minifantasy_IcyWildernessPropsShadows_7_5: -5172803236247659487
+      Minifantasy_IcyWildernessPropsShadows_7_6: 2774535213425947777
+      Minifantasy_IcyWildernessPropsShadows_7_7: -9080383408022572025
+      Minifantasy_IcyWildernessPropsShadows_7_8: -7429759196873851883
+      Minifantasy_IcyWildernessPropsShadows_7_9: 6570924034810813981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

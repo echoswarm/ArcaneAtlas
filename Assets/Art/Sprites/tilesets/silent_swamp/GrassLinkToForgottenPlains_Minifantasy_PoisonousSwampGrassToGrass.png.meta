@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: c8f93bd0eaa4ce54cb5d2da14ce61902
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8770128917638791719
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0
+  - first:
+      213: 2913148280922700518
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_0
+  - first:
+      213: -6324360574061797908
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_1
+  - first:
+      213: 5467442525546153986
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_2
+  - first:
+      213: -6873877767403336626
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_0
+  - first:
+      213: 6987517219203215323
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_1
+  - first:
+      213: 1034954755780563934
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_2
+  - first:
+      213: -4127654613537507288
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_0
+  - first:
+      213: -5038045487498768378
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_1
+  - first:
+      213: -7552273759115306384
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_2
+  - first:
+      213: 6187046507276574951
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_0
+  - first:
+      213: -4501200250140805208
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_1
+  - first:
+      213: -750721832744241517
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_2
+  - first:
+      213: 7123501717770458402
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_0
+  - first:
+      213: -4625554611623520586
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_1
+  - first:
+      213: -1442193085465916736
+    second: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaff6e4de49d6820800000000000000
+      internalID: 2913148280922700518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced9f87d09b5b38a0800000000000000
+      internalID: -6324360574061797908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2080b0d520240eb40800000000000000
+      internalID: 5467442525546153986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c087407941b90a0800000000000000
+      internalID: -6873877767403336626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6880b3e5a8f060800000000000000
+      internalID: 6987517219203215323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d6e0fdd5ec5e00800000000000000
+      internalID: 1034954755780563934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828389c8fff97b6c0800000000000000
+      internalID: -4127654613537507288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60050636254451ab0800000000000000
+      internalID: -5038045487498768378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9d6d970fe03790800000000000000
+      internalID: -7552273759115306384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0aa0b940eccd550800000000000000
+      internalID: 6187046507276574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7357b88368881c0800000000000000
+      internalID: -4501200250140805208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396362a7876e495f0800000000000000
+      internalID: -750721832744241517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225d7940213cbd260800000000000000
+      internalID: 7123501717770458402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69205869abecfb0800000000000000
+      internalID: -4625554611623520586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca8743a70d4cfbe0800000000000000
+      internalID: -1442193085465916736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0: -8770128917638791719
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_0: 2913148280922700518
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_1: -6324360574061797908
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_0_2: 5467442525546153986
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_0: -6873877767403336626
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_1: 6987517219203215323
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_1_2: 1034954755780563934
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_0: -4127654613537507288
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_1: -5038045487498768378
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_2_2: -7552273759115306384
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_0: 6187046507276574951
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_1: -4501200250140805208
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_3_2: -750721832744241517
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_0: 7123501717770458402
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_1: -4625554611623520586
+      GrassLinkToForgottenPlains_Minifantasy_PoisonousSwampGrassToGrass_4_2: -1442193085465916736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

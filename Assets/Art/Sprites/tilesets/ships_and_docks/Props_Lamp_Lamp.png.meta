@@ -1,0 +1,3516 @@
+fileFormatVersion: 2
+guid: a7e2beab236e0394d9c354c287eb5684
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8573142038783142381
+    second: Props_Lamp_Lamp_0
+  - first:
+      213: 725609270396097002
+    second: Props_Lamp_Lamp_1
+  - first:
+      213: -1486360178751124922
+    second: Props_Lamp_Lamp_2
+  - first:
+      213: -3597665884148884718
+    second: Props_Lamp_Lamp_3
+  - first:
+      213: -400102542411231052
+    second: Props_Lamp_Lamp_4
+  - first:
+      213: -1460380134673135501
+    second: Props_Lamp_Lamp_5
+  - first:
+      213: -2552080760516776489
+    second: Props_Lamp_Lamp_6
+  - first:
+      213: 7458591794498482252
+    second: Props_Lamp_Lamp_7
+  - first:
+      213: 2928322946666532660
+    second: Props_Lamp_Lamp_0_0
+  - first:
+      213: 8266584520743995373
+    second: Props_Lamp_Lamp_0_1
+  - first:
+      213: -8120020235509847749
+    second: Props_Lamp_Lamp_0_2
+  - first:
+      213: -529266275287106123
+    second: Props_Lamp_Lamp_0_3
+  - first:
+      213: -1574827461634710686
+    second: Props_Lamp_Lamp_0_4
+  - first:
+      213: 5525669559116012685
+    second: Props_Lamp_Lamp_0_5
+  - first:
+      213: -8945100566436480882
+    second: Props_Lamp_Lamp_0_6
+  - first:
+      213: 3929855078965732467
+    second: Props_Lamp_Lamp_0_7
+  - first:
+      213: 8977987360739362636
+    second: Props_Lamp_Lamp_0_8
+  - first:
+      213: 4382001585415117814
+    second: Props_Lamp_Lamp_0_9
+  - first:
+      213: 5450759715515622621
+    second: Props_Lamp_Lamp_0_10
+  - first:
+      213: 3955025093814362456
+    second: Props_Lamp_Lamp_0_11
+  - first:
+      213: -5251401537462462809
+    second: Props_Lamp_Lamp_0_12
+  - first:
+      213: 6445992006723507986
+    second: Props_Lamp_Lamp_0_13
+  - first:
+      213: -6168326787369944863
+    second: Props_Lamp_Lamp_0_14
+  - first:
+      213: 1598976361947128086
+    second: Props_Lamp_Lamp_0_15
+  - first:
+      213: 5286481774900399763
+    second: Props_Lamp_Lamp_0_16
+  - first:
+      213: 8956295906575682722
+    second: Props_Lamp_Lamp_0_17
+  - first:
+      213: 8348521413464880075
+    second: Props_Lamp_Lamp_0_18
+  - first:
+      213: -3986227439794612157
+    second: Props_Lamp_Lamp_0_19
+  - first:
+      213: -7477790715100464009
+    second: Props_Lamp_Lamp_0_20
+  - first:
+      213: 2553661792066111649
+    second: Props_Lamp_Lamp_0_21
+  - first:
+      213: -2902481641540265345
+    second: Props_Lamp_Lamp_0_22
+  - first:
+      213: 7228152382071375672
+    second: Props_Lamp_Lamp_0_23
+  - first:
+      213: 5671605577179825906
+    second: Props_Lamp_Lamp_0_24
+  - first:
+      213: -5790545805006587907
+    second: Props_Lamp_Lamp_0_25
+  - first:
+      213: -4015002873314387394
+    second: Props_Lamp_Lamp_0_26
+  - first:
+      213: -2816686166483585877
+    second: Props_Lamp_Lamp_0_27
+  - first:
+      213: -3434233025519907903
+    second: Props_Lamp_Lamp_0_28
+  - first:
+      213: -4077506703650140060
+    second: Props_Lamp_Lamp_0_29
+  - first:
+      213: 3252969217755993672
+    second: Props_Lamp_Lamp_0_30
+  - first:
+      213: 6800838494312025970
+    second: Props_Lamp_Lamp_0_31
+  - first:
+      213: -5958129421130600118
+    second: Props_Lamp_Lamp_1_0
+  - first:
+      213: 3490849297654068480
+    second: Props_Lamp_Lamp_1_1
+  - first:
+      213: 8890185691288655155
+    second: Props_Lamp_Lamp_1_2
+  - first:
+      213: -7582789361251930167
+    second: Props_Lamp_Lamp_1_3
+  - first:
+      213: -6647075982350876199
+    second: Props_Lamp_Lamp_1_4
+  - first:
+      213: -6612431056116426709
+    second: Props_Lamp_Lamp_1_5
+  - first:
+      213: 1677164684943375413
+    second: Props_Lamp_Lamp_1_6
+  - first:
+      213: 6501218344758190926
+    second: Props_Lamp_Lamp_1_7
+  - first:
+      213: -6563661852104889296
+    second: Props_Lamp_Lamp_1_8
+  - first:
+      213: 4383501383491537979
+    second: Props_Lamp_Lamp_1_9
+  - first:
+      213: 3629154775261400244
+    second: Props_Lamp_Lamp_1_10
+  - first:
+      213: -2151622622172993105
+    second: Props_Lamp_Lamp_1_11
+  - first:
+      213: -5728513234523879645
+    second: Props_Lamp_Lamp_1_12
+  - first:
+      213: -3133371179546893935
+    second: Props_Lamp_Lamp_1_13
+  - first:
+      213: 7164823331098352073
+    second: Props_Lamp_Lamp_1_14
+  - first:
+      213: 778921204830733447
+    second: Props_Lamp_Lamp_1_15
+  - first:
+      213: 7974088331127960597
+    second: Props_Lamp_Lamp_1_16
+  - first:
+      213: 2114768272961153538
+    second: Props_Lamp_Lamp_1_17
+  - first:
+      213: -2671065369290427003
+    second: Props_Lamp_Lamp_1_18
+  - first:
+      213: -180310815265235667
+    second: Props_Lamp_Lamp_1_19
+  - first:
+      213: -7938916261226989992
+    second: Props_Lamp_Lamp_1_20
+  - first:
+      213: -8664197271467080176
+    second: Props_Lamp_Lamp_1_21
+  - first:
+      213: 8787431186027469159
+    second: Props_Lamp_Lamp_1_22
+  - first:
+      213: -6318871367755954738
+    second: Props_Lamp_Lamp_1_23
+  - first:
+      213: 4432442918662952451
+    second: Props_Lamp_Lamp_1_24
+  - first:
+      213: 3953358616451492340
+    second: Props_Lamp_Lamp_1_25
+  - first:
+      213: -2836414540207078433
+    second: Props_Lamp_Lamp_1_26
+  - first:
+      213: 293677823056743290
+    second: Props_Lamp_Lamp_1_27
+  - first:
+      213: -2567253704596282764
+    second: Props_Lamp_Lamp_1_28
+  - first:
+      213: -4114693984500013084
+    second: Props_Lamp_Lamp_1_29
+  - first:
+      213: 7833886895122227605
+    second: Props_Lamp_Lamp_1_30
+  - first:
+      213: 2897298612305634601
+    second: Props_Lamp_Lamp_1_31
+  - first:
+      213: 9136744561037767325
+    second: Props_Lamp_Lamp_2_0
+  - first:
+      213: -6153700873716963447
+    second: Props_Lamp_Lamp_2_1
+  - first:
+      213: 3920137453297117552
+    second: Props_Lamp_Lamp_2_2
+  - first:
+      213: 2288915123425894643
+    second: Props_Lamp_Lamp_2_3
+  - first:
+      213: 6160620041624943465
+    second: Props_Lamp_Lamp_2_4
+  - first:
+      213: 6299123860277085348
+    second: Props_Lamp_Lamp_2_5
+  - first:
+      213: -5735693998927226327
+    second: Props_Lamp_Lamp_2_6
+  - first:
+      213: 2422866822536875531
+    second: Props_Lamp_Lamp_2_7
+  - first:
+      213: -8808787399118988280
+    second: Props_Lamp_Lamp_2_8
+  - first:
+      213: 4898282745089491124
+    second: Props_Lamp_Lamp_2_9
+  - first:
+      213: -6215612407232491004
+    second: Props_Lamp_Lamp_2_10
+  - first:
+      213: 2854881700325078210
+    second: Props_Lamp_Lamp_2_11
+  - first:
+      213: 7867844463257367932
+    second: Props_Lamp_Lamp_2_12
+  - first:
+      213: 8324265907310186005
+    second: Props_Lamp_Lamp_2_13
+  - first:
+      213: 4651650279720249846
+    second: Props_Lamp_Lamp_2_14
+  - first:
+      213: 9176514770495721103
+    second: Props_Lamp_Lamp_2_15
+  - first:
+      213: 2642386012628333041
+    second: Props_Lamp_Lamp_2_16
+  - first:
+      213: 1292610318724203267
+    second: Props_Lamp_Lamp_2_17
+  - first:
+      213: 3435997179408239706
+    second: Props_Lamp_Lamp_2_18
+  - first:
+      213: 2440606105356696230
+    second: Props_Lamp_Lamp_2_19
+  - first:
+      213: 4208623086952813847
+    second: Props_Lamp_Lamp_2_20
+  - first:
+      213: 7145205558312664787
+    second: Props_Lamp_Lamp_2_21
+  - first:
+      213: -623763606294094895
+    second: Props_Lamp_Lamp_2_22
+  - first:
+      213: 7564188233566483633
+    second: Props_Lamp_Lamp_2_23
+  - first:
+      213: 9081386625613425807
+    second: Props_Lamp_Lamp_2_24
+  - first:
+      213: 6526284843107885577
+    second: Props_Lamp_Lamp_2_25
+  - first:
+      213: -5648016253023426518
+    second: Props_Lamp_Lamp_2_26
+  - first:
+      213: 5729230085660724378
+    second: Props_Lamp_Lamp_2_27
+  - first:
+      213: 895522828059382420
+    second: Props_Lamp_Lamp_2_28
+  - first:
+      213: -6265413023406759662
+    second: Props_Lamp_Lamp_2_29
+  - first:
+      213: 1685356790586368242
+    second: Props_Lamp_Lamp_2_30
+  - first:
+      213: 3914016875978410341
+    second: Props_Lamp_Lamp_2_31
+  - first:
+      213: -5438446795229130357
+    second: Props_Lamp_Lamp_3_0
+  - first:
+      213: 5224265711103854259
+    second: Props_Lamp_Lamp_3_1
+  - first:
+      213: -6581931403654421958
+    second: Props_Lamp_Lamp_3_2
+  - first:
+      213: -8427186773933704018
+    second: Props_Lamp_Lamp_3_3
+  - first:
+      213: -8232975209411460996
+    second: Props_Lamp_Lamp_3_4
+  - first:
+      213: -5025280567343522324
+    second: Props_Lamp_Lamp_3_5
+  - first:
+      213: -7807516125078783347
+    second: Props_Lamp_Lamp_3_6
+  - first:
+      213: -5678783414108478178
+    second: Props_Lamp_Lamp_3_7
+  - first:
+      213: 4524310690320208155
+    second: Props_Lamp_Lamp_3_8
+  - first:
+      213: -7609351632927462405
+    second: Props_Lamp_Lamp_3_9
+  - first:
+      213: 5711246751079947898
+    second: Props_Lamp_Lamp_3_10
+  - first:
+      213: 4221501027024558866
+    second: Props_Lamp_Lamp_3_11
+  - first:
+      213: -6440455040612872880
+    second: Props_Lamp_Lamp_3_12
+  - first:
+      213: 8939011528362268148
+    second: Props_Lamp_Lamp_3_13
+  - first:
+      213: -3132541208289541918
+    second: Props_Lamp_Lamp_3_14
+  - first:
+      213: -5719119853755548661
+    second: Props_Lamp_Lamp_3_15
+  - first:
+      213: 9040947953950084620
+    second: Props_Lamp_Lamp_3_16
+  - first:
+      213: -4450214588935511978
+    second: Props_Lamp_Lamp_3_17
+  - first:
+      213: -2399202896394866551
+    second: Props_Lamp_Lamp_3_18
+  - first:
+      213: 2956063886342202325
+    second: Props_Lamp_Lamp_3_19
+  - first:
+      213: 3185516137374995189
+    second: Props_Lamp_Lamp_3_20
+  - first:
+      213: -2613566789946002110
+    second: Props_Lamp_Lamp_3_21
+  - first:
+      213: -691034874559504358
+    second: Props_Lamp_Lamp_3_22
+  - first:
+      213: -8129353629174049416
+    second: Props_Lamp_Lamp_3_23
+  - first:
+      213: 4876941416412986343
+    second: Props_Lamp_Lamp_3_24
+  - first:
+      213: 4827555486560686830
+    second: Props_Lamp_Lamp_3_25
+  - first:
+      213: 7352552423167365103
+    second: Props_Lamp_Lamp_3_26
+  - first:
+      213: 4468369892629731224
+    second: Props_Lamp_Lamp_3_27
+  - first:
+      213: -6265674842668952233
+    second: Props_Lamp_Lamp_3_28
+  - first:
+      213: -4516483781188513998
+    second: Props_Lamp_Lamp_3_29
+  - first:
+      213: -2851398957464761197
+    second: Props_Lamp_Lamp_3_30
+  - first:
+      213: -2574125417527124050
+    second: Props_Lamp_Lamp_3_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f0faf743e73a820800000000000000
+      internalID: 2928322946666532660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de740b8c2dec8b270800000000000000
+      internalID: 8266584520743995373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a3751e94ef4f80800000000000000
+      internalID: -8120020235509847749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdfae5702ba7a8f0800000000000000
+      internalID: -529266275287106123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263abb674c6152ae0800000000000000
+      internalID: -1574827461634710686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c9c41103f1fac40800000000000000
+      internalID: 5525669559116012685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8878619d6e9cd380800000000000000
+      internalID: -8945100566436480882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37464808f56a98630800000000000000
+      internalID: 3929855078965732467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4701daefe7389c70800000000000000
+      internalID: 8977987360739362636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbdddf993fffcc30800000000000000
+      internalID: 4382001585415117814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46157f41df4ab40800000000000000
+      internalID: 5450759715515622621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851af824e5213e630800000000000000
+      internalID: 3955025093814362456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a61c92ff164f17b0800000000000000
+      internalID: -5251401537462462809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21713c9e393c47950800000000000000
+      internalID: 6445992006723507986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8b944d773b56aa0800000000000000
+      internalID: -6168326787369944863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611ea1a8784b03610800000000000000
+      internalID: 1598976361947128086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ec3805a2b5d5940800000000000000
+      internalID: 5286481774900399763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac8abeaca72b4c70800000000000000
+      internalID: 8956295906575682722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f0514ef7ebd370800000000000000
+      internalID: 8348521413464880075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348902173431ea8c0800000000000000
+      internalID: -3986227439794612157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cf8b1b6fc893890800000000000000
+      internalID: -7477790715100464009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a88698bedd607320800000000000000
+      internalID: 2553661792066111649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a56e4335058b7d0800000000000000
+      internalID: -2902481641540265345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83702cb8b4e8f4460800000000000000
+      internalID: 7228152382071375672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f68de5193795be40800000000000000
+      internalID: 5671605577179825906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df734fc1549d3afa0800000000000000
+      internalID: -5790545805006587907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a5cebb828d748c0800000000000000
+      internalID: -4015002873314387394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43df2eade19e8d0800000000000000
+      internalID: -2816686166483585877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb88f532472750d0800000000000000
+      internalID: -3434233025519907903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d8afa149c967c0800000000000000
+      internalID: -4077506703650140060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84650a1c44ed42d20800000000000000
+      internalID: 3252969217755993672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_0_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f4544049e616e50800000000000000
+      internalID: 6800838494312025970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f4b7ebd8705da0800000000000000
+      internalID: -5958129421130600118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b71fd0fcf17030800000000000000
+      internalID: 3490849297654068480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3355584b8c8406b70800000000000000
+      internalID: 8890185691288655155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa7f3504584c690800000000000000
+      internalID: -7582789361251930167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d102fc9c97d0c3a0800000000000000
+      internalID: -6647075982350876199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b285b661dfceb34a0800000000000000
+      internalID: -6612431056116426709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c31eb156c764710800000000000000
+      internalID: 1677164684943375413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43a09eb3a7f83a50800000000000000
+      internalID: 6501218344758190926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c618f325039e4a0800000000000000
+      internalID: -6563661852104889296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4273984355dc30800000000000000
+      internalID: 4383501383491537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc4e5e3a095d5230800000000000000
+      internalID: 3629154775261400244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92faaff96e322e0800000000000000
+      internalID: -2151622622172993105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327841d609b3080b0800000000000000
+      internalID: -5728513234523879645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19129a573870484d0800000000000000
+      internalID: -3133371179546893935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95c88dbd09e6360800000000000000
+      internalID: 7164823331098352073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78484f975b84fca00800000000000000
+      internalID: 778921204830733447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143870b617a9ae60800000000000000
+      internalID: 7974088331127960597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aad1c2a8a295d10800000000000000
+      internalID: 2114768272961153538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585b893d2387eead0800000000000000
+      internalID: -2671065369290427003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d54f2d4486f7df0800000000000000
+      internalID: -180310815265235667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8563efbf8bd43d190800000000000000
+      internalID: -7938916261226989992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016cb4a8c7692c780800000000000000
+      internalID: -8664197271467080176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7695b5b1b1a33f970800000000000000
+      internalID: 8787431186027469159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5058748fbde48a0800000000000000
+      internalID: -6318871367755954738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d916b953338d30800000000000000
+      internalID: 4432442918662952451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9225347b62dd630800000000000000
+      internalID: 3953358616451492340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3443fe00803a8d0800000000000000
+      internalID: -2836414540207078433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b05b19c6a531400800000000000000
+      internalID: 293677823056743290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ab398b584f5cd0800000000000000
+      internalID: -2567253704596282764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a0762f9ba5e6c0800000000000000
+      internalID: -4114693984500013084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591295a10ae87bc60800000000000000
+      internalID: 7833886895122227605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_1_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a5b2ccb5453820800000000000000
+      internalID: 2897298612305634601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92732c05cc3cce70800000000000000
+      internalID: 9136744561037767325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e618b8a9a99aa0800000000000000
+      internalID: -6153700873716963447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079aa767e30276630800000000000000
+      internalID: 3920137453297117552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e1d47d2cd3cf10800000000000000
+      internalID: 2288915123425894643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf439994bee7550800000000000000
+      internalID: 6160620041624943465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c008d6cbfa6750800000000000000
+      internalID: 6299123860277085348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a5a9d62b8b660b0800000000000000
+      internalID: -5735693998927226327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec367c980cf9120800000000000000
+      internalID: 2422866822536875531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c539d0886e0c580800000000000000
+      internalID: -8808787399118988280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00c7654323af340800000000000000
+      internalID: 4898282745089491124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40295658275bdb9a0800000000000000
+      internalID: -6215612407232491004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b3a7d7c39e9720800000000000000
+      internalID: 2854881700325078210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ba7c8ad2303d60800000000000000
+      internalID: 7867844463257367932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e4e152dbbb58370800000000000000
+      internalID: 8324265907310186005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9621ea84bfd8040800000000000000
+      internalID: 4651650279720249846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec5838097895f70800000000000000
+      internalID: 9176514770495721103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f13c2a1414aba420800000000000000
+      internalID: 2642386012628333041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3038f808c3640f110800000000000000
+      internalID: 1292610318724203267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4fdfda3d1faf20800000000000000
+      internalID: 3435997179408239706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7f6a6256ced120800000000000000
+      internalID: 2440606105356696230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715945b3668086a30800000000000000
+      internalID: 4208623086952813847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7f5e299ed82360800000000000000
+      internalID: 7145205558312664787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db160f0e42f757f0800000000000000
+      internalID: -623763606294094895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b47be32f1569f860800000000000000
+      internalID: 7564188233566483633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cebaf4501970e70800000000000000
+      internalID: 9081386625613425807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022670bc75029a50800000000000000
+      internalID: 6526284843107885577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e7e074273e91b0800000000000000
+      internalID: -5648016253023426518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cc94c7860528f40800000000000000
+      internalID: 5729230085660724378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4929bb674498d6c00800000000000000
+      internalID: 895522828059382420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ebb00d08cc09a0800000000000000
+      internalID: -6265413023406759662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f061b65217936710800000000000000
+      internalID: 1685356790586368242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_2_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c3918c91615630800000000000000
+      internalID: 3914016875978410341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8191803471c684b0800000000000000
+      internalID: -5438446795229130357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b649922cf1508840800000000000000
+      internalID: 5224265711103854259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a03dc24848a4a0800000000000000
+      internalID: -6581931403654421958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacbfcb374e9c0b80800000000000000
+      internalID: -8427186773933704018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ce6ecaa89ebd80800000000000000
+      internalID: -8232975209411460996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedd0d6f2fd924ab0800000000000000
+      internalID: -5025280567343522324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7b82437126a390800000000000000
+      internalID: -7807516125078783347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e152fa58298e031b0800000000000000
+      internalID: -5678783414108478178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d90e1a9499ce30800000000000000
+      internalID: 4524310690320208155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe1548107266690800000000000000
+      internalID: -7609351632927462405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e59be19ac624f40800000000000000
+      internalID: 5711246751079947898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bdebe41d8c59a30800000000000000
+      internalID: 4221501027024558866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d45687348ee96a0800000000000000
+      internalID: -6440455040612872880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59727cf9fbd0c70800000000000000
+      internalID: 8939011528362268148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e001a33e5af684d0800000000000000
+      internalID: -3132541208289541918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c34015bca91a0b0800000000000000
+      internalID: -5719119853755548661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e4dfb5346e77d70800000000000000
+      internalID: 9040947953950084620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ec3cd869ad32c0800000000000000
+      internalID: -4450214588935511978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980bb406da154bed0800000000000000
+      internalID: -2399202896394866551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a9c6517c060920800000000000000
+      internalID: 2956063886342202325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d282ac0a353c20800000000000000
+      internalID: 3185516137374995189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b2801adebabbd0800000000000000
+      internalID: -2613566789946002110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10697e5173f866f0800000000000000
+      internalID: -691034874559504358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8755c8702fbbe2f80800000000000000
+      internalID: -8129353629174049416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebbfab01606ea340800000000000000
+      internalID: 4876941416412986343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee210f5332ceef240800000000000000
+      internalID: 4827555486560686830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef045f2973890660800000000000000
+      internalID: 7352552423167365103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897de3f2eb6d20e30800000000000000
+      internalID: 4468369892629731224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7559d947de9db09a0800000000000000
+      internalID: -6265674842668952233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f027c2ee93251c0800000000000000
+      internalID: -4516483781188513998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc46b61cbcd68d0800000000000000
+      internalID: -2851398957464761197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Lamp_Lamp_3_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafddf0329ed64cd0800000000000000
+      internalID: -2574125417527124050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_Lamp_Lamp_0: 8573142038783142381
+      Props_Lamp_Lamp_0_0: 2928322946666532660
+      Props_Lamp_Lamp_0_1: 8266584520743995373
+      Props_Lamp_Lamp_0_10: 5450759715515622621
+      Props_Lamp_Lamp_0_11: 3955025093814362456
+      Props_Lamp_Lamp_0_12: -5251401537462462809
+      Props_Lamp_Lamp_0_13: 6445992006723507986
+      Props_Lamp_Lamp_0_14: -6168326787369944863
+      Props_Lamp_Lamp_0_15: 1598976361947128086
+      Props_Lamp_Lamp_0_16: 5286481774900399763
+      Props_Lamp_Lamp_0_17: 8956295906575682722
+      Props_Lamp_Lamp_0_18: 8348521413464880075
+      Props_Lamp_Lamp_0_19: -3986227439794612157
+      Props_Lamp_Lamp_0_2: -8120020235509847749
+      Props_Lamp_Lamp_0_20: -7477790715100464009
+      Props_Lamp_Lamp_0_21: 2553661792066111649
+      Props_Lamp_Lamp_0_22: -2902481641540265345
+      Props_Lamp_Lamp_0_23: 7228152382071375672
+      Props_Lamp_Lamp_0_24: 5671605577179825906
+      Props_Lamp_Lamp_0_25: -5790545805006587907
+      Props_Lamp_Lamp_0_26: -4015002873314387394
+      Props_Lamp_Lamp_0_27: -2816686166483585877
+      Props_Lamp_Lamp_0_28: -3434233025519907903
+      Props_Lamp_Lamp_0_29: -4077506703650140060
+      Props_Lamp_Lamp_0_3: -529266275287106123
+      Props_Lamp_Lamp_0_30: 3252969217755993672
+      Props_Lamp_Lamp_0_31: 6800838494312025970
+      Props_Lamp_Lamp_0_4: -1574827461634710686
+      Props_Lamp_Lamp_0_5: 5525669559116012685
+      Props_Lamp_Lamp_0_6: -8945100566436480882
+      Props_Lamp_Lamp_0_7: 3929855078965732467
+      Props_Lamp_Lamp_0_8: 8977987360739362636
+      Props_Lamp_Lamp_0_9: 4382001585415117814
+      Props_Lamp_Lamp_1: 725609270396097002
+      Props_Lamp_Lamp_1_0: -5958129421130600118
+      Props_Lamp_Lamp_1_1: 3490849297654068480
+      Props_Lamp_Lamp_1_10: 3629154775261400244
+      Props_Lamp_Lamp_1_11: -2151622622172993105
+      Props_Lamp_Lamp_1_12: -5728513234523879645
+      Props_Lamp_Lamp_1_13: -3133371179546893935
+      Props_Lamp_Lamp_1_14: 7164823331098352073
+      Props_Lamp_Lamp_1_15: 778921204830733447
+      Props_Lamp_Lamp_1_16: 7974088331127960597
+      Props_Lamp_Lamp_1_17: 2114768272961153538
+      Props_Lamp_Lamp_1_18: -2671065369290427003
+      Props_Lamp_Lamp_1_19: -180310815265235667
+      Props_Lamp_Lamp_1_2: 8890185691288655155
+      Props_Lamp_Lamp_1_20: -7938916261226989992
+      Props_Lamp_Lamp_1_21: -8664197271467080176
+      Props_Lamp_Lamp_1_22: 8787431186027469159
+      Props_Lamp_Lamp_1_23: -6318871367755954738
+      Props_Lamp_Lamp_1_24: 4432442918662952451
+      Props_Lamp_Lamp_1_25: 3953358616451492340
+      Props_Lamp_Lamp_1_26: -2836414540207078433
+      Props_Lamp_Lamp_1_27: 293677823056743290
+      Props_Lamp_Lamp_1_28: -2567253704596282764
+      Props_Lamp_Lamp_1_29: -4114693984500013084
+      Props_Lamp_Lamp_1_3: -7582789361251930167
+      Props_Lamp_Lamp_1_30: 7833886895122227605
+      Props_Lamp_Lamp_1_31: 2897298612305634601
+      Props_Lamp_Lamp_1_4: -6647075982350876199
+      Props_Lamp_Lamp_1_5: -6612431056116426709
+      Props_Lamp_Lamp_1_6: 1677164684943375413
+      Props_Lamp_Lamp_1_7: 6501218344758190926
+      Props_Lamp_Lamp_1_8: -6563661852104889296
+      Props_Lamp_Lamp_1_9: 4383501383491537979
+      Props_Lamp_Lamp_2: -1486360178751124922
+      Props_Lamp_Lamp_2_0: 9136744561037767325
+      Props_Lamp_Lamp_2_1: -6153700873716963447
+      Props_Lamp_Lamp_2_10: -6215612407232491004
+      Props_Lamp_Lamp_2_11: 2854881700325078210
+      Props_Lamp_Lamp_2_12: 7867844463257367932
+      Props_Lamp_Lamp_2_13: 8324265907310186005
+      Props_Lamp_Lamp_2_14: 4651650279720249846
+      Props_Lamp_Lamp_2_15: 9176514770495721103
+      Props_Lamp_Lamp_2_16: 2642386012628333041
+      Props_Lamp_Lamp_2_17: 1292610318724203267
+      Props_Lamp_Lamp_2_18: 3435997179408239706
+      Props_Lamp_Lamp_2_19: 2440606105356696230
+      Props_Lamp_Lamp_2_2: 3920137453297117552
+      Props_Lamp_Lamp_2_20: 4208623086952813847
+      Props_Lamp_Lamp_2_21: 7145205558312664787
+      Props_Lamp_Lamp_2_22: -623763606294094895
+      Props_Lamp_Lamp_2_23: 7564188233566483633
+      Props_Lamp_Lamp_2_24: 9081386625613425807
+      Props_Lamp_Lamp_2_25: 6526284843107885577
+      Props_Lamp_Lamp_2_26: -5648016253023426518
+      Props_Lamp_Lamp_2_27: 5729230085660724378
+      Props_Lamp_Lamp_2_28: 895522828059382420
+      Props_Lamp_Lamp_2_29: -6265413023406759662
+      Props_Lamp_Lamp_2_3: 2288915123425894643
+      Props_Lamp_Lamp_2_30: 1685356790586368242
+      Props_Lamp_Lamp_2_31: 3914016875978410341
+      Props_Lamp_Lamp_2_4: 6160620041624943465
+      Props_Lamp_Lamp_2_5: 6299123860277085348
+      Props_Lamp_Lamp_2_6: -5735693998927226327
+      Props_Lamp_Lamp_2_7: 2422866822536875531
+      Props_Lamp_Lamp_2_8: -8808787399118988280
+      Props_Lamp_Lamp_2_9: 4898282745089491124
+      Props_Lamp_Lamp_3: -3597665884148884718
+      Props_Lamp_Lamp_3_0: -5438446795229130357
+      Props_Lamp_Lamp_3_1: 5224265711103854259
+      Props_Lamp_Lamp_3_10: 5711246751079947898
+      Props_Lamp_Lamp_3_11: 4221501027024558866
+      Props_Lamp_Lamp_3_12: -6440455040612872880
+      Props_Lamp_Lamp_3_13: 8939011528362268148
+      Props_Lamp_Lamp_3_14: -3132541208289541918
+      Props_Lamp_Lamp_3_15: -5719119853755548661
+      Props_Lamp_Lamp_3_16: 9040947953950084620
+      Props_Lamp_Lamp_3_17: -4450214588935511978
+      Props_Lamp_Lamp_3_18: -2399202896394866551
+      Props_Lamp_Lamp_3_19: 2956063886342202325
+      Props_Lamp_Lamp_3_2: -6581931403654421958
+      Props_Lamp_Lamp_3_20: 3185516137374995189
+      Props_Lamp_Lamp_3_21: -2613566789946002110
+      Props_Lamp_Lamp_3_22: -691034874559504358
+      Props_Lamp_Lamp_3_23: -8129353629174049416
+      Props_Lamp_Lamp_3_24: 4876941416412986343
+      Props_Lamp_Lamp_3_25: 4827555486560686830
+      Props_Lamp_Lamp_3_26: 7352552423167365103
+      Props_Lamp_Lamp_3_27: 4468369892629731224
+      Props_Lamp_Lamp_3_28: -6265674842668952233
+      Props_Lamp_Lamp_3_29: -4516483781188513998
+      Props_Lamp_Lamp_3_3: -8427186773933704018
+      Props_Lamp_Lamp_3_30: -2851398957464761197
+      Props_Lamp_Lamp_3_31: -2574125417527124050
+      Props_Lamp_Lamp_3_4: -8232975209411460996
+      Props_Lamp_Lamp_3_5: -5025280567343522324
+      Props_Lamp_Lamp_3_6: -7807516125078783347
+      Props_Lamp_Lamp_3_7: -5678783414108478178
+      Props_Lamp_Lamp_3_8: 4524310690320208155
+      Props_Lamp_Lamp_3_9: -7609351632927462405
+      Props_Lamp_Lamp_4: -400102542411231052
+      Props_Lamp_Lamp_5: -1460380134673135501
+      Props_Lamp_Lamp_6: -2552080760516776489
+      Props_Lamp_Lamp_7: 7458591794498482252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

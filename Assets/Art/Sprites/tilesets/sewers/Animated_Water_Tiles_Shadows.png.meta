@@ -1,0 +1,5388 @@
+fileFormatVersion: 2
+guid: a79395b2f242dd1418ae40b864950637
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3830332584211364257
+    second: Animated_Water_Tiles_Shadows_0
+  - first:
+      213: -8943529470068696
+    second: Animated_Water_Tiles_Shadows_1
+  - first:
+      213: -5931720361057564363
+    second: Animated_Water_Tiles_Shadows_2
+  - first:
+      213: 2440731464071788362
+    second: Animated_Water_Tiles_Shadows_3
+  - first:
+      213: -2498635870889130727
+    second: Animated_Water_Tiles_Shadows_4
+  - first:
+      213: -1945235111043241029
+    second: Animated_Water_Tiles_Shadows_5
+  - first:
+      213: 1792667238586818399
+    second: Animated_Water_Tiles_Shadows_6
+  - first:
+      213: -5104191522529823411
+    second: Animated_Water_Tiles_Shadows_7
+  - first:
+      213: -8721514024569101110
+    second: Animated_Water_Tiles_Shadows_0_0
+  - first:
+      213: -8426893420266684536
+    second: Animated_Water_Tiles_Shadows_0_1
+  - first:
+      213: 3842744203243318846
+    second: Animated_Water_Tiles_Shadows_0_2
+  - first:
+      213: 6027874045595277924
+    second: Animated_Water_Tiles_Shadows_0_3
+  - first:
+      213: 8167303932099290239
+    second: Animated_Water_Tiles_Shadows_0_4
+  - first:
+      213: -6649163582314061967
+    second: Animated_Water_Tiles_Shadows_0_5
+  - first:
+      213: -7012645767125299278
+    second: Animated_Water_Tiles_Shadows_0_6
+  - first:
+      213: 6563564314739130015
+    second: Animated_Water_Tiles_Shadows_0_7
+  - first:
+      213: 7603171800951173878
+    second: Animated_Water_Tiles_Shadows_0_8
+  - first:
+      213: -3140815016810433052
+    second: Animated_Water_Tiles_Shadows_0_9
+  - first:
+      213: 1358951213197505293
+    second: Animated_Water_Tiles_Shadows_0_10
+  - first:
+      213: -9198754650110854198
+    second: Animated_Water_Tiles_Shadows_0_11
+  - first:
+      213: -4267806465807134608
+    second: Animated_Water_Tiles_Shadows_0_12
+  - first:
+      213: 196394138696941243
+    second: Animated_Water_Tiles_Shadows_0_13
+  - first:
+      213: -4049690346840435899
+    second: Animated_Water_Tiles_Shadows_0_14
+  - first:
+      213: -863650027621322027
+    second: Animated_Water_Tiles_Shadows_0_15
+  - first:
+      213: -5238161547821868410
+    second: Animated_Water_Tiles_Shadows_0_16
+  - first:
+      213: -7644250880712025849
+    second: Animated_Water_Tiles_Shadows_0_17
+  - first:
+      213: -3071191030222051733
+    second: Animated_Water_Tiles_Shadows_0_18
+  - first:
+      213: -253997234533314004
+    second: Animated_Water_Tiles_Shadows_0_19
+  - first:
+      213: -2539256947239090476
+    second: Animated_Water_Tiles_Shadows_1_0
+  - first:
+      213: -1143086984777262812
+    second: Animated_Water_Tiles_Shadows_1_1
+  - first:
+      213: 699779646482737655
+    second: Animated_Water_Tiles_Shadows_1_2
+  - first:
+      213: 4210959422289956864
+    second: Animated_Water_Tiles_Shadows_1_3
+  - first:
+      213: -5195043034289939552
+    second: Animated_Water_Tiles_Shadows_1_4
+  - first:
+      213: 1151558993534901899
+    second: Animated_Water_Tiles_Shadows_1_5
+  - first:
+      213: -7244457333612854105
+    second: Animated_Water_Tiles_Shadows_1_6
+  - first:
+      213: -2039329800173280428
+    second: Animated_Water_Tiles_Shadows_1_7
+  - first:
+      213: 6213246254357365964
+    second: Animated_Water_Tiles_Shadows_1_8
+  - first:
+      213: -2888131386472694573
+    second: Animated_Water_Tiles_Shadows_1_9
+  - first:
+      213: -8887916945754986235
+    second: Animated_Water_Tiles_Shadows_1_10
+  - first:
+      213: 2730641733110088787
+    second: Animated_Water_Tiles_Shadows_1_11
+  - first:
+      213: -6802552454698223133
+    second: Animated_Water_Tiles_Shadows_1_12
+  - first:
+      213: 7880226891710336939
+    second: Animated_Water_Tiles_Shadows_1_13
+  - first:
+      213: -982235200797695850
+    second: Animated_Water_Tiles_Shadows_1_14
+  - first:
+      213: -2299642015988123545
+    second: Animated_Water_Tiles_Shadows_1_15
+  - first:
+      213: 4609463715425464477
+    second: Animated_Water_Tiles_Shadows_1_16
+  - first:
+      213: 719754333467913932
+    second: Animated_Water_Tiles_Shadows_1_17
+  - first:
+      213: -6988440282643198905
+    second: Animated_Water_Tiles_Shadows_1_18
+  - first:
+      213: 8302464568700040194
+    second: Animated_Water_Tiles_Shadows_1_19
+  - first:
+      213: -6104858164312681523
+    second: Animated_Water_Tiles_Shadows_2_0
+  - first:
+      213: -3057046325380160392
+    second: Animated_Water_Tiles_Shadows_2_1
+  - first:
+      213: -2284244104316050891
+    second: Animated_Water_Tiles_Shadows_2_2
+  - first:
+      213: 7965182677630073221
+    second: Animated_Water_Tiles_Shadows_2_3
+  - first:
+      213: 2950384297518539026
+    second: Animated_Water_Tiles_Shadows_2_4
+  - first:
+      213: -2993413210092598206
+    second: Animated_Water_Tiles_Shadows_2_5
+  - first:
+      213: -1828522121681466137
+    second: Animated_Water_Tiles_Shadows_2_6
+  - first:
+      213: 6712389676647728044
+    second: Animated_Water_Tiles_Shadows_2_7
+  - first:
+      213: -4714973224792069047
+    second: Animated_Water_Tiles_Shadows_2_8
+  - first:
+      213: -4874576896815474990
+    second: Animated_Water_Tiles_Shadows_2_9
+  - first:
+      213: 8944873827304199645
+    second: Animated_Water_Tiles_Shadows_2_10
+  - first:
+      213: -1663692225590382754
+    second: Animated_Water_Tiles_Shadows_2_11
+  - first:
+      213: 4765540074755196774
+    second: Animated_Water_Tiles_Shadows_2_12
+  - first:
+      213: 4823885670179940886
+    second: Animated_Water_Tiles_Shadows_2_13
+  - first:
+      213: 1295013399840659651
+    second: Animated_Water_Tiles_Shadows_2_14
+  - first:
+      213: 5165030119126437855
+    second: Animated_Water_Tiles_Shadows_2_15
+  - first:
+      213: -1386318656393979812
+    second: Animated_Water_Tiles_Shadows_2_16
+  - first:
+      213: -1871437559988097483
+    second: Animated_Water_Tiles_Shadows_2_17
+  - first:
+      213: -7790753951307573569
+    second: Animated_Water_Tiles_Shadows_2_18
+  - first:
+      213: -7518178422997748675
+    second: Animated_Water_Tiles_Shadows_2_19
+  - first:
+      213: -7172244051500436891
+    second: Animated_Water_Tiles_Shadows_3_0
+  - first:
+      213: 7158132614617364991
+    second: Animated_Water_Tiles_Shadows_3_1
+  - first:
+      213: 2765712670375486326
+    second: Animated_Water_Tiles_Shadows_3_2
+  - first:
+      213: -618897164204178723
+    second: Animated_Water_Tiles_Shadows_3_3
+  - first:
+      213: -1445052795057980081
+    second: Animated_Water_Tiles_Shadows_3_4
+  - first:
+      213: 3206476007349452720
+    second: Animated_Water_Tiles_Shadows_3_5
+  - first:
+      213: 8993767207038656179
+    second: Animated_Water_Tiles_Shadows_3_6
+  - first:
+      213: 1307889026845280580
+    second: Animated_Water_Tiles_Shadows_3_7
+  - first:
+      213: 3378602014930545479
+    second: Animated_Water_Tiles_Shadows_3_8
+  - first:
+      213: -3785801580744756647
+    second: Animated_Water_Tiles_Shadows_3_9
+  - first:
+      213: -8399926298050786152
+    second: Animated_Water_Tiles_Shadows_3_10
+  - first:
+      213: 4587558350639392345
+    second: Animated_Water_Tiles_Shadows_3_11
+  - first:
+      213: 1322151257276696310
+    second: Animated_Water_Tiles_Shadows_3_12
+  - first:
+      213: -5709810662169779734
+    second: Animated_Water_Tiles_Shadows_3_13
+  - first:
+      213: 5199025394626317512
+    second: Animated_Water_Tiles_Shadows_3_14
+  - first:
+      213: -2601324377795643073
+    second: Animated_Water_Tiles_Shadows_3_15
+  - first:
+      213: -5213389332445018982
+    second: Animated_Water_Tiles_Shadows_3_16
+  - first:
+      213: -7774678693488014018
+    second: Animated_Water_Tiles_Shadows_3_17
+  - first:
+      213: 4255593933535678750
+    second: Animated_Water_Tiles_Shadows_3_18
+  - first:
+      213: 35242820030199265
+    second: Animated_Water_Tiles_Shadows_3_19
+  - first:
+      213: 8471648203388101083
+    second: Animated_Water_Tiles_Shadows_4_0
+  - first:
+      213: 5776841662601383423
+    second: Animated_Water_Tiles_Shadows_4_1
+  - first:
+      213: 7400732856045503972
+    second: Animated_Water_Tiles_Shadows_4_2
+  - first:
+      213: 8363269425503567868
+    second: Animated_Water_Tiles_Shadows_4_3
+  - first:
+      213: -33438116257817723
+    second: Animated_Water_Tiles_Shadows_4_4
+  - first:
+      213: 8513498835078976017
+    second: Animated_Water_Tiles_Shadows_4_5
+  - first:
+      213: -5709578614418750164
+    second: Animated_Water_Tiles_Shadows_4_6
+  - first:
+      213: 7825138746115090488
+    second: Animated_Water_Tiles_Shadows_4_7
+  - first:
+      213: 8553477680762446378
+    second: Animated_Water_Tiles_Shadows_4_8
+  - first:
+      213: 1794907929491833081
+    second: Animated_Water_Tiles_Shadows_4_9
+  - first:
+      213: 3108903569271823532
+    second: Animated_Water_Tiles_Shadows_4_10
+  - first:
+      213: -4007229806269775226
+    second: Animated_Water_Tiles_Shadows_4_11
+  - first:
+      213: 615540941115519547
+    second: Animated_Water_Tiles_Shadows_4_12
+  - first:
+      213: -2790840560017305123
+    second: Animated_Water_Tiles_Shadows_4_13
+  - first:
+      213: 7520297918997682232
+    second: Animated_Water_Tiles_Shadows_4_14
+  - first:
+      213: 3310970125584429990
+    second: Animated_Water_Tiles_Shadows_4_15
+  - first:
+      213: 6692494803030888951
+    second: Animated_Water_Tiles_Shadows_4_16
+  - first:
+      213: -5612487498727065637
+    second: Animated_Water_Tiles_Shadows_4_17
+  - first:
+      213: -2733691770177367705
+    second: Animated_Water_Tiles_Shadows_4_18
+  - first:
+      213: 5558091263797790888
+    second: Animated_Water_Tiles_Shadows_4_19
+  - first:
+      213: -7823106301522130142
+    second: Animated_Water_Tiles_Shadows_5_0
+  - first:
+      213: 7304152296137416872
+    second: Animated_Water_Tiles_Shadows_5_1
+  - first:
+      213: -6895471465843873809
+    second: Animated_Water_Tiles_Shadows_5_2
+  - first:
+      213: -589891256564802224
+    second: Animated_Water_Tiles_Shadows_5_3
+  - first:
+      213: 1011324811103609557
+    second: Animated_Water_Tiles_Shadows_5_4
+  - first:
+      213: 6325081249539625238
+    second: Animated_Water_Tiles_Shadows_5_5
+  - first:
+      213: -1356722294534843671
+    second: Animated_Water_Tiles_Shadows_5_6
+  - first:
+      213: 744967908078889530
+    second: Animated_Water_Tiles_Shadows_5_7
+  - first:
+      213: -3540327457138320616
+    second: Animated_Water_Tiles_Shadows_5_8
+  - first:
+      213: 3457751583865075498
+    second: Animated_Water_Tiles_Shadows_5_9
+  - first:
+      213: 7054975551738341480
+    second: Animated_Water_Tiles_Shadows_5_10
+  - first:
+      213: 89803716748976975
+    second: Animated_Water_Tiles_Shadows_5_11
+  - first:
+      213: -2750811721918097026
+    second: Animated_Water_Tiles_Shadows_5_12
+  - first:
+      213: -604516363114119446
+    second: Animated_Water_Tiles_Shadows_5_13
+  - first:
+      213: -2916681180788590108
+    second: Animated_Water_Tiles_Shadows_5_14
+  - first:
+      213: -1724511221737850717
+    second: Animated_Water_Tiles_Shadows_5_15
+  - first:
+      213: 5553997200719917961
+    second: Animated_Water_Tiles_Shadows_5_16
+  - first:
+      213: 4310192502999341227
+    second: Animated_Water_Tiles_Shadows_5_17
+  - first:
+      213: 9193074024535036299
+    second: Animated_Water_Tiles_Shadows_5_18
+  - first:
+      213: -8897437618369270290
+    second: Animated_Water_Tiles_Shadows_5_19
+  - first:
+      213: 5825716075328705698
+    second: Animated_Water_Tiles_Shadows_6_0
+  - first:
+      213: 2675419436705175907
+    second: Animated_Water_Tiles_Shadows_6_1
+  - first:
+      213: 687486061184995017
+    second: Animated_Water_Tiles_Shadows_6_2
+  - first:
+      213: 1918995576414254817
+    second: Animated_Water_Tiles_Shadows_6_3
+  - first:
+      213: 3980061706427081829
+    second: Animated_Water_Tiles_Shadows_6_4
+  - first:
+      213: 4778718212786194213
+    second: Animated_Water_Tiles_Shadows_6_5
+  - first:
+      213: -1190139196484969913
+    second: Animated_Water_Tiles_Shadows_6_6
+  - first:
+      213: 8791370132752787503
+    second: Animated_Water_Tiles_Shadows_6_7
+  - first:
+      213: 2197420978679244479
+    second: Animated_Water_Tiles_Shadows_6_8
+  - first:
+      213: 6111862600752940999
+    second: Animated_Water_Tiles_Shadows_6_9
+  - first:
+      213: -3636145965529462246
+    second: Animated_Water_Tiles_Shadows_6_10
+  - first:
+      213: 785144772285057010
+    second: Animated_Water_Tiles_Shadows_6_11
+  - first:
+      213: -3164219295790439275
+    second: Animated_Water_Tiles_Shadows_6_12
+  - first:
+      213: 5010821176309272104
+    second: Animated_Water_Tiles_Shadows_6_13
+  - first:
+      213: 1362645378298545538
+    second: Animated_Water_Tiles_Shadows_6_14
+  - first:
+      213: 4823992019140521689
+    second: Animated_Water_Tiles_Shadows_6_15
+  - first:
+      213: -6209201474121522754
+    second: Animated_Water_Tiles_Shadows_6_16
+  - first:
+      213: -5704902732390127837
+    second: Animated_Water_Tiles_Shadows_6_17
+  - first:
+      213: 538107819440101395
+    second: Animated_Water_Tiles_Shadows_6_18
+  - first:
+      213: 3473818247816023083
+    second: Animated_Water_Tiles_Shadows_6_19
+  - first:
+      213: -947806259012238809
+    second: Animated_Water_Tiles_Shadows_7_0
+  - first:
+      213: 2635208307531360001
+    second: Animated_Water_Tiles_Shadows_7_1
+  - first:
+      213: 6980002647644755972
+    second: Animated_Water_Tiles_Shadows_7_2
+  - first:
+      213: 4231083810982906580
+    second: Animated_Water_Tiles_Shadows_7_3
+  - first:
+      213: -4085061769003599452
+    second: Animated_Water_Tiles_Shadows_7_4
+  - first:
+      213: 886698954574023320
+    second: Animated_Water_Tiles_Shadows_7_5
+  - first:
+      213: -5918715304681979231
+    second: Animated_Water_Tiles_Shadows_7_6
+  - first:
+      213: 2678811492989836334
+    second: Animated_Water_Tiles_Shadows_7_7
+  - first:
+      213: 1753750317735759494
+    second: Animated_Water_Tiles_Shadows_7_8
+  - first:
+      213: -6365287981163268920
+    second: Animated_Water_Tiles_Shadows_7_9
+  - first:
+      213: -8190766483369726668
+    second: Animated_Water_Tiles_Shadows_7_10
+  - first:
+      213: -3444642915507477331
+    second: Animated_Water_Tiles_Shadows_7_11
+  - first:
+      213: 1722253254748145632
+    second: Animated_Water_Tiles_Shadows_7_12
+  - first:
+      213: -1661023579993105364
+    second: Animated_Water_Tiles_Shadows_7_13
+  - first:
+      213: 301761132059216903
+    second: Animated_Water_Tiles_Shadows_7_14
+  - first:
+      213: -1920000237572931375
+    second: Animated_Water_Tiles_Shadows_7_15
+  - first:
+      213: -8508431414748448595
+    second: Animated_Water_Tiles_Shadows_7_16
+  - first:
+      213: -2263919486981563800
+    second: Animated_Water_Tiles_Shadows_7_17
+  - first:
+      213: -1361659998607864339
+    second: Animated_Water_Tiles_Shadows_7_18
+  - first:
+      213: -6059986122274788223
+    second: Animated_Water_Tiles_Shadows_7_19
+  - first:
+      213: -7580391439418682510
+    second: Animated_Water_Tiles_Shadows_8_0
+  - first:
+      213: -2655299831135676653
+    second: Animated_Water_Tiles_Shadows_8_1
+  - first:
+      213: -1181400833706440831
+    second: Animated_Water_Tiles_Shadows_8_2
+  - first:
+      213: 7519755252936752962
+    second: Animated_Water_Tiles_Shadows_8_3
+  - first:
+      213: 3701897234271775310
+    second: Animated_Water_Tiles_Shadows_8_4
+  - first:
+      213: -4380407916870248922
+    second: Animated_Water_Tiles_Shadows_8_5
+  - first:
+      213: 7115809527399480326
+    second: Animated_Water_Tiles_Shadows_8_6
+  - first:
+      213: -1655388460131430012
+    second: Animated_Water_Tiles_Shadows_8_7
+  - first:
+      213: 6257361190201072820
+    second: Animated_Water_Tiles_Shadows_8_8
+  - first:
+      213: 4253550563637020478
+    second: Animated_Water_Tiles_Shadows_8_9
+  - first:
+      213: 6368873305111619955
+    second: Animated_Water_Tiles_Shadows_8_10
+  - first:
+      213: -4141153570928646902
+    second: Animated_Water_Tiles_Shadows_8_11
+  - first:
+      213: 5289359249189899791
+    second: Animated_Water_Tiles_Shadows_8_12
+  - first:
+      213: 5355437142083807382
+    second: Animated_Water_Tiles_Shadows_8_13
+  - first:
+      213: -4861159880761653750
+    second: Animated_Water_Tiles_Shadows_8_14
+  - first:
+      213: -9211534961888697348
+    second: Animated_Water_Tiles_Shadows_8_15
+  - first:
+      213: -14393935605049532
+    second: Animated_Water_Tiles_Shadows_8_16
+  - first:
+      213: -8299495038841415253
+    second: Animated_Water_Tiles_Shadows_8_17
+  - first:
+      213: -5529517249463336808
+    second: Animated_Water_Tiles_Shadows_8_18
+  - first:
+      213: 2633217682371569883
+    second: Animated_Water_Tiles_Shadows_8_19
+  - first:
+      213: -4162221998625132183
+    second: Animated_Water_Tiles_Shadows_9_0
+  - first:
+      213: -1512904680031460032
+    second: Animated_Water_Tiles_Shadows_9_1
+  - first:
+      213: 2422367909782142493
+    second: Animated_Water_Tiles_Shadows_9_2
+  - first:
+      213: -6134975883184515612
+    second: Animated_Water_Tiles_Shadows_9_3
+  - first:
+      213: -3695929143097835023
+    second: Animated_Water_Tiles_Shadows_9_4
+  - first:
+      213: 2513007574768379363
+    second: Animated_Water_Tiles_Shadows_9_5
+  - first:
+      213: 4095154339454163201
+    second: Animated_Water_Tiles_Shadows_9_6
+  - first:
+      213: 3641908794048925797
+    second: Animated_Water_Tiles_Shadows_9_7
+  - first:
+      213: -3785595029049567756
+    second: Animated_Water_Tiles_Shadows_9_8
+  - first:
+      213: -2000010085678633142
+    second: Animated_Water_Tiles_Shadows_9_9
+  - first:
+      213: -6016829286203968245
+    second: Animated_Water_Tiles_Shadows_9_10
+  - first:
+      213: -6132694808886172906
+    second: Animated_Water_Tiles_Shadows_9_11
+  - first:
+      213: 4900092721074806927
+    second: Animated_Water_Tiles_Shadows_9_12
+  - first:
+      213: 6248407062087049371
+    second: Animated_Water_Tiles_Shadows_9_13
+  - first:
+      213: -8469253184964873936
+    second: Animated_Water_Tiles_Shadows_9_14
+  - first:
+      213: 4260727719125024815
+    second: Animated_Water_Tiles_Shadows_9_15
+  - first:
+      213: -3878951436427403848
+    second: Animated_Water_Tiles_Shadows_9_16
+  - first:
+      213: -4110043095004677538
+    second: Animated_Water_Tiles_Shadows_9_17
+  - first:
+      213: 9000735611905020307
+    second: Animated_Water_Tiles_Shadows_9_18
+  - first:
+      213: -741310558038195284
+    second: Animated_Water_Tiles_Shadows_9_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4a8f50435f6f680800000000000000
+      internalID: -8721514024569101110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7de4f419ad0b80800000000000000
+      internalID: -8426893420266684536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e620d3e7b245530800000000000000
+      internalID: 3842744203243318846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad086e18f47a350800000000000000
+      internalID: 6027874045595277924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ed6d67a7185170800000000000000
+      internalID: 8167303932099290239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd4be53fc69b3a0800000000000000
+      internalID: -6649163582314061967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf89d254d31eae90800000000000000
+      internalID: -7012645767125299278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eb47018f6761b50800000000000000
+      internalID: 6563564314739130015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f236f93874e38960800000000000000
+      internalID: 7603171800951173878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53dc902659964d0800000000000000
+      internalID: -3140815016810433052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0339b9ade6fbd210800000000000000
+      internalID: 1358951213197505293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7b200265775080800000000000000
+      internalID: -9198754650110854198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070537391a4b5c4c0800000000000000
+      internalID: -4267806465807134608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbefff8bd6bb9b200800000000000000
+      internalID: 196394138696941243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5435f32f51c9cc7c0800000000000000
+      internalID: -4049690346840435899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ff5d20e2b304f0800000000000000
+      internalID: -863650027621322027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a97f143df4e47b0800000000000000
+      internalID: -5238161547821868410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7095131335a2ae590800000000000000
+      internalID: -7644250880712025849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66af36a700f065d0800000000000000
+      internalID: -3071191030222051733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_0_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22d5b56cde997cf0800000000000000
+      internalID: -253997234533314004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60f52924fb2ccd0800000000000000
+      internalID: -2539256947239090476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4299af49170f220f0800000000000000
+      internalID: -1143086984777262812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e6a181ed16b900800000000000000
+      internalID: 699779646482737655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005d21b845507a30800000000000000
+      internalID: 4210959422289956864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd74482ef77e7b0800000000000000
+      internalID: -5195043034289939552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8edd8badc82bff00800000000000000
+      internalID: 1151558993534901899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a448871074867b90800000000000000
+      internalID: -7244457333612854105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453adc00a58d2b3e0800000000000000
+      internalID: -2039329800173280428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc44ff49c82e93650800000000000000
+      internalID: 6213246254357365964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc73a45ecb4be7d0800000000000000
+      internalID: -2888131386472694573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5096917c0a6c7a480800000000000000
+      internalID: -8887916945754986235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35442ee403035e520800000000000000
+      internalID: 2730641733110088787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e930cb759a7891a0800000000000000
+      internalID: -6802552454698223133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf00e55b903c5d60800000000000000
+      internalID: 7880226891710336939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690a19af9466e52f0800000000000000
+      internalID: -982235200797695850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f67e35c70610e0800000000000000
+      internalID: -2299642015988123545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90bcf2c3da18ff30800000000000000
+      internalID: 4609463715425464477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce27ebb0c41df900800000000000000
+      internalID: 719754333467913932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c850bd692140f90800000000000000
+      internalID: -6988440282643198905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_1_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204f1a17987483370800000000000000
+      internalID: 8302464568700040194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3dfff28df274ba0800000000000000
+      internalID: -6104858164312681523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8746dc160903395d0800000000000000
+      internalID: -3057046325380160392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53226fde61cbc40e0800000000000000
+      internalID: -2284244104316050891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893c37a1730a8e60800000000000000
+      internalID: 7965182677630073221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ab7403eed1f820800000000000000
+      internalID: 2950384297518539026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c08729b824576d0800000000000000
+      internalID: -2993413210092598206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec8b3971d8cf96e0800000000000000
+      internalID: -1828522121681466137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3469ed8d2372d50800000000000000
+      internalID: 6712389676647728044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c6ac245dc019eb0800000000000000
+      internalID: -4714973224792069047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6dcf293260a5cb0800000000000000
+      internalID: -4874576896815474990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5d72d9a53922c70800000000000000
+      internalID: 8944873827304199645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2b164cb069e8e0800000000000000
+      internalID: -1663692225590382754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670ca6f279922240800000000000000
+      internalID: 4765540074755196774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2c208572e1f240800000000000000
+      internalID: 4823885670179940886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89fdc63dfc8f110800000000000000
+      internalID: 1295013399840659651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf89b0278fdda740800000000000000
+      internalID: 5165030119126437855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d32ce68ec2cce0800000000000000
+      internalID: -1386318656393979812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee59954715706e0800000000000000
+      internalID: -1871437559988097483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb657d7fe8ea1e390800000000000000
+      internalID: -7790753951307573569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_2_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34763bae801aa790800000000000000
+      internalID: -7518178422997748675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56278eb0902177c90800000000000000
+      internalID: -7172244051500436891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9f76500bbc65360800000000000000
+      internalID: 7158132614617364991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67327843509c16620800000000000000
+      internalID: 2765712670375486326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd20d17ee4c3967f0800000000000000
+      internalID: -618897164204178723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d32ec932422fbe0800000000000000
+      internalID: -1445052795057980081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf70e6a0f0bf7c20800000000000000
+      internalID: 3206476007349452720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9810bf9740dc70800000000000000
+      internalID: 8993767207038656179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498eb2f32e862210800000000000000
+      internalID: 1307889026845280580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74baa59c1a433ee20800000000000000
+      internalID: 3378602014930545479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b8953581267bc0800000000000000
+      internalID: -3785801580744756647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c883169877d6b80800000000000000
+      internalID: -8399926298050786152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ec3493084aaf30800000000000000
+      internalID: 4587558350639392345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6405d3099395210800000000000000
+      internalID: 1322151257276696310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1e1a2647da2c0b0800000000000000
+      internalID: -5709810662169779734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cccfe00d06a62840800000000000000
+      internalID: 5199025394626317512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393de3c24d36ebd0800000000000000
+      internalID: -2601324377795643073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94cdcb160256a7b0800000000000000
+      internalID: -5213389332445018982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d49d79beaca1490800000000000000
+      internalID: -7774678693488014018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1193bca228ee0b30800000000000000
+      internalID: 4255593933535678750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_3_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e578c878253d7000800000000000000
+      internalID: 35242820030199265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd126010827519570800000000000000
+      internalID: 8471648203388101083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd480792e67b2050800000000000000
+      internalID: 5776841662601383423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58722625fa4b660800000000000000
+      internalID: 7400732856045503972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff76046b3d401470800000000000000
+      internalID: 8363269425503567868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b9e7ed534398ff0800000000000000
+      internalID: -33438116257817723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11295948516062670800000000000000
+      internalID: 8513498835078976017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254766308083c0b0800000000000000
+      internalID: -5709578614418750164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838e550fa3a789c60800000000000000
+      internalID: 7825138746115090488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22e314e1ae04b670800000000000000
+      internalID: 8553477680762446378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f084e5804bc8e810800000000000000
+      internalID: 1794907929491833081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1467135b052b20800000000000000
+      internalID: 3108903569271823532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ceefe8b57368c0800000000000000
+      internalID: -4007229806269775226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3276e38937da8800800000000000000
+      internalID: 615540941115519547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd19a631c41f449d0800000000000000
+      internalID: -2790840560017305123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83857f2fc177d5860800000000000000
+      internalID: 7520297918997682232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3f36579cde2fd20800000000000000
+      internalID: 3310970125584429990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ddc3a09480ec50800000000000000
+      internalID: 6692494803030888951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77d0c2b507c12b0800000000000000
+      internalID: -5612487498727065637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615b2991d9ff0ad0800000000000000
+      internalID: -2733691770177367705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_4_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a88edf6e8e422d40800000000000000
+      internalID: 5558091263797790888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b47a1744ebe6390800000000000000
+      internalID: -7823106301522130142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0ef9470df8d5560800000000000000
+      internalID: 7304152296137416872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a88f4c3d5e40a0800000000000000
+      internalID: -6895471465843873809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d985c070940d7f0800000000000000
+      internalID: -589891256564802224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ae56be82f80e00800000000000000
+      internalID: 1011324811103609557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111b4e72e337c750800000000000000
+      internalID: 6325081249539625238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d567e244fb2de0800000000000000
+      internalID: -1356722294534843671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aab1a8d58a65a00800000000000000
+      internalID: 744967908078889530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b55b86fea3edec0800000000000000
+      internalID: -3540327457138320616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2772dddeb66cff20800000000000000
+      internalID: 3457751583865075498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868ed6ca2ee48e160800000000000000
+      internalID: 7054975551738341480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43255c210c0f3100800000000000000
+      internalID: 89803716748976975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795717305723d9d0800000000000000
+      internalID: -2750811721918097026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeefba312935c97f0800000000000000
+      internalID: -604516363114119446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e977085bedd587d0800000000000000
+      internalID: -2916681180788590108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f3214e2e4118e0800000000000000
+      internalID: -1724511221737850717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983bc681703c31d40800000000000000
+      internalID: 5553997200719917961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8d3debe31e0db30800000000000000
+      internalID: 4310192502999341227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81184a4e1c549f70800000000000000
+      internalID: 9193074024535036299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_5_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede6e170a3f58480800000000000000
+      internalID: -8897437618369270290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4104097e919d050800000000000000
+      internalID: 5825716075328705698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369dcfd7dcff02520800000000000000
+      internalID: 2675419436705175907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec6f02ee07a8900800000000000000
+      internalID: 687486061184995017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6b7b93f44a1aa10800000000000000
+      internalID: 1918995576414254817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a8b3e8050c3730800000000000000
+      internalID: 3980061706427081829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278fc255ea615240800000000000000
+      internalID: 4778718212786194213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9e38d4b6cb7fe0800000000000000
+      internalID: -1190139196484969913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2865bb9e88310a70800000000000000
+      internalID: 8791370132752787503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ea28dcbece7e10800000000000000
+      internalID: 2197420978679244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7cfd147a2b1d450800000000000000
+      internalID: 6111862600752940999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a852d6280d98dc0800000000000000
+      internalID: -3636145965529462246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74e41b20565ea00800000000000000
+      internalID: 785144772285057010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59469f2b05f6614d0800000000000000
+      internalID: -3164219295790439275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4be6bf430a8540800000000000000
+      internalID: 5010821176309272104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285005080c619e210800000000000000
+      internalID: 1362645378298545538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea03cce2342f240800000000000000
+      internalID: 4823992019140521689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1a724382c74d9a0800000000000000
+      internalID: -6209201474121522754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3272bb5d03d14d0b0800000000000000
+      internalID: -5704902732390127837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185694f53eb77700800000000000000
+      internalID: 538107819440101395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_6_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c08539a4b753030800000000000000
+      internalID: 3473818247816023083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220fa7aa37b8d2f0800000000000000
+      internalID: -947806259012238809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107a0976ef3229420800000000000000
+      internalID: 2635208307531360001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d6282d63fdd060800000000000000
+      internalID: 6980002647644755972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daca801f44d7ba30800000000000000
+      internalID: 4231083810982906580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f205f6f1fe47c0800000000000000
+      internalID: -4085061769003599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a481250003e4c00800000000000000
+      internalID: 886698954574023320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a243c10acf7cdda0800000000000000
+      internalID: -5918715304681979231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c94e32cdc0d2520800000000000000
+      internalID: 2678811492989836334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e4e594f92965810800000000000000
+      internalID: 1753750317735759494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c433bd4e44f9a7a0800000000000000
+      internalID: -6365287981163268920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6298a74d845e80800000000000000
+      internalID: -8190766483369726668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da46c13d48b2230d0800000000000000
+      internalID: -3444642915507477331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70686d53ca6e710800000000000000
+      internalID: 1722253254748145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c96febadbd2f8e0800000000000000
+      internalID: -1661023579993105364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc86b9622103400800000000000000
+      internalID: 301761132059216903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ccced4f9ca55e0800000000000000
+      internalID: -1920000237572931375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f42835bafbe980800000000000000
+      internalID: -8508431414748448595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a116aa831f490e0800000000000000
+      internalID: -2263919486981563800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8e1612796a1de0800000000000000
+      internalID: -1361659998607864339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_7_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ca30e9aba96eba0800000000000000
+      internalID: -6059986122274788223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2739903062a0dc690800000000000000
+      internalID: -7580391439418682510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317d0093fda762bd0800000000000000
+      internalID: -2655299831135676653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c3997332da9fe0800000000000000
+      internalID: -1181400833706440831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f3c29af898b5860800000000000000
+      internalID: 7519755252936752962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a25cbcbe7cf5330800000000000000
+      internalID: 3701897234271775310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d3af353aa533c0800000000000000
+      internalID: -4380407916870248922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c7cf1601f60c260800000000000000
+      internalID: 7115809527399480326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d59457f0e609e0800000000000000
+      internalID: -1655388460131430012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc104d79dc96d650800000000000000
+      internalID: 6257361190201072820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374fbb83b5a70b30800000000000000
+      internalID: 4253550563637020478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37965aaf688c26850800000000000000
+      internalID: 6368873305111619955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05257c94caa786c0800000000000000
+      internalID: -4141153570928646902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e04618634976940800000000000000
+      internalID: 5289359249189899791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a6d6d4b5525a40800000000000000
+      internalID: 5355437142083807382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0642de08d0b98cb0800000000000000
+      internalID: -4861159880761653750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf36888c1cd0a2080800000000000000
+      internalID: -9211534961888697348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475755baccdccff0800000000000000
+      internalID: -14393935605049532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99dba1c3542dc80800000000000000
+      internalID: -8299495038841415253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890c756bb553343b0800000000000000
+      internalID: -5529517249463336808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_8_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e80ed7811b8420800000000000000
+      internalID: 2633217682371569883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961f1a70521dc36c0800000000000000
+      internalID: -4162221998625132183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e2bf8535110be0800000000000000
+      internalID: -1512904680031460032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ebed997cafd9120800000000000000
+      internalID: 2422367909782142493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5d23150ff2cdaa0800000000000000
+      internalID: -6134975883184515612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c3a6b60c65bcc0800000000000000
+      internalID: -3695929143097835023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56fe3231fffd220800000000000000
+      internalID: 2513007574768379363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099097bc29e4d830800000000000000
+      internalID: 4095154339454163201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56058a5a0c8aa8230800000000000000
+      internalID: 3641908794048925797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51406c06dd67bc0800000000000000
+      internalID: -3785595029049567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f2def6c698e34e0800000000000000
+      internalID: -2000010085678633142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0535a984adef7ca0800000000000000
+      internalID: -6016829286203968245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6132570509a44eaa0800000000000000
+      internalID: -6132694808886172906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8024263e50a00440800000000000000
+      internalID: 4900092721074806927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90adb31e1dc6b650800000000000000
+      internalID: 6248407062087049371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031b25da91b277a80800000000000000
+      internalID: -8469253184964873936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f208b174945212b30800000000000000
+      internalID: 4260727719125024815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd0ca58323b2ac0800000000000000
+      internalID: -3878951436427403848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af2beb49136f6c0800000000000000
+      internalID: -4110043095004677538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919ec0e95909ec70800000000000000
+      internalID: 9000735611905020307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Water_Tiles_Shadows_9_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca303ef99f556b5f0800000000000000
+      internalID: -741310558038195284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animated_Water_Tiles_Shadows_0: 3830332584211364257
+      Animated_Water_Tiles_Shadows_0_0: -8721514024569101110
+      Animated_Water_Tiles_Shadows_0_1: -8426893420266684536
+      Animated_Water_Tiles_Shadows_0_10: 1358951213197505293
+      Animated_Water_Tiles_Shadows_0_11: -9198754650110854198
+      Animated_Water_Tiles_Shadows_0_12: -4267806465807134608
+      Animated_Water_Tiles_Shadows_0_13: 196394138696941243
+      Animated_Water_Tiles_Shadows_0_14: -4049690346840435899
+      Animated_Water_Tiles_Shadows_0_15: -863650027621322027
+      Animated_Water_Tiles_Shadows_0_16: -5238161547821868410
+      Animated_Water_Tiles_Shadows_0_17: -7644250880712025849
+      Animated_Water_Tiles_Shadows_0_18: -3071191030222051733
+      Animated_Water_Tiles_Shadows_0_19: -253997234533314004
+      Animated_Water_Tiles_Shadows_0_2: 3842744203243318846
+      Animated_Water_Tiles_Shadows_0_3: 6027874045595277924
+      Animated_Water_Tiles_Shadows_0_4: 8167303932099290239
+      Animated_Water_Tiles_Shadows_0_5: -6649163582314061967
+      Animated_Water_Tiles_Shadows_0_6: -7012645767125299278
+      Animated_Water_Tiles_Shadows_0_7: 6563564314739130015
+      Animated_Water_Tiles_Shadows_0_8: 7603171800951173878
+      Animated_Water_Tiles_Shadows_0_9: -3140815016810433052
+      Animated_Water_Tiles_Shadows_1: -8943529470068696
+      Animated_Water_Tiles_Shadows_1_0: -2539256947239090476
+      Animated_Water_Tiles_Shadows_1_1: -1143086984777262812
+      Animated_Water_Tiles_Shadows_1_10: -8887916945754986235
+      Animated_Water_Tiles_Shadows_1_11: 2730641733110088787
+      Animated_Water_Tiles_Shadows_1_12: -6802552454698223133
+      Animated_Water_Tiles_Shadows_1_13: 7880226891710336939
+      Animated_Water_Tiles_Shadows_1_14: -982235200797695850
+      Animated_Water_Tiles_Shadows_1_15: -2299642015988123545
+      Animated_Water_Tiles_Shadows_1_16: 4609463715425464477
+      Animated_Water_Tiles_Shadows_1_17: 719754333467913932
+      Animated_Water_Tiles_Shadows_1_18: -6988440282643198905
+      Animated_Water_Tiles_Shadows_1_19: 8302464568700040194
+      Animated_Water_Tiles_Shadows_1_2: 699779646482737655
+      Animated_Water_Tiles_Shadows_1_3: 4210959422289956864
+      Animated_Water_Tiles_Shadows_1_4: -5195043034289939552
+      Animated_Water_Tiles_Shadows_1_5: 1151558993534901899
+      Animated_Water_Tiles_Shadows_1_6: -7244457333612854105
+      Animated_Water_Tiles_Shadows_1_7: -2039329800173280428
+      Animated_Water_Tiles_Shadows_1_8: 6213246254357365964
+      Animated_Water_Tiles_Shadows_1_9: -2888131386472694573
+      Animated_Water_Tiles_Shadows_2: -5931720361057564363
+      Animated_Water_Tiles_Shadows_2_0: -6104858164312681523
+      Animated_Water_Tiles_Shadows_2_1: -3057046325380160392
+      Animated_Water_Tiles_Shadows_2_10: 8944873827304199645
+      Animated_Water_Tiles_Shadows_2_11: -1663692225590382754
+      Animated_Water_Tiles_Shadows_2_12: 4765540074755196774
+      Animated_Water_Tiles_Shadows_2_13: 4823885670179940886
+      Animated_Water_Tiles_Shadows_2_14: 1295013399840659651
+      Animated_Water_Tiles_Shadows_2_15: 5165030119126437855
+      Animated_Water_Tiles_Shadows_2_16: -1386318656393979812
+      Animated_Water_Tiles_Shadows_2_17: -1871437559988097483
+      Animated_Water_Tiles_Shadows_2_18: -7790753951307573569
+      Animated_Water_Tiles_Shadows_2_19: -7518178422997748675
+      Animated_Water_Tiles_Shadows_2_2: -2284244104316050891
+      Animated_Water_Tiles_Shadows_2_3: 7965182677630073221
+      Animated_Water_Tiles_Shadows_2_4: 2950384297518539026
+      Animated_Water_Tiles_Shadows_2_5: -2993413210092598206
+      Animated_Water_Tiles_Shadows_2_6: -1828522121681466137
+      Animated_Water_Tiles_Shadows_2_7: 6712389676647728044
+      Animated_Water_Tiles_Shadows_2_8: -4714973224792069047
+      Animated_Water_Tiles_Shadows_2_9: -4874576896815474990
+      Animated_Water_Tiles_Shadows_3: 2440731464071788362
+      Animated_Water_Tiles_Shadows_3_0: -7172244051500436891
+      Animated_Water_Tiles_Shadows_3_1: 7158132614617364991
+      Animated_Water_Tiles_Shadows_3_10: -8399926298050786152
+      Animated_Water_Tiles_Shadows_3_11: 4587558350639392345
+      Animated_Water_Tiles_Shadows_3_12: 1322151257276696310
+      Animated_Water_Tiles_Shadows_3_13: -5709810662169779734
+      Animated_Water_Tiles_Shadows_3_14: 5199025394626317512
+      Animated_Water_Tiles_Shadows_3_15: -2601324377795643073
+      Animated_Water_Tiles_Shadows_3_16: -5213389332445018982
+      Animated_Water_Tiles_Shadows_3_17: -7774678693488014018
+      Animated_Water_Tiles_Shadows_3_18: 4255593933535678750
+      Animated_Water_Tiles_Shadows_3_19: 35242820030199265
+      Animated_Water_Tiles_Shadows_3_2: 2765712670375486326
+      Animated_Water_Tiles_Shadows_3_3: -618897164204178723
+      Animated_Water_Tiles_Shadows_3_4: -1445052795057980081
+      Animated_Water_Tiles_Shadows_3_5: 3206476007349452720
+      Animated_Water_Tiles_Shadows_3_6: 8993767207038656179
+      Animated_Water_Tiles_Shadows_3_7: 1307889026845280580
+      Animated_Water_Tiles_Shadows_3_8: 3378602014930545479
+      Animated_Water_Tiles_Shadows_3_9: -3785801580744756647
+      Animated_Water_Tiles_Shadows_4: -2498635870889130727
+      Animated_Water_Tiles_Shadows_4_0: 8471648203388101083
+      Animated_Water_Tiles_Shadows_4_1: 5776841662601383423
+      Animated_Water_Tiles_Shadows_4_10: 3108903569271823532
+      Animated_Water_Tiles_Shadows_4_11: -4007229806269775226
+      Animated_Water_Tiles_Shadows_4_12: 615540941115519547
+      Animated_Water_Tiles_Shadows_4_13: -2790840560017305123
+      Animated_Water_Tiles_Shadows_4_14: 7520297918997682232
+      Animated_Water_Tiles_Shadows_4_15: 3310970125584429990
+      Animated_Water_Tiles_Shadows_4_16: 6692494803030888951
+      Animated_Water_Tiles_Shadows_4_17: -5612487498727065637
+      Animated_Water_Tiles_Shadows_4_18: -2733691770177367705
+      Animated_Water_Tiles_Shadows_4_19: 5558091263797790888
+      Animated_Water_Tiles_Shadows_4_2: 7400732856045503972
+      Animated_Water_Tiles_Shadows_4_3: 8363269425503567868
+      Animated_Water_Tiles_Shadows_4_4: -33438116257817723
+      Animated_Water_Tiles_Shadows_4_5: 8513498835078976017
+      Animated_Water_Tiles_Shadows_4_6: -5709578614418750164
+      Animated_Water_Tiles_Shadows_4_7: 7825138746115090488
+      Animated_Water_Tiles_Shadows_4_8: 8553477680762446378
+      Animated_Water_Tiles_Shadows_4_9: 1794907929491833081
+      Animated_Water_Tiles_Shadows_5: -1945235111043241029
+      Animated_Water_Tiles_Shadows_5_0: -7823106301522130142
+      Animated_Water_Tiles_Shadows_5_1: 7304152296137416872
+      Animated_Water_Tiles_Shadows_5_10: 7054975551738341480
+      Animated_Water_Tiles_Shadows_5_11: 89803716748976975
+      Animated_Water_Tiles_Shadows_5_12: -2750811721918097026
+      Animated_Water_Tiles_Shadows_5_13: -604516363114119446
+      Animated_Water_Tiles_Shadows_5_14: -2916681180788590108
+      Animated_Water_Tiles_Shadows_5_15: -1724511221737850717
+      Animated_Water_Tiles_Shadows_5_16: 5553997200719917961
+      Animated_Water_Tiles_Shadows_5_17: 4310192502999341227
+      Animated_Water_Tiles_Shadows_5_18: 9193074024535036299
+      Animated_Water_Tiles_Shadows_5_19: -8897437618369270290
+      Animated_Water_Tiles_Shadows_5_2: -6895471465843873809
+      Animated_Water_Tiles_Shadows_5_3: -589891256564802224
+      Animated_Water_Tiles_Shadows_5_4: 1011324811103609557
+      Animated_Water_Tiles_Shadows_5_5: 6325081249539625238
+      Animated_Water_Tiles_Shadows_5_6: -1356722294534843671
+      Animated_Water_Tiles_Shadows_5_7: 744967908078889530
+      Animated_Water_Tiles_Shadows_5_8: -3540327457138320616
+      Animated_Water_Tiles_Shadows_5_9: 3457751583865075498
+      Animated_Water_Tiles_Shadows_6: 1792667238586818399
+      Animated_Water_Tiles_Shadows_6_0: 5825716075328705698
+      Animated_Water_Tiles_Shadows_6_1: 2675419436705175907
+      Animated_Water_Tiles_Shadows_6_10: -3636145965529462246
+      Animated_Water_Tiles_Shadows_6_11: 785144772285057010
+      Animated_Water_Tiles_Shadows_6_12: -3164219295790439275
+      Animated_Water_Tiles_Shadows_6_13: 5010821176309272104
+      Animated_Water_Tiles_Shadows_6_14: 1362645378298545538
+      Animated_Water_Tiles_Shadows_6_15: 4823992019140521689
+      Animated_Water_Tiles_Shadows_6_16: -6209201474121522754
+      Animated_Water_Tiles_Shadows_6_17: -5704902732390127837
+      Animated_Water_Tiles_Shadows_6_18: 538107819440101395
+      Animated_Water_Tiles_Shadows_6_19: 3473818247816023083
+      Animated_Water_Tiles_Shadows_6_2: 687486061184995017
+      Animated_Water_Tiles_Shadows_6_3: 1918995576414254817
+      Animated_Water_Tiles_Shadows_6_4: 3980061706427081829
+      Animated_Water_Tiles_Shadows_6_5: 4778718212786194213
+      Animated_Water_Tiles_Shadows_6_6: -1190139196484969913
+      Animated_Water_Tiles_Shadows_6_7: 8791370132752787503
+      Animated_Water_Tiles_Shadows_6_8: 2197420978679244479
+      Animated_Water_Tiles_Shadows_6_9: 6111862600752940999
+      Animated_Water_Tiles_Shadows_7: -5104191522529823411
+      Animated_Water_Tiles_Shadows_7_0: -947806259012238809
+      Animated_Water_Tiles_Shadows_7_1: 2635208307531360001
+      Animated_Water_Tiles_Shadows_7_10: -8190766483369726668
+      Animated_Water_Tiles_Shadows_7_11: -3444642915507477331
+      Animated_Water_Tiles_Shadows_7_12: 1722253254748145632
+      Animated_Water_Tiles_Shadows_7_13: -1661023579993105364
+      Animated_Water_Tiles_Shadows_7_14: 301761132059216903
+      Animated_Water_Tiles_Shadows_7_15: -1920000237572931375
+      Animated_Water_Tiles_Shadows_7_16: -8508431414748448595
+      Animated_Water_Tiles_Shadows_7_17: -2263919486981563800
+      Animated_Water_Tiles_Shadows_7_18: -1361659998607864339
+      Animated_Water_Tiles_Shadows_7_19: -6059986122274788223
+      Animated_Water_Tiles_Shadows_7_2: 6980002647644755972
+      Animated_Water_Tiles_Shadows_7_3: 4231083810982906580
+      Animated_Water_Tiles_Shadows_7_4: -4085061769003599452
+      Animated_Water_Tiles_Shadows_7_5: 886698954574023320
+      Animated_Water_Tiles_Shadows_7_6: -5918715304681979231
+      Animated_Water_Tiles_Shadows_7_7: 2678811492989836334
+      Animated_Water_Tiles_Shadows_7_8: 1753750317735759494
+      Animated_Water_Tiles_Shadows_7_9: -6365287981163268920
+      Animated_Water_Tiles_Shadows_8_0: -7580391439418682510
+      Animated_Water_Tiles_Shadows_8_1: -2655299831135676653
+      Animated_Water_Tiles_Shadows_8_10: 6368873305111619955
+      Animated_Water_Tiles_Shadows_8_11: -4141153570928646902
+      Animated_Water_Tiles_Shadows_8_12: 5289359249189899791
+      Animated_Water_Tiles_Shadows_8_13: 5355437142083807382
+      Animated_Water_Tiles_Shadows_8_14: -4861159880761653750
+      Animated_Water_Tiles_Shadows_8_15: -9211534961888697348
+      Animated_Water_Tiles_Shadows_8_16: -14393935605049532
+      Animated_Water_Tiles_Shadows_8_17: -8299495038841415253
+      Animated_Water_Tiles_Shadows_8_18: -5529517249463336808
+      Animated_Water_Tiles_Shadows_8_19: 2633217682371569883
+      Animated_Water_Tiles_Shadows_8_2: -1181400833706440831
+      Animated_Water_Tiles_Shadows_8_3: 7519755252936752962
+      Animated_Water_Tiles_Shadows_8_4: 3701897234271775310
+      Animated_Water_Tiles_Shadows_8_5: -4380407916870248922
+      Animated_Water_Tiles_Shadows_8_6: 7115809527399480326
+      Animated_Water_Tiles_Shadows_8_7: -1655388460131430012
+      Animated_Water_Tiles_Shadows_8_8: 6257361190201072820
+      Animated_Water_Tiles_Shadows_8_9: 4253550563637020478
+      Animated_Water_Tiles_Shadows_9_0: -4162221998625132183
+      Animated_Water_Tiles_Shadows_9_1: -1512904680031460032
+      Animated_Water_Tiles_Shadows_9_10: -6016829286203968245
+      Animated_Water_Tiles_Shadows_9_11: -6132694808886172906
+      Animated_Water_Tiles_Shadows_9_12: 4900092721074806927
+      Animated_Water_Tiles_Shadows_9_13: 6248407062087049371
+      Animated_Water_Tiles_Shadows_9_14: -8469253184964873936
+      Animated_Water_Tiles_Shadows_9_15: 4260727719125024815
+      Animated_Water_Tiles_Shadows_9_16: -3878951436427403848
+      Animated_Water_Tiles_Shadows_9_17: -4110043095004677538
+      Animated_Water_Tiles_Shadows_9_18: 9000735611905020307
+      Animated_Water_Tiles_Shadows_9_19: -741310558038195284
+      Animated_Water_Tiles_Shadows_9_2: 2422367909782142493
+      Animated_Water_Tiles_Shadows_9_3: -6134975883184515612
+      Animated_Water_Tiles_Shadows_9_4: -3695929143097835023
+      Animated_Water_Tiles_Shadows_9_5: 2513007574768379363
+      Animated_Water_Tiles_Shadows_9_6: 4095154339454163201
+      Animated_Water_Tiles_Shadows_9_7: 3641908794048925797
+      Animated_Water_Tiles_Shadows_9_8: -3785595029049567756
+      Animated_Water_Tiles_Shadows_9_9: -2000010085678633142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

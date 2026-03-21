@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: f30a96008bf4c1b4ebc392f56d611408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4735318482040661039
+    second: Props_Flags_Flags_blacktriangle_0
+  - first:
+      213: 4361489404957874156
+    second: Props_Flags_Flags_blacktriangle_1
+  - first:
+      213: 6070738517873415185
+    second: Props_Flags_Flags_blacktriangle_2
+  - first:
+      213: 7061029005488724940
+    second: Props_Flags_Flags_blacktriangle_3
+  - first:
+      213: 1622802413927087705
+    second: Props_Flags_Flags_blacktriangle_0_0
+  - first:
+      213: 6087395681273703533
+    second: Props_Flags_Flags_blacktriangle_0_1
+  - first:
+      213: 9102663116914402374
+    second: Props_Flags_Flags_blacktriangle_0_2
+  - first:
+      213: -6652679285669710037
+    second: Props_Flags_Flags_blacktriangle_0_3
+  - first:
+      213: -5197983857618576425
+    second: Props_Flags_Flags_blacktriangle_0_4
+  - first:
+      213: 3999677580287284737
+    second: Props_Flags_Flags_blacktriangle_0_5
+  - first:
+      213: 6084173638369503294
+    second: Props_Flags_Flags_blacktriangle_0_6
+  - first:
+      213: 6294241529576510931
+    second: Props_Flags_Flags_blacktriangle_0_7
+  - first:
+      213: 2365753787903723126
+    second: Props_Flags_Flags_blacktriangle_0_8
+  - first:
+      213: -5489575938487096957
+    second: Props_Flags_Flags_blacktriangle_0_9
+  - first:
+      213: 6344965316051478205
+    second: Props_Flags_Flags_blacktriangle_0_10
+  - first:
+      213: 2161023399811011978
+    second: Props_Flags_Flags_blacktriangle_0_11
+  - first:
+      213: 2997527418427811415
+    second: Props_Flags_Flags_blacktriangle_0_12
+  - first:
+      213: -7138556346916839998
+    second: Props_Flags_Flags_blacktriangle_0_13
+  - first:
+      213: -4291761012783736568
+    second: Props_Flags_Flags_blacktriangle_0_14
+  - first:
+      213: -2273490699485714300
+    second: Props_Flags_Flags_blacktriangle_0_15
+  - first:
+      213: 5336448712425269876
+    second: Props_Flags_Flags_blacktriangle_1_0
+  - first:
+      213: -6343866114130434501
+    second: Props_Flags_Flags_blacktriangle_1_1
+  - first:
+      213: 7101782694433618108
+    second: Props_Flags_Flags_blacktriangle_1_2
+  - first:
+      213: -4114698818502847446
+    second: Props_Flags_Flags_blacktriangle_1_3
+  - first:
+      213: -2547556169359575201
+    second: Props_Flags_Flags_blacktriangle_1_4
+  - first:
+      213: -2365624101212183352
+    second: Props_Flags_Flags_blacktriangle_1_5
+  - first:
+      213: 784132526604250642
+    second: Props_Flags_Flags_blacktriangle_1_6
+  - first:
+      213: -3699291133195181416
+    second: Props_Flags_Flags_blacktriangle_1_7
+  - first:
+      213: -4061917628602798727
+    second: Props_Flags_Flags_blacktriangle_1_8
+  - first:
+      213: 4395481710353222670
+    second: Props_Flags_Flags_blacktriangle_1_9
+  - first:
+      213: -3347386537496846998
+    second: Props_Flags_Flags_blacktriangle_1_10
+  - first:
+      213: -650182026988844909
+    second: Props_Flags_Flags_blacktriangle_1_11
+  - first:
+      213: 1247531965190136980
+    second: Props_Flags_Flags_blacktriangle_1_12
+  - first:
+      213: -4019791199324076590
+    second: Props_Flags_Flags_blacktriangle_1_13
+  - first:
+      213: 8250616494324049608
+    second: Props_Flags_Flags_blacktriangle_1_14
+  - first:
+      213: -7503919786919419225
+    second: Props_Flags_Flags_blacktriangle_1_15
+  - first:
+      213: -5929515253990052679
+    second: Props_Flags_Flags_blacktriangle_2_0
+  - first:
+      213: 8442886372159117126
+    second: Props_Flags_Flags_blacktriangle_2_1
+  - first:
+      213: -3838562602759576412
+    second: Props_Flags_Flags_blacktriangle_2_2
+  - first:
+      213: -7191160514242367085
+    second: Props_Flags_Flags_blacktriangle_2_3
+  - first:
+      213: -6514127944659193739
+    second: Props_Flags_Flags_blacktriangle_2_4
+  - first:
+      213: -1464092740268936970
+    second: Props_Flags_Flags_blacktriangle_2_5
+  - first:
+      213: -7573996607995329114
+    second: Props_Flags_Flags_blacktriangle_2_6
+  - first:
+      213: -3139396506553071819
+    second: Props_Flags_Flags_blacktriangle_2_7
+  - first:
+      213: -5043165412601862664
+    second: Props_Flags_Flags_blacktriangle_2_8
+  - first:
+      213: -6484752107395527958
+    second: Props_Flags_Flags_blacktriangle_2_9
+  - first:
+      213: 3236200541765743204
+    second: Props_Flags_Flags_blacktriangle_2_10
+  - first:
+      213: 563868748924709717
+    second: Props_Flags_Flags_blacktriangle_2_11
+  - first:
+      213: -2746572096141915419
+    second: Props_Flags_Flags_blacktriangle_2_12
+  - first:
+      213: 1570589399322991048
+    second: Props_Flags_Flags_blacktriangle_2_13
+  - first:
+      213: -516031791368771196
+    second: Props_Flags_Flags_blacktriangle_2_14
+  - first:
+      213: 5772728322531080861
+    second: Props_Flags_Flags_blacktriangle_2_15
+  - first:
+      213: -6703348302281462509
+    second: Props_Flags_Flags_blacktriangle_3_0
+  - first:
+      213: 8817547018678503084
+    second: Props_Flags_Flags_blacktriangle_3_1
+  - first:
+      213: -5613996491382011215
+    second: Props_Flags_Flags_blacktriangle_3_2
+  - first:
+      213: -2130700797192013319
+    second: Props_Flags_Flags_blacktriangle_3_3
+  - first:
+      213: 1227230852587272710
+    second: Props_Flags_Flags_blacktriangle_3_4
+  - first:
+      213: -7986504064554465684
+    second: Props_Flags_Flags_blacktriangle_3_5
+  - first:
+      213: -4336482243544872067
+    second: Props_Flags_Flags_blacktriangle_3_6
+  - first:
+      213: 6210171742180208404
+    second: Props_Flags_Flags_blacktriangle_3_7
+  - first:
+      213: -419697596155901505
+    second: Props_Flags_Flags_blacktriangle_3_8
+  - first:
+      213: -5040970230361901098
+    second: Props_Flags_Flags_blacktriangle_3_9
+  - first:
+      213: 4461988197524084579
+    second: Props_Flags_Flags_blacktriangle_3_10
+  - first:
+      213: 143936858608827539
+    second: Props_Flags_Flags_blacktriangle_3_11
+  - first:
+      213: 7835538885653171424
+    second: Props_Flags_Flags_blacktriangle_3_12
+  - first:
+      213: -2703242714609060178
+    second: Props_Flags_Flags_blacktriangle_3_13
+  - first:
+      213: -5331593351391171858
+    second: Props_Flags_Flags_blacktriangle_3_14
+  - first:
+      213: -4223638640682072823
+    second: Props_Flags_Flags_blacktriangle_3_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e35ce823a558610800000000000000
+      internalID: 1622802413927087705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ce095ae16ca7450800000000000000
+      internalID: 6087395681273703533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644abb970e7235e70800000000000000
+      internalID: 9102663116914402374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27be05ef6feca3a0800000000000000
+      internalID: -6652679285669710037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db1e6ab83d0dd7b0800000000000000
+      internalID: -5197983857618576425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061e1d6195b18730800000000000000
+      internalID: 3999677580287284737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e386fc250b35f6450800000000000000
+      internalID: 6084173638369503294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d55be4a253a95750800000000000000
+      internalID: 6294241529576510931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676490a2988d4d020800000000000000
+      internalID: 2365753787903723126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e1fad4cb11d3b0800000000000000
+      internalID: -5489575938487096957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db62c6f7658dd0850800000000000000
+      internalID: 6344965316051478205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85da01255f7dfd10800000000000000
+      internalID: 2161023399811011978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75622e33e4b599920800000000000000
+      internalID: 2997527418427811415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd59ecf2d0ceec90800000000000000
+      internalID: -7138556346916839998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809972cf81a9074c0800000000000000
+      internalID: -4291761012783736568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488eff81140f270e0800000000000000
+      internalID: -2273490699485714300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae23a84dfde0a40800000000000000
+      internalID: 5336448712425269876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b362e94616f06f7a0800000000000000
+      internalID: -6343866114130434501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87bb5dbb99e8260800000000000000
+      internalID: 7101782694433618108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a241b65a937a5e6c0800000000000000
+      internalID: -4114698818502847446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b7f7592345acd0800000000000000
+      internalID: -2547556169359575201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4252fd96d9b2fd0800000000000000
+      internalID: -2365624101212183352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e6311e06cc1ea00800000000000000
+      internalID: 784132526604250642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922625605a79acc0800000000000000
+      internalID: -3699291133195181416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dab30107b21a7c0800000000000000
+      internalID: -4061917628602798727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c845ac353effc30800000000000000
+      internalID: 4395481710353222670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d539aeda1bb81d0800000000000000
+      internalID: -3347386537496846998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3988cf924e61af6f0800000000000000
+      internalID: -650182026988844909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4946a1f66bf105110800000000000000
+      internalID: 1247531965190136980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d50c05b335d638c0800000000000000
+      internalID: -4019791199324076590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e92aecf3108270800000000000000
+      internalID: 8250616494324049608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a4a516b8bcd790800000000000000
+      internalID: -7503919786919419225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca9abda4126bda0800000000000000
+      internalID: -5929515253990052679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d7835c682b2570800000000000000
+      internalID: 8442886372159117126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4aa6e76afaabac0800000000000000
+      internalID: -3838562602759576412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b4c9dc9dd33c90800000000000000
+      internalID: -7191160514242367085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b42dc52b2995a0800000000000000
+      internalID: -6514127944659193739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ba0ae86f7eabe0800000000000000
+      internalID: -1464092740268936970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5cc6ab632c3e690800000000000000
+      internalID: -7573996607995329114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374dc1b28f9e64d0800000000000000
+      internalID: -3139396506553071819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5645ee6c3130ab0800000000000000
+      internalID: -5043165412601862664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4936e0588106a0800000000000000
+      internalID: -6484752107395527958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462bfd12f3b49ec20800000000000000
+      internalID: 3236200541765743204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55be99fb3a343d700800000000000000
+      internalID: 563868748924709717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea06730b3732e9d0800000000000000
+      internalID: -2746572096141915419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c914a2ccbadbc510800000000000000
+      internalID: 1570589399322991048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e7aed1dfa6d8f0800000000000000
+      internalID: -516031791368771196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a3d49f2d9dc1050800000000000000
+      internalID: 5772728322531080861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dabc42c3ce8f2a0800000000000000
+      internalID: -6703348302281462509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca603aecb483e5a70800000000000000
+      internalID: 8817547018678503084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac2e07fe31712b0800000000000000
+      internalID: -5613996491382011215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97ab4f9ea3e62e0800000000000000
+      internalID: -2130700797192013319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3dd155fff70110800000000000000
+      internalID: 1227230852587272710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66840b1edc3a2190800000000000000
+      internalID: -7986504064554465684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b08ba0068b1d3c0800000000000000
+      internalID: -4336482243544872067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe1deeb46fe2650800000000000000
+      internalID: 6210171742180208404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ca0c824fec2af0800000000000000
+      internalID: -419697596155901505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b5ff9840ea0ab0800000000000000
+      internalID: -5040970230361901098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367986100aa2ced30800000000000000
+      internalID: 4461988197524084579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf67f6fcd5ff100800000000000000
+      internalID: 143936858608827539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec0e1f1a1d6dbc60800000000000000
+      internalID: 7835538885653171424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6701ec2172c7ad0800000000000000
+      internalID: -2703242714609060178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaae7b48106206b0800000000000000
+      internalID: -5331593351391171858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blacktriangle_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905088ab80f9265c0800000000000000
+      internalID: -4223638640682072823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_Flags_Flags_blacktriangle_0: 4735318482040661039
+      Props_Flags_Flags_blacktriangle_0_0: 1622802413927087705
+      Props_Flags_Flags_blacktriangle_0_1: 6087395681273703533
+      Props_Flags_Flags_blacktriangle_0_10: 6344965316051478205
+      Props_Flags_Flags_blacktriangle_0_11: 2161023399811011978
+      Props_Flags_Flags_blacktriangle_0_12: 2997527418427811415
+      Props_Flags_Flags_blacktriangle_0_13: -7138556346916839998
+      Props_Flags_Flags_blacktriangle_0_14: -4291761012783736568
+      Props_Flags_Flags_blacktriangle_0_15: -2273490699485714300
+      Props_Flags_Flags_blacktriangle_0_2: 9102663116914402374
+      Props_Flags_Flags_blacktriangle_0_3: -6652679285669710037
+      Props_Flags_Flags_blacktriangle_0_4: -5197983857618576425
+      Props_Flags_Flags_blacktriangle_0_5: 3999677580287284737
+      Props_Flags_Flags_blacktriangle_0_6: 6084173638369503294
+      Props_Flags_Flags_blacktriangle_0_7: 6294241529576510931
+      Props_Flags_Flags_blacktriangle_0_8: 2365753787903723126
+      Props_Flags_Flags_blacktriangle_0_9: -5489575938487096957
+      Props_Flags_Flags_blacktriangle_1: 4361489404957874156
+      Props_Flags_Flags_blacktriangle_1_0: 5336448712425269876
+      Props_Flags_Flags_blacktriangle_1_1: -6343866114130434501
+      Props_Flags_Flags_blacktriangle_1_10: -3347386537496846998
+      Props_Flags_Flags_blacktriangle_1_11: -650182026988844909
+      Props_Flags_Flags_blacktriangle_1_12: 1247531965190136980
+      Props_Flags_Flags_blacktriangle_1_13: -4019791199324076590
+      Props_Flags_Flags_blacktriangle_1_14: 8250616494324049608
+      Props_Flags_Flags_blacktriangle_1_15: -7503919786919419225
+      Props_Flags_Flags_blacktriangle_1_2: 7101782694433618108
+      Props_Flags_Flags_blacktriangle_1_3: -4114698818502847446
+      Props_Flags_Flags_blacktriangle_1_4: -2547556169359575201
+      Props_Flags_Flags_blacktriangle_1_5: -2365624101212183352
+      Props_Flags_Flags_blacktriangle_1_6: 784132526604250642
+      Props_Flags_Flags_blacktriangle_1_7: -3699291133195181416
+      Props_Flags_Flags_blacktriangle_1_8: -4061917628602798727
+      Props_Flags_Flags_blacktriangle_1_9: 4395481710353222670
+      Props_Flags_Flags_blacktriangle_2: 6070738517873415185
+      Props_Flags_Flags_blacktriangle_2_0: -5929515253990052679
+      Props_Flags_Flags_blacktriangle_2_1: 8442886372159117126
+      Props_Flags_Flags_blacktriangle_2_10: 3236200541765743204
+      Props_Flags_Flags_blacktriangle_2_11: 563868748924709717
+      Props_Flags_Flags_blacktriangle_2_12: -2746572096141915419
+      Props_Flags_Flags_blacktriangle_2_13: 1570589399322991048
+      Props_Flags_Flags_blacktriangle_2_14: -516031791368771196
+      Props_Flags_Flags_blacktriangle_2_15: 5772728322531080861
+      Props_Flags_Flags_blacktriangle_2_2: -3838562602759576412
+      Props_Flags_Flags_blacktriangle_2_3: -7191160514242367085
+      Props_Flags_Flags_blacktriangle_2_4: -6514127944659193739
+      Props_Flags_Flags_blacktriangle_2_5: -1464092740268936970
+      Props_Flags_Flags_blacktriangle_2_6: -7573996607995329114
+      Props_Flags_Flags_blacktriangle_2_7: -3139396506553071819
+      Props_Flags_Flags_blacktriangle_2_8: -5043165412601862664
+      Props_Flags_Flags_blacktriangle_2_9: -6484752107395527958
+      Props_Flags_Flags_blacktriangle_3: 7061029005488724940
+      Props_Flags_Flags_blacktriangle_3_0: -6703348302281462509
+      Props_Flags_Flags_blacktriangle_3_1: 8817547018678503084
+      Props_Flags_Flags_blacktriangle_3_10: 4461988197524084579
+      Props_Flags_Flags_blacktriangle_3_11: 143936858608827539
+      Props_Flags_Flags_blacktriangle_3_12: 7835538885653171424
+      Props_Flags_Flags_blacktriangle_3_13: -2703242714609060178
+      Props_Flags_Flags_blacktriangle_3_14: -5331593351391171858
+      Props_Flags_Flags_blacktriangle_3_15: -4223638640682072823
+      Props_Flags_Flags_blacktriangle_3_2: -5613996491382011215
+      Props_Flags_Flags_blacktriangle_3_3: -2130700797192013319
+      Props_Flags_Flags_blacktriangle_3_4: 1227230852587272710
+      Props_Flags_Flags_blacktriangle_3_5: -7986504064554465684
+      Props_Flags_Flags_blacktriangle_3_6: -4336482243544872067
+      Props_Flags_Flags_blacktriangle_3_7: 6210171742180208404
+      Props_Flags_Flags_blacktriangle_3_8: -419697596155901505
+      Props_Flags_Flags_blacktriangle_3_9: -5040970230361901098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

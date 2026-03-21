@@ -1,0 +1,3234 @@
+fileFormatVersion: 2
+guid: 5e2459d0e71ddcf40ae4525c5eaa7e7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2163176564463493966
+    second: Minifantasy_MapsMountains_0
+  - first:
+      213: -4007670613558113499
+    second: Minifantasy_MapsMountains_1
+  - first:
+      213: 5576396625657727234
+    second: Minifantasy_MapsMountains_2
+  - first:
+      213: -8401283073382175465
+    second: Minifantasy_MapsMountains_3
+  - first:
+      213: -4874135433424024720
+    second: Minifantasy_MapsMountains_4
+  - first:
+      213: 8787438458231460255
+    second: Minifantasy_MapsMountains_5
+  - first:
+      213: 6397630796785331291
+    second: Minifantasy_MapsMountains_6
+  - first:
+      213: -7956240572927877882
+    second: Minifantasy_MapsMountains_7
+  - first:
+      213: 1907706004393466828
+    second: Minifantasy_MapsMountains_8
+  - first:
+      213: 8599388620282540081
+    second: Minifantasy_MapsMountains_0_0
+  - first:
+      213: 1600115345102183019
+    second: Minifantasy_MapsMountains_0_1
+  - first:
+      213: -755331538337196732
+    second: Minifantasy_MapsMountains_0_2
+  - first:
+      213: -5180010272943924457
+    second: Minifantasy_MapsMountains_0_3
+  - first:
+      213: 3669403108223958717
+    second: Minifantasy_MapsMountains_0_4
+  - first:
+      213: 1184400851113279409
+    second: Minifantasy_MapsMountains_0_5
+  - first:
+      213: -496920381522043636
+    second: Minifantasy_MapsMountains_0_6
+  - first:
+      213: -3337857823715605359
+    second: Minifantasy_MapsMountains_0_7
+  - first:
+      213: -5752500100415431061
+    second: Minifantasy_MapsMountains_0_8
+  - first:
+      213: 1271770065333317820
+    second: Minifantasy_MapsMountains_0_9
+  - first:
+      213: 8181413907365536161
+    second: Minifantasy_MapsMountains_0_10
+  - first:
+      213: 5478029032500085465
+    second: Minifantasy_MapsMountains_0_11
+  - first:
+      213: -7725440611102536345
+    second: Minifantasy_MapsMountains_0_12
+  - first:
+      213: 589807494899808957
+    second: Minifantasy_MapsMountains_1_0
+  - first:
+      213: 802170505062952588
+    second: Minifantasy_MapsMountains_1_1
+  - first:
+      213: 1487713574979907555
+    second: Minifantasy_MapsMountains_1_2
+  - first:
+      213: 739391015150925089
+    second: Minifantasy_MapsMountains_1_3
+  - first:
+      213: 5331468058390670488
+    second: Minifantasy_MapsMountains_1_4
+  - first:
+      213: 1639474282614934794
+    second: Minifantasy_MapsMountains_1_5
+  - first:
+      213: -3339207342936892332
+    second: Minifantasy_MapsMountains_1_6
+  - first:
+      213: 1907710029229966236
+    second: Minifantasy_MapsMountains_1_7
+  - first:
+      213: -3033035837041509050
+    second: Minifantasy_MapsMountains_1_8
+  - first:
+      213: 7503942003966973499
+    second: Minifantasy_MapsMountains_1_9
+  - first:
+      213: -8714562370310119867
+    second: Minifantasy_MapsMountains_1_10
+  - first:
+      213: -6738372741769835008
+    second: Minifantasy_MapsMountains_1_11
+  - first:
+      213: -4154703880840748620
+    second: Minifantasy_MapsMountains_1_12
+  - first:
+      213: -1776825759979481085
+    second: Minifantasy_MapsMountains_2_0
+  - first:
+      213: 4944548316160398705
+    second: Minifantasy_MapsMountains_2_1
+  - first:
+      213: 8676141153805784908
+    second: Minifantasy_MapsMountains_2_2
+  - first:
+      213: -3470338515341293797
+    second: Minifantasy_MapsMountains_2_3
+  - first:
+      213: -7259207659777658986
+    second: Minifantasy_MapsMountains_2_4
+  - first:
+      213: 4189636769513164924
+    second: Minifantasy_MapsMountains_2_5
+  - first:
+      213: 7088430008159402942
+    second: Minifantasy_MapsMountains_2_6
+  - first:
+      213: 9155261344312378508
+    second: Minifantasy_MapsMountains_2_7
+  - first:
+      213: 408649186710702715
+    second: Minifantasy_MapsMountains_2_8
+  - first:
+      213: -1515300037960197867
+    second: Minifantasy_MapsMountains_2_9
+  - first:
+      213: -8607444239992569572
+    second: Minifantasy_MapsMountains_2_10
+  - first:
+      213: 6584704496401979489
+    second: Minifantasy_MapsMountains_2_11
+  - first:
+      213: 776472557280624703
+    second: Minifantasy_MapsMountains_2_12
+  - first:
+      213: 575691679243702972
+    second: Minifantasy_MapsMountains_3_0
+  - first:
+      213: 2620003254222582016
+    second: Minifantasy_MapsMountains_3_1
+  - first:
+      213: -3135495627117405333
+    second: Minifantasy_MapsMountains_3_2
+  - first:
+      213: -8429111933635055208
+    second: Minifantasy_MapsMountains_3_3
+  - first:
+      213: -6559146938958871861
+    second: Minifantasy_MapsMountains_3_4
+  - first:
+      213: -3087062499073229891
+    second: Minifantasy_MapsMountains_3_5
+  - first:
+      213: -8757434190517322821
+    second: Minifantasy_MapsMountains_3_6
+  - first:
+      213: -6562400975467607725
+    second: Minifantasy_MapsMountains_3_7
+  - first:
+      213: 1526992820139531206
+    second: Minifantasy_MapsMountains_3_8
+  - first:
+      213: 2910268945234563382
+    second: Minifantasy_MapsMountains_3_9
+  - first:
+      213: -5300320307109295424
+    second: Minifantasy_MapsMountains_3_10
+  - first:
+      213: 7413739737590599560
+    second: Minifantasy_MapsMountains_3_11
+  - first:
+      213: -8201384664697530707
+    second: Minifantasy_MapsMountains_3_12
+  - first:
+      213: -1900368754003351513
+    second: Minifantasy_MapsMountains_4_0
+  - first:
+      213: 3745217765304212253
+    second: Minifantasy_MapsMountains_4_1
+  - first:
+      213: 6198050454499549933
+    second: Minifantasy_MapsMountains_4_2
+  - first:
+      213: 4381410494082835998
+    second: Minifantasy_MapsMountains_4_3
+  - first:
+      213: -6919383908790580066
+    second: Minifantasy_MapsMountains_4_4
+  - first:
+      213: 949727769908915122
+    second: Minifantasy_MapsMountains_4_5
+  - first:
+      213: 1687060799821383875
+    second: Minifantasy_MapsMountains_4_6
+  - first:
+      213: -7593491151378724340
+    second: Minifantasy_MapsMountains_4_7
+  - first:
+      213: 2731025906937034733
+    second: Minifantasy_MapsMountains_4_8
+  - first:
+      213: 6806783169772689523
+    second: Minifantasy_MapsMountains_4_9
+  - first:
+      213: -4609134275112974675
+    second: Minifantasy_MapsMountains_4_10
+  - first:
+      213: -3268817881388930640
+    second: Minifantasy_MapsMountains_4_11
+  - first:
+      213: 7033602722687477816
+    second: Minifantasy_MapsMountains_4_12
+  - first:
+      213: -2924093474411286690
+    second: Minifantasy_MapsMountains_5_0
+  - first:
+      213: 3999674748297107975
+    second: Minifantasy_MapsMountains_5_1
+  - first:
+      213: -4501090918584932214
+    second: Minifantasy_MapsMountains_5_2
+  - first:
+      213: -2560471505607970088
+    second: Minifantasy_MapsMountains_5_3
+  - first:
+      213: 1264784164681961171
+    second: Minifantasy_MapsMountains_5_4
+  - first:
+      213: -1566064214440714750
+    second: Minifantasy_MapsMountains_5_5
+  - first:
+      213: 833597202931562548
+    second: Minifantasy_MapsMountains_5_6
+  - first:
+      213: 233661975682004831
+    second: Minifantasy_MapsMountains_5_7
+  - first:
+      213: -5396296292735646346
+    second: Minifantasy_MapsMountains_5_8
+  - first:
+      213: -7435028696042969387
+    second: Minifantasy_MapsMountains_5_9
+  - first:
+      213: -2378685642742842944
+    second: Minifantasy_MapsMountains_5_10
+  - first:
+      213: 5802202016771384965
+    second: Minifantasy_MapsMountains_5_11
+  - first:
+      213: 1176137335799554506
+    second: Minifantasy_MapsMountains_5_12
+  - first:
+      213: 2506587105024473901
+    second: Minifantasy_MapsMountains_6_0
+  - first:
+      213: -2318778002886747054
+    second: Minifantasy_MapsMountains_6_1
+  - first:
+      213: 7630667262403432862
+    second: Minifantasy_MapsMountains_6_2
+  - first:
+      213: 188369724076751503
+    second: Minifantasy_MapsMountains_6_3
+  - first:
+      213: 8828181839486484637
+    second: Minifantasy_MapsMountains_6_4
+  - first:
+      213: -3329442520399239721
+    second: Minifantasy_MapsMountains_6_5
+  - first:
+      213: 5810167372940484543
+    second: Minifantasy_MapsMountains_6_6
+  - first:
+      213: -2571828855824434534
+    second: Minifantasy_MapsMountains_6_7
+  - first:
+      213: 4395243874425964079
+    second: Minifantasy_MapsMountains_6_8
+  - first:
+      213: 8924117797719295861
+    second: Minifantasy_MapsMountains_6_9
+  - first:
+      213: -1924937953737614707
+    second: Minifantasy_MapsMountains_6_10
+  - first:
+      213: 2447556605003684970
+    second: Minifantasy_MapsMountains_6_11
+  - first:
+      213: -8960906243250865587
+    second: Minifantasy_MapsMountains_6_12
+  - first:
+      213: -367642868556214000
+    second: Minifantasy_MapsMountains_7_0
+  - first:
+      213: -5999739918093338268
+    second: Minifantasy_MapsMountains_7_1
+  - first:
+      213: 7529891968004103354
+    second: Minifantasy_MapsMountains_7_2
+  - first:
+      213: 236690903908700198
+    second: Minifantasy_MapsMountains_7_3
+  - first:
+      213: 3479978289985837495
+    second: Minifantasy_MapsMountains_7_4
+  - first:
+      213: -4454851931695441082
+    second: Minifantasy_MapsMountains_7_5
+  - first:
+      213: 7829553740530417367
+    second: Minifantasy_MapsMountains_7_6
+  - first:
+      213: 2582421737930648615
+    second: Minifantasy_MapsMountains_7_7
+  - first:
+      213: 3391674951683304270
+    second: Minifantasy_MapsMountains_7_8
+  - first:
+      213: 538234635347036030
+    second: Minifantasy_MapsMountains_7_9
+  - first:
+      213: -2854481471726879864
+    second: Minifantasy_MapsMountains_7_10
+  - first:
+      213: 6389959934559691612
+    second: Minifantasy_MapsMountains_7_11
+  - first:
+      213: -6063626527502277854
+    second: Minifantasy_MapsMountains_7_12
+  - first:
+      213: 6442811639448121116
+    second: Minifantasy_MapsMountains_8_0
+  - first:
+      213: 3756338631541786494
+    second: Minifantasy_MapsMountains_8_1
+  - first:
+      213: -4914825861982465957
+    second: Minifantasy_MapsMountains_8_2
+  - first:
+      213: 2468341883935520408
+    second: Minifantasy_MapsMountains_8_3
+  - first:
+      213: 7816940330351941027
+    second: Minifantasy_MapsMountains_8_4
+  - first:
+      213: -2074391724658035390
+    second: Minifantasy_MapsMountains_8_5
+  - first:
+      213: -2209837772166137850
+    second: Minifantasy_MapsMountains_8_6
+  - first:
+      213: -4683025221000626393
+    second: Minifantasy_MapsMountains_8_7
+  - first:
+      213: 3089595205418559144
+    second: Minifantasy_MapsMountains_8_8
+  - first:
+      213: 5039263909467605130
+    second: Minifantasy_MapsMountains_8_9
+  - first:
+      213: -3545583781583879491
+    second: Minifantasy_MapsMountains_8_10
+  - first:
+      213: -1456118155172639815
+    second: Minifantasy_MapsMountains_8_11
+  - first:
+      213: 7288423026162814308
+    second: Minifantasy_MapsMountains_8_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1303a7d736a275770800000000000000
+      internalID: 8599388620282540081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a9778bd60c43610800000000000000
+      internalID: 1600115345102183019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44513c1c7f58485f0800000000000000
+      internalID: -755331538337196732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b9d440a18ec18b0800000000000000
+      internalID: -5180010272943924457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe37638fa65ce230800000000000000
+      internalID: 3669403108223958717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff6428c46df6010800000000000000
+      internalID: 1184400851113279409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d1ab9bb859a19f0800000000000000
+      internalID: -496920381522043636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944caa7efb8da1d0800000000000000
+      internalID: -3337857823715605359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed65003a30b20b0800000000000000
+      internalID: -5752500100415431061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0fa24e22c36a110800000000000000
+      internalID: 1271770065333317820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a6fc0a983a8170800000000000000
+      internalID: 8181413907365536161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c177916ed50c40800000000000000
+      internalID: 5478029032500085465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d4bd102b8b9c490800000000000000
+      internalID: -7725440611102536345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbabd5baaca6f2800800000000000000
+      internalID: 589807494899808957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ea29303d1e12b00800000000000000
+      internalID: 802170505062952588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef243c3d9b65a410800000000000000
+      internalID: 1487713574979907555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125bf28f538d24a00800000000000000
+      internalID: 739391015150925089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ca7b7a3fd2df940800000000000000
+      internalID: 5331468058390670488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc6a97c2590c610800000000000000
+      internalID: 1639474282614934794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cdedc0d90c8a1d0800000000000000
+      internalID: -3339207342936892332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c3b20a2c897a10800000000000000
+      internalID: 1907710029229966236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7c16d9fd78e5d0800000000000000
+      internalID: -3033035837041509050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369599be7b532860800000000000000
+      internalID: 7503942003966973499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54edda822b7af0780800000000000000
+      internalID: -8714562370310119867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e42aa51bd7c72a0800000000000000
+      internalID: -6738372741769835008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1ec8b35d68756c0800000000000000
+      internalID: -4154703880840748620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d8a4a2627757e0800000000000000
+      internalID: -1776825759979481085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751f770f709e9440800000000000000
+      internalID: 4944548316160398705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ddb54968d76870800000000000000
+      internalID: 8676141153805784908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17c9b6c181e6dfc0800000000000000
+      internalID: -3470338515341293797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6828281d124b90800000000000000
+      internalID: -7259207659777658986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c705fb8b174942a30800000000000000
+      internalID: 4189636769513164924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb7f8b49892f5260800000000000000
+      internalID: 7088430008159402942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ca9d9fa50e0f70800000000000000
+      internalID: 9155261344312378508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ac4ab2540dba500800000000000000
+      internalID: 408649186710702715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5191f35d4a298fae0800000000000000
+      internalID: -1515300037960197867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11c24361173c8880800000000000000
+      internalID: -8607444239992569572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16815fa2ad1916b50800000000000000
+      internalID: 6584704496401979489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300d8a4da596ca00800000000000000
+      internalID: 776472557280624703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2187938844df700800000000000000
+      internalID: 575691679243702972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001fd4e041f1c5420800000000000000
+      internalID: 2620003254222582016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b50e6f65b7c74d0800000000000000
+      internalID: -3135495627117405333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8913daf0b57c50b80800000000000000
+      internalID: -8429111933635055208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc204c16c9a39f4a0800000000000000
+      internalID: -6559146938958871861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb7f47530d8825d0800000000000000
+      internalID: -3087062499073229891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbba5aa008577680800000000000000
+      internalID: -8757434190517322821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598397f41bade4a0800000000000000
+      internalID: -6562400975467607725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1dfa21e7f03510800000000000000
+      internalID: 1526992820139531206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319e89bf2a536820800000000000000
+      internalID: 2910268945234563382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca06f253ca7176b0800000000000000
+      internalID: -5300320307109295424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f094cf205e2e660800000000000000
+      internalID: 7413739737590599560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61e5aa914de2e80800000000000000
+      internalID: -8201384664697530707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728e063dfa880a5e0800000000000000
+      internalID: -1900368754003351513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b907be6bfa9f330800000000000000
+      internalID: 3745217765304212253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e468bc06e30650800000000000000
+      internalID: 6198050454499549933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16e9f271a5edcc30800000000000000
+      internalID: 4381410494082835998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ccbf3def869ff90800000000000000
+      internalID: -6919383908790580066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbaeb6ff5c1e2d00800000000000000
+      internalID: 949727769908915122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c807d7ebd4a96710800000000000000
+      internalID: 1687060799821383875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0acff4a7008e9690800000000000000
+      internalID: -7593491151378724340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7fe5fb79d86e520800000000000000
+      internalID: 2731025906937034733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3789861aa3d867e50800000000000000
+      internalID: 6806783169772689523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da640d90cc01900c0800000000000000
+      internalID: -4609134275112974675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92e50b473d2a2d0800000000000000
+      internalID: -3268817881388930640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838e10129606c9160800000000000000
+      internalID: 7033602722687477816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f6daf3a788b67d0800000000000000
+      internalID: -2924093474411286690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a595d0ef2b18730800000000000000
+      internalID: 3999674748297107975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88220848a9e881c0800000000000000
+      internalID: -4501090918584932214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23aba4bb0677cd0800000000000000
+      internalID: -2560471505607970088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de48652f7a6d8110800000000000000
+      internalID: 1264784164681961171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5fc2f4e8344ae0800000000000000
+      internalID: -1566064214440714750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438be7e4d38819b00800000000000000
+      internalID: 833597202931562548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ba0234522e3300800000000000000
+      internalID: 233661975682004831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6750cb0dc118c15b0800000000000000
+      internalID: -5396296292735646346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e58d1bc871d890800000000000000
+      internalID: -7435028696042969387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bdffb2063dfed0800000000000000
+      internalID: -2378685642742842944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586a6bc2eff858050800000000000000
+      internalID: 5802202016771384965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1286becaa725010800000000000000
+      internalID: 1176137335799554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bfe8901bf29c220800000000000000
+      internalID: 2506587105024473901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c12f811bb02dfd0800000000000000
+      internalID: -2318778002886747054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9152c6327395e960800000000000000
+      internalID: 7630667262403432862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a780a14493d9200800000000000000
+      internalID: 188369724076751503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90852bfb90048a70800000000000000
+      internalID: 8828181839486484637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a587faa17bc1d0800000000000000
+      internalID: -3329442520399239721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9ead217cd1a050800000000000000
+      internalID: 5810167372940484543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3c7128470f4cd0800000000000000
+      internalID: -2571828855824434534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f260f5c440b0ffc30800000000000000
+      internalID: 4395243874425964079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577ccc2ead5d8db70800000000000000
+      internalID: 8924117797719295861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5dcc312f3945e0800000000000000
+      internalID: -1924937953737614707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cd7e8b3c777f120800000000000000
+      internalID: 2447556605003684970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab379af3774a380800000000000000
+      internalID: -8960906243250865587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011508742ced5eaf0800000000000000
+      internalID: -367642868556214000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b05d1554acbca0800000000000000
+      internalID: -5999739918093338268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc93fd89dc8f7860800000000000000
+      internalID: 7529891968004103354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205b018f15e84300800000000000000
+      internalID: 236690903908700198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b95da821dd5b4030800000000000000
+      internalID: 3479978289985837495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b945c55cf2d22c0800000000000000
+      internalID: -4454851931695441082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de752ee4a928ac60800000000000000
+      internalID: 7829553740530417367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6a9d63ea96d320800000000000000
+      internalID: 2582421737930648615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6ca01666a11f20800000000000000
+      internalID: 3391674951683304270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770ca59c81387700800000000000000
+      internalID: 538234635347036030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bf8c3a938d268d0800000000000000
+      internalID: -2854481471726879864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a86c74b2bda850800000000000000
+      internalID: 6389959934559691612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2236799bccba9dba0800000000000000
+      internalID: -6063626527502277854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fae04fc07796950800000000000000
+      internalID: 6442811639448121116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77002d5512312430800000000000000
+      internalID: 3756338631541786494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d1ab1be70bcbb0800000000000000
+      internalID: -4914825861982465957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f1389ddf414220800000000000000
+      internalID: 2468341883935520408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a55d0580d95b7c60800000000000000
+      internalID: 7816940330351941027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2457fbe87b74633e0800000000000000
+      internalID: -2074391724658035390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608fbc221441551e0800000000000000
+      internalID: -2209837772166137850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fff0c8f5d820fb0800000000000000
+      internalID: -4683025221000626393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a629be487270ea20800000000000000
+      internalID: 3089595205418559144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88434593df0fe540800000000000000
+      internalID: 5039263909467605130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db28e41065e8bcec0800000000000000
+      internalID: -3545583781583879491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb00f1b044dacbe0800000000000000
+      internalID: -1456118155172639815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsMountains_8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4637602ea52560800000000000000
+      internalID: 7288423026162814308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MapsMountains_0: -2163176564463493966
+      Minifantasy_MapsMountains_0_0: 8599388620282540081
+      Minifantasy_MapsMountains_0_1: 1600115345102183019
+      Minifantasy_MapsMountains_0_10: 8181413907365536161
+      Minifantasy_MapsMountains_0_11: 5478029032500085465
+      Minifantasy_MapsMountains_0_12: -7725440611102536345
+      Minifantasy_MapsMountains_0_2: -755331538337196732
+      Minifantasy_MapsMountains_0_3: -5180010272943924457
+      Minifantasy_MapsMountains_0_4: 3669403108223958717
+      Minifantasy_MapsMountains_0_5: 1184400851113279409
+      Minifantasy_MapsMountains_0_6: -496920381522043636
+      Minifantasy_MapsMountains_0_7: -3337857823715605359
+      Minifantasy_MapsMountains_0_8: -5752500100415431061
+      Minifantasy_MapsMountains_0_9: 1271770065333317820
+      Minifantasy_MapsMountains_1: -4007670613558113499
+      Minifantasy_MapsMountains_1_0: 589807494899808957
+      Minifantasy_MapsMountains_1_1: 802170505062952588
+      Minifantasy_MapsMountains_1_10: -8714562370310119867
+      Minifantasy_MapsMountains_1_11: -6738372741769835008
+      Minifantasy_MapsMountains_1_12: -4154703880840748620
+      Minifantasy_MapsMountains_1_2: 1487713574979907555
+      Minifantasy_MapsMountains_1_3: 739391015150925089
+      Minifantasy_MapsMountains_1_4: 5331468058390670488
+      Minifantasy_MapsMountains_1_5: 1639474282614934794
+      Minifantasy_MapsMountains_1_6: -3339207342936892332
+      Minifantasy_MapsMountains_1_7: 1907710029229966236
+      Minifantasy_MapsMountains_1_8: -3033035837041509050
+      Minifantasy_MapsMountains_1_9: 7503942003966973499
+      Minifantasy_MapsMountains_2: 5576396625657727234
+      Minifantasy_MapsMountains_2_0: -1776825759979481085
+      Minifantasy_MapsMountains_2_1: 4944548316160398705
+      Minifantasy_MapsMountains_2_10: -8607444239992569572
+      Minifantasy_MapsMountains_2_11: 6584704496401979489
+      Minifantasy_MapsMountains_2_12: 776472557280624703
+      Minifantasy_MapsMountains_2_2: 8676141153805784908
+      Minifantasy_MapsMountains_2_3: -3470338515341293797
+      Minifantasy_MapsMountains_2_4: -7259207659777658986
+      Minifantasy_MapsMountains_2_5: 4189636769513164924
+      Minifantasy_MapsMountains_2_6: 7088430008159402942
+      Minifantasy_MapsMountains_2_7: 9155261344312378508
+      Minifantasy_MapsMountains_2_8: 408649186710702715
+      Minifantasy_MapsMountains_2_9: -1515300037960197867
+      Minifantasy_MapsMountains_3: -8401283073382175465
+      Minifantasy_MapsMountains_3_0: 575691679243702972
+      Minifantasy_MapsMountains_3_1: 2620003254222582016
+      Minifantasy_MapsMountains_3_10: -5300320307109295424
+      Minifantasy_MapsMountains_3_11: 7413739737590599560
+      Minifantasy_MapsMountains_3_12: -8201384664697530707
+      Minifantasy_MapsMountains_3_2: -3135495627117405333
+      Minifantasy_MapsMountains_3_3: -8429111933635055208
+      Minifantasy_MapsMountains_3_4: -6559146938958871861
+      Minifantasy_MapsMountains_3_5: -3087062499073229891
+      Minifantasy_MapsMountains_3_6: -8757434190517322821
+      Minifantasy_MapsMountains_3_7: -6562400975467607725
+      Minifantasy_MapsMountains_3_8: 1526992820139531206
+      Minifantasy_MapsMountains_3_9: 2910268945234563382
+      Minifantasy_MapsMountains_4: -4874135433424024720
+      Minifantasy_MapsMountains_4_0: -1900368754003351513
+      Minifantasy_MapsMountains_4_1: 3745217765304212253
+      Minifantasy_MapsMountains_4_10: -4609134275112974675
+      Minifantasy_MapsMountains_4_11: -3268817881388930640
+      Minifantasy_MapsMountains_4_12: 7033602722687477816
+      Minifantasy_MapsMountains_4_2: 6198050454499549933
+      Minifantasy_MapsMountains_4_3: 4381410494082835998
+      Minifantasy_MapsMountains_4_4: -6919383908790580066
+      Minifantasy_MapsMountains_4_5: 949727769908915122
+      Minifantasy_MapsMountains_4_6: 1687060799821383875
+      Minifantasy_MapsMountains_4_7: -7593491151378724340
+      Minifantasy_MapsMountains_4_8: 2731025906937034733
+      Minifantasy_MapsMountains_4_9: 6806783169772689523
+      Minifantasy_MapsMountains_5: 8787438458231460255
+      Minifantasy_MapsMountains_5_0: -2924093474411286690
+      Minifantasy_MapsMountains_5_1: 3999674748297107975
+      Minifantasy_MapsMountains_5_10: -2378685642742842944
+      Minifantasy_MapsMountains_5_11: 5802202016771384965
+      Minifantasy_MapsMountains_5_12: 1176137335799554506
+      Minifantasy_MapsMountains_5_2: -4501090918584932214
+      Minifantasy_MapsMountains_5_3: -2560471505607970088
+      Minifantasy_MapsMountains_5_4: 1264784164681961171
+      Minifantasy_MapsMountains_5_5: -1566064214440714750
+      Minifantasy_MapsMountains_5_6: 833597202931562548
+      Minifantasy_MapsMountains_5_7: 233661975682004831
+      Minifantasy_MapsMountains_5_8: -5396296292735646346
+      Minifantasy_MapsMountains_5_9: -7435028696042969387
+      Minifantasy_MapsMountains_6: 6397630796785331291
+      Minifantasy_MapsMountains_6_0: 2506587105024473901
+      Minifantasy_MapsMountains_6_1: -2318778002886747054
+      Minifantasy_MapsMountains_6_10: -1924937953737614707
+      Minifantasy_MapsMountains_6_11: 2447556605003684970
+      Minifantasy_MapsMountains_6_12: -8960906243250865587
+      Minifantasy_MapsMountains_6_2: 7630667262403432862
+      Minifantasy_MapsMountains_6_3: 188369724076751503
+      Minifantasy_MapsMountains_6_4: 8828181839486484637
+      Minifantasy_MapsMountains_6_5: -3329442520399239721
+      Minifantasy_MapsMountains_6_6: 5810167372940484543
+      Minifantasy_MapsMountains_6_7: -2571828855824434534
+      Minifantasy_MapsMountains_6_8: 4395243874425964079
+      Minifantasy_MapsMountains_6_9: 8924117797719295861
+      Minifantasy_MapsMountains_7: -7956240572927877882
+      Minifantasy_MapsMountains_7_0: -367642868556214000
+      Minifantasy_MapsMountains_7_1: -5999739918093338268
+      Minifantasy_MapsMountains_7_10: -2854481471726879864
+      Minifantasy_MapsMountains_7_11: 6389959934559691612
+      Minifantasy_MapsMountains_7_12: -6063626527502277854
+      Minifantasy_MapsMountains_7_2: 7529891968004103354
+      Minifantasy_MapsMountains_7_3: 236690903908700198
+      Minifantasy_MapsMountains_7_4: 3479978289985837495
+      Minifantasy_MapsMountains_7_5: -4454851931695441082
+      Minifantasy_MapsMountains_7_6: 7829553740530417367
+      Minifantasy_MapsMountains_7_7: 2582421737930648615
+      Minifantasy_MapsMountains_7_8: 3391674951683304270
+      Minifantasy_MapsMountains_7_9: 538234635347036030
+      Minifantasy_MapsMountains_8: 1907706004393466828
+      Minifantasy_MapsMountains_8_0: 6442811639448121116
+      Minifantasy_MapsMountains_8_1: 3756338631541786494
+      Minifantasy_MapsMountains_8_10: -3545583781583879491
+      Minifantasy_MapsMountains_8_11: -1456118155172639815
+      Minifantasy_MapsMountains_8_12: 7288423026162814308
+      Minifantasy_MapsMountains_8_2: -4914825861982465957
+      Minifantasy_MapsMountains_8_3: 2468341883935520408
+      Minifantasy_MapsMountains_8_4: 7816940330351941027
+      Minifantasy_MapsMountains_8_5: -2074391724658035390
+      Minifantasy_MapsMountains_8_6: -2209837772166137850
+      Minifantasy_MapsMountains_8_7: -4683025221000626393
+      Minifantasy_MapsMountains_8_8: 3089595205418559144
+      Minifantasy_MapsMountains_8_9: 5039263909467605130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

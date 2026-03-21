@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: 01e5271a6f68b2d4a91454c649e4feff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7378883830039187239
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0
+  - first:
+      213: 1238034855267640931
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1
+  - first:
+      213: -5002848253119732701
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2
+  - first:
+      213: -443603508500293638
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3
+  - first:
+      213: 6038677524234668789
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4
+  - first:
+      213: 6377105660224091314
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5
+  - first:
+      213: -5800451230083837068
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6
+  - first:
+      213: -474117231411166545
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7
+  - first:
+      213: -7104498615819987394
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8
+  - first:
+      213: -7345423002454667867
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9
+  - first:
+      213: 8031753097507878719
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10
+  - first:
+      213: -623277636923756751
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11
+  - first:
+      213: 565278503960775580
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12
+  - first:
+      213: -6402075433620383024
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13
+  - first:
+      213: -1646558893491262620
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14
+  - first:
+      213: -5247611036534033076
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_15
+  - first:
+      213: 7619997320103534924
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_16
+  - first:
+      213: -2402192297733740118
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_17
+  - first:
+      213: -7058688188983143834
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_18
+  - first:
+      213: 2927045658946784174
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_19
+  - first:
+      213: 5698154924047908362
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_20
+  - first:
+      213: 9125212635781588194
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_21
+  - first:
+      213: -8674975084836538804
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_22
+  - first:
+      213: -4337182878555191253
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_23
+  - first:
+      213: -4778177928619902063
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_24
+  - first:
+      213: 4403513485585990664
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_25
+  - first:
+      213: 6456181767678875502
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_0
+  - first:
+      213: -4571517606072234944
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_1
+  - first:
+      213: 756150045198660217
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_2
+  - first:
+      213: -7020815881351901697
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_3
+  - first:
+      213: -1531913660644025921
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_4
+  - first:
+      213: -2158247569550470251
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_5
+  - first:
+      213: 2939592318658732503
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_6
+  - first:
+      213: -5365716441528016920
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_7
+  - first:
+      213: 7380134985699492450
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_0
+  - first:
+      213: -7548261949916557018
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_1
+  - first:
+      213: 8551925139038080716
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_2
+  - first:
+      213: 1302791553921555319
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_3
+  - first:
+      213: 3842899575217755268
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_4
+  - first:
+      213: -1209544527782964880
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_5
+  - first:
+      213: 784351509782563073
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_6
+  - first:
+      213: -537590779110546099
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_7
+  - first:
+      213: 6464539866897648356
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_0
+  - first:
+      213: 2096757716780323506
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_1
+  - first:
+      213: 1791316835405084913
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_2
+  - first:
+      213: -6580402714111821060
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_3
+  - first:
+      213: 1323715116720256097
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_4
+  - first:
+      213: -8028176798140178020
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_5
+  - first:
+      213: -2883631568319351203
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_6
+  - first:
+      213: -8628496449124625852
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_7
+  - first:
+      213: -6124931345438084726
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_0
+  - first:
+      213: 7431905156417869287
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_1
+  - first:
+      213: 6467996340751629560
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_2
+  - first:
+      213: 3622657867412977044
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_3
+  - first:
+      213: 2075805907490610053
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_4
+  - first:
+      213: -3010499826823894826
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_5
+  - first:
+      213: -8891625205726248069
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_6
+  - first:
+      213: 6155687569051904508
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_7
+  - first:
+      213: -2560895430194452365
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_0
+  - first:
+      213: 9025171655162748224
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_1
+  - first:
+      213: 6587822223110226702
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_2
+  - first:
+      213: 4087369519165331415
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_3
+  - first:
+      213: -411534819588167012
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_4
+  - first:
+      213: 57352754581210018
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_5
+  - first:
+      213: 2047093709607651894
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_6
+  - first:
+      213: -4315936475239604351
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_7
+  - first:
+      213: -3543667705823294823
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_0
+  - first:
+      213: -5696079155833739514
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_1
+  - first:
+      213: 5034764462845447719
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_2
+  - first:
+      213: -1237532847454848590
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_3
+  - first:
+      213: 2264708591236245357
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_4
+  - first:
+      213: -1649450763347243297
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_5
+  - first:
+      213: 4782489227794901313
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_6
+  - first:
+      213: -9222017075207185199
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_7
+  - first:
+      213: -2268285899719457310
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_0
+  - first:
+      213: -1415108438846977325
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_1
+  - first:
+      213: -8151384163858402951
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_2
+  - first:
+      213: -8242159256240285381
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_3
+  - first:
+      213: -2352703019570309314
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_4
+  - first:
+      213: 1575019745583623381
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_5
+  - first:
+      213: 7560021616715916426
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_6
+  - first:
+      213: -5960829359435901369
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_7
+  - first:
+      213: 2544780736619409141
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_0
+  - first:
+      213: -2133314043759217696
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_1
+  - first:
+      213: 5902953685971199750
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_2
+  - first:
+      213: 8377362039027680585
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_3
+  - first:
+      213: 7566766870533985185
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_4
+  - first:
+      213: 6158123522944367343
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_5
+  - first:
+      213: -4449872161230164701
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_6
+  - first:
+      213: -3840786323497263646
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_7
+  - first:
+      213: -141396249312246719
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_0
+  - first:
+      213: -7360832408815098389
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_1
+  - first:
+      213: 548008619671012455
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_2
+  - first:
+      213: -6032116399187629745
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_3
+  - first:
+      213: 660303428255226071
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_4
+  - first:
+      213: 2987472465614331622
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_5
+  - first:
+      213: -6194885322478606844
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_6
+  - first:
+      213: -3344325473232373105
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_7
+  - first:
+      213: -6697275677847866922
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_0
+  - first:
+      213: 769134796187103537
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_1
+  - first:
+      213: -1140568861334416260
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_2
+  - first:
+      213: -3837601302581926383
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_3
+  - first:
+      213: -4041100775125435813
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_4
+  - first:
+      213: 3582777607211430759
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_5
+  - first:
+      213: -4399932400255063203
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_6
+  - first:
+      213: -925622694504034222
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_7
+  - first:
+      213: 1767093122249192386
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_0
+  - first:
+      213: 8190179354057293623
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_1
+  - first:
+      213: -8424802188887434306
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_2
+  - first:
+      213: 3454256116249978367
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_3
+  - first:
+      213: -4539633687633401008
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_4
+  - first:
+      213: 7045843573390518211
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_5
+  - first:
+      213: -2534258344292624390
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_6
+  - first:
+      213: -5730772556989655939
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_7
+  - first:
+      213: -1716236513670657963
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_0
+  - first:
+      213: 2617082876999422842
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_1
+  - first:
+      213: -1638777150803357209
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_2
+  - first:
+      213: -2303749634199279504
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_3
+  - first:
+      213: -5496095966432982368
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_4
+  - first:
+      213: -333231842096636980
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_5
+  - first:
+      213: -8601675874881876267
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_6
+  - first:
+      213: -3933963079391969711
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_7
+  - first:
+      213: 4332316126174409100
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_0
+  - first:
+      213: 9212459448392293364
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_1
+  - first:
+      213: 1417139964389525166
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_2
+  - first:
+      213: -3874886768952657825
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_3
+  - first:
+      213: 4337272185419400972
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_4
+  - first:
+      213: -3209667106418231947
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_5
+  - first:
+      213: -9179936021928767779
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_6
+  - first:
+      213: 2944666166516482226
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_7
+  - first:
+      213: -7122671830411984031
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_0
+  - first:
+      213: 2370342267398447779
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_1
+  - first:
+      213: 4968114017349060721
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_2
+  - first:
+      213: -5057653146825104461
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_3
+  - first:
+      213: 4801321549116234426
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_4
+  - first:
+      213: -7351219632684281586
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_5
+  - first:
+      213: 2010535982027238724
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_6
+  - first:
+      213: -874002889339626866
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_7
+  - first:
+      213: 9122431466280353001
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_0
+  - first:
+      213: -7013000995754294923
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_1
+  - first:
+      213: 601874487917194436
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_2
+  - first:
+      213: 2001414909897716735
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_3
+  - first:
+      213: -1853228955772034939
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_4
+  - first:
+      213: 7287351393033958489
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_5
+  - first:
+      213: -6479715733460877952
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_6
+  - first:
+      213: -2882620520851264328
+    second: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e675ad38c17f89950800000000000000
+      internalID: 6456181767678875502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cce9d45f4be80c0800000000000000
+      internalID: -4571517606072234944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97236f8b5726e7a00800000000000000
+      internalID: 756150045198660217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd499e572d019e90800000000000000
+      internalID: -7020815881351901697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99ebe54ac8dbae0800000000000000
+      internalID: -1531913660644025921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931897354d5c02e0800000000000000
+      internalID: -2158247569550470251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1ee12a3a78bc820800000000000000
+      internalID: 2939592318658732503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efdf3143552985b0800000000000000
+      internalID: -5365716441528016920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620d09faa18b6660800000000000000
+      internalID: 7380134985699492450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62150abbfbf2f3790800000000000000
+      internalID: -7548261949916557018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce091a9a9a8ea670800000000000000
+      internalID: 8551925139038080716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b9fdb0402741210800000000000000
+      internalID: 1302791553921555319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849a589dc8b45530800000000000000
+      internalID: 3842899575217755268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719a7119a5d63fe0800000000000000
+      internalID: -1209544527782964880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10981afda8392ea00800000000000000
+      internalID: 784351509782563073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452790e8081a88f0800000000000000
+      internalID: -537590779110546099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea09c222c8a6b950800000000000000
+      internalID: 6464539866897648356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b210c8c80e291d10800000000000000
+      internalID: 2096757716780323506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f83f76cb290cd810800000000000000
+      internalID: 1791316835405084913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa39529896bda4a0800000000000000
+      internalID: -6580402714111821060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164fce3a2e7ce5210800000000000000
+      internalID: 1323715116720256097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9162d8bcbf269090800000000000000
+      internalID: -8028176798140178020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f833ed584bf7d0800000000000000
+      internalID: -2883631568319351203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442153cf13c614880800000000000000
+      internalID: -8628496449124625852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f181846fdffaa0800000000000000
+      internalID: -6124931345438084726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e55ea42d5e632760800000000000000
+      internalID: 7431905156417869287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf60b2760f2c950800000000000000
+      internalID: 6467996340751629560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495bce10324464230800000000000000
+      internalID: 3622657867412977044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b92aa897ebecc10800000000000000
+      internalID: 2075805907490610053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d869c99b5e8836d0800000000000000
+      internalID: -3010499826823894826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7307c83cf99a9480800000000000000
+      internalID: -8891625205726248069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf960a5da356d6550800000000000000
+      internalID: 6155687569051904508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a658ac2fd57cd0800000000000000
+      internalID: -2560895430194452365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d56ee8dc9df3d70800000000000000
+      internalID: 9025171655162748224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c8eb7865ac6b50800000000000000
+      internalID: 6587822223110226702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7db9ffbe049b830800000000000000
+      internalID: 4087369519165331415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a2eb1134fe94af0800000000000000
+      internalID: -411534819588167012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a304b3c602cbc000800000000000000
+      internalID: 57352754581210018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac91702ecb86c10800000000000000
+      internalID: 2047093709607651894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f113084a6ba14c0800000000000000
+      internalID: -4315936475239604351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a01682ffc52dec0800000000000000
+      internalID: -3543667705823294823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e508df2673f0b0800000000000000
+      internalID: -5696079155833739514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ec9a78a931fd540800000000000000
+      internalID: 5034764462845447719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b973959e6663dee0800000000000000
+      internalID: -1237532847454848590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67696cf67cdd6f10800000000000000
+      internalID: 2264708591236245357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec0381549fb19e0800000000000000
+      internalID: -1649450763347243297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149e8dc2d90de5240800000000000000
+      internalID: 4782489227794901313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc50b79450d40080800000000000000
+      internalID: -9222017075207185199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c13afdfd6580e0800000000000000
+      internalID: -2268285899719457310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4ed75f568c5ce0800000000000000
+      internalID: -1415108438846977325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971b9757a4770ee80800000000000000
+      internalID: -8151384163858402951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39999543d7fd9d80800000000000000
+      internalID: -8242159256240285381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d580a115895fd0800000000000000
+      internalID: -2352703019570309314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcecb12d189bd510800000000000000
+      internalID: 1575019745583623381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8460ae0b979ae860800000000000000
+      internalID: 7560021616715916426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7469a188741e64da0800000000000000
+      internalID: -5960829359435901369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee47dd890e05320800000000000000
+      internalID: 2544780736619409141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e331631e22f462e0800000000000000
+      internalID: -2133314043759217696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60765e92a118be150800000000000000
+      internalID: 5902953685971199750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945461ba36e524470800000000000000
+      internalID: 8377362039027680585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35f58d06e820960800000000000000
+      internalID: 7566766870533985185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea731c87bc067550800000000000000
+      internalID: 6158123522944367343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de9f588d0ee32c0800000000000000
+      internalID: -4449872161230164701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed54c92039c2bac0800000000000000
+      internalID: -3840786323497263646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cb234cd8a90ef0800000000000000
+      internalID: -141396249312246719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a46d6ce119d990800000000000000
+      internalID: -7360832408815098389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764c755afeaea9700800000000000000
+      internalID: 548008619671012455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ec9e281e994ca0800000000000000
+      internalID: -6032116399187629745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81025387ed92900800000000000000
+      internalID: 660303428255226071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed3311162a57920800000000000000
+      internalID: 2987472465614331622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a1610f98570aa0800000000000000
+      internalID: -6194885322478606844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab1ba73b19691d0800000000000000
+      internalID: -3344325473232373105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b303314f7e03a0800000000000000
+      internalID: -6697275677847866922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ff17a5048caa00800000000000000
+      internalID: 769134796187103537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745a42e9a2eb20f0800000000000000
+      internalID: -1140568861334416260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1162702a2f91ebac0800000000000000
+      internalID: -3837601302581926383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab71571402be7c0800000000000000
+      internalID: -4041100775125435813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bf0b504598b130800000000000000
+      internalID: 3582777607211430759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ba0173bcc40f2c0800000000000000
+      internalID: -4399932400255063203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2501c0240178723f0800000000000000
+      internalID: -925622694504034222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f2bc05d9f58810800000000000000
+      internalID: 1767093122249192386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fb255aabc59a170800000000000000
+      internalID: 8190179354057293623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb5e64bb07151b80800000000000000
+      internalID: -8424802188887434306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ec44e2abffef20800000000000000
+      internalID: 3454256116249978367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be63e863bfff0c0800000000000000
+      internalID: -4539633687633401008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c729e6466dd7c160800000000000000
+      internalID: 7045843573390518211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af75e53867184dcd0800000000000000
+      internalID: -2534258344292624390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74131ce8b43870b0800000000000000
+      internalID: -5730772556989655939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580b1cdbf3be28e0800000000000000
+      internalID: -1716236513670657963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73de4fb20fb15420800000000000000
+      internalID: 2617082876999422842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d65c2dd4e149e0800000000000000
+      internalID: -1638777150803357209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ad1ad9ef6700e0800000000000000
+      internalID: -2303749634199279504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0e4d86d1f9b3b0800000000000000
+      internalID: -5496095966432982368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb1bf7b76f106bf0800000000000000
+      internalID: -333231842096636980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de4e9c8d55b0a880800000000000000
+      internalID: -8601675874881876267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ef65d1c61c769c0800000000000000
+      internalID: -3933963079391969711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81725b209a7f1c30800000000000000
+      internalID: 4332316126174409100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1d110f0b39df70800000000000000
+      internalID: 9212459448392293364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6827e0a41baa310800000000000000
+      internalID: 1417139964389525166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5837bf7303a93ac0800000000000000
+      internalID: -3874886768952657825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c070b12a216113c30800000000000000
+      internalID: 4337272185419400972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757fa2b5c8f473d0800000000000000
+      internalID: -3209667106418231947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8f1053d05a9080800000000000000
+      internalID: -9179936021928767779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b08355e64e8dd820800000000000000
+      internalID: 2944666166516482226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163cc9035bf272d90800000000000000
+      internalID: -7122671830411984031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e06ccbb525e020800000000000000
+      internalID: 2370342267398447779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cab7606942f440800000000000000
+      internalID: 4968114017349060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b36a52724b9fc9b0800000000000000
+      internalID: -5057653146825104461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba508ba288b1a240800000000000000
+      internalID: 4801321549116234426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d9f741b83bf990800000000000000
+      internalID: -7351219632684281586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44defd8c2dbd6eb10800000000000000
+      internalID: 2010535982027238724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1f38b00beed3f0800000000000000
+      internalID: -874002889339626866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec7c7bf513699e70800000000000000
+      internalID: 9122431466280353001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571ca9630c0dcae90800000000000000
+      internalID: -7013000995754294923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccacab68a94a5800800000000000000
+      internalID: 601874487917194436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3bf90b14476cb10800000000000000
+      internalID: 2001414909897716735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5806db365120846e0800000000000000
+      internalID: -1853228955772034939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954bc3f5b7fd12560800000000000000
+      internalID: 7287351393033958489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dfd851fdc6316a0800000000000000
+      internalID: -6479715733460877952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca868b8efdef7d0800000000000000
+      internalID: -2882620520851264328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0: -7378883830039187239
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_0: 6456181767678875502
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_1: -4571517606072234944
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_2: 756150045198660217
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_3: -7020815881351901697
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_4: -1531913660644025921
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_5: -2158247569550470251
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_6: 2939592318658732503
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_0_7: -5365716441528016920
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1: 1238034855267640931
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10: 8031753097507878719
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_0: 1767093122249192386
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_1: 8190179354057293623
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_2: -8424802188887434306
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_3: 3454256116249978367
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_4: -4539633687633401008
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_5: 7045843573390518211
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_6: -2534258344292624390
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_10_7: -5730772556989655939
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11: -623277636923756751
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_0: -1716236513670657963
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_1: 2617082876999422842
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_2: -1638777150803357209
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_3: -2303749634199279504
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_4: -5496095966432982368
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_5: -333231842096636980
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_6: -8601675874881876267
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_11_7: -3933963079391969711
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12: 565278503960775580
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_0: 4332316126174409100
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_1: 9212459448392293364
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_2: 1417139964389525166
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_3: -3874886768952657825
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_4: 4337272185419400972
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_5: -3209667106418231947
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_6: -9179936021928767779
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_12_7: 2944666166516482226
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13: -6402075433620383024
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_0: -7122671830411984031
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_1: 2370342267398447779
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_2: 4968114017349060721
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_3: -5057653146825104461
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_4: 4801321549116234426
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_5: -7351219632684281586
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_6: 2010535982027238724
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_13_7: -874002889339626866
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14: -1646558893491262620
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_0: 9122431466280353001
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_1: -7013000995754294923
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_2: 601874487917194436
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_3: 2001414909897716735
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_4: -1853228955772034939
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_5: 7287351393033958489
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_6: -6479715733460877952
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_14_7: -2882620520851264328
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_15: -5247611036534033076
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_16: 7619997320103534924
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_17: -2402192297733740118
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_18: -7058688188983143834
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_19: 2927045658946784174
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_0: 7380134985699492450
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_1: -7548261949916557018
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_2: 8551925139038080716
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_3: 1302791553921555319
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_4: 3842899575217755268
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_5: -1209544527782964880
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_6: 784351509782563073
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_1_7: -537590779110546099
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2: -5002848253119732701
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_20: 5698154924047908362
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_21: 9125212635781588194
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_22: -8674975084836538804
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_23: -4337182878555191253
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_24: -4778177928619902063
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_25: 4403513485585990664
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_0: 6464539866897648356
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_1: 2096757716780323506
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_2: 1791316835405084913
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_3: -6580402714111821060
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_4: 1323715116720256097
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_5: -8028176798140178020
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_6: -2883631568319351203
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_2_7: -8628496449124625852
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3: -443603508500293638
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_0: -6124931345438084726
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_1: 7431905156417869287
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_2: 6467996340751629560
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_3: 3622657867412977044
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_4: 2075805907490610053
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_5: -3010499826823894826
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_6: -8891625205726248069
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_3_7: 6155687569051904508
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4: 6038677524234668789
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_0: -2560895430194452365
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_1: 9025171655162748224
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_2: 6587822223110226702
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_3: 4087369519165331415
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_4: -411534819588167012
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_5: 57352754581210018
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_6: 2047093709607651894
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_4_7: -4315936475239604351
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5: 6377105660224091314
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_0: -3543667705823294823
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_1: -5696079155833739514
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_2: 5034764462845447719
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_3: -1237532847454848590
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_4: 2264708591236245357
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_5: -1649450763347243297
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_6: 4782489227794901313
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_5_7: -9222017075207185199
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6: -5800451230083837068
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_0: -2268285899719457310
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_1: -1415108438846977325
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_2: -8151384163858402951
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_3: -8242159256240285381
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_4: -2352703019570309314
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_5: 1575019745583623381
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_6: 7560021616715916426
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_6_7: -5960829359435901369
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7: -474117231411166545
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_0: 2544780736619409141
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_1: -2133314043759217696
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_2: 5902953685971199750
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_3: 8377362039027680585
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_4: 7566766870533985185
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_5: 6158123522944367343
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_6: -4449872161230164701
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_7_7: -3840786323497263646
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8: -7104498615819987394
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_0: -141396249312246719
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_1: -7360832408815098389
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_2: 548008619671012455
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_3: -6032116399187629745
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_4: 660303428255226071
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_5: 2987472465614331622
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_6: -6194885322478606844
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_8_7: -3344325473232373105
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9: -7345423002454667867
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_0: -6697275677847866922
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_1: 769134796187103537
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_2: -1140568861334416260
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_3: -3837601302581926383
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_4: -4041100775125435813
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_5: 3582777607211430759
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_6: -4399932400255063203
+      Tiny_Silent_Swamp_Minifantasy_TinyOverworldSilentSwampProps_9_7: -925622694504034222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

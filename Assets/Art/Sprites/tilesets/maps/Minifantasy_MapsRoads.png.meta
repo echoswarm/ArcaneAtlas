@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: cf227c58e7f680e47a0a926624eef5af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6507982037147521520
+    second: Minifantasy_MapsRoads_0
+  - first:
+      213: -8535407697623024786
+    second: Minifantasy_MapsRoads_1
+  - first:
+      213: 1529117004327141596
+    second: Minifantasy_MapsRoads_2
+  - first:
+      213: 7651550801082234201
+    second: Minifantasy_MapsRoads_3
+  - first:
+      213: -7831771587045710692
+    second: Minifantasy_MapsRoads_4
+  - first:
+      213: -1299983553921763247
+    second: Minifantasy_MapsRoads_5
+  - first:
+      213: 5997871148661081391
+    second: Minifantasy_MapsRoads_6
+  - first:
+      213: -1465370454053715833
+    second: Minifantasy_MapsRoads_7
+  - first:
+      213: 6630029694383307839
+    second: Minifantasy_MapsRoads_8
+  - first:
+      213: -8221822345000366487
+    second: Minifantasy_MapsRoads_9
+  - first:
+      213: -8798017893920118587
+    second: Minifantasy_MapsRoads_10
+  - first:
+      213: 4311361080421563635
+    second: Minifantasy_MapsRoads_11
+  - first:
+      213: -630157501093548705
+    second: Minifantasy_MapsRoads_12
+  - first:
+      213: 2996162197710354313
+    second: Minifantasy_MapsRoads_13
+  - first:
+      213: 1966353797875395264
+    second: Minifantasy_MapsRoads_14
+  - first:
+      213: -8139969805785802390
+    second: Minifantasy_MapsRoads_15
+  - first:
+      213: 5353036635481746364
+    second: Minifantasy_MapsRoads_16
+  - first:
+      213: 7960885154327371385
+    second: Minifantasy_MapsRoads_17
+  - first:
+      213: -5389812383007091421
+    second: Minifantasy_MapsRoads_0_0
+  - first:
+      213: 5330387704051332692
+    second: Minifantasy_MapsRoads_0_1
+  - first:
+      213: -2177564038633961063
+    second: Minifantasy_MapsRoads_0_2
+  - first:
+      213: -6278577015578747478
+    second: Minifantasy_MapsRoads_0_3
+  - first:
+      213: -9124201783151029003
+    second: Minifantasy_MapsRoads_0_4
+  - first:
+      213: -7002602854983356745
+    second: Minifantasy_MapsRoads_0_5
+  - first:
+      213: 3302046295776450997
+    second: Minifantasy_MapsRoads_0_6
+  - first:
+      213: 6231272295388671306
+    second: Minifantasy_MapsRoads_0_7
+  - first:
+      213: 5592214078068994491
+    second: Minifantasy_MapsRoads_0_8
+  - first:
+      213: -3391793876580446255
+    second: Minifantasy_MapsRoads_0_9
+  - first:
+      213: 8563183143555552650
+    second: Minifantasy_MapsRoads_0_10
+  - first:
+      213: 4584640741492557878
+    second: Minifantasy_MapsRoads_0_11
+  - first:
+      213: 6038502769324046430
+    second: Minifantasy_MapsRoads_0_12
+  - first:
+      213: -286412285396899172
+    second: Minifantasy_MapsRoads_0_13
+  - first:
+      213: -8144817470899905541
+    second: Minifantasy_MapsRoads_0_14
+  - first:
+      213: 8256608173327001938
+    second: Minifantasy_MapsRoads_1_0
+  - first:
+      213: 8407896277944810105
+    second: Minifantasy_MapsRoads_1_1
+  - first:
+      213: 7417620513134819493
+    second: Minifantasy_MapsRoads_1_2
+  - first:
+      213: 5824179807335752705
+    second: Minifantasy_MapsRoads_1_3
+  - first:
+      213: 9022779432695400642
+    second: Minifantasy_MapsRoads_1_4
+  - first:
+      213: -3796424565650208608
+    second: Minifantasy_MapsRoads_1_5
+  - first:
+      213: -7844002759072919272
+    second: Minifantasy_MapsRoads_1_6
+  - first:
+      213: -3854329128789984596
+    second: Minifantasy_MapsRoads_1_7
+  - first:
+      213: 4539843432697506095
+    second: Minifantasy_MapsRoads_1_8
+  - first:
+      213: -7059390846790661656
+    second: Minifantasy_MapsRoads_1_9
+  - first:
+      213: -4548512665133345864
+    second: Minifantasy_MapsRoads_1_10
+  - first:
+      213: -1799229009810739594
+    second: Minifantasy_MapsRoads_1_11
+  - first:
+      213: -7902462836751539964
+    second: Minifantasy_MapsRoads_1_12
+  - first:
+      213: -866332637492308962
+    second: Minifantasy_MapsRoads_1_13
+  - first:
+      213: 9029070311845039892
+    second: Minifantasy_MapsRoads_1_14
+  - first:
+      213: 2324805155251670432
+    second: Minifantasy_MapsRoads_2_0
+  - first:
+      213: 2210458912217978421
+    second: Minifantasy_MapsRoads_2_1
+  - first:
+      213: 2884445547814801538
+    second: Minifantasy_MapsRoads_2_2
+  - first:
+      213: -344368573008195461
+    second: Minifantasy_MapsRoads_2_3
+  - first:
+      213: 6217224480705062033
+    second: Minifantasy_MapsRoads_2_4
+  - first:
+      213: 5778248726202769010
+    second: Minifantasy_MapsRoads_2_5
+  - first:
+      213: -1839329632111439901
+    second: Minifantasy_MapsRoads_2_6
+  - first:
+      213: 6389795065579239674
+    second: Minifantasy_MapsRoads_2_7
+  - first:
+      213: -192573333625178891
+    second: Minifantasy_MapsRoads_2_8
+  - first:
+      213: 2524576735530088846
+    second: Minifantasy_MapsRoads_2_9
+  - first:
+      213: -962953927667313034
+    second: Minifantasy_MapsRoads_2_10
+  - first:
+      213: -1270607686574101102
+    second: Minifantasy_MapsRoads_2_11
+  - first:
+      213: 7578179742449996071
+    second: Minifantasy_MapsRoads_2_12
+  - first:
+      213: 5182455994769017359
+    second: Minifantasy_MapsRoads_2_13
+  - first:
+      213: 6700968498850559061
+    second: Minifantasy_MapsRoads_2_14
+  - first:
+      213: -5226385435547199202
+    second: Minifantasy_MapsRoads_3_0
+  - first:
+      213: 5841387188745547421
+    second: Minifantasy_MapsRoads_3_1
+  - first:
+      213: -6333360249572872151
+    second: Minifantasy_MapsRoads_3_2
+  - first:
+      213: 7412456732376152759
+    second: Minifantasy_MapsRoads_3_3
+  - first:
+      213: -7556584876435100932
+    second: Minifantasy_MapsRoads_3_4
+  - first:
+      213: 9213213113976009702
+    second: Minifantasy_MapsRoads_3_5
+  - first:
+      213: 6159403344688764849
+    second: Minifantasy_MapsRoads_3_6
+  - first:
+      213: -3180057385714750475
+    second: Minifantasy_MapsRoads_3_7
+  - first:
+      213: 3678951196132884208
+    second: Minifantasy_MapsRoads_3_8
+  - first:
+      213: 9217042839506164991
+    second: Minifantasy_MapsRoads_3_9
+  - first:
+      213: -4044438128840329765
+    second: Minifantasy_MapsRoads_3_10
+  - first:
+      213: -3894217592094107979
+    second: Minifantasy_MapsRoads_3_11
+  - first:
+      213: 7174544254762410725
+    second: Minifantasy_MapsRoads_3_12
+  - first:
+      213: 3134369941500051532
+    second: Minifantasy_MapsRoads_3_13
+  - first:
+      213: 4035937463301994978
+    second: Minifantasy_MapsRoads_3_14
+  - first:
+      213: -3216745206698713904
+    second: Minifantasy_MapsRoads_4_0
+  - first:
+      213: -6137318940095246554
+    second: Minifantasy_MapsRoads_4_1
+  - first:
+      213: -3098388750623402741
+    second: Minifantasy_MapsRoads_4_2
+  - first:
+      213: -1569443890044816548
+    second: Minifantasy_MapsRoads_4_3
+  - first:
+      213: 5593220549907787017
+    second: Minifantasy_MapsRoads_4_4
+  - first:
+      213: -1260232887329553145
+    second: Minifantasy_MapsRoads_4_5
+  - first:
+      213: 8468358030706119671
+    second: Minifantasy_MapsRoads_4_6
+  - first:
+      213: -4912888217216603859
+    second: Minifantasy_MapsRoads_4_7
+  - first:
+      213: -691264057791776787
+    second: Minifantasy_MapsRoads_4_8
+  - first:
+      213: 4633863555604645045
+    second: Minifantasy_MapsRoads_4_9
+  - first:
+      213: 1204349442327774024
+    second: Minifantasy_MapsRoads_4_10
+  - first:
+      213: 5548887267139073477
+    second: Minifantasy_MapsRoads_4_11
+  - first:
+      213: -3319290389841728810
+    second: Minifantasy_MapsRoads_4_12
+  - first:
+      213: -4232185093701435999
+    second: Minifantasy_MapsRoads_4_13
+  - first:
+      213: -3222030103999928414
+    second: Minifantasy_MapsRoads_4_14
+  - first:
+      213: 8661683534100594959
+    second: Minifantasy_MapsRoads_5_0
+  - first:
+      213: 1881871974930458618
+    second: Minifantasy_MapsRoads_5_1
+  - first:
+      213: 2237653016140981902
+    second: Minifantasy_MapsRoads_5_2
+  - first:
+      213: -336316283760729477
+    second: Minifantasy_MapsRoads_5_3
+  - first:
+      213: -7394636092559267572
+    second: Minifantasy_MapsRoads_5_4
+  - first:
+      213: -3114091173678536402
+    second: Minifantasy_MapsRoads_5_5
+  - first:
+      213: -6974757944699890621
+    second: Minifantasy_MapsRoads_5_6
+  - first:
+      213: -872804263678107508
+    second: Minifantasy_MapsRoads_5_7
+  - first:
+      213: 6790764615034343565
+    second: Minifantasy_MapsRoads_5_8
+  - first:
+      213: 3528395591362596997
+    second: Minifantasy_MapsRoads_5_9
+  - first:
+      213: -7501039752523301966
+    second: Minifantasy_MapsRoads_5_10
+  - first:
+      213: 1864555369410363938
+    second: Minifantasy_MapsRoads_5_11
+  - first:
+      213: -6105527045270684191
+    second: Minifantasy_MapsRoads_5_12
+  - first:
+      213: -5611271664602191279
+    second: Minifantasy_MapsRoads_5_13
+  - first:
+      213: -3359759680819849929
+    second: Minifantasy_MapsRoads_5_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255cd0b13a8335b0800000000000000
+      internalID: -5389812383007091421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456f61f006759f940800000000000000
+      internalID: 5330387704051332692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ce894b0db7c1e0800000000000000
+      internalID: -2177564038633961063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1f7b38730ed8a0800000000000000
+      internalID: -6278577015578747478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f41c4002d2506180800000000000000
+      internalID: -9124201783151029003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea4950ec1c1de90800000000000000
+      internalID: -7002602854983356745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b956ab6c9933dd20800000000000000
+      internalID: 3302046295776450997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4def51532de97650800000000000000
+      internalID: 6231272295388671306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bd3f33198b9d40800000000000000
+      internalID: 5592214078068994491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc313907dede0d0800000000000000
+      internalID: -3391793876580446255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85dd3a03b986d670800000000000000
+      internalID: 8563183143555552650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388273c67aef9f30800000000000000
+      internalID: 4584640741492557878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b5cc76421dc350800000000000000
+      internalID: 6038502769324046430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a2c9d3b85760cf0800000000000000
+      internalID: -286412285396899172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb9d9ec9abc7fe80800000000000000
+      internalID: -8144817470899905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2592eb4636d559270800000000000000
+      internalID: 8256608173327001938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aba3b2e19dea470800000000000000
+      internalID: 8407896277944810105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a83d047e8ea0f660800000000000000
+      internalID: 7417620513134819493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104204c4da4a3d050800000000000000
+      internalID: 5824179807335752705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8828cd61a573d70800000000000000
+      internalID: 9022779432695400642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84adbc8f3605bc0800000000000000
+      internalID: -3796424565650208608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115648cc01842390800000000000000
+      internalID: -7844002759072919272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3807141ca28ac0800000000000000
+      internalID: -3854329128789984596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2923d58c83c00f30800000000000000
+      internalID: 4539843432697506095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e906665d61080e90800000000000000
+      internalID: -7059390846790661656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39c5284df60e0c0800000000000000
+      internalID: -4548512665133345864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e27a09fbad707e0800000000000000
+      internalID: -1799229009810739594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401e2b44befc45290800000000000000
+      internalID: -7902462836751539964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1491f46e0b2af3f0800000000000000
+      internalID: -866332637492308962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8c8d4c93bd4d70800000000000000
+      internalID: 9029070311845039892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc5caa8fd534020800000000000000
+      internalID: 2324805155251670432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536595d4ba02dae10800000000000000
+      internalID: 2210458912217978421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280557b71fb970820800000000000000
+      internalID: 2884445547814801538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70d90e7b9e883bf0800000000000000
+      internalID: -344368573008195461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a94599b4084650800000000000000
+      internalID: 6217224480705062033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e5b2d1a96703050800000000000000
+      internalID: 5778248726202769010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc52dd1736976e0800000000000000
+      internalID: -1839329632111439901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f46fe1cc1da850800000000000000
+      internalID: 6389795065579239674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4fe08c297d35df0800000000000000
+      internalID: -192573333625178891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e897c794a29190320800000000000000
+      internalID: 2524576735530088846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67692563186e2a2f0800000000000000
+      internalID: -962953927667313034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29daed08a05ed5ee0800000000000000
+      internalID: -1270607686574101102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211bc8235a1b2960800000000000000
+      internalID: 7578179742449996071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0d48f448cbe740800000000000000
+      internalID: 5182455994769017359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f111b85f9efc50800000000000000
+      internalID: 6700968498850559061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191fee03262877b0800000000000000
+      internalID: -5226385435547199202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e22bcf2b6c01150800000000000000
+      internalID: 5841387188745547421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92031a998626b18a0800000000000000
+      internalID: -6333360249572872151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7babb3e00265ed660800000000000000
+      internalID: 7412456732376152759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa2ff4671e912790800000000000000
+      internalID: -7556584876435100932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3b2827388ebdf70800000000000000
+      internalID: 9213213113976009702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d68445b89a7550800000000000000
+      internalID: 6159403344688764849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6d1708aa2ed3d0800000000000000
+      internalID: -3180057385714750475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febf77fe924e0330800000000000000
+      internalID: 3678951196132884208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9258e0a389ef70800000000000000
+      internalID: 9217042839506164991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53d6e33f44fd7c0800000000000000
+      internalID: -4044438128840329765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b657218bb5f4f9c0800000000000000
+      internalID: -3894217592094107979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ee62ccf9119360800000000000000
+      internalID: 7174544254762410725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40c5cdead48f7b20800000000000000
+      internalID: 3134369941500051532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e97ec35db7820830800000000000000
+      internalID: 4035937463301994978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc58cd0743db53d0800000000000000
+      internalID: -3216745206698713904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f885ed0fcd3daa0800000000000000
+      internalID: -6137318940095246554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059607e8df4005d0800000000000000
+      internalID: -3098388750623402741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b8f6e817383ae0800000000000000
+      internalID: -1569443890044816548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d2babb47c1f9d40800000000000000
+      internalID: 5593220549907787017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7050570bdd0c28ee0800000000000000
+      internalID: -1260232887329553145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3901bf2c6a58570800000000000000
+      internalID: 8468358030706119671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292a9f223ae1dbb0800000000000000
+      internalID: -4912888217216603859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7735d70032866f0800000000000000
+      internalID: -691264057791776787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b481714a5ace4040800000000000000
+      internalID: 4633863555604645045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8430367df65b6b010800000000000000
+      internalID: 1204349442327774024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53388f19b910d40800000000000000
+      internalID: 5548887267139073477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daad1f0af28fe1d0800000000000000
+      internalID: -3319290389841728810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adf83294124445c0800000000000000
+      internalID: -4232185093701435999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7287301bc0943d0800000000000000
+      internalID: -3222030103999928414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018aee584b743870800000000000000
+      internalID: 8661683534100594959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af72e723790cd1a10800000000000000
+      internalID: 1881871974930458618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862aa5009dbd0f10800000000000000
+      internalID: 2237653016140981902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72234e2f1a255bf0800000000000000
+      internalID: -336316283760729477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e8bbf6a9f06990800000000000000
+      internalID: -7394636092559267572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2926b2a39688c4d0800000000000000
+      internalID: -3114091173678536402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34454d76a9ea43f90800000000000000
+      internalID: -6974757944699890621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c802501852d23e3f0800000000000000
+      internalID: -872804263678107508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801a683074ad3e50800000000000000
+      internalID: 6790764615034343565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d83a981167f030800000000000000
+      internalID: 3528395591362596997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbb3c85614f6e790800000000000000
+      internalID: -7501039752523301966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22280c9ca3b30e910800000000000000
+      internalID: 1864555369410363938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb914308fc44ba0800000000000000
+      internalID: -6105527045270684191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aeb2d9622c022b0800000000000000
+      internalID: -5611271664602191279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRoads_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7359d0efe5cbf51d0800000000000000
+      internalID: -3359759680819849929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MapsRoads_0: -6507982037147521520
+      Minifantasy_MapsRoads_0_0: -5389812383007091421
+      Minifantasy_MapsRoads_0_1: 5330387704051332692
+      Minifantasy_MapsRoads_0_10: 8563183143555552650
+      Minifantasy_MapsRoads_0_11: 4584640741492557878
+      Minifantasy_MapsRoads_0_12: 6038502769324046430
+      Minifantasy_MapsRoads_0_13: -286412285396899172
+      Minifantasy_MapsRoads_0_14: -8144817470899905541
+      Minifantasy_MapsRoads_0_2: -2177564038633961063
+      Minifantasy_MapsRoads_0_3: -6278577015578747478
+      Minifantasy_MapsRoads_0_4: -9124201783151029003
+      Minifantasy_MapsRoads_0_5: -7002602854983356745
+      Minifantasy_MapsRoads_0_6: 3302046295776450997
+      Minifantasy_MapsRoads_0_7: 6231272295388671306
+      Minifantasy_MapsRoads_0_8: 5592214078068994491
+      Minifantasy_MapsRoads_0_9: -3391793876580446255
+      Minifantasy_MapsRoads_1: -8535407697623024786
+      Minifantasy_MapsRoads_10: -8798017893920118587
+      Minifantasy_MapsRoads_11: 4311361080421563635
+      Minifantasy_MapsRoads_12: -630157501093548705
+      Minifantasy_MapsRoads_13: 2996162197710354313
+      Minifantasy_MapsRoads_14: 1966353797875395264
+      Minifantasy_MapsRoads_15: -8139969805785802390
+      Minifantasy_MapsRoads_16: 5353036635481746364
+      Minifantasy_MapsRoads_17: 7960885154327371385
+      Minifantasy_MapsRoads_1_0: 8256608173327001938
+      Minifantasy_MapsRoads_1_1: 8407896277944810105
+      Minifantasy_MapsRoads_1_10: -4548512665133345864
+      Minifantasy_MapsRoads_1_11: -1799229009810739594
+      Minifantasy_MapsRoads_1_12: -7902462836751539964
+      Minifantasy_MapsRoads_1_13: -866332637492308962
+      Minifantasy_MapsRoads_1_14: 9029070311845039892
+      Minifantasy_MapsRoads_1_2: 7417620513134819493
+      Minifantasy_MapsRoads_1_3: 5824179807335752705
+      Minifantasy_MapsRoads_1_4: 9022779432695400642
+      Minifantasy_MapsRoads_1_5: -3796424565650208608
+      Minifantasy_MapsRoads_1_6: -7844002759072919272
+      Minifantasy_MapsRoads_1_7: -3854329128789984596
+      Minifantasy_MapsRoads_1_8: 4539843432697506095
+      Minifantasy_MapsRoads_1_9: -7059390846790661656
+      Minifantasy_MapsRoads_2: 1529117004327141596
+      Minifantasy_MapsRoads_2_0: 2324805155251670432
+      Minifantasy_MapsRoads_2_1: 2210458912217978421
+      Minifantasy_MapsRoads_2_10: -962953927667313034
+      Minifantasy_MapsRoads_2_11: -1270607686574101102
+      Minifantasy_MapsRoads_2_12: 7578179742449996071
+      Minifantasy_MapsRoads_2_13: 5182455994769017359
+      Minifantasy_MapsRoads_2_14: 6700968498850559061
+      Minifantasy_MapsRoads_2_2: 2884445547814801538
+      Minifantasy_MapsRoads_2_3: -344368573008195461
+      Minifantasy_MapsRoads_2_4: 6217224480705062033
+      Minifantasy_MapsRoads_2_5: 5778248726202769010
+      Minifantasy_MapsRoads_2_6: -1839329632111439901
+      Minifantasy_MapsRoads_2_7: 6389795065579239674
+      Minifantasy_MapsRoads_2_8: -192573333625178891
+      Minifantasy_MapsRoads_2_9: 2524576735530088846
+      Minifantasy_MapsRoads_3: 7651550801082234201
+      Minifantasy_MapsRoads_3_0: -5226385435547199202
+      Minifantasy_MapsRoads_3_1: 5841387188745547421
+      Minifantasy_MapsRoads_3_10: -4044438128840329765
+      Minifantasy_MapsRoads_3_11: -3894217592094107979
+      Minifantasy_MapsRoads_3_12: 7174544254762410725
+      Minifantasy_MapsRoads_3_13: 3134369941500051532
+      Minifantasy_MapsRoads_3_14: 4035937463301994978
+      Minifantasy_MapsRoads_3_2: -6333360249572872151
+      Minifantasy_MapsRoads_3_3: 7412456732376152759
+      Minifantasy_MapsRoads_3_4: -7556584876435100932
+      Minifantasy_MapsRoads_3_5: 9213213113976009702
+      Minifantasy_MapsRoads_3_6: 6159403344688764849
+      Minifantasy_MapsRoads_3_7: -3180057385714750475
+      Minifantasy_MapsRoads_3_8: 3678951196132884208
+      Minifantasy_MapsRoads_3_9: 9217042839506164991
+      Minifantasy_MapsRoads_4: -7831771587045710692
+      Minifantasy_MapsRoads_4_0: -3216745206698713904
+      Minifantasy_MapsRoads_4_1: -6137318940095246554
+      Minifantasy_MapsRoads_4_10: 1204349442327774024
+      Minifantasy_MapsRoads_4_11: 5548887267139073477
+      Minifantasy_MapsRoads_4_12: -3319290389841728810
+      Minifantasy_MapsRoads_4_13: -4232185093701435999
+      Minifantasy_MapsRoads_4_14: -3222030103999928414
+      Minifantasy_MapsRoads_4_2: -3098388750623402741
+      Minifantasy_MapsRoads_4_3: -1569443890044816548
+      Minifantasy_MapsRoads_4_4: 5593220549907787017
+      Minifantasy_MapsRoads_4_5: -1260232887329553145
+      Minifantasy_MapsRoads_4_6: 8468358030706119671
+      Minifantasy_MapsRoads_4_7: -4912888217216603859
+      Minifantasy_MapsRoads_4_8: -691264057791776787
+      Minifantasy_MapsRoads_4_9: 4633863555604645045
+      Minifantasy_MapsRoads_5: -1299983553921763247
+      Minifantasy_MapsRoads_5_0: 8661683534100594959
+      Minifantasy_MapsRoads_5_1: 1881871974930458618
+      Minifantasy_MapsRoads_5_10: -7501039752523301966
+      Minifantasy_MapsRoads_5_11: 1864555369410363938
+      Minifantasy_MapsRoads_5_12: -6105527045270684191
+      Minifantasy_MapsRoads_5_13: -5611271664602191279
+      Minifantasy_MapsRoads_5_14: -3359759680819849929
+      Minifantasy_MapsRoads_5_2: 2237653016140981902
+      Minifantasy_MapsRoads_5_3: -336316283760729477
+      Minifantasy_MapsRoads_5_4: -7394636092559267572
+      Minifantasy_MapsRoads_5_5: -3114091173678536402
+      Minifantasy_MapsRoads_5_6: -6974757944699890621
+      Minifantasy_MapsRoads_5_7: -872804263678107508
+      Minifantasy_MapsRoads_5_8: 6790764615034343565
+      Minifantasy_MapsRoads_5_9: 3528395591362596997
+      Minifantasy_MapsRoads_6: 5997871148661081391
+      Minifantasy_MapsRoads_7: -1465370454053715833
+      Minifantasy_MapsRoads_8: 6630029694383307839
+      Minifantasy_MapsRoads_9: -8221822345000366487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

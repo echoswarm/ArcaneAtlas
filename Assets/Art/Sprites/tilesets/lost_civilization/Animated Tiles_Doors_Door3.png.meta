@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: e30f333bd4bc34d43b3622269d0c309c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2536238609751799322
+    second: Animated Tiles_Doors_Door3_0
+  - first:
+      213: 8379825642594258665
+    second: Animated Tiles_Doors_Door3_0_0
+  - first:
+      213: -8356318466970328296
+    second: Animated Tiles_Doors_Door3_0_1
+  - first:
+      213: -4739591334207883900
+    second: Animated Tiles_Doors_Door3_0_2
+  - first:
+      213: -5253322780060947414
+    second: Animated Tiles_Doors_Door3_0_3
+  - first:
+      213: 327038797447731258
+    second: Animated Tiles_Doors_Door3_0_4
+  - first:
+      213: 7383566589657032478
+    second: Animated Tiles_Doors_Door3_0_5
+  - first:
+      213: 962093969160453195
+    second: Animated Tiles_Doors_Door3_0_6
+  - first:
+      213: 8649246604062409487
+    second: Animated Tiles_Doors_Door3_0_7
+  - first:
+      213: 932622456484507103
+    second: Animated Tiles_Doors_Door3_0_8
+  - first:
+      213: 4586733142899965760
+    second: Animated Tiles_Doors_Door3_0_9
+  - first:
+      213: 1684219912232886594
+    second: Animated Tiles_Doors_Door3_0_10
+  - first:
+      213: -6666668793415902936
+    second: Animated Tiles_Doors_Door3_0_11
+  - first:
+      213: 374131275014576270
+    second: Animated Tiles_Doors_Door3_1_0
+  - first:
+      213: -3941145626950312562
+    second: Animated Tiles_Doors_Door3_1_1
+  - first:
+      213: 1793913883165396213
+    second: Animated Tiles_Doors_Door3_1_2
+  - first:
+      213: -1318391599915313061
+    second: Animated Tiles_Doors_Door3_1_3
+  - first:
+      213: -5994004735993105631
+    second: Animated Tiles_Doors_Door3_1_4
+  - first:
+      213: 251886610038175880
+    second: Animated Tiles_Doors_Door3_1_5
+  - first:
+      213: -8297078591882962606
+    second: Animated Tiles_Doors_Door3_1_6
+  - first:
+      213: 995642524583800794
+    second: Animated Tiles_Doors_Door3_1_7
+  - first:
+      213: -3334733066967669654
+    second: Animated Tiles_Doors_Door3_1_8
+  - first:
+      213: -1321377939188883406
+    second: Animated Tiles_Doors_Door3_1_9
+  - first:
+      213: 8576736121538517987
+    second: Animated Tiles_Doors_Door3_1_10
+  - first:
+      213: 5333082253388997187
+    second: Animated Tiles_Doors_Door3_1_11
+  - first:
+      213: 1750517474497505048
+    second: Animated Tiles_Doors_Door3_2_0
+  - first:
+      213: -7702325404807871427
+    second: Animated Tiles_Doors_Door3_2_1
+  - first:
+      213: 7843544638704753706
+    second: Animated Tiles_Doors_Door3_2_2
+  - first:
+      213: 5927364592803856497
+    second: Animated Tiles_Doors_Door3_2_3
+  - first:
+      213: -3021173575431041521
+    second: Animated Tiles_Doors_Door3_2_4
+  - first:
+      213: 5604713616952831235
+    second: Animated Tiles_Doors_Door3_2_5
+  - first:
+      213: -1439649278360057184
+    second: Animated Tiles_Doors_Door3_2_6
+  - first:
+      213: 4095607681105196926
+    second: Animated Tiles_Doors_Door3_2_7
+  - first:
+      213: 17873634332038668
+    second: Animated Tiles_Doors_Door3_2_8
+  - first:
+      213: 9037875319266420071
+    second: Animated Tiles_Doors_Door3_2_9
+  - first:
+      213: -4587987647407929254
+    second: Animated Tiles_Doors_Door3_2_10
+  - first:
+      213: 7154949968834743319
+    second: Animated Tiles_Doors_Door3_2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee4a82160f1b4470800000000000000
+      internalID: 8379825642594258665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8136232c0a4680c80800000000000000
+      internalID: -8356318466970328296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f4000bc6993eb0800000000000000
+      internalID: -4739591334207883900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ceffbc3c27817b0800000000000000
+      internalID: -5253322780060947414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3894a5bd00e98400800000000000000
+      internalID: 327038797447731258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1723f781b2b77660800000000000000
+      internalID: 7383566589657032478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cba581e5b0a5d00800000000000000
+      internalID: 962093969160453195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c4e1f5fb480870800000000000000
+      internalID: 8649246604062409487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddaf44de2751fc00800000000000000
+      internalID: 932622456484507103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f301eed7957af30800000000000000
+      internalID: 4586733142899965760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e748361d8f5710800000000000000
+      internalID: 1684219912232886594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829534dcd0c3b73a0800000000000000
+      internalID: -6666668793415902936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e889b92996e213500800000000000000
+      internalID: 374131275014576270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dda81feec3e49c0800000000000000
+      internalID: -3941145626950312562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc07b31c2345e810800000000000000
+      internalID: 1793913883165396213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58503433d124bde0800000000000000
+      internalID: -1318391599915313061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233f11437401dca0800000000000000
+      internalID: -5994004735993105631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b00b8981ee7300800000000000000
+      internalID: 251886610038175880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25951510bfadadc80800000000000000
+      internalID: -8297078591882962606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf2719d99b31dd00800000000000000
+      internalID: 995642524583800794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a4aa91f5a8b1d0800000000000000
+      internalID: -3334733066967669654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230eb98e3c589ade0800000000000000
+      internalID: -1321377939188883406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9090af00b60770800000000000000
+      internalID: 8576736121538517987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342e037bd0ae20a40800000000000000
+      internalID: 5333082253388997187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817a9805e561b4810800000000000000
+      internalID: 1750517474497505048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c5fd5ad7db1590800000000000000
+      internalID: -7702325404807871427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9ae1ca4ed9dc60800000000000000
+      internalID: 7843544638704753706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1704d4051ba324250800000000000000
+      internalID: 5927364592803856497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec2a7d3a2a216d0800000000000000
+      internalID: -3021173575431041521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da44ee651f7cd40800000000000000
+      internalID: 5604713616952831235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8332eb96550ce0800000000000000
+      internalID: -1439649278360057184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f2ab8c7586d830800000000000000
+      internalID: 4095607681105196926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06d439c9ff7f3000800000000000000
+      internalID: 17873634332038668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652529d7bbfc6d70800000000000000
+      internalID: 9037875319266420071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ce5afa813450c0800000000000000
+      internalID: -4587987647407929254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Doors_Door3_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c461e861d7b4360800000000000000
+      internalID: 7154949968834743319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animated Tiles_Doors_Door3_0: 2536238609751799322
+      Animated Tiles_Doors_Door3_0_0: 8379825642594258665
+      Animated Tiles_Doors_Door3_0_1: -8356318466970328296
+      Animated Tiles_Doors_Door3_0_10: 1684219912232886594
+      Animated Tiles_Doors_Door3_0_11: -6666668793415902936
+      Animated Tiles_Doors_Door3_0_2: -4739591334207883900
+      Animated Tiles_Doors_Door3_0_3: -5253322780060947414
+      Animated Tiles_Doors_Door3_0_4: 327038797447731258
+      Animated Tiles_Doors_Door3_0_5: 7383566589657032478
+      Animated Tiles_Doors_Door3_0_6: 962093969160453195
+      Animated Tiles_Doors_Door3_0_7: 8649246604062409487
+      Animated Tiles_Doors_Door3_0_8: 932622456484507103
+      Animated Tiles_Doors_Door3_0_9: 4586733142899965760
+      Animated Tiles_Doors_Door3_1_0: 374131275014576270
+      Animated Tiles_Doors_Door3_1_1: -3941145626950312562
+      Animated Tiles_Doors_Door3_1_10: 8576736121538517987
+      Animated Tiles_Doors_Door3_1_11: 5333082253388997187
+      Animated Tiles_Doors_Door3_1_2: 1793913883165396213
+      Animated Tiles_Doors_Door3_1_3: -1318391599915313061
+      Animated Tiles_Doors_Door3_1_4: -5994004735993105631
+      Animated Tiles_Doors_Door3_1_5: 251886610038175880
+      Animated Tiles_Doors_Door3_1_6: -8297078591882962606
+      Animated Tiles_Doors_Door3_1_7: 995642524583800794
+      Animated Tiles_Doors_Door3_1_8: -3334733066967669654
+      Animated Tiles_Doors_Door3_1_9: -1321377939188883406
+      Animated Tiles_Doors_Door3_2_0: 1750517474497505048
+      Animated Tiles_Doors_Door3_2_1: -7702325404807871427
+      Animated Tiles_Doors_Door3_2_10: -4587987647407929254
+      Animated Tiles_Doors_Door3_2_11: 7154949968834743319
+      Animated Tiles_Doors_Door3_2_2: 7843544638704753706
+      Animated Tiles_Doors_Door3_2_3: 5927364592803856497
+      Animated Tiles_Doors_Door3_2_4: -3021173575431041521
+      Animated Tiles_Doors_Door3_2_5: 5604713616952831235
+      Animated Tiles_Doors_Door3_2_6: -1439649278360057184
+      Animated Tiles_Doors_Door3_2_7: 4095607681105196926
+      Animated Tiles_Doors_Door3_2_8: 17873634332038668
+      Animated Tiles_Doors_Door3_2_9: 9037875319266420071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

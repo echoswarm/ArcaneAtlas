@@ -1,0 +1,4140 @@
+fileFormatVersion: 2
+guid: 6bbd91f2d94577042ab40eb734bbae28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4997603312731449741
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0
+  - first:
+      213: -713793570962135898
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1
+  - first:
+      213: -6515886688359338506
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2
+  - first:
+      213: -2086128893938613177
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3
+  - first:
+      213: -6503560550927126935
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4
+  - first:
+      213: 2196100681878348450
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5
+  - first:
+      213: -4507058270037530850
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6
+  - first:
+      213: -4499585562619248877
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7
+  - first:
+      213: 6575715985426465151
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_0
+  - first:
+      213: -4682929874527952421
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_1
+  - first:
+      213: -4660869534497661781
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_2
+  - first:
+      213: 1822427758381785535
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_3
+  - first:
+      213: 4646429604542596752
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_4
+  - first:
+      213: 729930794909509215
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_5
+  - first:
+      213: -5604793563601199058
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_6
+  - first:
+      213: 1031830187107100881
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_7
+  - first:
+      213: 5965642153919464456
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_8
+  - first:
+      213: -3959844262454571364
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_9
+  - first:
+      213: 439880716420660596
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_10
+  - first:
+      213: -1568601419594974917
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_11
+  - first:
+      213: 6189131388774536606
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_12
+  - first:
+      213: 4851720541202387266
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_13
+  - first:
+      213: -6839359064723118200
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_14
+  - first:
+      213: -297267965241216710
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_15
+  - first:
+      213: 837923361390966056
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_16
+  - first:
+      213: 7471868321001147092
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_17
+  - first:
+      213: 7945321378208993902
+    second: Minifantasy_IcyWildernessPropsSnowTransition_0_18
+  - first:
+      213: -2086395603998804957
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_0
+  - first:
+      213: 7017660367133736214
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_1
+  - first:
+      213: 2610996324265541795
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_2
+  - first:
+      213: -6222569064115444972
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_3
+  - first:
+      213: 2238492791781373244
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_4
+  - first:
+      213: -6799135773432557728
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_5
+  - first:
+      213: -7125895478370255721
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_6
+  - first:
+      213: 2237030697528289609
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_7
+  - first:
+      213: 3968093287104142398
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_8
+  - first:
+      213: -4075797766533156804
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_9
+  - first:
+      213: -7947642833522275637
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_10
+  - first:
+      213: 3710033178060156629
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_11
+  - first:
+      213: -8541234319823733119
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_12
+  - first:
+      213: 211571333607389758
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_13
+  - first:
+      213: -8786974899604167797
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_14
+  - first:
+      213: 3180168334744976889
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_15
+  - first:
+      213: 1138274907064654465
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_16
+  - first:
+      213: -261008252779153501
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_17
+  - first:
+      213: -794085920696509212
+    second: Minifantasy_IcyWildernessPropsSnowTransition_1_18
+  - first:
+      213: 9053628139967983351
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_0
+  - first:
+      213: -5694689831979089461
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_1
+  - first:
+      213: -8975624597253740181
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_2
+  - first:
+      213: -9089661524248098470
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_3
+  - first:
+      213: 8078840326083217684
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_4
+  - first:
+      213: -1003126180634127967
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_5
+  - first:
+      213: -7809186872930472957
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_6
+  - first:
+      213: 7131679825086927740
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_7
+  - first:
+      213: 9003001005833797169
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_8
+  - first:
+      213: 2761814106321681818
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_9
+  - first:
+      213: -2396799987074707844
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_10
+  - first:
+      213: 9111091637133189831
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_11
+  - first:
+      213: 1419079785618341488
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_12
+  - first:
+      213: -6111684291149133979
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_13
+  - first:
+      213: -7818352721011712661
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_14
+  - first:
+      213: -8514938513232214025
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_15
+  - first:
+      213: -5871524100307296917
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_16
+  - first:
+      213: -6734149129819729289
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_17
+  - first:
+      213: -7624568493248160621
+    second: Minifantasy_IcyWildernessPropsSnowTransition_2_18
+  - first:
+      213: -5370954635007535753
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_0
+  - first:
+      213: 4888519680888974981
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_1
+  - first:
+      213: 6506388723414453619
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_2
+  - first:
+      213: -8904258779421457744
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_3
+  - first:
+      213: -5765566283093294875
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_4
+  - first:
+      213: -2573961738298485652
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_5
+  - first:
+      213: -7502734158087745359
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_6
+  - first:
+      213: 3597539164733964121
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_7
+  - first:
+      213: 221971356675608334
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_8
+  - first:
+      213: 5086332478126289560
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_9
+  - first:
+      213: 1633847524323692995
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_10
+  - first:
+      213: -5661264072463464190
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_11
+  - first:
+      213: -685822790208278174
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_12
+  - first:
+      213: -1773024994919016354
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_13
+  - first:
+      213: -3104442950503222402
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_14
+  - first:
+      213: -6149241558133767489
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_15
+  - first:
+      213: 7006887887620503546
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_16
+  - first:
+      213: -2984024683530631220
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_17
+  - first:
+      213: 5557296294216569847
+    second: Minifantasy_IcyWildernessPropsSnowTransition_3_18
+  - first:
+      213: 3671451216796135901
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_0
+  - first:
+      213: -9035448101038248887
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_1
+  - first:
+      213: -8860582113654285456
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_2
+  - first:
+      213: 8610405145456371886
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_3
+  - first:
+      213: 8106894255346753302
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_4
+  - first:
+      213: 7803208677745854281
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_5
+  - first:
+      213: 4254623345819062063
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_6
+  - first:
+      213: -892832150090697032
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_7
+  - first:
+      213: -8388881637826410197
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_8
+  - first:
+      213: -2568726211567601511
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_9
+  - first:
+      213: -3355929487464266397
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_10
+  - first:
+      213: -5507019623206480480
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_11
+  - first:
+      213: -6174566656376159156
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_12
+  - first:
+      213: 4242998568100374206
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_13
+  - first:
+      213: -5074004220336925173
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_14
+  - first:
+      213: 3952979040869080962
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_15
+  - first:
+      213: 4189397763623428074
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_16
+  - first:
+      213: -4730855744655451147
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_17
+  - first:
+      213: -6377715177904618862
+    second: Minifantasy_IcyWildernessPropsSnowTransition_4_18
+  - first:
+      213: -1727129669431437169
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_0
+  - first:
+      213: 7229584005937830452
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_1
+  - first:
+      213: -984234795842214496
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_2
+  - first:
+      213: 1738270955496239866
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_3
+  - first:
+      213: -3810774654540953538
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_4
+  - first:
+      213: -5252894374354154563
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_5
+  - first:
+      213: 7035333845013952217
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_6
+  - first:
+      213: 3306919960401288113
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_7
+  - first:
+      213: 4802273608593999427
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_8
+  - first:
+      213: -4596976390492535444
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_9
+  - first:
+      213: 5027496111588377667
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_10
+  - first:
+      213: -4810859091651362318
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_11
+  - first:
+      213: 4559322595723291765
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_12
+  - first:
+      213: -2122407319754965258
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_13
+  - first:
+      213: -7681845790686964486
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_14
+  - first:
+      213: -3975202293843097331
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_15
+  - first:
+      213: -887450554805837481
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_16
+  - first:
+      213: 2315415742649403739
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_17
+  - first:
+      213: 5332316827141898632
+    second: Minifantasy_IcyWildernessPropsSnowTransition_5_18
+  - first:
+      213: -7124993065465393275
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_0
+  - first:
+      213: -8573482816951076214
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_1
+  - first:
+      213: -3185743366506994636
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_2
+  - first:
+      213: -1011963959795941373
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_3
+  - first:
+      213: 3633113498677820667
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_4
+  - first:
+      213: -6155745738603066667
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_5
+  - first:
+      213: 2436311688915650663
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_6
+  - first:
+      213: -2523721123380353527
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_7
+  - first:
+      213: 7726539078438254470
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_8
+  - first:
+      213: 2464611762060098077
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_9
+  - first:
+      213: 8096133885791170065
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_10
+  - first:
+      213: 176905553193844657
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_11
+  - first:
+      213: 4074093693760659187
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_12
+  - first:
+      213: 6835438645712388342
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_13
+  - first:
+      213: 3027743449360561148
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_14
+  - first:
+      213: 2138539407287523121
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_15
+  - first:
+      213: 3136983338078461066
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_16
+  - first:
+      213: 6901853104725140469
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_17
+  - first:
+      213: -5581180573462563095
+    second: Minifantasy_IcyWildernessPropsSnowTransition_6_18
+  - first:
+      213: -3810025728391289062
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_0
+  - first:
+      213: -8701879379540829489
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_1
+  - first:
+      213: 5235051182793816724
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_2
+  - first:
+      213: 209780143384257074
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_3
+  - first:
+      213: 2446903812959098068
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_4
+  - first:
+      213: -3009083518316076309
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_5
+  - first:
+      213: -2100734500447722721
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_6
+  - first:
+      213: -4754348949746185703
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_7
+  - first:
+      213: 1979777644713796431
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_8
+  - first:
+      213: -1179281449946582856
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_9
+  - first:
+      213: -4721500697345349165
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_10
+  - first:
+      213: 254256651029073747
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_11
+  - first:
+      213: -2884207301767306180
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_12
+  - first:
+      213: -4720988472834273482
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_13
+  - first:
+      213: 3436095620678127267
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_14
+  - first:
+      213: 4320643134482081214
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_15
+  - first:
+      213: -2985129509413317320
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_16
+  - first:
+      213: -8027838175147024158
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_17
+  - first:
+      213: 7752745192574659197
+    second: Minifantasy_IcyWildernessPropsSnowTransition_7_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c33f59d2a14b50800000000000000
+      internalID: 6575715985426465151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd162b02714e20fb0800000000000000
+      internalID: -4682929874527952421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac93db4ad3415fb0800000000000000
+      internalID: -4660869534497661781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1682ff3609a4910800000000000000
+      internalID: 1822427758381785535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096ce948b1f6b7040800000000000000
+      internalID: 4646429604542596752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56233dc03c312a00800000000000000
+      internalID: 729930794909509215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a72a03f5c732b0800000000000000
+      internalID: -5604793563601199058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82b0b961cc15e00800000000000000
+      internalID: 1031830187107100881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80447718ee73ac250800000000000000
+      internalID: 5965642153919464456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec68a9f9ecb09c0800000000000000
+      internalID: -3959844262454571364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d3cc55e25ca1600800000000000000
+      internalID: 439880716420660596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b393ed6d1553b3ae0800000000000000
+      internalID: -1568601419594974917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955028e43634e550800000000000000
+      internalID: 6189131388774536606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24195df6026c45340800000000000000
+      internalID: 4851720541202387266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887a4d7ca27b511a0800000000000000
+      internalID: -6839359064723118200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31b1b05c54efdbf0800000000000000
+      internalID: -297267965241216710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b5b09bd6e0ab00800000000000000
+      internalID: 837923361390966056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da84c976a861b760800000000000000
+      internalID: 7471868321001147092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d67682b3734e60800000000000000
+      internalID: 7945321378208993902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f6ba9042ab03e0800000000000000
+      internalID: -2086395603998804957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df7593cecb36160800000000000000
+      internalID: 7017660367133736214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c2b1c25f1c3420800000000000000
+      internalID: 2610996324265541795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413601f976ef4a9a0800000000000000
+      internalID: -6222569064115444972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b6668559b01f10800000000000000
+      internalID: 2238492791781373244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc6e4990e94a1a0800000000000000
+      internalID: -6799135773432557728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cbd2921dbbb1d90800000000000000
+      internalID: -7125895478370255721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94961dd21978b0f10800000000000000
+      internalID: 2237030697528289609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c547d12df711730800000000000000
+      internalID: 3968093287104142398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f57d968bdf67c0800000000000000
+      internalID: -4075797766533156804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcac93a83fc44b190800000000000000
+      internalID: -7947642833522275637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6033d48fac7330800000000000000
+      internalID: 3710033178060156629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ef787b3a0777980800000000000000
+      internalID: -8541234319823733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af258c107afe200800000000000000
+      internalID: 211571333607389758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e1da52e46e0680800000000000000
+      internalID: -8786974899604167797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd7b6e404a322c20800000000000000
+      internalID: 3180168334744976889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a54544ff6fbcf00800000000000000
+      internalID: 1138274907064654465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a737a18066b06cf0800000000000000
+      internalID: -261008252779153501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdeb7ff07daf4f0800000000000000
+      internalID: -794085920696509212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea54b33d2f4ad70800000000000000
+      internalID: 9053628139967983351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc18bd205c568f0b0800000000000000
+      internalID: -5694689831979089461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ae63dbfc207380800000000000000
+      internalID: -8975624597253740181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5908a6b0090bd180800000000000000
+      internalID: -9089661524248098470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4198a49197ecd1070800000000000000
+      internalID: 8078840326083217684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19862bd0e2412f0800000000000000
+      internalID: -1003126180634127967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce556f9e130a390800000000000000
+      internalID: -7809186872930472957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7350220401d8f260800000000000000
+      internalID: 7131679825086927740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e353107b511fc70800000000000000
+      internalID: 9003001005833797169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d77f60c4fe35620800000000000000
+      internalID: 2761814106321681818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e40cc4c1bdcbed0800000000000000
+      internalID: -2396799987074707844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c22b534299117e70800000000000000
+      internalID: 9111091637133189831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef7b1eb8591b310800000000000000
+      internalID: 1419079785618341488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56788bea48fee2ba0800000000000000
+      internalID: -6111684291149133979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d5367af91af7390800000000000000
+      internalID: -7818352721011712661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7408a498cd4d980800000000000000
+      internalID: -8514938513232214025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd90f70f7248ea0800000000000000
+      internalID: -5871524100307296917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d694ab0f7b82a0800000000000000
+      internalID: -6734149129819729289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cde422a57103690800000000000000
+      internalID: -7624568493248160621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77553ab47398675b0800000000000000
+      internalID: -5370954635007535753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea4e0dfb287d340800000000000000
+      internalID: 4888519680888974981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc9b552165b4a50800000000000000
+      internalID: 6506388723414453619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24e6021d7bd6480800000000000000
+      internalID: -8904258779421457744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0414743089cffa0800000000000000
+      internalID: -5765566283093294875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64954bbf63774cd0800000000000000
+      internalID: -2573961738298485652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09dfec80fe0e790800000000000000
+      internalID: -7502734158087745359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ff58b4fc60de130800000000000000
+      internalID: 3597539164733964121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f06f8d5c9941300800000000000000
+      internalID: 221971356675608334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892ff38b078469640800000000000000
+      internalID: 5086332478126289560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11778baa79ca610800000000000000
+      internalID: 1633847524323692995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209422d12562f61b0800000000000000
+      internalID: -5661264072463464190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b4c25ec77b76f0800000000000000
+      internalID: -685822790208278174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5896f73923f467e0800000000000000
+      internalID: -1773024994919016354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733ac5a59dcae4d0800000000000000
+      internalID: -3104442950503222402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb20e59026189aaa0800000000000000
+      internalID: -6149241558133767489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77b92e8677d3160800000000000000
+      internalID: 7006887887620503546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c8214c5d9696d0800000000000000
+      internalID: -2984024683530631220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39f58298b7f1d40800000000000000
+      internalID: 5557296294216569847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd13f43fd6d93f230800000000000000
+      internalID: 3671451216796135901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c232fe2d3ab9280800000000000000
+      internalID: -9035448101038248887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bd4745383e80580800000000000000
+      internalID: -8860582113654285456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea86f132cdd4e7770800000000000000
+      internalID: 8610405145456371886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f19918f59718070800000000000000
+      internalID: 8106894255346753302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947894103f09a4c60800000000000000
+      internalID: 7803208677745854281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f01ac14657b0b30800000000000000
+      internalID: 4254623345819062063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6bbc1d3e50c93f0800000000000000
+      internalID: -892832150090697032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294f8ab894b49b80800000000000000
+      internalID: -8388881637826410197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998374ace1d0a5cd0800000000000000
+      internalID: -2568726211567601511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3650f6069e75d61d0800000000000000
+      internalID: -3355929487464266397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51ca384d22393b0800000000000000
+      internalID: -5507019623206480480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444abc17588f4aa0800000000000000
+      internalID: -6174566656376159156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb62d12a7b822ea30800000000000000
+      internalID: 4242998568100374206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061cf97b048599b0800000000000000
+      internalID: -5074004220336925173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd09f6e7dcbd630800000000000000
+      internalID: 3952979040869080962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1793d11bb32a30800000000000000
+      internalID: 4189397763623428074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb1230f3cf985eb0800000000000000
+      internalID: -4730855744655451147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292c06616ddcd77a0800000000000000
+      internalID: -6377715177904618862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88508467b00808e0800000000000000
+      internalID: -1727129669431437169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a15c37954a45460800000000000000
+      internalID: 7229584005937830452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5ee3afaab4752f0800000000000000
+      internalID: -984234795842214496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27bb969349f1810800000000000000
+      internalID: 1738270955496239866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38460d54a86d1bc0800000000000000
+      internalID: -3810774654540953538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb09f5c568f917b0800000000000000
+      internalID: -5252894374354154563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f6547bd682a160800000000000000
+      internalID: 7035333845013952217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1e54ee2a84ed20800000000000000
+      internalID: 3306919960401288113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3468a7a476a15a240800000000000000
+      internalID: 4802273608593999427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c5d324524430c0800000000000000
+      internalID: -4596976390492535444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34402e0a31145c540800000000000000
+      internalID: 5027496111588377667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f189a925256c3db0800000000000000
+      internalID: -4810859091651362318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57caf769eb7f54f30800000000000000
+      internalID: 4559322595723291765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef055a9c1bb82e0800000000000000
+      internalID: -2122407319754965258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af416ca14f9946590800000000000000
+      internalID: -7681845790686964486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d090a25439e35d8c0800000000000000
+      internalID: -3975202293843097331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751231d1c642fa3f0800000000000000
+      internalID: -887450554805837481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5907ffa952022020800000000000000
+      internalID: 2315415742649403739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_5_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88181a707e1300a40800000000000000
+      internalID: 5332316827141898632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f40d98e80fe1d90800000000000000
+      internalID: -7124993065465393275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a37bf5dced40980800000000000000
+      internalID: -8573482816951076214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342bc57947f9c3d0800000000000000
+      internalID: -3185743366506994636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008dd2e328c4f1f0800000000000000
+      internalID: -1011963959795941373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc3e5d5a796b6230800000000000000
+      internalID: 3633113498677820667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da80f28dd5629aa0800000000000000
+      internalID: -6155745738603066667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76803fba2948fc120800000000000000
+      internalID: 2436311688915650663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906a3c07201f9fcd0800000000000000
+      internalID: -2523721123380353527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877c79da5e2a3b60800000000000000
+      internalID: 7726539078438254470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a77dae65f043220800000000000000
+      internalID: 2464611762060098077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee59cbfde3b5070800000000000000
+      internalID: 8096133885791170065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfb9e0d9ae747200800000000000000
+      internalID: 176905553193844657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe534601a61a8830800000000000000
+      internalID: 4074093693760659187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00aa98b3b5cde50800000000000000
+      internalID: 6835438645712388342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f62220a4b40a20800000000000000
+      internalID: 3027743449360561148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1371c8da24e9dad10800000000000000
+      internalID: 2138539407287523121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c5c7cb9bdc88b20800000000000000
+      internalID: 3136983338078461066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a117c4de48cf50800000000000000
+      internalID: 6901853104725140469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_6_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6f37bb6d9ab82b0800000000000000
+      internalID: -5581180573462563095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17632259c1102bc0800000000000000
+      internalID: -3810025728391289062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca1c201fc6bc3780800000000000000
+      internalID: -8701879379540829489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af9637053a6a840800000000000000
+      internalID: 5235051182793816724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232695fcde949e200800000000000000
+      internalID: 209780143384257074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d9fabd0625f120800000000000000
+      internalID: 2446903812959098068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a94f9b769d36d0800000000000000
+      internalID: -3009083518316076309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13e76d1a11b8d2e0800000000000000
+      internalID: -2100734500447722721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a8020e1d8250eb0800000000000000
+      internalID: -4754348949746185703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ec6f4745997b10800000000000000
+      internalID: 1979777644713796431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f9b5f4c952afe0800000000000000
+      internalID: -1179281449946582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a8ff912cd97eb0800000000000000
+      internalID: -4721500697345349165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4e56b31d478300800000000000000
+      internalID: 254256651029073747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34629f7dbc39f7d0800000000000000
+      internalID: -2884207301767306180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fcfff2ffdab7eb0800000000000000
+      internalID: -4720988472834273482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8bc403c67faf20800000000000000
+      internalID: 3436095620678127267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e8000a0206fb30800000000000000
+      internalID: 4320643134482081214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83512eee680b296d0800000000000000
+      internalID: -2985129509413317320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0aa0886b3679090800000000000000
+      internalID: -8027838175147024158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_IcyWildernessPropsSnowTransition_7_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa7854da8479b60800000000000000
+      internalID: 7752745192574659197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_IcyWildernessPropsSnowTransition_0: -4997603312731449741
+      Minifantasy_IcyWildernessPropsSnowTransition_0_0: 6575715985426465151
+      Minifantasy_IcyWildernessPropsSnowTransition_0_1: -4682929874527952421
+      Minifantasy_IcyWildernessPropsSnowTransition_0_10: 439880716420660596
+      Minifantasy_IcyWildernessPropsSnowTransition_0_11: -1568601419594974917
+      Minifantasy_IcyWildernessPropsSnowTransition_0_12: 6189131388774536606
+      Minifantasy_IcyWildernessPropsSnowTransition_0_13: 4851720541202387266
+      Minifantasy_IcyWildernessPropsSnowTransition_0_14: -6839359064723118200
+      Minifantasy_IcyWildernessPropsSnowTransition_0_15: -297267965241216710
+      Minifantasy_IcyWildernessPropsSnowTransition_0_16: 837923361390966056
+      Minifantasy_IcyWildernessPropsSnowTransition_0_17: 7471868321001147092
+      Minifantasy_IcyWildernessPropsSnowTransition_0_18: 7945321378208993902
+      Minifantasy_IcyWildernessPropsSnowTransition_0_2: -4660869534497661781
+      Minifantasy_IcyWildernessPropsSnowTransition_0_3: 1822427758381785535
+      Minifantasy_IcyWildernessPropsSnowTransition_0_4: 4646429604542596752
+      Minifantasy_IcyWildernessPropsSnowTransition_0_5: 729930794909509215
+      Minifantasy_IcyWildernessPropsSnowTransition_0_6: -5604793563601199058
+      Minifantasy_IcyWildernessPropsSnowTransition_0_7: 1031830187107100881
+      Minifantasy_IcyWildernessPropsSnowTransition_0_8: 5965642153919464456
+      Minifantasy_IcyWildernessPropsSnowTransition_0_9: -3959844262454571364
+      Minifantasy_IcyWildernessPropsSnowTransition_1: -713793570962135898
+      Minifantasy_IcyWildernessPropsSnowTransition_1_0: -2086395603998804957
+      Minifantasy_IcyWildernessPropsSnowTransition_1_1: 7017660367133736214
+      Minifantasy_IcyWildernessPropsSnowTransition_1_10: -7947642833522275637
+      Minifantasy_IcyWildernessPropsSnowTransition_1_11: 3710033178060156629
+      Minifantasy_IcyWildernessPropsSnowTransition_1_12: -8541234319823733119
+      Minifantasy_IcyWildernessPropsSnowTransition_1_13: 211571333607389758
+      Minifantasy_IcyWildernessPropsSnowTransition_1_14: -8786974899604167797
+      Minifantasy_IcyWildernessPropsSnowTransition_1_15: 3180168334744976889
+      Minifantasy_IcyWildernessPropsSnowTransition_1_16: 1138274907064654465
+      Minifantasy_IcyWildernessPropsSnowTransition_1_17: -261008252779153501
+      Minifantasy_IcyWildernessPropsSnowTransition_1_18: -794085920696509212
+      Minifantasy_IcyWildernessPropsSnowTransition_1_2: 2610996324265541795
+      Minifantasy_IcyWildernessPropsSnowTransition_1_3: -6222569064115444972
+      Minifantasy_IcyWildernessPropsSnowTransition_1_4: 2238492791781373244
+      Minifantasy_IcyWildernessPropsSnowTransition_1_5: -6799135773432557728
+      Minifantasy_IcyWildernessPropsSnowTransition_1_6: -7125895478370255721
+      Minifantasy_IcyWildernessPropsSnowTransition_1_7: 2237030697528289609
+      Minifantasy_IcyWildernessPropsSnowTransition_1_8: 3968093287104142398
+      Minifantasy_IcyWildernessPropsSnowTransition_1_9: -4075797766533156804
+      Minifantasy_IcyWildernessPropsSnowTransition_2: -6515886688359338506
+      Minifantasy_IcyWildernessPropsSnowTransition_2_0: 9053628139967983351
+      Minifantasy_IcyWildernessPropsSnowTransition_2_1: -5694689831979089461
+      Minifantasy_IcyWildernessPropsSnowTransition_2_10: -2396799987074707844
+      Minifantasy_IcyWildernessPropsSnowTransition_2_11: 9111091637133189831
+      Minifantasy_IcyWildernessPropsSnowTransition_2_12: 1419079785618341488
+      Minifantasy_IcyWildernessPropsSnowTransition_2_13: -6111684291149133979
+      Minifantasy_IcyWildernessPropsSnowTransition_2_14: -7818352721011712661
+      Minifantasy_IcyWildernessPropsSnowTransition_2_15: -8514938513232214025
+      Minifantasy_IcyWildernessPropsSnowTransition_2_16: -5871524100307296917
+      Minifantasy_IcyWildernessPropsSnowTransition_2_17: -6734149129819729289
+      Minifantasy_IcyWildernessPropsSnowTransition_2_18: -7624568493248160621
+      Minifantasy_IcyWildernessPropsSnowTransition_2_2: -8975624597253740181
+      Minifantasy_IcyWildernessPropsSnowTransition_2_3: -9089661524248098470
+      Minifantasy_IcyWildernessPropsSnowTransition_2_4: 8078840326083217684
+      Minifantasy_IcyWildernessPropsSnowTransition_2_5: -1003126180634127967
+      Minifantasy_IcyWildernessPropsSnowTransition_2_6: -7809186872930472957
+      Minifantasy_IcyWildernessPropsSnowTransition_2_7: 7131679825086927740
+      Minifantasy_IcyWildernessPropsSnowTransition_2_8: 9003001005833797169
+      Minifantasy_IcyWildernessPropsSnowTransition_2_9: 2761814106321681818
+      Minifantasy_IcyWildernessPropsSnowTransition_3: -2086128893938613177
+      Minifantasy_IcyWildernessPropsSnowTransition_3_0: -5370954635007535753
+      Minifantasy_IcyWildernessPropsSnowTransition_3_1: 4888519680888974981
+      Minifantasy_IcyWildernessPropsSnowTransition_3_10: 1633847524323692995
+      Minifantasy_IcyWildernessPropsSnowTransition_3_11: -5661264072463464190
+      Minifantasy_IcyWildernessPropsSnowTransition_3_12: -685822790208278174
+      Minifantasy_IcyWildernessPropsSnowTransition_3_13: -1773024994919016354
+      Minifantasy_IcyWildernessPropsSnowTransition_3_14: -3104442950503222402
+      Minifantasy_IcyWildernessPropsSnowTransition_3_15: -6149241558133767489
+      Minifantasy_IcyWildernessPropsSnowTransition_3_16: 7006887887620503546
+      Minifantasy_IcyWildernessPropsSnowTransition_3_17: -2984024683530631220
+      Minifantasy_IcyWildernessPropsSnowTransition_3_18: 5557296294216569847
+      Minifantasy_IcyWildernessPropsSnowTransition_3_2: 6506388723414453619
+      Minifantasy_IcyWildernessPropsSnowTransition_3_3: -8904258779421457744
+      Minifantasy_IcyWildernessPropsSnowTransition_3_4: -5765566283093294875
+      Minifantasy_IcyWildernessPropsSnowTransition_3_5: -2573961738298485652
+      Minifantasy_IcyWildernessPropsSnowTransition_3_6: -7502734158087745359
+      Minifantasy_IcyWildernessPropsSnowTransition_3_7: 3597539164733964121
+      Minifantasy_IcyWildernessPropsSnowTransition_3_8: 221971356675608334
+      Minifantasy_IcyWildernessPropsSnowTransition_3_9: 5086332478126289560
+      Minifantasy_IcyWildernessPropsSnowTransition_4: -6503560550927126935
+      Minifantasy_IcyWildernessPropsSnowTransition_4_0: 3671451216796135901
+      Minifantasy_IcyWildernessPropsSnowTransition_4_1: -9035448101038248887
+      Minifantasy_IcyWildernessPropsSnowTransition_4_10: -3355929487464266397
+      Minifantasy_IcyWildernessPropsSnowTransition_4_11: -5507019623206480480
+      Minifantasy_IcyWildernessPropsSnowTransition_4_12: -6174566656376159156
+      Minifantasy_IcyWildernessPropsSnowTransition_4_13: 4242998568100374206
+      Minifantasy_IcyWildernessPropsSnowTransition_4_14: -5074004220336925173
+      Minifantasy_IcyWildernessPropsSnowTransition_4_15: 3952979040869080962
+      Minifantasy_IcyWildernessPropsSnowTransition_4_16: 4189397763623428074
+      Minifantasy_IcyWildernessPropsSnowTransition_4_17: -4730855744655451147
+      Minifantasy_IcyWildernessPropsSnowTransition_4_18: -6377715177904618862
+      Minifantasy_IcyWildernessPropsSnowTransition_4_2: -8860582113654285456
+      Minifantasy_IcyWildernessPropsSnowTransition_4_3: 8610405145456371886
+      Minifantasy_IcyWildernessPropsSnowTransition_4_4: 8106894255346753302
+      Minifantasy_IcyWildernessPropsSnowTransition_4_5: 7803208677745854281
+      Minifantasy_IcyWildernessPropsSnowTransition_4_6: 4254623345819062063
+      Minifantasy_IcyWildernessPropsSnowTransition_4_7: -892832150090697032
+      Minifantasy_IcyWildernessPropsSnowTransition_4_8: -8388881637826410197
+      Minifantasy_IcyWildernessPropsSnowTransition_4_9: -2568726211567601511
+      Minifantasy_IcyWildernessPropsSnowTransition_5: 2196100681878348450
+      Minifantasy_IcyWildernessPropsSnowTransition_5_0: -1727129669431437169
+      Minifantasy_IcyWildernessPropsSnowTransition_5_1: 7229584005937830452
+      Minifantasy_IcyWildernessPropsSnowTransition_5_10: 5027496111588377667
+      Minifantasy_IcyWildernessPropsSnowTransition_5_11: -4810859091651362318
+      Minifantasy_IcyWildernessPropsSnowTransition_5_12: 4559322595723291765
+      Minifantasy_IcyWildernessPropsSnowTransition_5_13: -2122407319754965258
+      Minifantasy_IcyWildernessPropsSnowTransition_5_14: -7681845790686964486
+      Minifantasy_IcyWildernessPropsSnowTransition_5_15: -3975202293843097331
+      Minifantasy_IcyWildernessPropsSnowTransition_5_16: -887450554805837481
+      Minifantasy_IcyWildernessPropsSnowTransition_5_17: 2315415742649403739
+      Minifantasy_IcyWildernessPropsSnowTransition_5_18: 5332316827141898632
+      Minifantasy_IcyWildernessPropsSnowTransition_5_2: -984234795842214496
+      Minifantasy_IcyWildernessPropsSnowTransition_5_3: 1738270955496239866
+      Minifantasy_IcyWildernessPropsSnowTransition_5_4: -3810774654540953538
+      Minifantasy_IcyWildernessPropsSnowTransition_5_5: -5252894374354154563
+      Minifantasy_IcyWildernessPropsSnowTransition_5_6: 7035333845013952217
+      Minifantasy_IcyWildernessPropsSnowTransition_5_7: 3306919960401288113
+      Minifantasy_IcyWildernessPropsSnowTransition_5_8: 4802273608593999427
+      Minifantasy_IcyWildernessPropsSnowTransition_5_9: -4596976390492535444
+      Minifantasy_IcyWildernessPropsSnowTransition_6: -4507058270037530850
+      Minifantasy_IcyWildernessPropsSnowTransition_6_0: -7124993065465393275
+      Minifantasy_IcyWildernessPropsSnowTransition_6_1: -8573482816951076214
+      Minifantasy_IcyWildernessPropsSnowTransition_6_10: 8096133885791170065
+      Minifantasy_IcyWildernessPropsSnowTransition_6_11: 176905553193844657
+      Minifantasy_IcyWildernessPropsSnowTransition_6_12: 4074093693760659187
+      Minifantasy_IcyWildernessPropsSnowTransition_6_13: 6835438645712388342
+      Minifantasy_IcyWildernessPropsSnowTransition_6_14: 3027743449360561148
+      Minifantasy_IcyWildernessPropsSnowTransition_6_15: 2138539407287523121
+      Minifantasy_IcyWildernessPropsSnowTransition_6_16: 3136983338078461066
+      Minifantasy_IcyWildernessPropsSnowTransition_6_17: 6901853104725140469
+      Minifantasy_IcyWildernessPropsSnowTransition_6_18: -5581180573462563095
+      Minifantasy_IcyWildernessPropsSnowTransition_6_2: -3185743366506994636
+      Minifantasy_IcyWildernessPropsSnowTransition_6_3: -1011963959795941373
+      Minifantasy_IcyWildernessPropsSnowTransition_6_4: 3633113498677820667
+      Minifantasy_IcyWildernessPropsSnowTransition_6_5: -6155745738603066667
+      Minifantasy_IcyWildernessPropsSnowTransition_6_6: 2436311688915650663
+      Minifantasy_IcyWildernessPropsSnowTransition_6_7: -2523721123380353527
+      Minifantasy_IcyWildernessPropsSnowTransition_6_8: 7726539078438254470
+      Minifantasy_IcyWildernessPropsSnowTransition_6_9: 2464611762060098077
+      Minifantasy_IcyWildernessPropsSnowTransition_7: -4499585562619248877
+      Minifantasy_IcyWildernessPropsSnowTransition_7_0: -3810025728391289062
+      Minifantasy_IcyWildernessPropsSnowTransition_7_1: -8701879379540829489
+      Minifantasy_IcyWildernessPropsSnowTransition_7_10: -4721500697345349165
+      Minifantasy_IcyWildernessPropsSnowTransition_7_11: 254256651029073747
+      Minifantasy_IcyWildernessPropsSnowTransition_7_12: -2884207301767306180
+      Minifantasy_IcyWildernessPropsSnowTransition_7_13: -4720988472834273482
+      Minifantasy_IcyWildernessPropsSnowTransition_7_14: 3436095620678127267
+      Minifantasy_IcyWildernessPropsSnowTransition_7_15: 4320643134482081214
+      Minifantasy_IcyWildernessPropsSnowTransition_7_16: -2985129509413317320
+      Minifantasy_IcyWildernessPropsSnowTransition_7_17: -8027838175147024158
+      Minifantasy_IcyWildernessPropsSnowTransition_7_18: 7752745192574659197
+      Minifantasy_IcyWildernessPropsSnowTransition_7_2: 5235051182793816724
+      Minifantasy_IcyWildernessPropsSnowTransition_7_3: 209780143384257074
+      Minifantasy_IcyWildernessPropsSnowTransition_7_4: 2446903812959098068
+      Minifantasy_IcyWildernessPropsSnowTransition_7_5: -3009083518316076309
+      Minifantasy_IcyWildernessPropsSnowTransition_7_6: -2100734500447722721
+      Minifantasy_IcyWildernessPropsSnowTransition_7_7: -4754348949746185703
+      Minifantasy_IcyWildernessPropsSnowTransition_7_8: 1979777644713796431
+      Minifantasy_IcyWildernessPropsSnowTransition_7_9: -1179281449946582856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

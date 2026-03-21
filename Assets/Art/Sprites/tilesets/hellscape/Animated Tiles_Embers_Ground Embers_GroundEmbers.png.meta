@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: f58f96dd38e075d4a80d1e48dc2c556f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8765507012322339290
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0
+  - first:
+      213: 5688893072230378713
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_0
+  - first:
+      213: -9174997579048424474
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_1
+  - first:
+      213: 9221792558764448983
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_2
+  - first:
+      213: 4411958861338427848
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_3
+  - first:
+      213: -3832009717113993347
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_4
+  - first:
+      213: -1015479209995435101
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_5
+  - first:
+      213: -5514988173921461818
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_6
+  - first:
+      213: -3996196277605580913
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_7
+  - first:
+      213: 5366921961746433848
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_0
+  - first:
+      213: 975985240498732604
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_1
+  - first:
+      213: 5800536437462758140
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_2
+  - first:
+      213: -2548330886774669096
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_3
+  - first:
+      213: -8729935308997520941
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_4
+  - first:
+      213: -7076608618262437110
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_5
+  - first:
+      213: 2502702927505197433
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_6
+  - first:
+      213: -7891470837911686729
+    second: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dce87fab1203fe40800000000000000
+      internalID: 5688893072230378713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebefb5205cdba080800000000000000
+      internalID: -9174997579048424474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcde7919736aff70800000000000000
+      internalID: 9221792558764448983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c6b5753d6a3d30800000000000000
+      internalID: 4411958861338427848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7743931777f1dac0800000000000000
+      internalID: -3832009717113993347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38d6be90b48e1f0800000000000000
+      internalID: -1015479209995435101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95ee8b973d673b0800000000000000
+      internalID: -5514988173921461818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb49488a8aa88c0800000000000000
+      internalID: -3996196277605580913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837832bc6132b7a40800000000000000
+      internalID: 5366921961746433848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e73fdb7656b8d00800000000000000
+      internalID: 975985240498732604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27da54825af7050800000000000000
+      internalID: 5800536437462758140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c3a36f8282acd0800000000000000
+      internalID: -2548330886774669096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11013f61a09d680800000000000000
+      internalID: -8729935308997520941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03eff584f5dacd90800000000000000
+      internalID: -7076608618262437110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979074c7d036bb220800000000000000
+      internalID: 2502702927505197433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Embers_Ground Embers_GroundEmbers_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17bee651ddb7290800000000000000
+      internalID: -7891470837911686729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0: 8765507012322339290
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_0: 5688893072230378713
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_1: -9174997579048424474
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_2: 9221792558764448983
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_3: 4411958861338427848
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_4: -3832009717113993347
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_5: -1015479209995435101
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_6: -5514988173921461818
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_0_7: -3996196277605580913
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_0: 5366921961746433848
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_1: 975985240498732604
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_2: 5800536437462758140
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_3: -2548330886774669096
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_4: -8729935308997520941
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_5: -7076608618262437110
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_6: 2502702927505197433
+      Animated Tiles_Embers_Ground Embers_GroundEmbers_1_7: -7891470837911686729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: cace8b9a593ddee4e998c41d9bd33f50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4467854234255223254
+    second: Animated Tiles_Lava_LavaTiles_0
+  - first:
+      213: -6964230975847327056
+    second: Animated Tiles_Lava_LavaTiles_1
+  - first:
+      213: -860681182917033928
+    second: Animated Tiles_Lava_LavaTiles_2
+  - first:
+      213: -3546987583526582267
+    second: Animated Tiles_Lava_LavaTiles_3
+  - first:
+      213: -5418388877391835115
+    second: Animated Tiles_Lava_LavaTiles_4
+  - first:
+      213: -6615186536204313910
+    second: Animated Tiles_Lava_LavaTiles_5
+  - first:
+      213: 5180736959307736685
+    second: Animated Tiles_Lava_LavaTiles_6
+  - first:
+      213: 8797970328356095493
+    second: Animated Tiles_Lava_LavaTiles_7
+  - first:
+      213: 1856558012760789948
+    second: Animated Tiles_Lava_LavaTiles_8
+  - first:
+      213: 900780848985155477
+    second: Animated Tiles_Lava_LavaTiles_9
+  - first:
+      213: -8967681932387618930
+    second: Animated Tiles_Lava_LavaTiles_10
+  - first:
+      213: -7897201897195801306
+    second: Animated Tiles_Lava_LavaTiles_11
+  - first:
+      213: -7982220053872643798
+    second: Animated Tiles_Lava_LavaTiles_12
+  - first:
+      213: -8735583236656950295
+    second: Animated Tiles_Lava_LavaTiles_13
+  - first:
+      213: 4220740918660152890
+    second: Animated Tiles_Lava_LavaTiles_14
+  - first:
+      213: 8894859495704509942
+    second: Animated Tiles_Lava_LavaTiles_15
+  - first:
+      213: 3907126883115682067
+    second: Animated Tiles_Lava_LavaTiles_16
+  - first:
+      213: -7633572403971647082
+    second: Animated Tiles_Lava_LavaTiles_17
+  - first:
+      213: 3504110975925393459
+    second: Animated Tiles_Lava_LavaTiles_18
+  - first:
+      213: 7469375468972790923
+    second: Animated Tiles_Lava_LavaTiles_19
+  - first:
+      213: 3798419418384677428
+    second: Animated Tiles_Lava_LavaTiles_20
+  - first:
+      213: -4677228385367528628
+    second: Animated Tiles_Lava_LavaTiles_0_0
+  - first:
+      213: 8226915217461204724
+    second: Animated Tiles_Lava_LavaTiles_0_1
+  - first:
+      213: 7690812575079722892
+    second: Animated Tiles_Lava_LavaTiles_0_2
+  - first:
+      213: -3301266989561108106
+    second: Animated Tiles_Lava_LavaTiles_0_3
+  - first:
+      213: -9095675403319847151
+    second: Animated Tiles_Lava_LavaTiles_0_4
+  - first:
+      213: -3130950560548162687
+    second: Animated Tiles_Lava_LavaTiles_0_5
+  - first:
+      213: 4100560865105310821
+    second: Animated Tiles_Lava_LavaTiles_0_6
+  - first:
+      213: 8957420360136397996
+    second: Animated Tiles_Lava_LavaTiles_0_7
+  - first:
+      213: -3602127765731718908
+    second: Animated Tiles_Lava_LavaTiles_1_0
+  - first:
+      213: 3622413587696773929
+    second: Animated Tiles_Lava_LavaTiles_1_1
+  - first:
+      213: 1896936112642094685
+    second: Animated Tiles_Lava_LavaTiles_1_2
+  - first:
+      213: -668361484726757449
+    second: Animated Tiles_Lava_LavaTiles_1_3
+  - first:
+      213: -6233827409681998474
+    second: Animated Tiles_Lava_LavaTiles_1_4
+  - first:
+      213: -3499327021973368377
+    second: Animated Tiles_Lava_LavaTiles_1_5
+  - first:
+      213: -6048641976931689132
+    second: Animated Tiles_Lava_LavaTiles_1_6
+  - first:
+      213: 361709234906506000
+    second: Animated Tiles_Lava_LavaTiles_1_7
+  - first:
+      213: 2174213865296325847
+    second: Animated Tiles_Lava_LavaTiles_2_0
+  - first:
+      213: -574277450805604891
+    second: Animated Tiles_Lava_LavaTiles_2_1
+  - first:
+      213: -973117911620859483
+    second: Animated Tiles_Lava_LavaTiles_2_2
+  - first:
+      213: -6185662751357396706
+    second: Animated Tiles_Lava_LavaTiles_2_3
+  - first:
+      213: -4757930558646210334
+    second: Animated Tiles_Lava_LavaTiles_2_4
+  - first:
+      213: -3339232769535775016
+    second: Animated Tiles_Lava_LavaTiles_2_5
+  - first:
+      213: -6380649518591216331
+    second: Animated Tiles_Lava_LavaTiles_2_6
+  - first:
+      213: 6638477206098414166
+    second: Animated Tiles_Lava_LavaTiles_2_7
+  - first:
+      213: -934144375683944590
+    second: Animated Tiles_Lava_LavaTiles_3_0
+  - first:
+      213: -8859036491562954349
+    second: Animated Tiles_Lava_LavaTiles_3_1
+  - first:
+      213: 6358736505648668322
+    second: Animated Tiles_Lava_LavaTiles_3_2
+  - first:
+      213: -5414825586115501996
+    second: Animated Tiles_Lava_LavaTiles_3_3
+  - first:
+      213: -2375342028595358047
+    second: Animated Tiles_Lava_LavaTiles_3_4
+  - first:
+      213: -327131953336177065
+    second: Animated Tiles_Lava_LavaTiles_3_5
+  - first:
+      213: -7469734825823480697
+    second: Animated Tiles_Lava_LavaTiles_3_6
+  - first:
+      213: -8220677609090754616
+    second: Animated Tiles_Lava_LavaTiles_3_7
+  - first:
+      213: 948677910078584802
+    second: Animated Tiles_Lava_LavaTiles_4_0
+  - first:
+      213: 666896696664282491
+    second: Animated Tiles_Lava_LavaTiles_4_1
+  - first:
+      213: 5743262661575231001
+    second: Animated Tiles_Lava_LavaTiles_4_2
+  - first:
+      213: 6751869460142444785
+    second: Animated Tiles_Lava_LavaTiles_4_3
+  - first:
+      213: -4896694762881643730
+    second: Animated Tiles_Lava_LavaTiles_4_4
+  - first:
+      213: 9119748041154022014
+    second: Animated Tiles_Lava_LavaTiles_4_5
+  - first:
+      213: 676308716929315313
+    second: Animated Tiles_Lava_LavaTiles_4_6
+  - first:
+      213: 3827748081669611693
+    second: Animated Tiles_Lava_LavaTiles_4_7
+  - first:
+      213: -4922940742755756164
+    second: Animated Tiles_Lava_LavaTiles_5_0
+  - first:
+      213: -5161021494558699674
+    second: Animated Tiles_Lava_LavaTiles_5_1
+  - first:
+      213: 7509415155917685742
+    second: Animated Tiles_Lava_LavaTiles_5_2
+  - first:
+      213: -7337505589206862598
+    second: Animated Tiles_Lava_LavaTiles_5_3
+  - first:
+      213: 5622815534753430082
+    second: Animated Tiles_Lava_LavaTiles_5_4
+  - first:
+      213: -6177981644937202424
+    second: Animated Tiles_Lava_LavaTiles_5_5
+  - first:
+      213: 9010242605618304011
+    second: Animated Tiles_Lava_LavaTiles_5_6
+  - first:
+      213: 5610526338593736422
+    second: Animated Tiles_Lava_LavaTiles_5_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6bc48095271fb0800000000000000
+      internalID: -4677228385367528628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d70e5dcfdb2270800000000000000
+      internalID: 8226915217461204724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8febb31a414bba60800000000000000
+      internalID: 7690812575079722892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ac72f92b8f22d0800000000000000
+      internalID: -3301266989561108106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117dcd0696ba5c180800000000000000
+      internalID: -9095675403319847151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183773dbd01ac84d0800000000000000
+      internalID: -3130950560548162687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647870916e18e830800000000000000
+      internalID: 4100560865105310821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca418cdeb562f4c70800000000000000
+      internalID: 8957420360136397996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094df7c1eba20ec0800000000000000
+      internalID: -3602127765731718908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be63437f5654230800000000000000
+      internalID: 3622413587696773929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5674a31855435a10800000000000000
+      internalID: 1896936112642094685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b71f4155c089b6f0800000000000000
+      internalID: -668361484726757449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d9fc6cffefc79a0800000000000000
+      internalID: -6233827409681998474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c11a5e1d94ef6fc0800000000000000
+      internalID: -3499327021973368377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d58774b28ee0ca0800000000000000
+      internalID: -6048641976931689132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a49af1ac050500800000000000000
+      internalID: 361709234906506000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc67b2bdfb5c2e10800000000000000
+      internalID: 2174213865296325847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed073e73b1c708f0800000000000000
+      internalID: -574277450805604891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c4494a6ace72f0800000000000000
+      internalID: -973117911620859483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191afc208c182aa0800000000000000
+      internalID: -6185662751357396706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bae19d5f68fdb0800000000000000
+      internalID: -4757930558646210334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee975fc79a8a1d0800000000000000
+      internalID: -3339232769535775016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357a18a1116377a0800000000000000
+      internalID: -6380649518591216331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0607c8db902c50800000000000000
+      internalID: 6638477206098414166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fed6eb3a04903f0800000000000000
+      internalID: -934144375683944590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391da248f316e0580800000000000000
+      internalID: -8859036491562954349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5f7f6925ce3850800000000000000
+      internalID: 6358736505648668322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a3e281dcaad4b0800000000000000
+      internalID: -5414825586115501996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a694859207190fd0800000000000000
+      internalID: -2375342028595358047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea7beb83bc57bf0800000000000000
+      internalID: -327131953336177065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845d6490cb265890800000000000000
+      internalID: -7469734825823480697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7532105494aed80800000000000000
+      internalID: -8220677609090754616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77e7c68816a2d00800000000000000
+      internalID: 948677910078584802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b755e82230b414900800000000000000
+      internalID: 666896696664282491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c4fa26fa24bf40800000000000000
+      internalID: 5743262661575231001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f05995408573bd50800000000000000
+      internalID: 6751869460142444785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8ce49e027b0cb0800000000000000
+      internalID: -4896694762881643730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7acc02668adf8e70800000000000000
+      internalID: 9119748041154022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1721fd13bb26900800000000000000
+      internalID: 676308716929315313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a9999994ee1530800000000000000
+      internalID: 3827748081669611693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77deb13a733eabb0800000000000000
+      internalID: -4922940742755756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4ca28b4e5068b0800000000000000
+      internalID: -5161021494558699674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee388673c4dc63860800000000000000
+      internalID: 7509415155917685742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b1e9da81fb2a90800000000000000
+      internalID: -7337505589206862598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab68a10f0480e40800000000000000
+      internalID: 5622815534753430082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80572a02d66634aa0800000000000000
+      internalID: -6177981644937202424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0418f759efca0d70800000000000000
+      internalID: 9010242605618304011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated Tiles_Lava_LavaTiles_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e64ad6aaf79cdd40800000000000000
+      internalID: 5610526338593736422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animated Tiles_Lava_LavaTiles_0: 4467854234255223254
+      Animated Tiles_Lava_LavaTiles_0_0: -4677228385367528628
+      Animated Tiles_Lava_LavaTiles_0_1: 8226915217461204724
+      Animated Tiles_Lava_LavaTiles_0_2: 7690812575079722892
+      Animated Tiles_Lava_LavaTiles_0_3: -3301266989561108106
+      Animated Tiles_Lava_LavaTiles_0_4: -9095675403319847151
+      Animated Tiles_Lava_LavaTiles_0_5: -3130950560548162687
+      Animated Tiles_Lava_LavaTiles_0_6: 4100560865105310821
+      Animated Tiles_Lava_LavaTiles_0_7: 8957420360136397996
+      Animated Tiles_Lava_LavaTiles_1: -6964230975847327056
+      Animated Tiles_Lava_LavaTiles_10: -8967681932387618930
+      Animated Tiles_Lava_LavaTiles_11: -7897201897195801306
+      Animated Tiles_Lava_LavaTiles_12: -7982220053872643798
+      Animated Tiles_Lava_LavaTiles_13: -8735583236656950295
+      Animated Tiles_Lava_LavaTiles_14: 4220740918660152890
+      Animated Tiles_Lava_LavaTiles_15: 8894859495704509942
+      Animated Tiles_Lava_LavaTiles_16: 3907126883115682067
+      Animated Tiles_Lava_LavaTiles_17: -7633572403971647082
+      Animated Tiles_Lava_LavaTiles_18: 3504110975925393459
+      Animated Tiles_Lava_LavaTiles_19: 7469375468972790923
+      Animated Tiles_Lava_LavaTiles_1_0: -3602127765731718908
+      Animated Tiles_Lava_LavaTiles_1_1: 3622413587696773929
+      Animated Tiles_Lava_LavaTiles_1_2: 1896936112642094685
+      Animated Tiles_Lava_LavaTiles_1_3: -668361484726757449
+      Animated Tiles_Lava_LavaTiles_1_4: -6233827409681998474
+      Animated Tiles_Lava_LavaTiles_1_5: -3499327021973368377
+      Animated Tiles_Lava_LavaTiles_1_6: -6048641976931689132
+      Animated Tiles_Lava_LavaTiles_1_7: 361709234906506000
+      Animated Tiles_Lava_LavaTiles_2: -860681182917033928
+      Animated Tiles_Lava_LavaTiles_20: 3798419418384677428
+      Animated Tiles_Lava_LavaTiles_2_0: 2174213865296325847
+      Animated Tiles_Lava_LavaTiles_2_1: -574277450805604891
+      Animated Tiles_Lava_LavaTiles_2_2: -973117911620859483
+      Animated Tiles_Lava_LavaTiles_2_3: -6185662751357396706
+      Animated Tiles_Lava_LavaTiles_2_4: -4757930558646210334
+      Animated Tiles_Lava_LavaTiles_2_5: -3339232769535775016
+      Animated Tiles_Lava_LavaTiles_2_6: -6380649518591216331
+      Animated Tiles_Lava_LavaTiles_2_7: 6638477206098414166
+      Animated Tiles_Lava_LavaTiles_3: -3546987583526582267
+      Animated Tiles_Lava_LavaTiles_3_0: -934144375683944590
+      Animated Tiles_Lava_LavaTiles_3_1: -8859036491562954349
+      Animated Tiles_Lava_LavaTiles_3_2: 6358736505648668322
+      Animated Tiles_Lava_LavaTiles_3_3: -5414825586115501996
+      Animated Tiles_Lava_LavaTiles_3_4: -2375342028595358047
+      Animated Tiles_Lava_LavaTiles_3_5: -327131953336177065
+      Animated Tiles_Lava_LavaTiles_3_6: -7469734825823480697
+      Animated Tiles_Lava_LavaTiles_3_7: -8220677609090754616
+      Animated Tiles_Lava_LavaTiles_4: -5418388877391835115
+      Animated Tiles_Lava_LavaTiles_4_0: 948677910078584802
+      Animated Tiles_Lava_LavaTiles_4_1: 666896696664282491
+      Animated Tiles_Lava_LavaTiles_4_2: 5743262661575231001
+      Animated Tiles_Lava_LavaTiles_4_3: 6751869460142444785
+      Animated Tiles_Lava_LavaTiles_4_4: -4896694762881643730
+      Animated Tiles_Lava_LavaTiles_4_5: 9119748041154022014
+      Animated Tiles_Lava_LavaTiles_4_6: 676308716929315313
+      Animated Tiles_Lava_LavaTiles_4_7: 3827748081669611693
+      Animated Tiles_Lava_LavaTiles_5: -6615186536204313910
+      Animated Tiles_Lava_LavaTiles_5_0: -4922940742755756164
+      Animated Tiles_Lava_LavaTiles_5_1: -5161021494558699674
+      Animated Tiles_Lava_LavaTiles_5_2: 7509415155917685742
+      Animated Tiles_Lava_LavaTiles_5_3: -7337505589206862598
+      Animated Tiles_Lava_LavaTiles_5_4: 5622815534753430082
+      Animated Tiles_Lava_LavaTiles_5_5: -6177981644937202424
+      Animated Tiles_Lava_LavaTiles_5_6: 9010242605618304011
+      Animated Tiles_Lava_LavaTiles_5_7: 5610526338593736422
+      Animated Tiles_Lava_LavaTiles_6: 5180736959307736685
+      Animated Tiles_Lava_LavaTiles_7: 8797970328356095493
+      Animated Tiles_Lava_LavaTiles_8: 1856558012760789948
+      Animated Tiles_Lava_LavaTiles_9: 900780848985155477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

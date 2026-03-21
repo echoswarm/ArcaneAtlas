@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 7e8487d7feb69214cbd958ed8fcdd68f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5847139535833340417
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0
+  - first:
+      213: 4205814113677048368
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_0
+  - first:
+      213: 1482941685904034496
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_1
+  - first:
+      213: 1287935493273689790
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_2
+  - first:
+      213: -4770092985098142249
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_3
+  - first:
+      213: -5317479605162873504
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_0
+  - first:
+      213: -7341146165137065126
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_1
+  - first:
+      213: -1627623789128214761
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_2
+  - first:
+      213: -3383943624371220010
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_3
+  - first:
+      213: -1854559274857174735
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_0
+  - first:
+      213: -5058604475133571506
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_1
+  - first:
+      213: 3181966265714672101
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_2
+  - first:
+      213: -3124703916042582171
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_3
+  - first:
+      213: -3456521349771257991
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_0
+  - first:
+      213: 6204194431132395633
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_1
+  - first:
+      213: 195157182794641782
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_2
+  - first:
+      213: 7845809797529589677
+    second: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a7b0d27ad0e5a30800000000000000
+      internalID: 4205814113677048368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cacdea3b97749410800000000000000
+      internalID: 1482941685904034496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe1232e18aafd110800000000000000
+      internalID: 1287935493273689790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd74adf3b93dcdb0800000000000000
+      internalID: -4770092985098142249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de1e9e8748436b0800000000000000
+      internalID: -5317479605162873504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb8c635720f1a90800000000000000
+      internalID: -7341146165137065126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717990d89c48969e0800000000000000
+      internalID: -1627623789128214761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d769d331d901d0800000000000000
+      internalID: -3383943624371220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1396b375a284346e0800000000000000
+      internalID: -1854559274857174735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e4670180a3cc9b0800000000000000
+      internalID: -5058604475133571506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1033bb57d982c20800000000000000
+      internalID: 3181966265714672101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56782000852d2a4d0800000000000000
+      internalID: -3124703916042582171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97794545528f700d0800000000000000
+      internalID: -3456521349771257991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786a11c6f9b91650800000000000000
+      internalID: 6204194431132395633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67137db7c6655b200800000000000000
+      internalID: 195157182794641782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7d705217ae1ec60800000000000000
+      internalID: 7845809797529589677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0: 5847139535833340417
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_0: 4205814113677048368
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_1: 1482941685904034496
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_2: 1287935493273689790
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_0_3: -4770092985098142249
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_0: -5317479605162873504
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_1: -7341146165137065126
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_2: -1627623789128214761
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_1_3: -3383943624371220010
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_0: -1854559274857174735
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_1: -5058604475133571506
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_2: 3181966265714672101
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_2_3: -3124703916042582171
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_0: -3456521349771257991
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_1: 6204194431132395633
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_2: 195157182794641782
+      Shore_Transitions_Minifantasy_DesolateDesert_WaterDirtToGrass1_3_3: 7845809797529589677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

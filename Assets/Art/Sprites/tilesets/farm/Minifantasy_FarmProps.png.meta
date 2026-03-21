@@ -1,0 +1,7508 @@
+fileFormatVersion: 2
+guid: 10af7a67784fd8f45bddb5107e00e671
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2632943321424041305
+    second: Minifantasy_FarmProps_0
+  - first:
+      213: 35332333598468616
+    second: Minifantasy_FarmProps_1
+  - first:
+      213: 2185935413280926468
+    second: Minifantasy_FarmProps_2
+  - first:
+      213: 2796490879853539381
+    second: Minifantasy_FarmProps_3
+  - first:
+      213: 1869449880114063069
+    second: Minifantasy_FarmProps_4
+  - first:
+      213: 5451341611840487710
+    second: Minifantasy_FarmProps_5
+  - first:
+      213: -6558404411164161107
+    second: Minifantasy_FarmProps_6
+  - first:
+      213: 702457181925315867
+    second: Minifantasy_FarmProps_7
+  - first:
+      213: 5233700709782118219
+    second: Minifantasy_FarmProps_8
+  - first:
+      213: 1131045112597940843
+    second: Minifantasy_FarmProps_9
+  - first:
+      213: 6831715243278567750
+    second: Minifantasy_FarmProps_10
+  - first:
+      213: -1813051324235782847
+    second: Minifantasy_FarmProps_11
+  - first:
+      213: -2428350822737176160
+    second: Minifantasy_FarmProps_12
+  - first:
+      213: -1773375359905858904
+    second: Minifantasy_FarmProps_13
+  - first:
+      213: -4425829839543317589
+    second: Minifantasy_FarmProps_14
+  - first:
+      213: -2772875574740432294
+    second: Minifantasy_FarmProps_15
+  - first:
+      213: 1410055898277330865
+    second: Minifantasy_FarmProps_16
+  - first:
+      213: 8831746081841902455
+    second: Minifantasy_FarmProps_17
+  - first:
+      213: -1548514589440250141
+    second: Minifantasy_FarmProps_0_0
+  - first:
+      213: -674979921685030630
+    second: Minifantasy_FarmProps_0_1
+  - first:
+      213: -2570235917806180459
+    second: Minifantasy_FarmProps_0_2
+  - first:
+      213: 2269316066074474551
+    second: Minifantasy_FarmProps_0_3
+  - first:
+      213: -7987662979588778431
+    second: Minifantasy_FarmProps_0_4
+  - first:
+      213: 294367742047883808
+    second: Minifantasy_FarmProps_0_5
+  - first:
+      213: 5794700291625089803
+    second: Minifantasy_FarmProps_0_6
+  - first:
+      213: -6237641024676679552
+    second: Minifantasy_FarmProps_0_7
+  - first:
+      213: -2272280702528193382
+    second: Minifantasy_FarmProps_0_8
+  - first:
+      213: -1722357750655063868
+    second: Minifantasy_FarmProps_0_9
+  - first:
+      213: -7877418754324028088
+    second: Minifantasy_FarmProps_0_10
+  - first:
+      213: -4526692145452298608
+    second: Minifantasy_FarmProps_0_11
+  - first:
+      213: 897267544322191081
+    second: Minifantasy_FarmProps_0_12
+  - first:
+      213: 6490728219511014587
+    second: Minifantasy_FarmProps_0_13
+  - first:
+      213: -928863553254265467
+    second: Minifantasy_FarmProps_0_14
+  - first:
+      213: 5347831259389667445
+    second: Minifantasy_FarmProps_0_15
+  - first:
+      213: -5725607560169552571
+    second: Minifantasy_FarmProps_0_16
+  - first:
+      213: -216460639796191111
+    second: Minifantasy_FarmProps_0_17
+  - first:
+      213: 3331478400881881155
+    second: Minifantasy_FarmProps_0_18
+  - first:
+      213: 375120164110386786
+    second: Minifantasy_FarmProps_0_19
+  - first:
+      213: 7795774544438321406
+    second: Minifantasy_FarmProps_1_0
+  - first:
+      213: -342419236346366064
+    second: Minifantasy_FarmProps_1_1
+  - first:
+      213: -1059411830071036186
+    second: Minifantasy_FarmProps_1_2
+  - first:
+      213: 9031958626253100690
+    second: Minifantasy_FarmProps_1_3
+  - first:
+      213: 6981041693949394081
+    second: Minifantasy_FarmProps_1_4
+  - first:
+      213: 1969020197290735357
+    second: Minifantasy_FarmProps_1_5
+  - first:
+      213: -35132790172282035
+    second: Minifantasy_FarmProps_1_6
+  - first:
+      213: -4576990523463970391
+    second: Minifantasy_FarmProps_1_7
+  - first:
+      213: -2046887590613610691
+    second: Minifantasy_FarmProps_1_8
+  - first:
+      213: 4131867225714562630
+    second: Minifantasy_FarmProps_1_9
+  - first:
+      213: -4569252037483683251
+    second: Minifantasy_FarmProps_1_10
+  - first:
+      213: -5298135284758887149
+    second: Minifantasy_FarmProps_1_11
+  - first:
+      213: 1192082561048411082
+    second: Minifantasy_FarmProps_1_12
+  - first:
+      213: -2450320579444349632
+    second: Minifantasy_FarmProps_1_13
+  - first:
+      213: -3633818556612702237
+    second: Minifantasy_FarmProps_1_14
+  - first:
+      213: -6926935404249308652
+    second: Minifantasy_FarmProps_1_15
+  - first:
+      213: 3348013696199023241
+    second: Minifantasy_FarmProps_1_16
+  - first:
+      213: -8827477550176933317
+    second: Minifantasy_FarmProps_1_17
+  - first:
+      213: 7220714824314456718
+    second: Minifantasy_FarmProps_1_18
+  - first:
+      213: 8678452896877141406
+    second: Minifantasy_FarmProps_1_19
+  - first:
+      213: 6656824929260853618
+    second: Minifantasy_FarmProps_2_0
+  - first:
+      213: -296979189314489503
+    second: Minifantasy_FarmProps_2_1
+  - first:
+      213: -3505490396358515943
+    second: Minifantasy_FarmProps_2_2
+  - first:
+      213: -4510266845095541417
+    second: Minifantasy_FarmProps_2_3
+  - first:
+      213: 8995192582156055552
+    second: Minifantasy_FarmProps_2_4
+  - first:
+      213: -4063963591143411995
+    second: Minifantasy_FarmProps_2_5
+  - first:
+      213: 6607750229202614701
+    second: Minifantasy_FarmProps_2_6
+  - first:
+      213: -4179999572054599700
+    second: Minifantasy_FarmProps_2_7
+  - first:
+      213: 1368822901079186105
+    second: Minifantasy_FarmProps_2_8
+  - first:
+      213: 6837803762283892628
+    second: Minifantasy_FarmProps_2_9
+  - first:
+      213: -5317378621038651525
+    second: Minifantasy_FarmProps_2_10
+  - first:
+      213: 168466292066196929
+    second: Minifantasy_FarmProps_2_11
+  - first:
+      213: -8667372469341787971
+    second: Minifantasy_FarmProps_2_12
+  - first:
+      213: 745832224619822803
+    second: Minifantasy_FarmProps_2_13
+  - first:
+      213: -8109334558209875765
+    second: Minifantasy_FarmProps_2_14
+  - first:
+      213: 6049780758310324969
+    second: Minifantasy_FarmProps_2_15
+  - first:
+      213: -542358523879557269
+    second: Minifantasy_FarmProps_2_16
+  - first:
+      213: 9173221920207265902
+    second: Minifantasy_FarmProps_2_17
+  - first:
+      213: 4906776824002464041
+    second: Minifantasy_FarmProps_2_18
+  - first:
+      213: 9195018629364888897
+    second: Minifantasy_FarmProps_2_19
+  - first:
+      213: 5493250522814709264
+    second: Minifantasy_FarmProps_3_0
+  - first:
+      213: -1790259470515506729
+    second: Minifantasy_FarmProps_3_1
+  - first:
+      213: 5082656338966796795
+    second: Minifantasy_FarmProps_3_2
+  - first:
+      213: 3055487648593245741
+    second: Minifantasy_FarmProps_3_3
+  - first:
+      213: 1817812750225392606
+    second: Minifantasy_FarmProps_3_4
+  - first:
+      213: -4704730368749874668
+    second: Minifantasy_FarmProps_3_5
+  - first:
+      213: -9145388637350955197
+    second: Minifantasy_FarmProps_3_6
+  - first:
+      213: 7089988540453934147
+    second: Minifantasy_FarmProps_3_7
+  - first:
+      213: -2811963542831388080
+    second: Minifantasy_FarmProps_3_8
+  - first:
+      213: 5330537281245940066
+    second: Minifantasy_FarmProps_3_9
+  - first:
+      213: -5831821849312350399
+    second: Minifantasy_FarmProps_3_10
+  - first:
+      213: 8668779731185302066
+    second: Minifantasy_FarmProps_3_11
+  - first:
+      213: -3323182109150777018
+    second: Minifantasy_FarmProps_3_12
+  - first:
+      213: -4536411203699083297
+    second: Minifantasy_FarmProps_3_13
+  - first:
+      213: -7901831370693954878
+    second: Minifantasy_FarmProps_3_14
+  - first:
+      213: -3955050355680362429
+    second: Minifantasy_FarmProps_3_15
+  - first:
+      213: 851632267574544465
+    second: Minifantasy_FarmProps_3_16
+  - first:
+      213: 3110513029634351762
+    second: Minifantasy_FarmProps_3_17
+  - first:
+      213: 3101895519912168483
+    second: Minifantasy_FarmProps_3_18
+  - first:
+      213: 989567222977157045
+    second: Minifantasy_FarmProps_3_19
+  - first:
+      213: 660168796556432741
+    second: Minifantasy_FarmProps_4_0
+  - first:
+      213: -2484220396065381586
+    second: Minifantasy_FarmProps_4_1
+  - first:
+      213: 2430421966296025712
+    second: Minifantasy_FarmProps_4_2
+  - first:
+      213: -1443909010012139837
+    second: Minifantasy_FarmProps_4_3
+  - first:
+      213: 724484748261576243
+    second: Minifantasy_FarmProps_4_4
+  - first:
+      213: -6740115358920167272
+    second: Minifantasy_FarmProps_4_5
+  - first:
+      213: -1482414040080017173
+    second: Minifantasy_FarmProps_4_6
+  - first:
+      213: -2684758712176807715
+    second: Minifantasy_FarmProps_4_7
+  - first:
+      213: -7523253444376659663
+    second: Minifantasy_FarmProps_4_8
+  - first:
+      213: -1211875048779736909
+    second: Minifantasy_FarmProps_4_9
+  - first:
+      213: 6167750489597459396
+    second: Minifantasy_FarmProps_4_10
+  - first:
+      213: 1052260972809605143
+    second: Minifantasy_FarmProps_4_11
+  - first:
+      213: 8967270784310661860
+    second: Minifantasy_FarmProps_4_12
+  - first:
+      213: 5687861623484555970
+    second: Minifantasy_FarmProps_4_13
+  - first:
+      213: -274941684162503980
+    second: Minifantasy_FarmProps_4_14
+  - first:
+      213: 1788469757339379957
+    second: Minifantasy_FarmProps_4_15
+  - first:
+      213: 1223456647533048681
+    second: Minifantasy_FarmProps_4_16
+  - first:
+      213: 1943846107601093117
+    second: Minifantasy_FarmProps_4_17
+  - first:
+      213: 4637224013378574009
+    second: Minifantasy_FarmProps_4_18
+  - first:
+      213: 5632066409939654255
+    second: Minifantasy_FarmProps_4_19
+  - first:
+      213: 5866549950716762484
+    second: Minifantasy_FarmProps_5_0
+  - first:
+      213: 2460973083891687178
+    second: Minifantasy_FarmProps_5_1
+  - first:
+      213: 5111098488592449344
+    second: Minifantasy_FarmProps_5_2
+  - first:
+      213: 5321082710443490962
+    second: Minifantasy_FarmProps_5_3
+  - first:
+      213: 7945557911902015744
+    second: Minifantasy_FarmProps_5_4
+  - first:
+      213: -970907379515999944
+    second: Minifantasy_FarmProps_5_5
+  - first:
+      213: -3527876677373552112
+    second: Minifantasy_FarmProps_5_6
+  - first:
+      213: -757751434675294460
+    second: Minifantasy_FarmProps_5_7
+  - first:
+      213: 2312431513099985019
+    second: Minifantasy_FarmProps_5_8
+  - first:
+      213: -3955324074598719529
+    second: Minifantasy_FarmProps_5_9
+  - first:
+      213: 5867862725598237057
+    second: Minifantasy_FarmProps_5_10
+  - first:
+      213: -135313243991572139
+    second: Minifantasy_FarmProps_5_11
+  - first:
+      213: -3606514606059534773
+    second: Minifantasy_FarmProps_5_12
+  - first:
+      213: 5608661947151240801
+    second: Minifantasy_FarmProps_5_13
+  - first:
+      213: -8546391730877102907
+    second: Minifantasy_FarmProps_5_14
+  - first:
+      213: 191191790702121581
+    second: Minifantasy_FarmProps_5_15
+  - first:
+      213: -588916849310238935
+    second: Minifantasy_FarmProps_5_16
+  - first:
+      213: 1206926832662271281
+    second: Minifantasy_FarmProps_5_17
+  - first:
+      213: -987378372969604901
+    second: Minifantasy_FarmProps_5_18
+  - first:
+      213: 2545919917060682673
+    second: Minifantasy_FarmProps_5_19
+  - first:
+      213: 4178516698327218641
+    second: Minifantasy_FarmProps_6_0
+  - first:
+      213: -1008175743121614532
+    second: Minifantasy_FarmProps_6_1
+  - first:
+      213: 9097354719768685351
+    second: Minifantasy_FarmProps_6_2
+  - first:
+      213: -7326254524813088104
+    second: Minifantasy_FarmProps_6_3
+  - first:
+      213: -6893797696634091451
+    second: Minifantasy_FarmProps_6_4
+  - first:
+      213: 2288826451591341559
+    second: Minifantasy_FarmProps_6_5
+  - first:
+      213: -4975546494404308603
+    second: Minifantasy_FarmProps_6_6
+  - first:
+      213: -4646469934696329568
+    second: Minifantasy_FarmProps_6_7
+  - first:
+      213: -2051467506943651010
+    second: Minifantasy_FarmProps_6_8
+  - first:
+      213: 8505443858672455966
+    second: Minifantasy_FarmProps_6_9
+  - first:
+      213: 8723477637020164972
+    second: Minifantasy_FarmProps_6_10
+  - first:
+      213: -3999261811752752914
+    second: Minifantasy_FarmProps_6_11
+  - first:
+      213: -5673131957491405399
+    second: Minifantasy_FarmProps_6_12
+  - first:
+      213: -7419388369959737275
+    second: Minifantasy_FarmProps_6_13
+  - first:
+      213: -4214210602665620706
+    second: Minifantasy_FarmProps_6_14
+  - first:
+      213: 185027895130994094
+    second: Minifantasy_FarmProps_6_15
+  - first:
+      213: -3001050511692504111
+    second: Minifantasy_FarmProps_6_16
+  - first:
+      213: 8596739321080674010
+    second: Minifantasy_FarmProps_6_17
+  - first:
+      213: -930714763431625056
+    second: Minifantasy_FarmProps_6_18
+  - first:
+      213: -2141667533105257222
+    second: Minifantasy_FarmProps_6_19
+  - first:
+      213: -6864597125991079637
+    second: Minifantasy_FarmProps_7_0
+  - first:
+      213: -1508986887984354639
+    second: Minifantasy_FarmProps_7_1
+  - first:
+      213: -6374154607471623114
+    second: Minifantasy_FarmProps_7_2
+  - first:
+      213: -4156859321773065175
+    second: Minifantasy_FarmProps_7_3
+  - first:
+      213: -4248989170951534942
+    second: Minifantasy_FarmProps_7_4
+  - first:
+      213: 6653778435930055337
+    second: Minifantasy_FarmProps_7_5
+  - first:
+      213: -7786968096734077925
+    second: Minifantasy_FarmProps_7_6
+  - first:
+      213: -6692264948108023409
+    second: Minifantasy_FarmProps_7_7
+  - first:
+      213: -6270454319173969482
+    second: Minifantasy_FarmProps_7_8
+  - first:
+      213: 5783869856466653860
+    second: Minifantasy_FarmProps_7_9
+  - first:
+      213: -3891696543606060909
+    second: Minifantasy_FarmProps_7_10
+  - first:
+      213: -483369656267826425
+    second: Minifantasy_FarmProps_7_11
+  - first:
+      213: 4967069656346515508
+    second: Minifantasy_FarmProps_7_12
+  - first:
+      213: -4848805324623305160
+    second: Minifantasy_FarmProps_7_13
+  - first:
+      213: 4873079983643970996
+    second: Minifantasy_FarmProps_7_14
+  - first:
+      213: -2940257124880610452
+    second: Minifantasy_FarmProps_7_15
+  - first:
+      213: -5723300279093765458
+    second: Minifantasy_FarmProps_7_16
+  - first:
+      213: -8741041895452116521
+    second: Minifantasy_FarmProps_7_17
+  - first:
+      213: -7046509260616316126
+    second: Minifantasy_FarmProps_7_18
+  - first:
+      213: -135665454422700389
+    second: Minifantasy_FarmProps_7_19
+  - first:
+      213: 2475410159533009887
+    second: Minifantasy_FarmProps_8_0
+  - first:
+      213: -1275571334767520265
+    second: Minifantasy_FarmProps_8_1
+  - first:
+      213: 2184977488559522110
+    second: Minifantasy_FarmProps_8_2
+  - first:
+      213: 8556516086856277259
+    second: Minifantasy_FarmProps_8_3
+  - first:
+      213: -3965182599808042282
+    second: Minifantasy_FarmProps_8_4
+  - first:
+      213: -1651016821274555260
+    second: Minifantasy_FarmProps_8_5
+  - first:
+      213: 4266573126232145315
+    second: Minifantasy_FarmProps_8_6
+  - first:
+      213: 1229278553893378493
+    second: Minifantasy_FarmProps_8_7
+  - first:
+      213: 4762911828137699929
+    second: Minifantasy_FarmProps_8_8
+  - first:
+      213: -2356034524414136093
+    second: Minifantasy_FarmProps_8_9
+  - first:
+      213: -6511348864175553778
+    second: Minifantasy_FarmProps_8_10
+  - first:
+      213: -5220725257247759309
+    second: Minifantasy_FarmProps_8_11
+  - first:
+      213: -3268741580434778842
+    second: Minifantasy_FarmProps_8_12
+  - first:
+      213: -2989028967870825998
+    second: Minifantasy_FarmProps_8_13
+  - first:
+      213: -3553632991340948227
+    second: Minifantasy_FarmProps_8_14
+  - first:
+      213: 3976382915176903950
+    second: Minifantasy_FarmProps_8_15
+  - first:
+      213: 6219235604844357649
+    second: Minifantasy_FarmProps_8_16
+  - first:
+      213: 2294695212582602809
+    second: Minifantasy_FarmProps_8_17
+  - first:
+      213: -5799815000263963260
+    second: Minifantasy_FarmProps_8_18
+  - first:
+      213: 8783048688466761472
+    second: Minifantasy_FarmProps_8_19
+  - first:
+      213: 1038803974670553313
+    second: Minifantasy_FarmProps_9_0
+  - first:
+      213: -1143892054170332609
+    second: Minifantasy_FarmProps_9_1
+  - first:
+      213: -2713574335088398887
+    second: Minifantasy_FarmProps_9_2
+  - first:
+      213: -3133293683858169364
+    second: Minifantasy_FarmProps_9_3
+  - first:
+      213: 9069022547817386484
+    second: Minifantasy_FarmProps_9_4
+  - first:
+      213: 4276379098563167832
+    second: Minifantasy_FarmProps_9_5
+  - first:
+      213: 7098672194751410299
+    second: Minifantasy_FarmProps_9_6
+  - first:
+      213: -7068156943153272389
+    second: Minifantasy_FarmProps_9_7
+  - first:
+      213: -3291521507256228341
+    second: Minifantasy_FarmProps_9_8
+  - first:
+      213: -5399180003767821144
+    second: Minifantasy_FarmProps_9_9
+  - first:
+      213: -3645102385753226370
+    second: Minifantasy_FarmProps_9_10
+  - first:
+      213: 3621179947598127461
+    second: Minifantasy_FarmProps_9_11
+  - first:
+      213: -7316092058416582256
+    second: Minifantasy_FarmProps_9_12
+  - first:
+      213: 4024495174238733641
+    second: Minifantasy_FarmProps_9_13
+  - first:
+      213: 8086945599658476990
+    second: Minifantasy_FarmProps_9_14
+  - first:
+      213: 5080878668388629277
+    second: Minifantasy_FarmProps_9_15
+  - first:
+      213: 5085442653585196597
+    second: Minifantasy_FarmProps_9_16
+  - first:
+      213: -5575662611519178736
+    second: Minifantasy_FarmProps_9_17
+  - first:
+      213: 1413838041427368965
+    second: Minifantasy_FarmProps_9_18
+  - first:
+      213: 6441115305122685518
+    second: Minifantasy_FarmProps_9_19
+  - first:
+      213: -2878620638319963542
+    second: Minifantasy_FarmProps_10_0
+  - first:
+      213: -2972779556422032790
+    second: Minifantasy_FarmProps_10_1
+  - first:
+      213: -7748658540525967144
+    second: Minifantasy_FarmProps_10_2
+  - first:
+      213: 7447642994622367608
+    second: Minifantasy_FarmProps_10_3
+  - first:
+      213: -1111118301837562504
+    second: Minifantasy_FarmProps_10_4
+  - first:
+      213: -2895217455747973204
+    second: Minifantasy_FarmProps_10_5
+  - first:
+      213: 1794291073775324496
+    second: Minifantasy_FarmProps_10_6
+  - first:
+      213: -5707923652702333441
+    second: Minifantasy_FarmProps_10_7
+  - first:
+      213: -4702026647326218669
+    second: Minifantasy_FarmProps_10_8
+  - first:
+      213: 4705648448193844473
+    second: Minifantasy_FarmProps_10_9
+  - first:
+      213: -7241477445041308183
+    second: Minifantasy_FarmProps_10_10
+  - first:
+      213: -5662651162489003026
+    second: Minifantasy_FarmProps_10_11
+  - first:
+      213: 110077935876517023
+    second: Minifantasy_FarmProps_10_12
+  - first:
+      213: -2225243777457126498
+    second: Minifantasy_FarmProps_10_13
+  - first:
+      213: 3207967771177576451
+    second: Minifantasy_FarmProps_10_14
+  - first:
+      213: -1237301560683496073
+    second: Minifantasy_FarmProps_10_15
+  - first:
+      213: -4109766889651561555
+    second: Minifantasy_FarmProps_10_16
+  - first:
+      213: 3185599367147316226
+    second: Minifantasy_FarmProps_10_17
+  - first:
+      213: -7362938183171105641
+    second: Minifantasy_FarmProps_10_18
+  - first:
+      213: 1293034523314658136
+    second: Minifantasy_FarmProps_10_19
+  - first:
+      213: 1998025177694802889
+    second: Minifantasy_FarmProps_11_0
+  - first:
+      213: -3047741636115231098
+    second: Minifantasy_FarmProps_11_1
+  - first:
+      213: -8128865803413194178
+    second: Minifantasy_FarmProps_11_2
+  - first:
+      213: 822686149114982344
+    second: Minifantasy_FarmProps_11_3
+  - first:
+      213: 6119382607863884459
+    second: Minifantasy_FarmProps_11_4
+  - first:
+      213: -7422877061928701632
+    second: Minifantasy_FarmProps_11_5
+  - first:
+      213: -176372482137746218
+    second: Minifantasy_FarmProps_11_6
+  - first:
+      213: -6545233694722456060
+    second: Minifantasy_FarmProps_11_7
+  - first:
+      213: -2020181237036389863
+    second: Minifantasy_FarmProps_11_8
+  - first:
+      213: -4750772246380458191
+    second: Minifantasy_FarmProps_11_9
+  - first:
+      213: -4758561705369980037
+    second: Minifantasy_FarmProps_11_10
+  - first:
+      213: 1570605631480380471
+    second: Minifantasy_FarmProps_11_11
+  - first:
+      213: -4053610715125573162
+    second: Minifantasy_FarmProps_11_12
+  - first:
+      213: -5564355653081405309
+    second: Minifantasy_FarmProps_11_13
+  - first:
+      213: -5421756572548618519
+    second: Minifantasy_FarmProps_11_14
+  - first:
+      213: 5143906544388867137
+    second: Minifantasy_FarmProps_11_15
+  - first:
+      213: -7066826775272925115
+    second: Minifantasy_FarmProps_11_16
+  - first:
+      213: 4120225505443905372
+    second: Minifantasy_FarmProps_11_17
+  - first:
+      213: -4902730462611063383
+    second: Minifantasy_FarmProps_11_18
+  - first:
+      213: -1513079700182601383
+    second: Minifantasy_FarmProps_11_19
+  - first:
+      213: 1940849711232157050
+    second: Minifantasy_FarmProps_12_0
+  - first:
+      213: -6738933363658074450
+    second: Minifantasy_FarmProps_12_1
+  - first:
+      213: -1650133057095634840
+    second: Minifantasy_FarmProps_12_2
+  - first:
+      213: 2147064485508709804
+    second: Minifantasy_FarmProps_12_3
+  - first:
+      213: -3075436787340243142
+    second: Minifantasy_FarmProps_12_4
+  - first:
+      213: -4726898421916755072
+    second: Minifantasy_FarmProps_12_5
+  - first:
+      213: -5445856382583286076
+    second: Minifantasy_FarmProps_12_6
+  - first:
+      213: -4032695563572510151
+    second: Minifantasy_FarmProps_12_7
+  - first:
+      213: 3561288610149141650
+    second: Minifantasy_FarmProps_12_8
+  - first:
+      213: -2792645418430438082
+    second: Minifantasy_FarmProps_12_9
+  - first:
+      213: 7659496538219147681
+    second: Minifantasy_FarmProps_12_10
+  - first:
+      213: 2768943163480804516
+    second: Minifantasy_FarmProps_12_11
+  - first:
+      213: 8432639442384249933
+    second: Minifantasy_FarmProps_12_12
+  - first:
+      213: 3830617000360969781
+    second: Minifantasy_FarmProps_12_13
+  - first:
+      213: -3451306908265489559
+    second: Minifantasy_FarmProps_12_14
+  - first:
+      213: 1096359379862247066
+    second: Minifantasy_FarmProps_12_15
+  - first:
+      213: -533102451730054042
+    second: Minifantasy_FarmProps_12_16
+  - first:
+      213: 8196467561639521580
+    second: Minifantasy_FarmProps_12_17
+  - first:
+      213: 5348448266433597718
+    second: Minifantasy_FarmProps_12_18
+  - first:
+      213: -6896807880595431920
+    second: Minifantasy_FarmProps_12_19
+  - first:
+      213: 4941070761263365504
+    second: Minifantasy_FarmProps_13_0
+  - first:
+      213: 2174115848469889912
+    second: Minifantasy_FarmProps_13_1
+  - first:
+      213: -4687743508116915254
+    second: Minifantasy_FarmProps_13_2
+  - first:
+      213: -4274905415557317631
+    second: Minifantasy_FarmProps_13_3
+  - first:
+      213: -5901761029592921582
+    second: Minifantasy_FarmProps_13_4
+  - first:
+      213: -5854386128104180343
+    second: Minifantasy_FarmProps_13_5
+  - first:
+      213: -5406469908410249803
+    second: Minifantasy_FarmProps_13_6
+  - first:
+      213: -8466536345537813165
+    second: Minifantasy_FarmProps_13_7
+  - first:
+      213: -8467184268895561049
+    second: Minifantasy_FarmProps_13_8
+  - first:
+      213: -7703729273582347345
+    second: Minifantasy_FarmProps_13_9
+  - first:
+      213: -5873847009572015452
+    second: Minifantasy_FarmProps_13_10
+  - first:
+      213: -2036465193812261575
+    second: Minifantasy_FarmProps_13_11
+  - first:
+      213: 4766593393300017324
+    second: Minifantasy_FarmProps_13_12
+  - first:
+      213: -5325249066340899578
+    second: Minifantasy_FarmProps_13_13
+  - first:
+      213: -5238560938215054952
+    second: Minifantasy_FarmProps_13_14
+  - first:
+      213: 4565655085199714109
+    second: Minifantasy_FarmProps_13_15
+  - first:
+      213: -9206855905411464259
+    second: Minifantasy_FarmProps_13_16
+  - first:
+      213: 4226161436340808978
+    second: Minifantasy_FarmProps_13_17
+  - first:
+      213: -5264089598128264992
+    second: Minifantasy_FarmProps_13_18
+  - first:
+      213: 3456592837794669663
+    second: Minifantasy_FarmProps_13_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee67ee6f22928ae0800000000000000
+      internalID: -1548514589440250141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a195171665df1a6f0800000000000000
+      internalID: -674979921685030630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597663aec00b45cd0800000000000000
+      internalID: -2570235917806180459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b47150fa3e7f10800000000000000
+      internalID: 2269316066074474551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146921c27de162190800000000000000
+      internalID: -7987662979588778431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022191ad6edc51400800000000000000
+      internalID: 294367742047883808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7a2ea639ea6050800000000000000
+      internalID: 5794700291625089803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803eb759827f69a0800000000000000
+      internalID: -6237641024676679552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf4d77dbc3770e0800000000000000
+      internalID: -2272280702528193382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8601050c4f818e0800000000000000
+      internalID: -1722357750655063868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84524891169cda290800000000000000
+      internalID: -7877418754324028088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec3c62a75fd21c0800000000000000
+      internalID: -4526692145452298608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeafcfd31cb37c00800000000000000
+      internalID: 897267544322191081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ce812de2b31a50800000000000000
+      internalID: 6490728219511014587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de87705830c13f0800000000000000
+      internalID: -928863553254265467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578a6a64230573a40800000000000000
+      internalID: 5347831259389667445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5458dc4724e8a80b0800000000000000
+      internalID: -5725607560169552571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9702819e13afefcf0800000000000000
+      internalID: -216460639796191111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340737564f9cb3e20800000000000000
+      internalID: 3331478400881881155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_0_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c2e14dc1b43500800000000000000
+      internalID: 375120164110386786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef06746f4a7203c60800000000000000
+      internalID: 7795774544438321406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097705dc48b7f3bf0800000000000000
+      internalID: -342419236346366064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f4c5bd863c41f0800000000000000
+      internalID: -1059411830071036186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29657d76486f75d70800000000000000
+      internalID: 9031958626253100690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac7b0afe64a1e060800000000000000
+      internalID: 6981041693949394081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67517ef6d535b10800000000000000
+      internalID: 1969020197290735357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4310d9d9ee238ff0800000000000000
+      internalID: -35132790172282035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d99c6e534b70c0800000000000000
+      internalID: -4576990523463970391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f025ac49ef793e0800000000000000
+      internalID: -2046887590613610691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469bc7a957575930800000000000000
+      internalID: 4131867225714562630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d422e881b71c690c0800000000000000
+      internalID: -4569252037483683251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315cbfb770e3976b0800000000000000
+      internalID: -5298135284758887149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7a3af5c02b8010800000000000000
+      internalID: 1192082561048411082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e3645a66befdd0800000000000000
+      internalID: -2450320579444349632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef80ea8645129dc0800000000000000
+      internalID: -3633818556612702237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412a4a743f49edf90800000000000000
+      internalID: -6926935404249308652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad519d7b8867e20800000000000000
+      internalID: 3348013696199023241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae7f620ff7e7580800000000000000
+      internalID: -8827477550176933317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a09af20e1253460800000000000000
+      internalID: 7220714824314456718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_1_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d5256edee007870800000000000000
+      internalID: 8678452896877141406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279de88f00bc16c50800000000000000
+      internalID: 6656824929260853618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f933300be0ebf0800000000000000
+      internalID: -296979189314489503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913e181be0ff95fc0800000000000000
+      internalID: -3505490396358515943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755cbd763305861c0800000000000000
+      internalID: -4510266845095541417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f3a1bef755dc70800000000000000
+      internalID: 8995192582156055552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea6c945a6e997c0800000000000000
+      internalID: -4063963591143411995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b028f2d173bb50800000000000000
+      internalID: 6607750229202614701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7966a2988adf5c0800000000000000
+      internalID: -4179999572054599700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9e3b1d290ff210800000000000000
+      internalID: 1368822901079186105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc2c62b42c4ee50800000000000000
+      internalID: 6837803762283892628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b771cbc1150e436b0800000000000000
+      internalID: -5317378621038651525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9b373333865200800000000000000
+      internalID: 168466292066196929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8e1ec29ae47b780800000000000000
+      internalID: -8667372469341787971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def08ae47ab95a00800000000000000
+      internalID: 745832224619822803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0e9153f2bd57f80800000000000000
+      internalID: -8109334558209875765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea841ceb8325f350800000000000000
+      internalID: 6049780758310324969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67f04bcbc72978f0800000000000000
+      internalID: -542358523879557269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e7cf0cb4dd4f70800000000000000
+      internalID: 9173221920207265902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92949c2368f581440800000000000000
+      internalID: 4906776824002464041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_2_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b462e9b44b9f70800000000000000
+      internalID: 9195018629364888897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e799afe32fb3c40800000000000000
+      internalID: 5493250522814709264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f42c2f78b727e0800000000000000
+      internalID: -1790259470515506729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d08fd209398640800000000000000
+      internalID: 5082656338966796795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d267ef5e3d5476a20800000000000000
+      internalID: 3055487648593245741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34c5da01b2a3910800000000000000
+      internalID: 1817812750225392606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412dba608a075beb0800000000000000
+      internalID: -4704730368749874668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3477dc91d7d051180800000000000000
+      internalID: -9145388637350955197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344d85f5303b46260800000000000000
+      internalID: 7089988540453934147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aaf246e06e9f8d0800000000000000
+      internalID: -2811963542831388080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26904a63a6fd9f940800000000000000
+      internalID: 5330537281245940066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f20662de4311fa0800000000000000
+      internalID: -5831821849312350399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af7618c31bd4870800000000000000
+      internalID: 8668779731185302066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641722c8a7fa1e1d0800000000000000
+      internalID: -3323182109150777018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f9609b0e6b01c0800000000000000
+      internalID: -4536411203699083297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2bfbaeb3e075290800000000000000
+      internalID: -7901831370693954878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c3e008a6dc19c0800000000000000
+      internalID: -3955050355680362429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588a04090b91db00800000000000000
+      internalID: 851632267574544465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926498ce13ca2b20800000000000000
+      internalID: 3110513029634351762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8db27a852c0b20800000000000000
+      internalID: 3101895519912168483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_3_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75ce67526abbd00800000000000000
+      internalID: 989567222977157045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651b82d504692900800000000000000
+      internalID: 660168796556432741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e232eb436b6468dd0800000000000000
+      internalID: -2484220396065381586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a8163c6e79ab120800000000000000
+      internalID: 2430421966296025712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8d32d76436fbe0800000000000000
+      internalID: -1443909010012139837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec1514a03ed0a00800000000000000
+      internalID: 724484748261576243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b86eaacc4672a0800000000000000
+      internalID: -6740115358920167272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89af2e8486d6be0800000000000000
+      internalID: -1482414040080017173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f01dfc22ddbad0800000000000000
+      internalID: -2684758712176807715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f1bc2ad8089790800000000000000
+      internalID: -7523253444376659663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8135d501e8e2fe0800000000000000
+      internalID: -1211875048779736909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb2b36460489550800000000000000
+      internalID: 6167750489597459396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710d25797c16a9e00800000000000000
+      internalID: 1052260972809605143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e253978445227c70800000000000000
+      internalID: 8967270784310661860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2af5fc2085fee40800000000000000
+      internalID: 5687861623484555970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dadb85bef53f2cf0800000000000000
+      internalID: -274941684162503980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f82eb1c4cbe1d810800000000000000
+      internalID: 1788469757339379957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9633c4ab6579af010800000000000000
+      internalID: 1223456647533048681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c6956cbde9fa10800000000000000
+      internalID: 1943846107601093117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6575dcbaaba5040800000000000000
+      internalID: 4637224013378574009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_4_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66dcd35f8e192e40800000000000000
+      internalID: 5632066409939654255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479de8d091c2a6150800000000000000
+      internalID: 5866549950716762484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f59232bf1272220800000000000000
+      internalID: 2460973083891687178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb690eef44ee640800000000000000
+      internalID: 5111098488592449344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ef478688848d940800000000000000
+      internalID: 5321082710443490962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d631d2da444e60800000000000000
+      internalID: 7945557911902015744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b426e1e4a682f0800000000000000
+      internalID: -970907379515999944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a93c97ad67a0fc0800000000000000
+      internalID: -3527876677373552112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fe22cb51deb75f0800000000000000
+      internalID: -757751434675294460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706eb99538671020800000000000000
+      internalID: 2312431513099985019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df1ef9d5bddb19c0800000000000000
+      internalID: -3955324074598719529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d9064f06de6150800000000000000
+      internalID: 5867862725598237057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510a7e42554f1ef0800000000000000
+      internalID: -135313243991572139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46409ce21613fdc0800000000000000
+      internalID: -3606514606059534773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e43313358f5dd40800000000000000
+      internalID: 5608661947151240801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c40cb1600e156980800000000000000
+      internalID: -8546391730877102907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6255c0bbef37a200800000000000000
+      internalID: 191191790702121581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927fe9aee3fb3d7f0800000000000000
+      internalID: -588916849310238935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d8ba4f8ddfb010800000000000000
+      internalID: 1206926832662271281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85e34e9902c42f0800000000000000
+      internalID: -987378372969604901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_5_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b37efafcace45320800000000000000
+      internalID: 2545919917060682673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9f4d36cc21df930800000000000000
+      internalID: 4178516698327218641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391210d08d3202f0800000000000000
+      internalID: -1008175743121614532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b2983faeb404e70800000000000000
+      internalID: 9097354719768685351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aea6a635ae35a90800000000000000
+      internalID: -7326254524813088104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54808b2158f4450a0800000000000000
+      internalID: -6893797696634091451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ae9fe78b83cf10800000000000000
+      internalID: 2288826451591341559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581579d23de43fab0800000000000000
+      internalID: -4975546494404308603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae84e2663c648fb0800000000000000
+      internalID: -4646469934696329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e331e5ceb29b783e0800000000000000
+      internalID: -2051467506943651010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11133d2028690670800000000000000
+      internalID: 8505443858672455966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63a6a021b4001970800000000000000
+      internalID: 8723477637020164972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee821ba3294cf78c0800000000000000
+      internalID: -3999261811752752914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adeecdca8cf441b0800000000000000
+      internalID: -5673131957491405399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a2ed4699090990800000000000000
+      internalID: -7419388369959737275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4e63e8cd1485c0800000000000000
+      internalID: -4214210602665620706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea532dae3e9519200800000000000000
+      internalID: 185027895130994094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36099b5702a56d0800000000000000
+      internalID: -3001050511692504111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad675a37dd0cd4770800000000000000
+      internalID: 8596739321080674010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae32729adf6513f0800000000000000
+      internalID: -930714763431625056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_6_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42646c9b44742e0800000000000000
+      internalID: -2141667533105257222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21622bb84d0cb0a0800000000000000
+      internalID: -6864597125991079637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba68fa9b600f0be0800000000000000
+      internalID: -1508986887984354639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6340c3ef7247a87a0800000000000000
+      internalID: -6374154607471623114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf178887edf46c0800000000000000
+      internalID: -4156859321773065175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c3f27cde8805c0800000000000000
+      internalID: -4248989170951534942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2e3c7fb38f65c50800000000000000
+      internalID: 6653778435930055337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9ddce5c12fe390800000000000000
+      internalID: -7786968096734077925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f892931ac7c4023a0800000000000000
+      internalID: -6692264948108023409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9525dd40fdaf8a0800000000000000
+      internalID: -6270454319173969482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d8cd7dfe644050800000000000000
+      internalID: 5783869856466653860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ceb8dc9aedf9c0800000000000000
+      internalID: -3891696543606060909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b14fecbd9ba49f0800000000000000
+      internalID: -483369656267826425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d72929839ee440800000000000000
+      internalID: 4967069656346515508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8362ec05f3595bcb0800000000000000
+      internalID: -4848805324623305160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4a2b2d68a0a340800000000000000
+      internalID: 4873079983643970996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0e2b19bb1237d0800000000000000
+      internalID: -2940257124880610452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad8b138b0c290b0800000000000000
+      internalID: -5723300279093765458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f4c645b491b680800000000000000
+      internalID: -8741041895452116521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc6765925c53e90800000000000000
+      internalID: -7046509260616316126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_7_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec7dcecf40e1ef0800000000000000
+      internalID: -135665454422700389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbab50cc6c6a5220800000000000000
+      internalID: 2475410159533009887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d28911a24c4ee0800000000000000
+      internalID: -1275571334767520265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c0d70379925e10800000000000000
+      internalID: 2184977488559522110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ddbffeb0adeb670800000000000000
+      internalID: 8556516086856277259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dab1e41f67d8f8c0800000000000000
+      internalID: -3965182599808042282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c4cb1d2f86619e0800000000000000
+      internalID: -1651016821274555260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7b4d27a9e53b30800000000000000
+      internalID: 4266573126232145315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db912dee4564f0110800000000000000
+      internalID: 1229278553893378493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a67ac9213491240800000000000000
+      internalID: 4762911828137699929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03db5351fad4fd0800000000000000
+      internalID: -2356034524414136093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e034c26e4ba03a5a0800000000000000
+      internalID: -6511348864175553778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33466d30a024c87b0800000000000000
+      internalID: -5220725257247759309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d2a3e9d813a2d0800000000000000
+      internalID: -3268741580434778842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f4b28df5d486d0800000000000000
+      internalID: -2989028967870825998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df493015f95feaec0800000000000000
+      internalID: -3553632991340948227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053d0e8133fe2730800000000000000
+      internalID: 3976382915176903950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118a539e4d92f4650800000000000000
+      internalID: 6219235604844357649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93886c5532568df10800000000000000
+      internalID: 2294695212582602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc84a6cfae28fa0800000000000000
+      internalID: -5799815000263963260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_8_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00795016f38a3e970800000000000000
+      internalID: 8783048688466761472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0908d06b29a6e00800000000000000
+      internalID: 1038803974670553313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3219c1cc341020f0800000000000000
+      internalID: -1143892054170332609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd6075f482775ad0800000000000000
+      internalID: -2713574335088398887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1a8a4defd4484d0800000000000000
+      internalID: -3133293683858169364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d9ae15f3abdd70800000000000000
+      internalID: 9069022547817386484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85643c60220c85b30800000000000000
+      internalID: 4276379098563167832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b91130cc838260800000000000000
+      internalID: 7098672194751410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb963aa75bcd8ed90800000000000000
+      internalID: -7068156943153272389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b062f6dd0aa2252d0800000000000000
+      internalID: -3291521507256228341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd60584624215b0800000000000000
+      internalID: -5399180003767821144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73004751bef96dc0800000000000000
+      internalID: -3645102385753226370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561aa5cf9f3014230800000000000000
+      internalID: 3621179947598127461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f5020905087a90800000000000000
+      internalID: -7316092058416582256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94506ccc901e9d730800000000000000
+      internalID: 4024495174238733641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54d892d2a9a3070800000000000000
+      internalID: 8086945599658476990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf920ba38e28640800000000000000
+      internalID: 5080878668388629277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c09c462f139640800000000000000
+      internalID: 5085442653585196597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f8fc55644f92b0800000000000000
+      internalID: -5575662611519178736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c56353536fe9310800000000000000
+      internalID: 1413838041427368965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_9_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426b275e30736950800000000000000
+      internalID: 6441115305122685518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6294d1f7c51d08d0800000000000000
+      internalID: -2878620638319963542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62ebef6eb09eb6d0800000000000000
+      internalID: -2972779556422032790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8272e8c1c377490800000000000000
+      internalID: -7748658540525967144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877846428d75b5760800000000000000
+      internalID: 7447642994622367608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d698b9ac38490f0800000000000000
+      internalID: -1111118301837562504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafb1a2401f12d7d0800000000000000
+      internalID: -2895217455747973204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d480c993a96e810800000000000000
+      internalID: 1794291073775324496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff590a30ea169c0b0800000000000000
+      internalID: -5707923652702333441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35623b93dab0fbeb0800000000000000
+      internalID: -4702026647326218669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f456700552dd4140800000000000000
+      internalID: 4705648448193844473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed3f4771aa118b90800000000000000
+      internalID: -7241477445041308183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e3ec05c83a61b0800000000000000
+      internalID: -5662651162489003026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c2789ac43178100800000000000000
+      internalID: 110077935876517023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93050203985e11e0800000000000000
+      internalID: -2225243777457126498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e0fbf0bdf48c20800000000000000
+      internalID: 3207967771177576451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7c6b39c834dee0800000000000000
+      internalID: -1237301560683496073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab18a0d9cc27f6c0800000000000000
+      internalID: -4109766889651561555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20466831fb5853c20800000000000000
+      internalID: 3185599367147316226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c1de0abb691d990800000000000000
+      internalID: -7362938183171105641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_10_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9c745c08c1f110800000000000000
+      internalID: 1293034523314658136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c319c820596abb10800000000000000
+      internalID: 1998025177694802889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0f2c212f34b5d0800000000000000
+      internalID: -3047741636115231098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a7cb0de97703f80800000000000000
+      internalID: -8128865803413194178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe1af91b4ca6b00800000000000000
+      internalID: 822686149114982344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2e6a5f0a6ce450800000000000000
+      internalID: 6119382607863884459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0413858e3a4acf890800000000000000
+      internalID: -7422877061928701632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4960679266d8df0800000000000000
+      internalID: -176372482137746218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406862ef1a8aa25a0800000000000000
+      internalID: -6545233694722456060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a69884edfd6f3e0800000000000000
+      internalID: -2020181237036389863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f45b500ddd11eb0800000000000000
+      internalID: -4750772246380458191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7335a5475136fdb0800000000000000
+      internalID: -4758561705369980037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cbd9a1089ebc510800000000000000
+      internalID: 1570605631480380471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d91933188eaeb7c0800000000000000
+      internalID: -4053610715125573162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886526c30077c2b0800000000000000
+      internalID: -5564355653081405309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6a99a7f1d02c4b0800000000000000
+      internalID: -5421756572548618519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1440b10afb3d26740800000000000000
+      internalID: 5143906544388867137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54853a25d769ded90800000000000000
+      internalID: -7066826775272925115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ffc7e644bfd2930800000000000000
+      internalID: 4120225505443905372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adb49abe9006fbb0800000000000000
+      internalID: -4902730462611063383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_11_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951f2c18706700be0800000000000000
+      internalID: -1513079700182601383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75896087884fea10800000000000000
+      internalID: 1940849711232157050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d1266fcf7a72a0800000000000000
+      internalID: -6738933363658074450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607fa33abc8919e0800000000000000
+      internalID: -1650133057095634840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7a9026c7ebcd10800000000000000
+      internalID: 2147064485508709804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8a69498ad155d0800000000000000
+      internalID: -3075436787340243142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1c40fdeea66eb0800000000000000
+      internalID: -4726898421916755072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c65452397e6c64b0800000000000000
+      internalID: -5445856382583286076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93287f540ccf808c0800000000000000
+      internalID: -4032695563572510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c85965f1d3c6130800000000000000
+      internalID: 3561288610149141650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35e4dab9c78e39d0800000000000000
+      internalID: -2792645418430438082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f2ee058ffb4a60800000000000000
+      internalID: 7659496538219147681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac058ef2234d6620800000000000000
+      internalID: 2768943163480804516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44e24215e0c60570800000000000000
+      internalID: 8432639442384249933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368619cdd5192530800000000000000
+      internalID: 3830617000360969781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bdbf917ae7a10d0800000000000000
+      internalID: -3451306908265489559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a965bd61c0d073f00800000000000000
+      internalID: 1096359379862247066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6648db7052a0a98f0800000000000000
+      internalID: -533102451730054042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d298012d3bfb170800000000000000
+      internalID: 8196467561639521580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611145c6c51893a40800000000000000
+      internalID: 5348448266433597718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_12_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9ef006cd9940a0800000000000000
+      internalID: -6896807880595431920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dfb2fada5329440800000000000000
+      internalID: 4941070761263365504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873489068d20c2e10800000000000000
+      internalID: 2174115848469889912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb3c88bd1ac1feb0800000000000000
+      internalID: -4687743508116915254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cff498c2c7ca4c0800000000000000
+      internalID: -4274905415557317631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aced9cc9bb81ea0800000000000000
+      internalID: -5901761029592921582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985306895da01cea0800000000000000
+      internalID: -5854386128104180343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd4e54534c58f4b0800000000000000
+      internalID: -5406469908410249803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e8462d02d08a80800000000000000
+      internalID: -8466536345537813165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa54bcb4c48e7a80800000000000000
+      internalID: -8467184268895561049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9852ba0bd61590800000000000000
+      internalID: -7703729273582347345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a238790447eb7ea0800000000000000
+      internalID: -5873847009572015452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358f5522b50db3e0800000000000000
+      internalID: -2036465193812261575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01f5ccf67562240800000000000000
+      internalID: 4766593393300017324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6052544403ae816b0800000000000000
+      internalID: -5325249066340899578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891647fe494ec47b0800000000000000
+      internalID: -5238560938215054952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e8403c177c5f30800000000000000
+      internalID: 4565655085199714109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30eb3855daa3080800000000000000
+      internalID: -9206855905411464259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6c886f6756aa30800000000000000
+      internalID: 4226161436340808978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86cbd966232f6b0800000000000000
+      internalID: -5264089598128264992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_FarmProps_13_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5429e54fd848ff20800000000000000
+      internalID: 3456592837794669663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_FarmProps_0: -2632943321424041305
+      Minifantasy_FarmProps_0_0: -1548514589440250141
+      Minifantasy_FarmProps_0_1: -674979921685030630
+      Minifantasy_FarmProps_0_10: -7877418754324028088
+      Minifantasy_FarmProps_0_11: -4526692145452298608
+      Minifantasy_FarmProps_0_12: 897267544322191081
+      Minifantasy_FarmProps_0_13: 6490728219511014587
+      Minifantasy_FarmProps_0_14: -928863553254265467
+      Minifantasy_FarmProps_0_15: 5347831259389667445
+      Minifantasy_FarmProps_0_16: -5725607560169552571
+      Minifantasy_FarmProps_0_17: -216460639796191111
+      Minifantasy_FarmProps_0_18: 3331478400881881155
+      Minifantasy_FarmProps_0_19: 375120164110386786
+      Minifantasy_FarmProps_0_2: -2570235917806180459
+      Minifantasy_FarmProps_0_3: 2269316066074474551
+      Minifantasy_FarmProps_0_4: -7987662979588778431
+      Minifantasy_FarmProps_0_5: 294367742047883808
+      Minifantasy_FarmProps_0_6: 5794700291625089803
+      Minifantasy_FarmProps_0_7: -6237641024676679552
+      Minifantasy_FarmProps_0_8: -2272280702528193382
+      Minifantasy_FarmProps_0_9: -1722357750655063868
+      Minifantasy_FarmProps_1: 35332333598468616
+      Minifantasy_FarmProps_10: 6831715243278567750
+      Minifantasy_FarmProps_10_0: -2878620638319963542
+      Minifantasy_FarmProps_10_1: -2972779556422032790
+      Minifantasy_FarmProps_10_10: -7241477445041308183
+      Minifantasy_FarmProps_10_11: -5662651162489003026
+      Minifantasy_FarmProps_10_12: 110077935876517023
+      Minifantasy_FarmProps_10_13: -2225243777457126498
+      Minifantasy_FarmProps_10_14: 3207967771177576451
+      Minifantasy_FarmProps_10_15: -1237301560683496073
+      Minifantasy_FarmProps_10_16: -4109766889651561555
+      Minifantasy_FarmProps_10_17: 3185599367147316226
+      Minifantasy_FarmProps_10_18: -7362938183171105641
+      Minifantasy_FarmProps_10_19: 1293034523314658136
+      Minifantasy_FarmProps_10_2: -7748658540525967144
+      Minifantasy_FarmProps_10_3: 7447642994622367608
+      Minifantasy_FarmProps_10_4: -1111118301837562504
+      Minifantasy_FarmProps_10_5: -2895217455747973204
+      Minifantasy_FarmProps_10_6: 1794291073775324496
+      Minifantasy_FarmProps_10_7: -5707923652702333441
+      Minifantasy_FarmProps_10_8: -4702026647326218669
+      Minifantasy_FarmProps_10_9: 4705648448193844473
+      Minifantasy_FarmProps_11: -1813051324235782847
+      Minifantasy_FarmProps_11_0: 1998025177694802889
+      Minifantasy_FarmProps_11_1: -3047741636115231098
+      Minifantasy_FarmProps_11_10: -4758561705369980037
+      Minifantasy_FarmProps_11_11: 1570605631480380471
+      Minifantasy_FarmProps_11_12: -4053610715125573162
+      Minifantasy_FarmProps_11_13: -5564355653081405309
+      Minifantasy_FarmProps_11_14: -5421756572548618519
+      Minifantasy_FarmProps_11_15: 5143906544388867137
+      Minifantasy_FarmProps_11_16: -7066826775272925115
+      Minifantasy_FarmProps_11_17: 4120225505443905372
+      Minifantasy_FarmProps_11_18: -4902730462611063383
+      Minifantasy_FarmProps_11_19: -1513079700182601383
+      Minifantasy_FarmProps_11_2: -8128865803413194178
+      Minifantasy_FarmProps_11_3: 822686149114982344
+      Minifantasy_FarmProps_11_4: 6119382607863884459
+      Minifantasy_FarmProps_11_5: -7422877061928701632
+      Minifantasy_FarmProps_11_6: -176372482137746218
+      Minifantasy_FarmProps_11_7: -6545233694722456060
+      Minifantasy_FarmProps_11_8: -2020181237036389863
+      Minifantasy_FarmProps_11_9: -4750772246380458191
+      Minifantasy_FarmProps_12: -2428350822737176160
+      Minifantasy_FarmProps_12_0: 1940849711232157050
+      Minifantasy_FarmProps_12_1: -6738933363658074450
+      Minifantasy_FarmProps_12_10: 7659496538219147681
+      Minifantasy_FarmProps_12_11: 2768943163480804516
+      Minifantasy_FarmProps_12_12: 8432639442384249933
+      Minifantasy_FarmProps_12_13: 3830617000360969781
+      Minifantasy_FarmProps_12_14: -3451306908265489559
+      Minifantasy_FarmProps_12_15: 1096359379862247066
+      Minifantasy_FarmProps_12_16: -533102451730054042
+      Minifantasy_FarmProps_12_17: 8196467561639521580
+      Minifantasy_FarmProps_12_18: 5348448266433597718
+      Minifantasy_FarmProps_12_19: -6896807880595431920
+      Minifantasy_FarmProps_12_2: -1650133057095634840
+      Minifantasy_FarmProps_12_3: 2147064485508709804
+      Minifantasy_FarmProps_12_4: -3075436787340243142
+      Minifantasy_FarmProps_12_5: -4726898421916755072
+      Minifantasy_FarmProps_12_6: -5445856382583286076
+      Minifantasy_FarmProps_12_7: -4032695563572510151
+      Minifantasy_FarmProps_12_8: 3561288610149141650
+      Minifantasy_FarmProps_12_9: -2792645418430438082
+      Minifantasy_FarmProps_13: -1773375359905858904
+      Minifantasy_FarmProps_13_0: 4941070761263365504
+      Minifantasy_FarmProps_13_1: 2174115848469889912
+      Minifantasy_FarmProps_13_10: -5873847009572015452
+      Minifantasy_FarmProps_13_11: -2036465193812261575
+      Minifantasy_FarmProps_13_12: 4766593393300017324
+      Minifantasy_FarmProps_13_13: -5325249066340899578
+      Minifantasy_FarmProps_13_14: -5238560938215054952
+      Minifantasy_FarmProps_13_15: 4565655085199714109
+      Minifantasy_FarmProps_13_16: -9206855905411464259
+      Minifantasy_FarmProps_13_17: 4226161436340808978
+      Minifantasy_FarmProps_13_18: -5264089598128264992
+      Minifantasy_FarmProps_13_19: 3456592837794669663
+      Minifantasy_FarmProps_13_2: -4687743508116915254
+      Minifantasy_FarmProps_13_3: -4274905415557317631
+      Minifantasy_FarmProps_13_4: -5901761029592921582
+      Minifantasy_FarmProps_13_5: -5854386128104180343
+      Minifantasy_FarmProps_13_6: -5406469908410249803
+      Minifantasy_FarmProps_13_7: -8466536345537813165
+      Minifantasy_FarmProps_13_8: -8467184268895561049
+      Minifantasy_FarmProps_13_9: -7703729273582347345
+      Minifantasy_FarmProps_14: -4425829839543317589
+      Minifantasy_FarmProps_15: -2772875574740432294
+      Minifantasy_FarmProps_16: 1410055898277330865
+      Minifantasy_FarmProps_17: 8831746081841902455
+      Minifantasy_FarmProps_1_0: 7795774544438321406
+      Minifantasy_FarmProps_1_1: -342419236346366064
+      Minifantasy_FarmProps_1_10: -4569252037483683251
+      Minifantasy_FarmProps_1_11: -5298135284758887149
+      Minifantasy_FarmProps_1_12: 1192082561048411082
+      Minifantasy_FarmProps_1_13: -2450320579444349632
+      Minifantasy_FarmProps_1_14: -3633818556612702237
+      Minifantasy_FarmProps_1_15: -6926935404249308652
+      Minifantasy_FarmProps_1_16: 3348013696199023241
+      Minifantasy_FarmProps_1_17: -8827477550176933317
+      Minifantasy_FarmProps_1_18: 7220714824314456718
+      Minifantasy_FarmProps_1_19: 8678452896877141406
+      Minifantasy_FarmProps_1_2: -1059411830071036186
+      Minifantasy_FarmProps_1_3: 9031958626253100690
+      Minifantasy_FarmProps_1_4: 6981041693949394081
+      Minifantasy_FarmProps_1_5: 1969020197290735357
+      Minifantasy_FarmProps_1_6: -35132790172282035
+      Minifantasy_FarmProps_1_7: -4576990523463970391
+      Minifantasy_FarmProps_1_8: -2046887590613610691
+      Minifantasy_FarmProps_1_9: 4131867225714562630
+      Minifantasy_FarmProps_2: 2185935413280926468
+      Minifantasy_FarmProps_2_0: 6656824929260853618
+      Minifantasy_FarmProps_2_1: -296979189314489503
+      Minifantasy_FarmProps_2_10: -5317378621038651525
+      Minifantasy_FarmProps_2_11: 168466292066196929
+      Minifantasy_FarmProps_2_12: -8667372469341787971
+      Minifantasy_FarmProps_2_13: 745832224619822803
+      Minifantasy_FarmProps_2_14: -8109334558209875765
+      Minifantasy_FarmProps_2_15: 6049780758310324969
+      Minifantasy_FarmProps_2_16: -542358523879557269
+      Minifantasy_FarmProps_2_17: 9173221920207265902
+      Minifantasy_FarmProps_2_18: 4906776824002464041
+      Minifantasy_FarmProps_2_19: 9195018629364888897
+      Minifantasy_FarmProps_2_2: -3505490396358515943
+      Minifantasy_FarmProps_2_3: -4510266845095541417
+      Minifantasy_FarmProps_2_4: 8995192582156055552
+      Minifantasy_FarmProps_2_5: -4063963591143411995
+      Minifantasy_FarmProps_2_6: 6607750229202614701
+      Minifantasy_FarmProps_2_7: -4179999572054599700
+      Minifantasy_FarmProps_2_8: 1368822901079186105
+      Minifantasy_FarmProps_2_9: 6837803762283892628
+      Minifantasy_FarmProps_3: 2796490879853539381
+      Minifantasy_FarmProps_3_0: 5493250522814709264
+      Minifantasy_FarmProps_3_1: -1790259470515506729
+      Minifantasy_FarmProps_3_10: -5831821849312350399
+      Minifantasy_FarmProps_3_11: 8668779731185302066
+      Minifantasy_FarmProps_3_12: -3323182109150777018
+      Minifantasy_FarmProps_3_13: -4536411203699083297
+      Minifantasy_FarmProps_3_14: -7901831370693954878
+      Minifantasy_FarmProps_3_15: -3955050355680362429
+      Minifantasy_FarmProps_3_16: 851632267574544465
+      Minifantasy_FarmProps_3_17: 3110513029634351762
+      Minifantasy_FarmProps_3_18: 3101895519912168483
+      Minifantasy_FarmProps_3_19: 989567222977157045
+      Minifantasy_FarmProps_3_2: 5082656338966796795
+      Minifantasy_FarmProps_3_3: 3055487648593245741
+      Minifantasy_FarmProps_3_4: 1817812750225392606
+      Minifantasy_FarmProps_3_5: -4704730368749874668
+      Minifantasy_FarmProps_3_6: -9145388637350955197
+      Minifantasy_FarmProps_3_7: 7089988540453934147
+      Minifantasy_FarmProps_3_8: -2811963542831388080
+      Minifantasy_FarmProps_3_9: 5330537281245940066
+      Minifantasy_FarmProps_4: 1869449880114063069
+      Minifantasy_FarmProps_4_0: 660168796556432741
+      Minifantasy_FarmProps_4_1: -2484220396065381586
+      Minifantasy_FarmProps_4_10: 6167750489597459396
+      Minifantasy_FarmProps_4_11: 1052260972809605143
+      Minifantasy_FarmProps_4_12: 8967270784310661860
+      Minifantasy_FarmProps_4_13: 5687861623484555970
+      Minifantasy_FarmProps_4_14: -274941684162503980
+      Minifantasy_FarmProps_4_15: 1788469757339379957
+      Minifantasy_FarmProps_4_16: 1223456647533048681
+      Minifantasy_FarmProps_4_17: 1943846107601093117
+      Minifantasy_FarmProps_4_18: 4637224013378574009
+      Minifantasy_FarmProps_4_19: 5632066409939654255
+      Minifantasy_FarmProps_4_2: 2430421966296025712
+      Minifantasy_FarmProps_4_3: -1443909010012139837
+      Minifantasy_FarmProps_4_4: 724484748261576243
+      Minifantasy_FarmProps_4_5: -6740115358920167272
+      Minifantasy_FarmProps_4_6: -1482414040080017173
+      Minifantasy_FarmProps_4_7: -2684758712176807715
+      Minifantasy_FarmProps_4_8: -7523253444376659663
+      Minifantasy_FarmProps_4_9: -1211875048779736909
+      Minifantasy_FarmProps_5: 5451341611840487710
+      Minifantasy_FarmProps_5_0: 5866549950716762484
+      Minifantasy_FarmProps_5_1: 2460973083891687178
+      Minifantasy_FarmProps_5_10: 5867862725598237057
+      Minifantasy_FarmProps_5_11: -135313243991572139
+      Minifantasy_FarmProps_5_12: -3606514606059534773
+      Minifantasy_FarmProps_5_13: 5608661947151240801
+      Minifantasy_FarmProps_5_14: -8546391730877102907
+      Minifantasy_FarmProps_5_15: 191191790702121581
+      Minifantasy_FarmProps_5_16: -588916849310238935
+      Minifantasy_FarmProps_5_17: 1206926832662271281
+      Minifantasy_FarmProps_5_18: -987378372969604901
+      Minifantasy_FarmProps_5_19: 2545919917060682673
+      Minifantasy_FarmProps_5_2: 5111098488592449344
+      Minifantasy_FarmProps_5_3: 5321082710443490962
+      Minifantasy_FarmProps_5_4: 7945557911902015744
+      Minifantasy_FarmProps_5_5: -970907379515999944
+      Minifantasy_FarmProps_5_6: -3527876677373552112
+      Minifantasy_FarmProps_5_7: -757751434675294460
+      Minifantasy_FarmProps_5_8: 2312431513099985019
+      Minifantasy_FarmProps_5_9: -3955324074598719529
+      Minifantasy_FarmProps_6: -6558404411164161107
+      Minifantasy_FarmProps_6_0: 4178516698327218641
+      Minifantasy_FarmProps_6_1: -1008175743121614532
+      Minifantasy_FarmProps_6_10: 8723477637020164972
+      Minifantasy_FarmProps_6_11: -3999261811752752914
+      Minifantasy_FarmProps_6_12: -5673131957491405399
+      Minifantasy_FarmProps_6_13: -7419388369959737275
+      Minifantasy_FarmProps_6_14: -4214210602665620706
+      Minifantasy_FarmProps_6_15: 185027895130994094
+      Minifantasy_FarmProps_6_16: -3001050511692504111
+      Minifantasy_FarmProps_6_17: 8596739321080674010
+      Minifantasy_FarmProps_6_18: -930714763431625056
+      Minifantasy_FarmProps_6_19: -2141667533105257222
+      Minifantasy_FarmProps_6_2: 9097354719768685351
+      Minifantasy_FarmProps_6_3: -7326254524813088104
+      Minifantasy_FarmProps_6_4: -6893797696634091451
+      Minifantasy_FarmProps_6_5: 2288826451591341559
+      Minifantasy_FarmProps_6_6: -4975546494404308603
+      Minifantasy_FarmProps_6_7: -4646469934696329568
+      Minifantasy_FarmProps_6_8: -2051467506943651010
+      Minifantasy_FarmProps_6_9: 8505443858672455966
+      Minifantasy_FarmProps_7: 702457181925315867
+      Minifantasy_FarmProps_7_0: -6864597125991079637
+      Minifantasy_FarmProps_7_1: -1508986887984354639
+      Minifantasy_FarmProps_7_10: -3891696543606060909
+      Minifantasy_FarmProps_7_11: -483369656267826425
+      Minifantasy_FarmProps_7_12: 4967069656346515508
+      Minifantasy_FarmProps_7_13: -4848805324623305160
+      Minifantasy_FarmProps_7_14: 4873079983643970996
+      Minifantasy_FarmProps_7_15: -2940257124880610452
+      Minifantasy_FarmProps_7_16: -5723300279093765458
+      Minifantasy_FarmProps_7_17: -8741041895452116521
+      Minifantasy_FarmProps_7_18: -7046509260616316126
+      Minifantasy_FarmProps_7_19: -135665454422700389
+      Minifantasy_FarmProps_7_2: -6374154607471623114
+      Minifantasy_FarmProps_7_3: -4156859321773065175
+      Minifantasy_FarmProps_7_4: -4248989170951534942
+      Minifantasy_FarmProps_7_5: 6653778435930055337
+      Minifantasy_FarmProps_7_6: -7786968096734077925
+      Minifantasy_FarmProps_7_7: -6692264948108023409
+      Minifantasy_FarmProps_7_8: -6270454319173969482
+      Minifantasy_FarmProps_7_9: 5783869856466653860
+      Minifantasy_FarmProps_8: 5233700709782118219
+      Minifantasy_FarmProps_8_0: 2475410159533009887
+      Minifantasy_FarmProps_8_1: -1275571334767520265
+      Minifantasy_FarmProps_8_10: -6511348864175553778
+      Minifantasy_FarmProps_8_11: -5220725257247759309
+      Minifantasy_FarmProps_8_12: -3268741580434778842
+      Minifantasy_FarmProps_8_13: -2989028967870825998
+      Minifantasy_FarmProps_8_14: -3553632991340948227
+      Minifantasy_FarmProps_8_15: 3976382915176903950
+      Minifantasy_FarmProps_8_16: 6219235604844357649
+      Minifantasy_FarmProps_8_17: 2294695212582602809
+      Minifantasy_FarmProps_8_18: -5799815000263963260
+      Minifantasy_FarmProps_8_19: 8783048688466761472
+      Minifantasy_FarmProps_8_2: 2184977488559522110
+      Minifantasy_FarmProps_8_3: 8556516086856277259
+      Minifantasy_FarmProps_8_4: -3965182599808042282
+      Minifantasy_FarmProps_8_5: -1651016821274555260
+      Minifantasy_FarmProps_8_6: 4266573126232145315
+      Minifantasy_FarmProps_8_7: 1229278553893378493
+      Minifantasy_FarmProps_8_8: 4762911828137699929
+      Minifantasy_FarmProps_8_9: -2356034524414136093
+      Minifantasy_FarmProps_9: 1131045112597940843
+      Minifantasy_FarmProps_9_0: 1038803974670553313
+      Minifantasy_FarmProps_9_1: -1143892054170332609
+      Minifantasy_FarmProps_9_10: -3645102385753226370
+      Minifantasy_FarmProps_9_11: 3621179947598127461
+      Minifantasy_FarmProps_9_12: -7316092058416582256
+      Minifantasy_FarmProps_9_13: 4024495174238733641
+      Minifantasy_FarmProps_9_14: 8086945599658476990
+      Minifantasy_FarmProps_9_15: 5080878668388629277
+      Minifantasy_FarmProps_9_16: 5085442653585196597
+      Minifantasy_FarmProps_9_17: -5575662611519178736
+      Minifantasy_FarmProps_9_18: 1413838041427368965
+      Minifantasy_FarmProps_9_19: 6441115305122685518
+      Minifantasy_FarmProps_9_2: -2713574335088398887
+      Minifantasy_FarmProps_9_3: -3133293683858169364
+      Minifantasy_FarmProps_9_4: 9069022547817386484
+      Minifantasy_FarmProps_9_5: 4276379098563167832
+      Minifantasy_FarmProps_9_6: 7098672194751410299
+      Minifantasy_FarmProps_9_7: -7068156943153272389
+      Minifantasy_FarmProps_9_8: -3291521507256228341
+      Minifantasy_FarmProps_9_9: -5399180003767821144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

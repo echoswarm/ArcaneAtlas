@@ -1,0 +1,6168 @@
+fileFormatVersion: 2
+guid: e97dcef65f1bc194a9312ed5d6ae9d40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7077222428575163504
+    second: Minifantasy_DesolateDesertProps_0
+  - first:
+      213: 8045745507127975164
+    second: Minifantasy_DesolateDesertProps_1
+  - first:
+      213: 2816145909697251037
+    second: Minifantasy_DesolateDesertProps_2
+  - first:
+      213: -4972584720515384212
+    second: Minifantasy_DesolateDesertProps_3
+  - first:
+      213: -4241005341784220150
+    second: Minifantasy_DesolateDesertProps_4
+  - first:
+      213: -1119794244380857097
+    second: Minifantasy_DesolateDesertProps_5
+  - first:
+      213: -8243136442321748426
+    second: Minifantasy_DesolateDesertProps_6
+  - first:
+      213: 4356918607187682303
+    second: Minifantasy_DesolateDesertProps_7
+  - first:
+      213: -2175369523667948689
+    second: Minifantasy_DesolateDesertProps_8
+  - first:
+      213: 3913022427134740062
+    second: Minifantasy_DesolateDesertProps_9
+  - first:
+      213: 738693000397021646
+    second: Minifantasy_DesolateDesertProps_10
+  - first:
+      213: -6765027946815485593
+    second: Minifantasy_DesolateDesertProps_11
+  - first:
+      213: 6237351384081343441
+    second: Minifantasy_DesolateDesertProps_12
+  - first:
+      213: -5354296583602629241
+    second: Minifantasy_DesolateDesertProps_13
+  - first:
+      213: 3726919841156045888
+    second: Minifantasy_DesolateDesertProps_14
+  - first:
+      213: -3763466935684821414
+    second: Minifantasy_DesolateDesertProps_15
+  - first:
+      213: 6145205549159175089
+    second: Minifantasy_DesolateDesertProps_16
+  - first:
+      213: 3273160759410830977
+    second: Minifantasy_DesolateDesertProps_17
+  - first:
+      213: 4293994259451012705
+    second: Minifantasy_DesolateDesertProps_18
+  - first:
+      213: 7219500544338931333
+    second: Minifantasy_DesolateDesertProps_19
+  - first:
+      213: 7007132084385223912
+    second: Minifantasy_DesolateDesertProps_20
+  - first:
+      213: 2781680579335995793
+    second: Minifantasy_DesolateDesertProps_0_0
+  - first:
+      213: -6574326930254498099
+    second: Minifantasy_DesolateDesertProps_0_1
+  - first:
+      213: -5540673670889550716
+    second: Minifantasy_DesolateDesertProps_0_2
+  - first:
+      213: -2198518543279717839
+    second: Minifantasy_DesolateDesertProps_0_3
+  - first:
+      213: -3968678720840800502
+    second: Minifantasy_DesolateDesertProps_0_4
+  - first:
+      213: -3996623390538046283
+    second: Minifantasy_DesolateDesertProps_0_5
+  - first:
+      213: -5201756208547749235
+    second: Minifantasy_DesolateDesertProps_0_6
+  - first:
+      213: 5752487614896105857
+    second: Minifantasy_DesolateDesertProps_0_7
+  - first:
+      213: 8900042241404469973
+    second: Minifantasy_DesolateDesertProps_0_8
+  - first:
+      213: 479490650792296787
+    second: Minifantasy_DesolateDesertProps_0_9
+  - first:
+      213: 2431420590424132548
+    second: Minifantasy_DesolateDesertProps_0_10
+  - first:
+      213: 2099698886642040021
+    second: Minifantasy_DesolateDesertProps_0_11
+  - first:
+      213: 6385541858017674166
+    second: Minifantasy_DesolateDesertProps_0_12
+  - first:
+      213: -1923897711556125657
+    second: Minifantasy_DesolateDesertProps_0_13
+  - first:
+      213: -2851564718403156649
+    second: Minifantasy_DesolateDesertProps_0_14
+  - first:
+      213: -6762748399991088946
+    second: Minifantasy_DesolateDesertProps_0_15
+  - first:
+      213: -2474202891601437790
+    second: Minifantasy_DesolateDesertProps_0_16
+  - first:
+      213: 5477402066523282173
+    second: Minifantasy_DesolateDesertProps_0_17
+  - first:
+      213: 4183605500297133545
+    second: Minifantasy_DesolateDesertProps_0_18
+  - first:
+      213: 3294901760347867724
+    second: Minifantasy_DesolateDesertProps_1_0
+  - first:
+      213: -7456587100730792570
+    second: Minifantasy_DesolateDesertProps_1_1
+  - first:
+      213: -6202784243565882816
+    second: Minifantasy_DesolateDesertProps_1_2
+  - first:
+      213: 1021622433449709553
+    second: Minifantasy_DesolateDesertProps_1_3
+  - first:
+      213: 616468599593399402
+    second: Minifantasy_DesolateDesertProps_1_4
+  - first:
+      213: -7941184195978185693
+    second: Minifantasy_DesolateDesertProps_1_5
+  - first:
+      213: 22649417158825394
+    second: Minifantasy_DesolateDesertProps_1_6
+  - first:
+      213: -2196985074301610297
+    second: Minifantasy_DesolateDesertProps_1_7
+  - first:
+      213: 8271959569860958466
+    second: Minifantasy_DesolateDesertProps_1_8
+  - first:
+      213: 1950471125731517591
+    second: Minifantasy_DesolateDesertProps_1_9
+  - first:
+      213: 5568629896811765313
+    second: Minifantasy_DesolateDesertProps_1_10
+  - first:
+      213: 5846482260480968845
+    second: Minifantasy_DesolateDesertProps_1_11
+  - first:
+      213: -1550979390771100513
+    second: Minifantasy_DesolateDesertProps_1_12
+  - first:
+      213: 8467351519884235239
+    second: Minifantasy_DesolateDesertProps_1_13
+  - first:
+      213: 6821732800768729578
+    second: Minifantasy_DesolateDesertProps_1_14
+  - first:
+      213: -5085862728243741349
+    second: Minifantasy_DesolateDesertProps_1_15
+  - first:
+      213: 8238012855617267617
+    second: Minifantasy_DesolateDesertProps_1_16
+  - first:
+      213: 5263730628062675693
+    second: Minifantasy_DesolateDesertProps_1_17
+  - first:
+      213: 5739472329754029729
+    second: Minifantasy_DesolateDesertProps_1_18
+  - first:
+      213: -4003343834363545833
+    second: Minifantasy_DesolateDesertProps_2_0
+  - first:
+      213: -8311115690462458167
+    second: Minifantasy_DesolateDesertProps_2_1
+  - first:
+      213: -4272551662187225712
+    second: Minifantasy_DesolateDesertProps_2_2
+  - first:
+      213: 7124758124978071078
+    second: Minifantasy_DesolateDesertProps_2_3
+  - first:
+      213: 5576968799956765597
+    second: Minifantasy_DesolateDesertProps_2_4
+  - first:
+      213: -1641198136209679691
+    second: Minifantasy_DesolateDesertProps_2_5
+  - first:
+      213: 6709799680009068310
+    second: Minifantasy_DesolateDesertProps_2_6
+  - first:
+      213: 1563165528010986793
+    second: Minifantasy_DesolateDesertProps_2_7
+  - first:
+      213: 4895095257921397226
+    second: Minifantasy_DesolateDesertProps_2_8
+  - first:
+      213: -7864038673598923832
+    second: Minifantasy_DesolateDesertProps_2_9
+  - first:
+      213: -7002259851763890493
+    second: Minifantasy_DesolateDesertProps_2_10
+  - first:
+      213: -3437427112481994645
+    second: Minifantasy_DesolateDesertProps_2_11
+  - first:
+      213: -8619782867177902956
+    second: Minifantasy_DesolateDesertProps_2_12
+  - first:
+      213: 463966430164401082
+    second: Minifantasy_DesolateDesertProps_2_13
+  - first:
+      213: 7688900582986139920
+    second: Minifantasy_DesolateDesertProps_2_14
+  - first:
+      213: 6414743771327259016
+    second: Minifantasy_DesolateDesertProps_2_15
+  - first:
+      213: -3461053995412164379
+    second: Minifantasy_DesolateDesertProps_2_16
+  - first:
+      213: -4806491830029015785
+    second: Minifantasy_DesolateDesertProps_2_17
+  - first:
+      213: 6774313692204900973
+    second: Minifantasy_DesolateDesertProps_2_18
+  - first:
+      213: 4332496339446587884
+    second: Minifantasy_DesolateDesertProps_3_0
+  - first:
+      213: 2279746497198618286
+    second: Minifantasy_DesolateDesertProps_3_1
+  - first:
+      213: -2064915303757002262
+    second: Minifantasy_DesolateDesertProps_3_2
+  - first:
+      213: -8711594701918549630
+    second: Minifantasy_DesolateDesertProps_3_3
+  - first:
+      213: 2175140697061172094
+    second: Minifantasy_DesolateDesertProps_3_4
+  - first:
+      213: 3454199210133786338
+    second: Minifantasy_DesolateDesertProps_3_5
+  - first:
+      213: 5260224926923724102
+    second: Minifantasy_DesolateDesertProps_3_6
+  - first:
+      213: -2453654705614088729
+    second: Minifantasy_DesolateDesertProps_3_7
+  - first:
+      213: 6547287286146292982
+    second: Minifantasy_DesolateDesertProps_3_8
+  - first:
+      213: 7737892622791125802
+    second: Minifantasy_DesolateDesertProps_3_9
+  - first:
+      213: -8477039349006628971
+    second: Minifantasy_DesolateDesertProps_3_10
+  - first:
+      213: -4738530322174040471
+    second: Minifantasy_DesolateDesertProps_3_11
+  - first:
+      213: 3990587871866142337
+    second: Minifantasy_DesolateDesertProps_3_12
+  - first:
+      213: -7889345986764076610
+    second: Minifantasy_DesolateDesertProps_3_13
+  - first:
+      213: -5427391301351831185
+    second: Minifantasy_DesolateDesertProps_3_14
+  - first:
+      213: -9173348044587663217
+    second: Minifantasy_DesolateDesertProps_3_15
+  - first:
+      213: -6432647298820630311
+    second: Minifantasy_DesolateDesertProps_3_16
+  - first:
+      213: 8217121908754345190
+    second: Minifantasy_DesolateDesertProps_3_17
+  - first:
+      213: 7294785715327271828
+    second: Minifantasy_DesolateDesertProps_3_18
+  - first:
+      213: -8737778915668823660
+    second: Minifantasy_DesolateDesertProps_4_0
+  - first:
+      213: -3265630211926383896
+    second: Minifantasy_DesolateDesertProps_4_1
+  - first:
+      213: 7234499527273726401
+    second: Minifantasy_DesolateDesertProps_4_2
+  - first:
+      213: 1331585289015221995
+    second: Minifantasy_DesolateDesertProps_4_3
+  - first:
+      213: 2675195685842802701
+    second: Minifantasy_DesolateDesertProps_4_4
+  - first:
+      213: 9073660522781736290
+    second: Minifantasy_DesolateDesertProps_4_5
+  - first:
+      213: 5979627861378327986
+    second: Minifantasy_DesolateDesertProps_4_6
+  - first:
+      213: 7348508050556423269
+    second: Minifantasy_DesolateDesertProps_4_7
+  - first:
+      213: -1957170702762972891
+    second: Minifantasy_DesolateDesertProps_4_8
+  - first:
+      213: 995062354374105500
+    second: Minifantasy_DesolateDesertProps_4_9
+  - first:
+      213: 1676903852813837954
+    second: Minifantasy_DesolateDesertProps_4_10
+  - first:
+      213: -6475346842838097644
+    second: Minifantasy_DesolateDesertProps_4_11
+  - first:
+      213: 3890825231893401807
+    second: Minifantasy_DesolateDesertProps_4_12
+  - first:
+      213: 436205176971411318
+    second: Minifantasy_DesolateDesertProps_4_13
+  - first:
+      213: 6459703318809958264
+    second: Minifantasy_DesolateDesertProps_4_14
+  - first:
+      213: -4808573944059282729
+    second: Minifantasy_DesolateDesertProps_4_15
+  - first:
+      213: 7497554948626617986
+    second: Minifantasy_DesolateDesertProps_4_16
+  - first:
+      213: 7724483800352829936
+    second: Minifantasy_DesolateDesertProps_4_17
+  - first:
+      213: 1910451507187241545
+    second: Minifantasy_DesolateDesertProps_4_18
+  - first:
+      213: -7298370508446708614
+    second: Minifantasy_DesolateDesertProps_5_0
+  - first:
+      213: -7159749718380001331
+    second: Minifantasy_DesolateDesertProps_5_1
+  - first:
+      213: 8557107414677448045
+    second: Minifantasy_DesolateDesertProps_5_2
+  - first:
+      213: -8840275660751005686
+    second: Minifantasy_DesolateDesertProps_5_3
+  - first:
+      213: 1232737828665926785
+    second: Minifantasy_DesolateDesertProps_5_4
+  - first:
+      213: -6651133988158031230
+    second: Minifantasy_DesolateDesertProps_5_5
+  - first:
+      213: -4229593852249503844
+    second: Minifantasy_DesolateDesertProps_5_6
+  - first:
+      213: 5252066629898554860
+    second: Minifantasy_DesolateDesertProps_5_7
+  - first:
+      213: -6124848940451879953
+    second: Minifantasy_DesolateDesertProps_5_8
+  - first:
+      213: -2506214724880354825
+    second: Minifantasy_DesolateDesertProps_5_9
+  - first:
+      213: -479950406606666897
+    second: Minifantasy_DesolateDesertProps_5_10
+  - first:
+      213: 8641333436900410396
+    second: Minifantasy_DesolateDesertProps_5_11
+  - first:
+      213: -6329629839531540427
+    second: Minifantasy_DesolateDesertProps_5_12
+  - first:
+      213: -5858472841300381690
+    second: Minifantasy_DesolateDesertProps_5_13
+  - first:
+      213: -8409091551747010223
+    second: Minifantasy_DesolateDesertProps_5_14
+  - first:
+      213: 4289755535179359793
+    second: Minifantasy_DesolateDesertProps_5_15
+  - first:
+      213: -365980502237744024
+    second: Minifantasy_DesolateDesertProps_5_16
+  - first:
+      213: 5655310168694610999
+    second: Minifantasy_DesolateDesertProps_5_17
+  - first:
+      213: 7181384545808378005
+    second: Minifantasy_DesolateDesertProps_5_18
+  - first:
+      213: -6828973645863406674
+    second: Minifantasy_DesolateDesertProps_6_0
+  - first:
+      213: -5958254368559931024
+    second: Minifantasy_DesolateDesertProps_6_1
+  - first:
+      213: 4552441911117254790
+    second: Minifantasy_DesolateDesertProps_6_2
+  - first:
+      213: -7480109212230960700
+    second: Minifantasy_DesolateDesertProps_6_3
+  - first:
+      213: 5881401678835590587
+    second: Minifantasy_DesolateDesertProps_6_4
+  - first:
+      213: -3150373585447905481
+    second: Minifantasy_DesolateDesertProps_6_5
+  - first:
+      213: 6894917257898509039
+    second: Minifantasy_DesolateDesertProps_6_6
+  - first:
+      213: -7319446355217969264
+    second: Minifantasy_DesolateDesertProps_6_7
+  - first:
+      213: -7567292903521788126
+    second: Minifantasy_DesolateDesertProps_6_8
+  - first:
+      213: -4893103990680905575
+    second: Minifantasy_DesolateDesertProps_6_9
+  - first:
+      213: -6293900389084220439
+    second: Minifantasy_DesolateDesertProps_6_10
+  - first:
+      213: 5928190242149944077
+    second: Minifantasy_DesolateDesertProps_6_11
+  - first:
+      213: -4664705973877049614
+    second: Minifantasy_DesolateDesertProps_6_12
+  - first:
+      213: -8271313353987652140
+    second: Minifantasy_DesolateDesertProps_6_13
+  - first:
+      213: -1579012096173870181
+    second: Minifantasy_DesolateDesertProps_6_14
+  - first:
+      213: 5353129074509568517
+    second: Minifantasy_DesolateDesertProps_6_15
+  - first:
+      213: -2282568947168077568
+    second: Minifantasy_DesolateDesertProps_6_16
+  - first:
+      213: -4245219535324595398
+    second: Minifantasy_DesolateDesertProps_6_17
+  - first:
+      213: -2713376589168992977
+    second: Minifantasy_DesolateDesertProps_6_18
+  - first:
+      213: 1893481109611057819
+    second: Minifantasy_DesolateDesertProps_7_0
+  - first:
+      213: 380055879064160281
+    second: Minifantasy_DesolateDesertProps_7_1
+  - first:
+      213: -2365718863047929606
+    second: Minifantasy_DesolateDesertProps_7_2
+  - first:
+      213: -1564698304903234920
+    second: Minifantasy_DesolateDesertProps_7_3
+  - first:
+      213: 7157664175549949296
+    second: Minifantasy_DesolateDesertProps_7_4
+  - first:
+      213: -3932534083956916465
+    second: Minifantasy_DesolateDesertProps_7_5
+  - first:
+      213: 2504137932533539976
+    second: Minifantasy_DesolateDesertProps_7_6
+  - first:
+      213: 592044739968707216
+    second: Minifantasy_DesolateDesertProps_7_7
+  - first:
+      213: -8225577181598430803
+    second: Minifantasy_DesolateDesertProps_7_8
+  - first:
+      213: -4208402628320536578
+    second: Minifantasy_DesolateDesertProps_7_9
+  - first:
+      213: -4058051070345427107
+    second: Minifantasy_DesolateDesertProps_7_10
+  - first:
+      213: -8564396896588200107
+    second: Minifantasy_DesolateDesertProps_7_11
+  - first:
+      213: 3426458637697339249
+    second: Minifantasy_DesolateDesertProps_7_12
+  - first:
+      213: -127153521588730721
+    second: Minifantasy_DesolateDesertProps_7_13
+  - first:
+      213: 2341246869101208553
+    second: Minifantasy_DesolateDesertProps_7_14
+  - first:
+      213: -3720431116676850622
+    second: Minifantasy_DesolateDesertProps_7_15
+  - first:
+      213: -6939240114636292241
+    second: Minifantasy_DesolateDesertProps_7_16
+  - first:
+      213: 3196376436395537556
+    second: Minifantasy_DesolateDesertProps_7_17
+  - first:
+      213: -8792945104780211963
+    second: Minifantasy_DesolateDesertProps_7_18
+  - first:
+      213: 2685290177569398988
+    second: Minifantasy_DesolateDesertProps_8_0
+  - first:
+      213: 979394766659912307
+    second: Minifantasy_DesolateDesertProps_8_1
+  - first:
+      213: -4161505250571139241
+    second: Minifantasy_DesolateDesertProps_8_2
+  - first:
+      213: 2481551736045331928
+    second: Minifantasy_DesolateDesertProps_8_3
+  - first:
+      213: 8374836941408209802
+    second: Minifantasy_DesolateDesertProps_8_4
+  - first:
+      213: 6175522536612639348
+    second: Minifantasy_DesolateDesertProps_8_5
+  - first:
+      213: 3987256256190365183
+    second: Minifantasy_DesolateDesertProps_8_6
+  - first:
+      213: 6927826409083297165
+    second: Minifantasy_DesolateDesertProps_8_7
+  - first:
+      213: -2725200415680270954
+    second: Minifantasy_DesolateDesertProps_8_8
+  - first:
+      213: 8552094222872770214
+    second: Minifantasy_DesolateDesertProps_8_9
+  - first:
+      213: -4947873818150264587
+    second: Minifantasy_DesolateDesertProps_8_10
+  - first:
+      213: 383261544156792927
+    second: Minifantasy_DesolateDesertProps_8_11
+  - first:
+      213: -8139586935673087292
+    second: Minifantasy_DesolateDesertProps_8_12
+  - first:
+      213: -7184795597311069196
+    second: Minifantasy_DesolateDesertProps_8_13
+  - first:
+      213: 7985863894153603209
+    second: Minifantasy_DesolateDesertProps_8_14
+  - first:
+      213: 3505497602369477164
+    second: Minifantasy_DesolateDesertProps_8_15
+  - first:
+      213: 6711751637856203579
+    second: Minifantasy_DesolateDesertProps_8_16
+  - first:
+      213: -2610606026140783427
+    second: Minifantasy_DesolateDesertProps_8_17
+  - first:
+      213: 8318754458472953503
+    second: Minifantasy_DesolateDesertProps_8_18
+  - first:
+      213: -7574373070426849308
+    second: Minifantasy_DesolateDesertProps_9_0
+  - first:
+      213: 624824513429719585
+    second: Minifantasy_DesolateDesertProps_9_1
+  - first:
+      213: 7326497525194350264
+    second: Minifantasy_DesolateDesertProps_9_2
+  - first:
+      213: 8808783658172803660
+    second: Minifantasy_DesolateDesertProps_9_3
+  - first:
+      213: -3943736170408608725
+    second: Minifantasy_DesolateDesertProps_9_4
+  - first:
+      213: 1668911883222228213
+    second: Minifantasy_DesolateDesertProps_9_5
+  - first:
+      213: -4127196598647941532
+    second: Minifantasy_DesolateDesertProps_9_6
+  - first:
+      213: 3923913555838350151
+    second: Minifantasy_DesolateDesertProps_9_7
+  - first:
+      213: -9219212581355741207
+    second: Minifantasy_DesolateDesertProps_9_8
+  - first:
+      213: -8614908350854665777
+    second: Minifantasy_DesolateDesertProps_9_9
+  - first:
+      213: -8978065629551180006
+    second: Minifantasy_DesolateDesertProps_9_10
+  - first:
+      213: -18284952292960225
+    second: Minifantasy_DesolateDesertProps_9_11
+  - first:
+      213: 6561588759368765943
+    second: Minifantasy_DesolateDesertProps_9_12
+  - first:
+      213: 6064473246688618820
+    second: Minifantasy_DesolateDesertProps_9_13
+  - first:
+      213: 4899792653815518948
+    second: Minifantasy_DesolateDesertProps_9_14
+  - first:
+      213: -131307420963069483
+    second: Minifantasy_DesolateDesertProps_9_15
+  - first:
+      213: -6719999441853703351
+    second: Minifantasy_DesolateDesertProps_9_16
+  - first:
+      213: -4924988534567810865
+    second: Minifantasy_DesolateDesertProps_9_17
+  - first:
+      213: -7387004509109745019
+    second: Minifantasy_DesolateDesertProps_9_18
+  - first:
+      213: -3591905565471005633
+    second: Minifantasy_DesolateDesertProps_10_0
+  - first:
+      213: 1578464410301377749
+    second: Minifantasy_DesolateDesertProps_10_1
+  - first:
+      213: 2904809115181343108
+    second: Minifantasy_DesolateDesertProps_10_2
+  - first:
+      213: -7962807990088032736
+    second: Minifantasy_DesolateDesertProps_10_3
+  - first:
+      213: -3245079933018563895
+    second: Minifantasy_DesolateDesertProps_10_4
+  - first:
+      213: 7548580042811628397
+    second: Minifantasy_DesolateDesertProps_10_5
+  - first:
+      213: 1727053384703905327
+    second: Minifantasy_DesolateDesertProps_10_6
+  - first:
+      213: -3608590264080776921
+    second: Minifantasy_DesolateDesertProps_10_7
+  - first:
+      213: 3694089077834475332
+    second: Minifantasy_DesolateDesertProps_10_8
+  - first:
+      213: -9056888465064188152
+    second: Minifantasy_DesolateDesertProps_10_9
+  - first:
+      213: -7026605022944130651
+    second: Minifantasy_DesolateDesertProps_10_10
+  - first:
+      213: 8561894886360411710
+    second: Minifantasy_DesolateDesertProps_10_11
+  - first:
+      213: 9047273964790100181
+    second: Minifantasy_DesolateDesertProps_10_12
+  - first:
+      213: -8857803427581956434
+    second: Minifantasy_DesolateDesertProps_10_13
+  - first:
+      213: -7172633383760111911
+    second: Minifantasy_DesolateDesertProps_10_14
+  - first:
+      213: -663753941822842631
+    second: Minifantasy_DesolateDesertProps_10_15
+  - first:
+      213: 3010494895239111542
+    second: Minifantasy_DesolateDesertProps_10_16
+  - first:
+      213: 5378747542762318995
+    second: Minifantasy_DesolateDesertProps_10_17
+  - first:
+      213: 2632743897050519415
+    second: Minifantasy_DesolateDesertProps_10_18
+  - first:
+      213: 1823027917054706564
+    second: Minifantasy_DesolateDesertProps_11_0
+  - first:
+      213: -4114278947929183029
+    second: Minifantasy_DesolateDesertProps_11_1
+  - first:
+      213: 1245936023437114092
+    second: Minifantasy_DesolateDesertProps_11_2
+  - first:
+      213: -1294431834356251729
+    second: Minifantasy_DesolateDesertProps_11_3
+  - first:
+      213: 8623129842749467223
+    second: Minifantasy_DesolateDesertProps_11_4
+  - first:
+      213: 9157586604895231591
+    second: Minifantasy_DesolateDesertProps_11_5
+  - first:
+      213: -333301454632605724
+    second: Minifantasy_DesolateDesertProps_11_6
+  - first:
+      213: -2355348830618858197
+    second: Minifantasy_DesolateDesertProps_11_7
+  - first:
+      213: -3978971136246962183
+    second: Minifantasy_DesolateDesertProps_11_8
+  - first:
+      213: -2287598540568247786
+    second: Minifantasy_DesolateDesertProps_11_9
+  - first:
+      213: -6142586352408585077
+    second: Minifantasy_DesolateDesertProps_11_10
+  - first:
+      213: 633820416028774776
+    second: Minifantasy_DesolateDesertProps_11_11
+  - first:
+      213: 5750609686106773201
+    second: Minifantasy_DesolateDesertProps_11_12
+  - first:
+      213: -2979400407190253108
+    second: Minifantasy_DesolateDesertProps_11_13
+  - first:
+      213: -4718332370056844934
+    second: Minifantasy_DesolateDesertProps_11_14
+  - first:
+      213: -2953529077430383572
+    second: Minifantasy_DesolateDesertProps_11_15
+  - first:
+      213: 5002295583370446985
+    second: Minifantasy_DesolateDesertProps_11_16
+  - first:
+      213: -1299845573863489044
+    second: Minifantasy_DesolateDesertProps_11_17
+  - first:
+      213: 4395643719632809943
+    second: Minifantasy_DesolateDesertProps_11_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191cce9bfb38a9620800000000000000
+      internalID: 2781680579335995793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc675ec3d7c43c4a0800000000000000
+      internalID: -6574326930254498099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc44ee6a29b13b0800000000000000
+      internalID: -5540673670889550716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13204bb780b4d71e0800000000000000
+      internalID: -2198518543279717839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e1a8fabb6ce8c0800000000000000
+      internalID: -3968678720840800502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b466f983342988c0800000000000000
+      internalID: -3996623390538046283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822455d946afc7b0800000000000000
+      internalID: -5201756208547749235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18967bcf101f4df40800000000000000
+      internalID: 5752487614896105857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d282ec934d438b70800000000000000
+      internalID: 8900042241404469973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518899d43e77a600800000000000000
+      internalID: 479490650792296787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0dcf05242eb120800000000000000
+      internalID: 2431420590424132548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf4914301a32d10800000000000000
+      internalID: 2099698886642040021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b30881ec700e9850800000000000000
+      internalID: 6385541858017674166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c928e7931fc45e0800000000000000
+      internalID: -1923897711556125657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550b813ff43d68d0800000000000000
+      internalID: -2851564718403156649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec890392924e522a0800000000000000
+      internalID: -6762748399991088946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1ad7349dd9add0800000000000000
+      internalID: -2474202891601437790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5c13b824a30c40800000000000000
+      internalID: 5477402066523282173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_0_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb49d69072f0a30800000000000000
+      internalID: 4183605500297133545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0853a1b7d9bd20800000000000000
+      internalID: 3294901760347867724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6856e20e981e48890800000000000000
+      internalID: -7456587100730792570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0429ddf18984be9a0800000000000000
+      internalID: -6202784243565882816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0750c0388d2e00800000000000000
+      internalID: 1021622433449709553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6472f5dce22e8800800000000000000
+      internalID: 616468599593399402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32436c64c0f3bc190800000000000000
+      internalID: -7941184195978185693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51f106687705000800000000000000
+      internalID: 22649417158825394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6da6d07bdb281e0800000000000000
+      internalID: -2196985074301610297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20994fde667ebc270800000000000000
+      internalID: 8271959569860958466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79422e1a727711b10800000000000000
+      internalID: 1950471125731517591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed515236fb74d40800000000000000
+      internalID: 5568629896811765313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d884791d3a0e22150800000000000000
+      internalID: 5846482260480968845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9403272670d97ae0800000000000000
+      internalID: -1550979390771100513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1501b6853128570800000000000000
+      internalID: 8467351519884235239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae16376d6d9abae50800000000000000
+      internalID: 6821732800768729578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5df1a27bc26b69b0800000000000000
+      internalID: -5085862728243741349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a72b2a9b0d435270800000000000000
+      internalID: 8238012855617267617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de205072e178c0940800000000000000
+      internalID: 5263730628062675693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae2c25cca3b6af40800000000000000
+      internalID: 5739472329754029729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717b2074ef34178c0800000000000000
+      internalID: -4003343834363545833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce4fce405cf8ac80800000000000000
+      internalID: -8311115690462458167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d53d276e8d4b4c0800000000000000
+      internalID: -4272551662187225712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62665ed14c930e260800000000000000
+      internalID: 7124758124978071078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0cd4539f556d40800000000000000
+      internalID: 5576968799956765597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba50359dfa4939e0800000000000000
+      internalID: -1641198136209679691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f58f8424ffd1d50800000000000000
+      internalID: 6709799680009068310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9251b3604ca71b510800000000000000
+      internalID: 1563165528010986793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1aa16a33fdee340800000000000000
+      internalID: 4895095257921397226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb338ed725dd290800000000000000
+      internalID: -7864038673598923832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c642aea3c9f2de90800000000000000
+      internalID: -7002259851763890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c633e04ecb40d0800000000000000
+      internalID: -3437427112481994645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cecd0e621606880800000000000000
+      internalID: -8619782867177902956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbb7a19207507600800000000000000
+      internalID: 463966430164401082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ce2ab75674ba60800000000000000
+      internalID: 7688900582986139920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8816c17297fb50950800000000000000
+      internalID: 6414743771327259016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f2078abdd7ffc0800000000000000
+      internalID: -3461053995412164379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715ad4f7529eb4db0800000000000000
+      internalID: -4806491830029015785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_2_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6220f44962330e50800000000000000
+      internalID: 6774313692204900973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e467577e102c30800000000000000
+      internalID: 4332496339446587884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6f67f4c5943af10800000000000000
+      internalID: 2279746497198618286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9cb4cb872f753e0800000000000000
+      internalID: -2064915303757002262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28948fc46c23a1780800000000000000
+      internalID: -8711594701918549630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73a3d880f6af2e10800000000000000
+      internalID: 2175140697061172094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee857761e7cfef20800000000000000
+      internalID: 3454199210133786338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64591ff73b2100940800000000000000
+      internalID: 5260224926923724102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e518669b0ed2fdd0800000000000000
+      internalID: -2453654705614088729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc5e250913acda50800000000000000
+      internalID: 6547287286146292982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba493e754826b60800000000000000
+      internalID: 7737892622791125802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597837710a18b5a80800000000000000
+      internalID: -8477039349006628971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966266d17cb5d3eb0800000000000000
+      internalID: -4738530322174040471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e3093c68a616730800000000000000
+      internalID: 3990587871866142337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb906c4ef99638290800000000000000
+      internalID: -7889345986764076610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6901e1fd580ea4b0800000000000000
+      internalID: -5427391301351831185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8004515e88b1b080800000000000000
+      internalID: -9173348044587663217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d89b640d55aab6a0800000000000000
+      internalID: -6432647298820630311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ece16ff6d4190270800000000000000
+      internalID: 8217121908754345190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_3_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930daa65f84c3560800000000000000
+      internalID: 7294785715327271828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49179a5fe5c2db680800000000000000
+      internalID: -8737778915668823660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e22852df962ea2d0800000000000000
+      internalID: -3265630211926383896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c1e27dfa166460800000000000000
+      internalID: 7234499527273726401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee53ebe3cdba7210800000000000000
+      internalID: 1331585289015221995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08515f6d44302520800000000000000
+      internalID: 2675195685842802701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df3e0db2e1ced70800000000000000
+      internalID: 9073660522781736290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5eb76cbd7ebf250800000000000000
+      internalID: 5979627861378327986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c838e43252bf560800000000000000
+      internalID: 7348508050556423269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e2098d9bb6d4e0800000000000000
+      internalID: -1957170702762972891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9915d170fb2fcd00800000000000000
+      internalID: 995062354374105500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e3756b2f854710800000000000000
+      internalID: 1676903852813837954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112033ba52f226a0800000000000000
+      internalID: -6475346842838097644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc012261fecfef530800000000000000
+      internalID: 3890825231893401807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f319e1c46bd0600800000000000000
+      internalID: 436205176971411318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877541881f975a950800000000000000
+      internalID: 6459703318809958264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab52c8973844db0800000000000000
+      internalID: -4808573944059282729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869cd4808aac0860800000000000000
+      internalID: 7497554948626617986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13a412711e23b60800000000000000
+      internalID: 7724483800352829936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94251861689438a10800000000000000
+      internalID: 1910451507187241545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc8d4e0baf6ba90800000000000000
+      internalID: -7298370508446708614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c14ba09573ac90800000000000000
+      internalID: -7159749718380001331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e5bc2bd3f0c670800000000000000
+      internalID: 8557107414677448045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a089764df18015580800000000000000
+      internalID: -8840275660751005686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a1da16809b1110800000000000000
+      internalID: 1232737828665926785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a305280ec62b3a0800000000000000
+      internalID: -6651133988158031230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c970e7cfcc67d45c0800000000000000
+      internalID: -4229593852249503844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced49c3f5c613e840800000000000000
+      internalID: 5252066629898554860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe32079e65a200ba0800000000000000
+      internalID: -6124848940451879953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f137a87cf2283dd0800000000000000
+      internalID: -2506214724880354825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c768e5afd659f0800000000000000
+      internalID: -479950406606666897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1487242afe2ce770800000000000000
+      internalID: 8641333436900410396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530820f5233a828a0800000000000000
+      internalID: -6329629839531540427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60074088df582bea0800000000000000
+      internalID: -5858472841300381690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151916679c7ec4b80800000000000000
+      internalID: -8409091551747010223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a1af5ee5488b30800000000000000
+      internalID: 4289755535179359793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86476691ca6cbeaf0800000000000000
+      internalID: -365980502237744024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c52b3a2a2bb7e40800000000000000
+      internalID: 5655310168694610999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_5_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986360223769a360800000000000000
+      internalID: 7181384545808378005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3bec986ac9a31a0800000000000000
+      internalID: -6828973645863406674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e0905837005da0800000000000000
+      internalID: -5958254368559931024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809ebc5cc58d2f30800000000000000
+      internalID: 4552441911117254790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b8d38d40513890800000000000000
+      internalID: -7480109212230960700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a1687aafee9150800000000000000
+      internalID: 5881401678835590587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7379a995aef9744d0800000000000000
+      internalID: -3150373585447905481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe240c817baafaf50800000000000000
+      internalID: 6894917257898509039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f84bce15a1c6a90800000000000000
+      internalID: -7319446355217969264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fdf3e82339bf690800000000000000
+      internalID: -7567292903521788126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981b6268d3381cb0800000000000000
+      internalID: -4893103990680905575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e331f051f297a8a0800000000000000
+      internalID: -6293900389084220439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc848cd99254250800000000000000
+      internalID: 5928190242149944077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f67a65a1a2a34fb0800000000000000
+      internalID: -4664705973877049614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50f9de354663d80800000000000000
+      internalID: -8271313353987652140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f28f4dd8361ae0800000000000000
+      internalID: -1579012096173870181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a55faf7822a4a40800000000000000
+      internalID: 5353129074509568517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00995b8d2afa250e0800000000000000
+      internalID: -2282568947168077568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bbd632353f515c0800000000000000
+      internalID: -4245219535324595398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_6_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d98b44e56285ad0800000000000000
+      internalID: -2713376589168992977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92974f790ff64a10800000000000000
+      internalID: 1893481109611057819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9180b62feca364500800000000000000
+      internalID: 380055879064160281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af056996a374b2fd0800000000000000
+      internalID: -2365718863047929606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a369b8e23194ae0800000000000000
+      internalID: -1564698304903234920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a13d05a1255360800000000000000
+      internalID: 7157664175549949296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fb1aa0615dc69c0800000000000000
+      internalID: -3932534083956916465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842e31ae2c70c220800000000000000
+      internalID: 2504137932533539976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a29f0ed8d573800800000000000000
+      internalID: 592044739968707216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da944426221e8dd80800000000000000
+      internalID: -8225577181598430803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7522b4b10c895c0800000000000000
+      internalID: -4208402628320536578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57caaf4d08eea7c0800000000000000
+      internalID: -4058051070345427107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557076f0666252980800000000000000
+      internalID: -8564396896588200107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc4811af93d8f20800000000000000
+      internalID: 3426458637697339249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9483c9bb824c3ef0800000000000000
+      internalID: -127153521588730721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3e54c7f97cd7020800000000000000
+      internalID: 2341246869101208553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c9a2f6c9f5e5cc0800000000000000
+      internalID: -3720431116676850622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f76f3a1edd2bf90800000000000000
+      internalID: -6939240114636292241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f8cb0f6fcb5c20800000000000000
+      internalID: 3196376436395537556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_7_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c014a30f29f580800000000000000
+      internalID: -8792945104780211963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0aed07031144520800000000000000
+      internalID: 2685290177569398988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37204a9e952879d00800000000000000
+      internalID: 979394766659912307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c8c0f50d5f36c0800000000000000
+      internalID: -4161505250571139241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d56cb6f72e307220800000000000000
+      internalID: 2481551736045331928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b847093d5693470800000000000000
+      internalID: 8374836941408209802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4723739170dd3b550800000000000000
+      internalID: 6175522536612639348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd3eaa8074955730800000000000000
+      internalID: 3987256256190365183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ddaf2f965942060800000000000000
+      internalID: 6927826409083297165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d61a129a42e2ad0800000000000000
+      internalID: -2725200415680270954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6700082642fa670800000000000000
+      internalID: 8552094222872770214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a2b33afe955bb0800000000000000
+      internalID: -4947873818150264587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588883085e915500800000000000000
+      internalID: 383261544156792927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9bc0bec06a0f80800000000000000
+      internalID: -8139586935673087292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bb7e887a7a4c90800000000000000
+      internalID: -7184795597311069196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988a4ab96ec73de60800000000000000
+      internalID: 7985863894153603209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a57361f7706a030800000000000000
+      internalID: 3505497602369477164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33b013ed8ee42d50800000000000000
+      internalID: 6711751637856203579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc626b96a345cbd0800000000000000
+      internalID: -2610606026140783427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_8_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f963af6fa17227370800000000000000
+      internalID: 8318754458472953503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3cecb2db62e690800000000000000
+      internalID: -7574373070426849308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4fe1a592dba800800000000000000
+      internalID: 624824513429719585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bedcf48ea2fca560800000000000000
+      internalID: 7326497525194350264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae7a0f0161f3a70800000000000000
+      internalID: 8808783658172803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c7fea09d80549c0800000000000000
+      internalID: -3943736170408608725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc93e8f38a292710800000000000000
+      internalID: 1668911883222228213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46693637f8049b6c0800000000000000
+      internalID: -4127196598647941532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b519d69a847630800000000000000
+      internalID: 3923913555838350151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef9a73b007ce0080800000000000000
+      internalID: -9219212581355741207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e2c6af72b17880800000000000000
+      internalID: -8614908350854665777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a174574b0e0876380800000000000000
+      internalID: -8978065629551180006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18d7d9cee90fbff0800000000000000
+      internalID: -18284952292960225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11f5c36327f0b50800000000000000
+      internalID: 6561588759368765943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492cb27946592450800000000000000
+      internalID: 6064473246688618820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e61ebb557f8ff340800000000000000
+      internalID: 4899792653815518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1af19a8908d2ef0800000000000000
+      internalID: -131307420963069483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b9c799c14cdb2a0800000000000000
+      internalID: -6719999441853703351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c632850de6abb0800000000000000
+      internalID: -4924988534567810865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_9_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a0e4879861c7990800000000000000
+      internalID: -7387004509109745019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f342a5f3becf62ec0800000000000000
+      internalID: -3591905565471005633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2c92a405d7e510800000000000000
+      internalID: 1578464410301377749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48163baff74ff4820800000000000000
+      internalID: 2904809115181343108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1920625c6e7190800000000000000
+      internalID: -7962807990088032736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1eac7ef827f2d0800000000000000
+      internalID: -3245079933018563895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd36a0e81f1c860800000000000000
+      internalID: 7548580042811628397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e896f27e9b7f710800000000000000
+      internalID: 1727053384703905327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72148812646bbedc0800000000000000
+      internalID: -3608590264080776921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44769f4b17a044330800000000000000
+      internalID: 3694089077834475332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807248d2de77f4280800000000000000
+      internalID: -9056888465064188152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9807ec5fb7c7e90800000000000000
+      internalID: -7026605022944130651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eeeb94906f1d670800000000000000
+      internalID: 8561894886360411710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d034f88cbf5e8d70800000000000000
+      internalID: 9047273964790100181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6db896b2c21580800000000000000
+      internalID: -8857803427581956434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ded090ffa57c90800000000000000
+      internalID: -7172633383760111911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8526f7e4fd9c6f0800000000000000
+      internalID: -663753941822842631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673aadc282d67c920800000000000000
+      internalID: 3010494895239111542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c6ade646625aa40800000000000000
+      internalID: 5378747542762318995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_10_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777164020a2698420800000000000000
+      internalID: 2632743897050519415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4838aa35b32bc4910800000000000000
+      internalID: 1823027917054706564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc20d1681527e6c0800000000000000
+      internalID: -4114278947929183029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaf4d946347a4110800000000000000
+      internalID: 1245936023437114092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa30d37da11490ee0800000000000000
+      internalID: -1294431834356251729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae62997e28ba770800000000000000
+      internalID: 8623129842749467223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ed7a88f78461f70800000000000000
+      internalID: 9157586604895231591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a089c710ef5bf0800000000000000
+      internalID: -333301454632605724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc4dcb7be105fd0800000000000000
+      internalID: -2355348830618858197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a77445dad7c8c0800000000000000
+      internalID: -3978971136246962183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124ab06f31d040e0800000000000000
+      internalID: -2287598540568247786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c168ed14621caa0800000000000000
+      internalID: -6142586352408585077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87119cc6f48cbc800800000000000000
+      internalID: 633820416028774776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6905e9a054ecf40800000000000000
+      internalID: 5750609686106773201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc155cd7d1b07a6d0800000000000000
+      internalID: -2979400407190253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e88e45bd158eb0800000000000000
+      internalID: -4718332370056844934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c89f9d3f4f207d0800000000000000
+      internalID: -2953529077430383572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880d4c6459bb6540800000000000000
+      internalID: 5002295583370446985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c003665506fde0800000000000000
+      internalID: -1299845573863489044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_DesolateDesertProps_11_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe3e38ca6700d30800000000000000
+      internalID: 4395643719632809943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_DesolateDesertProps_0: 7077222428575163504
+      Minifantasy_DesolateDesertProps_0_0: 2781680579335995793
+      Minifantasy_DesolateDesertProps_0_1: -6574326930254498099
+      Minifantasy_DesolateDesertProps_0_10: 2431420590424132548
+      Minifantasy_DesolateDesertProps_0_11: 2099698886642040021
+      Minifantasy_DesolateDesertProps_0_12: 6385541858017674166
+      Minifantasy_DesolateDesertProps_0_13: -1923897711556125657
+      Minifantasy_DesolateDesertProps_0_14: -2851564718403156649
+      Minifantasy_DesolateDesertProps_0_15: -6762748399991088946
+      Minifantasy_DesolateDesertProps_0_16: -2474202891601437790
+      Minifantasy_DesolateDesertProps_0_17: 5477402066523282173
+      Minifantasy_DesolateDesertProps_0_18: 4183605500297133545
+      Minifantasy_DesolateDesertProps_0_2: -5540673670889550716
+      Minifantasy_DesolateDesertProps_0_3: -2198518543279717839
+      Minifantasy_DesolateDesertProps_0_4: -3968678720840800502
+      Minifantasy_DesolateDesertProps_0_5: -3996623390538046283
+      Minifantasy_DesolateDesertProps_0_6: -5201756208547749235
+      Minifantasy_DesolateDesertProps_0_7: 5752487614896105857
+      Minifantasy_DesolateDesertProps_0_8: 8900042241404469973
+      Minifantasy_DesolateDesertProps_0_9: 479490650792296787
+      Minifantasy_DesolateDesertProps_1: 8045745507127975164
+      Minifantasy_DesolateDesertProps_10: 738693000397021646
+      Minifantasy_DesolateDesertProps_10_0: -3591905565471005633
+      Minifantasy_DesolateDesertProps_10_1: 1578464410301377749
+      Minifantasy_DesolateDesertProps_10_10: -7026605022944130651
+      Minifantasy_DesolateDesertProps_10_11: 8561894886360411710
+      Minifantasy_DesolateDesertProps_10_12: 9047273964790100181
+      Minifantasy_DesolateDesertProps_10_13: -8857803427581956434
+      Minifantasy_DesolateDesertProps_10_14: -7172633383760111911
+      Minifantasy_DesolateDesertProps_10_15: -663753941822842631
+      Minifantasy_DesolateDesertProps_10_16: 3010494895239111542
+      Minifantasy_DesolateDesertProps_10_17: 5378747542762318995
+      Minifantasy_DesolateDesertProps_10_18: 2632743897050519415
+      Minifantasy_DesolateDesertProps_10_2: 2904809115181343108
+      Minifantasy_DesolateDesertProps_10_3: -7962807990088032736
+      Minifantasy_DesolateDesertProps_10_4: -3245079933018563895
+      Minifantasy_DesolateDesertProps_10_5: 7548580042811628397
+      Minifantasy_DesolateDesertProps_10_6: 1727053384703905327
+      Minifantasy_DesolateDesertProps_10_7: -3608590264080776921
+      Minifantasy_DesolateDesertProps_10_8: 3694089077834475332
+      Minifantasy_DesolateDesertProps_10_9: -9056888465064188152
+      Minifantasy_DesolateDesertProps_11: -6765027946815485593
+      Minifantasy_DesolateDesertProps_11_0: 1823027917054706564
+      Minifantasy_DesolateDesertProps_11_1: -4114278947929183029
+      Minifantasy_DesolateDesertProps_11_10: -6142586352408585077
+      Minifantasy_DesolateDesertProps_11_11: 633820416028774776
+      Minifantasy_DesolateDesertProps_11_12: 5750609686106773201
+      Minifantasy_DesolateDesertProps_11_13: -2979400407190253108
+      Minifantasy_DesolateDesertProps_11_14: -4718332370056844934
+      Minifantasy_DesolateDesertProps_11_15: -2953529077430383572
+      Minifantasy_DesolateDesertProps_11_16: 5002295583370446985
+      Minifantasy_DesolateDesertProps_11_17: -1299845573863489044
+      Minifantasy_DesolateDesertProps_11_18: 4395643719632809943
+      Minifantasy_DesolateDesertProps_11_2: 1245936023437114092
+      Minifantasy_DesolateDesertProps_11_3: -1294431834356251729
+      Minifantasy_DesolateDesertProps_11_4: 8623129842749467223
+      Minifantasy_DesolateDesertProps_11_5: 9157586604895231591
+      Minifantasy_DesolateDesertProps_11_6: -333301454632605724
+      Minifantasy_DesolateDesertProps_11_7: -2355348830618858197
+      Minifantasy_DesolateDesertProps_11_8: -3978971136246962183
+      Minifantasy_DesolateDesertProps_11_9: -2287598540568247786
+      Minifantasy_DesolateDesertProps_12: 6237351384081343441
+      Minifantasy_DesolateDesertProps_13: -5354296583602629241
+      Minifantasy_DesolateDesertProps_14: 3726919841156045888
+      Minifantasy_DesolateDesertProps_15: -3763466935684821414
+      Minifantasy_DesolateDesertProps_16: 6145205549159175089
+      Minifantasy_DesolateDesertProps_17: 3273160759410830977
+      Minifantasy_DesolateDesertProps_18: 4293994259451012705
+      Minifantasy_DesolateDesertProps_19: 7219500544338931333
+      Minifantasy_DesolateDesertProps_1_0: 3294901760347867724
+      Minifantasy_DesolateDesertProps_1_1: -7456587100730792570
+      Minifantasy_DesolateDesertProps_1_10: 5568629896811765313
+      Minifantasy_DesolateDesertProps_1_11: 5846482260480968845
+      Minifantasy_DesolateDesertProps_1_12: -1550979390771100513
+      Minifantasy_DesolateDesertProps_1_13: 8467351519884235239
+      Minifantasy_DesolateDesertProps_1_14: 6821732800768729578
+      Minifantasy_DesolateDesertProps_1_15: -5085862728243741349
+      Minifantasy_DesolateDesertProps_1_16: 8238012855617267617
+      Minifantasy_DesolateDesertProps_1_17: 5263730628062675693
+      Minifantasy_DesolateDesertProps_1_18: 5739472329754029729
+      Minifantasy_DesolateDesertProps_1_2: -6202784243565882816
+      Minifantasy_DesolateDesertProps_1_3: 1021622433449709553
+      Minifantasy_DesolateDesertProps_1_4: 616468599593399402
+      Minifantasy_DesolateDesertProps_1_5: -7941184195978185693
+      Minifantasy_DesolateDesertProps_1_6: 22649417158825394
+      Minifantasy_DesolateDesertProps_1_7: -2196985074301610297
+      Minifantasy_DesolateDesertProps_1_8: 8271959569860958466
+      Minifantasy_DesolateDesertProps_1_9: 1950471125731517591
+      Minifantasy_DesolateDesertProps_2: 2816145909697251037
+      Minifantasy_DesolateDesertProps_20: 7007132084385223912
+      Minifantasy_DesolateDesertProps_2_0: -4003343834363545833
+      Minifantasy_DesolateDesertProps_2_1: -8311115690462458167
+      Minifantasy_DesolateDesertProps_2_10: -7002259851763890493
+      Minifantasy_DesolateDesertProps_2_11: -3437427112481994645
+      Minifantasy_DesolateDesertProps_2_12: -8619782867177902956
+      Minifantasy_DesolateDesertProps_2_13: 463966430164401082
+      Minifantasy_DesolateDesertProps_2_14: 7688900582986139920
+      Minifantasy_DesolateDesertProps_2_15: 6414743771327259016
+      Minifantasy_DesolateDesertProps_2_16: -3461053995412164379
+      Minifantasy_DesolateDesertProps_2_17: -4806491830029015785
+      Minifantasy_DesolateDesertProps_2_18: 6774313692204900973
+      Minifantasy_DesolateDesertProps_2_2: -4272551662187225712
+      Minifantasy_DesolateDesertProps_2_3: 7124758124978071078
+      Minifantasy_DesolateDesertProps_2_4: 5576968799956765597
+      Minifantasy_DesolateDesertProps_2_5: -1641198136209679691
+      Minifantasy_DesolateDesertProps_2_6: 6709799680009068310
+      Minifantasy_DesolateDesertProps_2_7: 1563165528010986793
+      Minifantasy_DesolateDesertProps_2_8: 4895095257921397226
+      Minifantasy_DesolateDesertProps_2_9: -7864038673598923832
+      Minifantasy_DesolateDesertProps_3: -4972584720515384212
+      Minifantasy_DesolateDesertProps_3_0: 4332496339446587884
+      Minifantasy_DesolateDesertProps_3_1: 2279746497198618286
+      Minifantasy_DesolateDesertProps_3_10: -8477039349006628971
+      Minifantasy_DesolateDesertProps_3_11: -4738530322174040471
+      Minifantasy_DesolateDesertProps_3_12: 3990587871866142337
+      Minifantasy_DesolateDesertProps_3_13: -7889345986764076610
+      Minifantasy_DesolateDesertProps_3_14: -5427391301351831185
+      Minifantasy_DesolateDesertProps_3_15: -9173348044587663217
+      Minifantasy_DesolateDesertProps_3_16: -6432647298820630311
+      Minifantasy_DesolateDesertProps_3_17: 8217121908754345190
+      Minifantasy_DesolateDesertProps_3_18: 7294785715327271828
+      Minifantasy_DesolateDesertProps_3_2: -2064915303757002262
+      Minifantasy_DesolateDesertProps_3_3: -8711594701918549630
+      Minifantasy_DesolateDesertProps_3_4: 2175140697061172094
+      Minifantasy_DesolateDesertProps_3_5: 3454199210133786338
+      Minifantasy_DesolateDesertProps_3_6: 5260224926923724102
+      Minifantasy_DesolateDesertProps_3_7: -2453654705614088729
+      Minifantasy_DesolateDesertProps_3_8: 6547287286146292982
+      Minifantasy_DesolateDesertProps_3_9: 7737892622791125802
+      Minifantasy_DesolateDesertProps_4: -4241005341784220150
+      Minifantasy_DesolateDesertProps_4_0: -8737778915668823660
+      Minifantasy_DesolateDesertProps_4_1: -3265630211926383896
+      Minifantasy_DesolateDesertProps_4_10: 1676903852813837954
+      Minifantasy_DesolateDesertProps_4_11: -6475346842838097644
+      Minifantasy_DesolateDesertProps_4_12: 3890825231893401807
+      Minifantasy_DesolateDesertProps_4_13: 436205176971411318
+      Minifantasy_DesolateDesertProps_4_14: 6459703318809958264
+      Minifantasy_DesolateDesertProps_4_15: -4808573944059282729
+      Minifantasy_DesolateDesertProps_4_16: 7497554948626617986
+      Minifantasy_DesolateDesertProps_4_17: 7724483800352829936
+      Minifantasy_DesolateDesertProps_4_18: 1910451507187241545
+      Minifantasy_DesolateDesertProps_4_2: 7234499527273726401
+      Minifantasy_DesolateDesertProps_4_3: 1331585289015221995
+      Minifantasy_DesolateDesertProps_4_4: 2675195685842802701
+      Minifantasy_DesolateDesertProps_4_5: 9073660522781736290
+      Minifantasy_DesolateDesertProps_4_6: 5979627861378327986
+      Minifantasy_DesolateDesertProps_4_7: 7348508050556423269
+      Minifantasy_DesolateDesertProps_4_8: -1957170702762972891
+      Minifantasy_DesolateDesertProps_4_9: 995062354374105500
+      Minifantasy_DesolateDesertProps_5: -1119794244380857097
+      Minifantasy_DesolateDesertProps_5_0: -7298370508446708614
+      Minifantasy_DesolateDesertProps_5_1: -7159749718380001331
+      Minifantasy_DesolateDesertProps_5_10: -479950406606666897
+      Minifantasy_DesolateDesertProps_5_11: 8641333436900410396
+      Minifantasy_DesolateDesertProps_5_12: -6329629839531540427
+      Minifantasy_DesolateDesertProps_5_13: -5858472841300381690
+      Minifantasy_DesolateDesertProps_5_14: -8409091551747010223
+      Minifantasy_DesolateDesertProps_5_15: 4289755535179359793
+      Minifantasy_DesolateDesertProps_5_16: -365980502237744024
+      Minifantasy_DesolateDesertProps_5_17: 5655310168694610999
+      Minifantasy_DesolateDesertProps_5_18: 7181384545808378005
+      Minifantasy_DesolateDesertProps_5_2: 8557107414677448045
+      Minifantasy_DesolateDesertProps_5_3: -8840275660751005686
+      Minifantasy_DesolateDesertProps_5_4: 1232737828665926785
+      Minifantasy_DesolateDesertProps_5_5: -6651133988158031230
+      Minifantasy_DesolateDesertProps_5_6: -4229593852249503844
+      Minifantasy_DesolateDesertProps_5_7: 5252066629898554860
+      Minifantasy_DesolateDesertProps_5_8: -6124848940451879953
+      Minifantasy_DesolateDesertProps_5_9: -2506214724880354825
+      Minifantasy_DesolateDesertProps_6: -8243136442321748426
+      Minifantasy_DesolateDesertProps_6_0: -6828973645863406674
+      Minifantasy_DesolateDesertProps_6_1: -5958254368559931024
+      Minifantasy_DesolateDesertProps_6_10: -6293900389084220439
+      Minifantasy_DesolateDesertProps_6_11: 5928190242149944077
+      Minifantasy_DesolateDesertProps_6_12: -4664705973877049614
+      Minifantasy_DesolateDesertProps_6_13: -8271313353987652140
+      Minifantasy_DesolateDesertProps_6_14: -1579012096173870181
+      Minifantasy_DesolateDesertProps_6_15: 5353129074509568517
+      Minifantasy_DesolateDesertProps_6_16: -2282568947168077568
+      Minifantasy_DesolateDesertProps_6_17: -4245219535324595398
+      Minifantasy_DesolateDesertProps_6_18: -2713376589168992977
+      Minifantasy_DesolateDesertProps_6_2: 4552441911117254790
+      Minifantasy_DesolateDesertProps_6_3: -7480109212230960700
+      Minifantasy_DesolateDesertProps_6_4: 5881401678835590587
+      Minifantasy_DesolateDesertProps_6_5: -3150373585447905481
+      Minifantasy_DesolateDesertProps_6_6: 6894917257898509039
+      Minifantasy_DesolateDesertProps_6_7: -7319446355217969264
+      Minifantasy_DesolateDesertProps_6_8: -7567292903521788126
+      Minifantasy_DesolateDesertProps_6_9: -4893103990680905575
+      Minifantasy_DesolateDesertProps_7: 4356918607187682303
+      Minifantasy_DesolateDesertProps_7_0: 1893481109611057819
+      Minifantasy_DesolateDesertProps_7_1: 380055879064160281
+      Minifantasy_DesolateDesertProps_7_10: -4058051070345427107
+      Minifantasy_DesolateDesertProps_7_11: -8564396896588200107
+      Minifantasy_DesolateDesertProps_7_12: 3426458637697339249
+      Minifantasy_DesolateDesertProps_7_13: -127153521588730721
+      Minifantasy_DesolateDesertProps_7_14: 2341246869101208553
+      Minifantasy_DesolateDesertProps_7_15: -3720431116676850622
+      Minifantasy_DesolateDesertProps_7_16: -6939240114636292241
+      Minifantasy_DesolateDesertProps_7_17: 3196376436395537556
+      Minifantasy_DesolateDesertProps_7_18: -8792945104780211963
+      Minifantasy_DesolateDesertProps_7_2: -2365718863047929606
+      Minifantasy_DesolateDesertProps_7_3: -1564698304903234920
+      Minifantasy_DesolateDesertProps_7_4: 7157664175549949296
+      Minifantasy_DesolateDesertProps_7_5: -3932534083956916465
+      Minifantasy_DesolateDesertProps_7_6: 2504137932533539976
+      Minifantasy_DesolateDesertProps_7_7: 592044739968707216
+      Minifantasy_DesolateDesertProps_7_8: -8225577181598430803
+      Minifantasy_DesolateDesertProps_7_9: -4208402628320536578
+      Minifantasy_DesolateDesertProps_8: -2175369523667948689
+      Minifantasy_DesolateDesertProps_8_0: 2685290177569398988
+      Minifantasy_DesolateDesertProps_8_1: 979394766659912307
+      Minifantasy_DesolateDesertProps_8_10: -4947873818150264587
+      Minifantasy_DesolateDesertProps_8_11: 383261544156792927
+      Minifantasy_DesolateDesertProps_8_12: -8139586935673087292
+      Minifantasy_DesolateDesertProps_8_13: -7184795597311069196
+      Minifantasy_DesolateDesertProps_8_14: 7985863894153603209
+      Minifantasy_DesolateDesertProps_8_15: 3505497602369477164
+      Minifantasy_DesolateDesertProps_8_16: 6711751637856203579
+      Minifantasy_DesolateDesertProps_8_17: -2610606026140783427
+      Minifantasy_DesolateDesertProps_8_18: 8318754458472953503
+      Minifantasy_DesolateDesertProps_8_2: -4161505250571139241
+      Minifantasy_DesolateDesertProps_8_3: 2481551736045331928
+      Minifantasy_DesolateDesertProps_8_4: 8374836941408209802
+      Minifantasy_DesolateDesertProps_8_5: 6175522536612639348
+      Minifantasy_DesolateDesertProps_8_6: 3987256256190365183
+      Minifantasy_DesolateDesertProps_8_7: 6927826409083297165
+      Minifantasy_DesolateDesertProps_8_8: -2725200415680270954
+      Minifantasy_DesolateDesertProps_8_9: 8552094222872770214
+      Minifantasy_DesolateDesertProps_9: 3913022427134740062
+      Minifantasy_DesolateDesertProps_9_0: -7574373070426849308
+      Minifantasy_DesolateDesertProps_9_1: 624824513429719585
+      Minifantasy_DesolateDesertProps_9_10: -8978065629551180006
+      Minifantasy_DesolateDesertProps_9_11: -18284952292960225
+      Minifantasy_DesolateDesertProps_9_12: 6561588759368765943
+      Minifantasy_DesolateDesertProps_9_13: 6064473246688618820
+      Minifantasy_DesolateDesertProps_9_14: 4899792653815518948
+      Minifantasy_DesolateDesertProps_9_15: -131307420963069483
+      Minifantasy_DesolateDesertProps_9_16: -6719999441853703351
+      Minifantasy_DesolateDesertProps_9_17: -4924988534567810865
+      Minifantasy_DesolateDesertProps_9_18: -7387004509109745019
+      Minifantasy_DesolateDesertProps_9_2: 7326497525194350264
+      Minifantasy_DesolateDesertProps_9_3: 8808783658172803660
+      Minifantasy_DesolateDesertProps_9_4: -3943736170408608725
+      Minifantasy_DesolateDesertProps_9_5: 1668911883222228213
+      Minifantasy_DesolateDesertProps_9_6: -4127196598647941532
+      Minifantasy_DesolateDesertProps_9_7: 3923913555838350151
+      Minifantasy_DesolateDesertProps_9_8: -9219212581355741207
+      Minifantasy_DesolateDesertProps_9_9: -8614908350854665777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

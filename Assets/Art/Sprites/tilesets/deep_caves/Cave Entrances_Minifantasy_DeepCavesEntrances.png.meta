@@ -1,0 +1,2508 @@
+fileFormatVersion: 2
+guid: 7b209477a5f59b441800b9f8a4e878c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1387451829237191461
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0
+  - first:
+      213: 2849068265538395830
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1
+  - first:
+      213: 7984602115728377590
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2
+  - first:
+      213: -8127854557988993519
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_0
+  - first:
+      213: -3264689758486504417
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_1
+  - first:
+      213: -6106788269126118074
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_2
+  - first:
+      213: -415453989950742560
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_3
+  - first:
+      213: 7933426228820071244
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_4
+  - first:
+      213: 4295856342938507225
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_5
+  - first:
+      213: -1065462561734146292
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_6
+  - first:
+      213: 1585731262061193777
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_7
+  - first:
+      213: 8288009368906945828
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_8
+  - first:
+      213: -2386146670894922311
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_9
+  - first:
+      213: -6541558065284350361
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_10
+  - first:
+      213: 6452026082380774761
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_11
+  - first:
+      213: -9138433882103626399
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_12
+  - first:
+      213: 290742734836047644
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_13
+  - first:
+      213: -2778280813399842955
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_0_14
+  - first:
+      213: 7001077051610269173
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_0
+  - first:
+      213: -5308122243497314011
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_1
+  - first:
+      213: -5026396891887525730
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_2
+  - first:
+      213: 635565800260359015
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_3
+  - first:
+      213: 5408997200295706560
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_4
+  - first:
+      213: 6687142887617431472
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_5
+  - first:
+      213: -7084826594975480072
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_6
+  - first:
+      213: 6247613310081090408
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_7
+  - first:
+      213: 6125088051966157225
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_8
+  - first:
+      213: 6522316668965008689
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_9
+  - first:
+      213: 2576672367632954320
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_10
+  - first:
+      213: -15906968475435444
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_11
+  - first:
+      213: -4037555522332356730
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_12
+  - first:
+      213: 7286541637335087315
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_13
+  - first:
+      213: -4992120599926645733
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_1_14
+  - first:
+      213: -253402700880179700
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_0
+  - first:
+      213: -3684086990901500625
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_1
+  - first:
+      213: -7999239611344001367
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_2
+  - first:
+      213: -7149034771337512253
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_3
+  - first:
+      213: -1270052264331020487
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_4
+  - first:
+      213: 2593391510109923392
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_5
+  - first:
+      213: -4681751032049677775
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_6
+  - first:
+      213: -5375694917313404984
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_7
+  - first:
+      213: 2642490531311318482
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_8
+  - first:
+      213: 6818951431112909043
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_9
+  - first:
+      213: 4998396684243895845
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_10
+  - first:
+      213: -4955912251887825703
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_11
+  - first:
+      213: -6047826276397588859
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_12
+  - first:
+      213: 5901523878455751115
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_13
+  - first:
+      213: 7415816377597376689
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_2_14
+  - first:
+      213: -454677681055647000
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_0
+  - first:
+      213: -3718839137472708165
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_1
+  - first:
+      213: -7324265760957540657
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_2
+  - first:
+      213: 9021297019334487094
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_3
+  - first:
+      213: -5361616356189158376
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_4
+  - first:
+      213: 7645679103866614089
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_5
+  - first:
+      213: 5711266678722653488
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_6
+  - first:
+      213: -6526472823083363856
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_7
+  - first:
+      213: 3467996964092420606
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_8
+  - first:
+      213: 7423837908783983708
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_9
+  - first:
+      213: 7690493394289838524
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_10
+  - first:
+      213: 4630325390084882238
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_11
+  - first:
+      213: 8613803825913563994
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_12
+  - first:
+      213: -6191979755130797457
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_13
+  - first:
+      213: -1616289070886391204
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_3_14
+  - first:
+      213: 3704462322433235514
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_0
+  - first:
+      213: -6581467057028512551
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_1
+  - first:
+      213: 6697009775047757954
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_2
+  - first:
+      213: -8241160821132952859
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_3
+  - first:
+      213: -1622687318856541783
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_4
+  - first:
+      213: -7147027874137413829
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_5
+  - first:
+      213: 4723811421543428332
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_6
+  - first:
+      213: 6630078128401105666
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_7
+  - first:
+      213: 6138961769297892076
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_8
+  - first:
+      213: -7668975714907747996
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_9
+  - first:
+      213: 3464962688677231294
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_10
+  - first:
+      213: 2933008410736742062
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_11
+  - first:
+      213: 7368190144682752899
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_12
+  - first:
+      213: 1430849962509300602
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_13
+  - first:
+      213: 9065838173030227113
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_4_14
+  - first:
+      213: -877926473846308462
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_0
+  - first:
+      213: -2630082806401272
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_1
+  - first:
+      213: -6733824308288911687
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_2
+  - first:
+      213: 433210185071956604
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_3
+  - first:
+      213: 3814041087757788378
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_4
+  - first:
+      213: -2448406142258729990
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_5
+  - first:
+      213: -5149632104465486317
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_6
+  - first:
+      213: -4296814333829800299
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_7
+  - first:
+      213: 626796205423705765
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_8
+  - first:
+      213: 6588014227742436664
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_9
+  - first:
+      213: -5675081442636115678
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_10
+  - first:
+      213: -1319239730807858325
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_11
+  - first:
+      213: -6504887823683751756
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_12
+  - first:
+      213: -8090014118253170215
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_13
+  - first:
+      213: 953196505636041227
+    second: Cave Entrances_Minifantasy_DeepCavesEntrances_5_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116c60db75f043f80800000000000000
+      internalID: -8127854557988993519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c5e8336fd71b2d0800000000000000
+      internalID: -3264689758486504417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451734ac64504ba0800000000000000
+      internalID: -6106788269126118074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef977c1cc20c3af0800000000000000
+      internalID: -415453989950742560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43569c3f11391e60800000000000000
+      internalID: 7933426228820071244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d755fe5592fd9b30800000000000000
+      internalID: 4295856342938507225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07cb56f177b631f0800000000000000
+      internalID: -1065462561734146292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aa3686e26a10610800000000000000
+      internalID: 1585731262061193777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425dec8fb9ce40370800000000000000
+      internalID: 8288009368906945828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c353ce34b2eed0800000000000000
+      internalID: -2386146670894922311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e72292997b735a0800000000000000
+      internalID: -6541558065284350361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d7cd1a9833a8950800000000000000
+      internalID: 6452026082380774761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c1dd3dc2cd2180800000000000000
+      internalID: -9138433882103626399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9de61afce80400800000000000000
+      internalID: 290742734836047644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd407f1509179d0800000000000000
+      internalID: -2778280813399842955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58e523c72d82160800000000000000
+      internalID: 7001077051610269173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293ef371f2c556b0800000000000000
+      internalID: -5308122243497314011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90aae668a6ae3ab0800000000000000
+      internalID: -5026396891887525730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d7eb5abbf1d800800000000000000
+      internalID: 635565800260359015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf35baab4e901b40800000000000000
+      internalID: 5408997200295706560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b787bab6018dcc50800000000000000
+      internalID: 6687142887617431472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60f37bfb3adad90800000000000000
+      internalID: -7084826594975480072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c269443bf3b650800000000000000
+      internalID: 6247613310081090408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1ae63912fa00550800000000000000
+      internalID: 6125088051966157225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135b446247ce38a50800000000000000
+      internalID: 6522316668965008689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b357dddd22c320800000000000000
+      internalID: 2576672367632954320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e719a42bc77cff0800000000000000
+      internalID: -15906968475435444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f8672f4a8b7f7c0800000000000000
+      internalID: -4037555522332356730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8737e630ffe1560800000000000000
+      internalID: 7286541637335087315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c567583cc68bab0800000000000000
+      internalID: -4992120599926645733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e89ec069bbb7cf0800000000000000
+      internalID: -253402700880179700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ada1a66e7fdcc0800000000000000
+      internalID: -3684086990901500625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66b9c84fdfcf090800000000000000
+      internalID: -7999239611344001367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf28fa0c689cc90800000000000000
+      internalID: -7149034771337512253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9377e52d13edf5ee0800000000000000
+      internalID: -1270052264331020487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048ad9b86d39df320800000000000000
+      internalID: 2593391510109923392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a4cd7cd34170fb0800000000000000
+      internalID: -4681751032049677775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf59a054f1b565b0800000000000000
+      internalID: -5375694917313404984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f42143230ca420800000000000000
+      internalID: 2642490531311318482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f06020c238c1ae50800000000000000
+      internalID: 6818951431112909043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52609da3d4fdd5540800000000000000
+      internalID: 4998396684243895845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc48308010193bb0800000000000000
+      internalID: -4955912251887825703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e5c0c5b0ec11ca0800000000000000
+      internalID: -6047826276397588859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc137d823bc66e150800000000000000
+      internalID: 5901523878455751115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8373a64b54ae660800000000000000
+      internalID: 7415816377597376689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea316dde09a0b9f0800000000000000
+      internalID: -454677681055647000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18e1af187046cc0800000000000000
+      internalID: -3718839137472708165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d195981bfa5a90800000000000000
+      internalID: -7324265760957540657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce8ba97d5123d70800000000000000
+      internalID: 9021297019334487094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814cb63c456b795b0800000000000000
+      internalID: -5361616356189158376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941b89ce2a8ea1a60800000000000000
+      internalID: 7645679103866614089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de9c2e8ce724f40800000000000000
+      internalID: 5711266678722653488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f110efcb8f4d65a0800000000000000
+      internalID: -6526472823083363856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1acd65ddcc02030800000000000000
+      internalID: 3467996964092420606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce52fae35c60760800000000000000
+      internalID: 7423837908783983708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb942220ffe1aba60800000000000000
+      internalID: 7690493394289838524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3b76e868324040800000000000000
+      internalID: 4630325390084882238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8a7811f06a8770800000000000000
+      internalID: 8613803825913563994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62c40f183ba11aa0800000000000000
+      internalID: -6191979755130797457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52787b47a9c199e0800000000000000
+      internalID: -1616289070886391204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a937cead4e86330800000000000000
+      internalID: 3704462322433235514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d441ece49ee9a4a0800000000000000
+      internalID: -6581467057028512551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2805a0b78ee80fc50800000000000000
+      internalID: 6697009775047757954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaf08f85e381ad80800000000000000
+      internalID: -8241160821132952859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9560a1b7e0b79e0800000000000000
+      internalID: -1622687318856541783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37693ad308a0dc90800000000000000
+      internalID: -7147027874137413829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07707c5795e8140800000000000000
+      internalID: 4723811421543428332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034f6c1ee4c20c50800000000000000
+      internalID: 6630078128401105666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce254bc1439f13550800000000000000
+      internalID: 6138961769297892076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46983d12833529590800000000000000
+      internalID: -7668975714907747996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebab69a0535061030800000000000000
+      internalID: 3464962688677231294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae423d1c9324b820800000000000000
+      internalID: 2933008410736742062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b7953f5e1114660800000000000000
+      internalID: 7368190144682752899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737f3eb5766bd310800000000000000
+      internalID: 1430849962509300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac94a619c350dd70800000000000000
+      internalID: 9065838173030227113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ca73068af0d3f0800000000000000
+      internalID: -877926473846308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807389024f7a6fff0800000000000000
+      internalID: -2630082806401272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68c8c0876ac82a0800000000000000
+      internalID: -6733824308288911687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729b4a3e52130600800000000000000
+      internalID: 433210185071956604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42c8269223ee430800000000000000
+      internalID: 3814041087757788378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba8c8f593850ed0800000000000000
+      internalID: -2448406142258729990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e236982e4d888b0800000000000000
+      internalID: -5149632104465486317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e944ef026ae54c0800000000000000
+      internalID: -4296814333829800299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb7d2f3d3d2b800800000000000000
+      internalID: 626796205423705765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83daecb09045d6b50800000000000000
+      internalID: 6588014227742436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221534cee7f0e31b0800000000000000
+      internalID: -5675081442636115678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b9d97547e11bde0800000000000000
+      internalID: -1319239730807858325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0f09d1dfef9b5a0800000000000000
+      internalID: -6504887823683751756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1ff9da50f7abf80800000000000000
+      internalID: -8090014118253170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave Entrances_Minifantasy_DeepCavesEntrances_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02749feb2f6a3d00800000000000000
+      internalID: 953196505636041227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0: 1387451829237191461
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_0: -8127854557988993519
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_1: -3264689758486504417
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_10: -6541558065284350361
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_11: 6452026082380774761
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_12: -9138433882103626399
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_13: 290742734836047644
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_14: -2778280813399842955
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_2: -6106788269126118074
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_3: -415453989950742560
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_4: 7933426228820071244
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_5: 4295856342938507225
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_6: -1065462561734146292
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_7: 1585731262061193777
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_8: 8288009368906945828
+      Cave Entrances_Minifantasy_DeepCavesEntrances_0_9: -2386146670894922311
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1: 2849068265538395830
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_0: 7001077051610269173
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_1: -5308122243497314011
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_10: 2576672367632954320
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_11: -15906968475435444
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_12: -4037555522332356730
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_13: 7286541637335087315
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_14: -4992120599926645733
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_2: -5026396891887525730
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_3: 635565800260359015
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_4: 5408997200295706560
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_5: 6687142887617431472
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_6: -7084826594975480072
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_7: 6247613310081090408
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_8: 6125088051966157225
+      Cave Entrances_Minifantasy_DeepCavesEntrances_1_9: 6522316668965008689
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2: 7984602115728377590
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_0: -253402700880179700
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_1: -3684086990901500625
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_10: 4998396684243895845
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_11: -4955912251887825703
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_12: -6047826276397588859
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_13: 5901523878455751115
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_14: 7415816377597376689
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_2: -7999239611344001367
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_3: -7149034771337512253
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_4: -1270052264331020487
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_5: 2593391510109923392
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_6: -4681751032049677775
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_7: -5375694917313404984
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_8: 2642490531311318482
+      Cave Entrances_Minifantasy_DeepCavesEntrances_2_9: 6818951431112909043
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_0: -454677681055647000
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_1: -3718839137472708165
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_10: 7690493394289838524
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_11: 4630325390084882238
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_12: 8613803825913563994
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_13: -6191979755130797457
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_14: -1616289070886391204
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_2: -7324265760957540657
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_3: 9021297019334487094
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_4: -5361616356189158376
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_5: 7645679103866614089
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_6: 5711266678722653488
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_7: -6526472823083363856
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_8: 3467996964092420606
+      Cave Entrances_Minifantasy_DeepCavesEntrances_3_9: 7423837908783983708
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_0: 3704462322433235514
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_1: -6581467057028512551
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_10: 3464962688677231294
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_11: 2933008410736742062
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_12: 7368190144682752899
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_13: 1430849962509300602
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_14: 9065838173030227113
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_2: 6697009775047757954
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_3: -8241160821132952859
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_4: -1622687318856541783
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_5: -7147027874137413829
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_6: 4723811421543428332
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_7: 6630078128401105666
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_8: 6138961769297892076
+      Cave Entrances_Minifantasy_DeepCavesEntrances_4_9: -7668975714907747996
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_0: -877926473846308462
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_1: -2630082806401272
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_10: -5675081442636115678
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_11: -1319239730807858325
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_12: -6504887823683751756
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_13: -8090014118253170215
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_14: 953196505636041227
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_2: -6733824308288911687
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_3: 433210185071956604
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_4: 3814041087757788378
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_5: -2448406142258729990
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_6: -5149632104465486317
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_7: -4296814333829800299
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_8: 626796205423705765
+      Cave Entrances_Minifantasy_DeepCavesEntrances_5_9: 6588014227742436664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

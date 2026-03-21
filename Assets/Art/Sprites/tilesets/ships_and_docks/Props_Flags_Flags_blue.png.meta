@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: a2eef1d07e9cad64e8d03e0b73f5fa0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8427985233624687323
+    second: Props_Flags_Flags_blue_0
+  - first:
+      213: 4987905544291352131
+    second: Props_Flags_Flags_blue_1
+  - first:
+      213: 2007789124672315999
+    second: Props_Flags_Flags_blue_2
+  - first:
+      213: -7887126169948231836
+    second: Props_Flags_Flags_blue_3
+  - first:
+      213: 440431727872855031
+    second: Props_Flags_Flags_blue_0_0
+  - first:
+      213: -3382931666630256105
+    second: Props_Flags_Flags_blue_0_1
+  - first:
+      213: 6010759519238775902
+    second: Props_Flags_Flags_blue_0_2
+  - first:
+      213: 7970004772907266974
+    second: Props_Flags_Flags_blue_0_3
+  - first:
+      213: 891982692870486755
+    second: Props_Flags_Flags_blue_0_4
+  - first:
+      213: -7616244022778140345
+    second: Props_Flags_Flags_blue_0_5
+  - first:
+      213: 3821688840130872732
+    second: Props_Flags_Flags_blue_0_6
+  - first:
+      213: 4192360629353374142
+    second: Props_Flags_Flags_blue_0_7
+  - first:
+      213: 3621262432871012156
+    second: Props_Flags_Flags_blue_0_8
+  - first:
+      213: 3752141064096902254
+    second: Props_Flags_Flags_blue_0_9
+  - first:
+      213: 9153837776084104264
+    second: Props_Flags_Flags_blue_0_10
+  - first:
+      213: -1476422984528938103
+    second: Props_Flags_Flags_blue_0_11
+  - first:
+      213: 413985428488655335
+    second: Props_Flags_Flags_blue_0_12
+  - first:
+      213: -2135754861553400811
+    second: Props_Flags_Flags_blue_0_13
+  - first:
+      213: 6844072353338427942
+    second: Props_Flags_Flags_blue_0_14
+  - first:
+      213: -1815897749320270829
+    second: Props_Flags_Flags_blue_0_15
+  - first:
+      213: 8723148722750073857
+    second: Props_Flags_Flags_blue_1_0
+  - first:
+      213: 5885622935607170208
+    second: Props_Flags_Flags_blue_1_1
+  - first:
+      213: -1426702274792881322
+    second: Props_Flags_Flags_blue_1_2
+  - first:
+      213: 4367025650698176047
+    second: Props_Flags_Flags_blue_1_3
+  - first:
+      213: -6856080091182852068
+    second: Props_Flags_Flags_blue_1_4
+  - first:
+      213: -8859108293517310781
+    second: Props_Flags_Flags_blue_1_5
+  - first:
+      213: -1770140135450065987
+    second: Props_Flags_Flags_blue_1_6
+  - first:
+      213: -3536678645589576078
+    second: Props_Flags_Flags_blue_1_7
+  - first:
+      213: -6656100446500548266
+    second: Props_Flags_Flags_blue_1_8
+  - first:
+      213: -1295745074863388877
+    second: Props_Flags_Flags_blue_1_9
+  - first:
+      213: -2771378233447362833
+    second: Props_Flags_Flags_blue_1_10
+  - first:
+      213: -8722541387898141835
+    second: Props_Flags_Flags_blue_1_11
+  - first:
+      213: 4318709061649225094
+    second: Props_Flags_Flags_blue_1_12
+  - first:
+      213: 2256577108679993211
+    second: Props_Flags_Flags_blue_1_13
+  - first:
+      213: 4589542774901831240
+    second: Props_Flags_Flags_blue_1_14
+  - first:
+      213: -5851486722505968563
+    second: Props_Flags_Flags_blue_1_15
+  - first:
+      213: -8068934538406477938
+    second: Props_Flags_Flags_blue_2_0
+  - first:
+      213: 5630614685501265754
+    second: Props_Flags_Flags_blue_2_1
+  - first:
+      213: -1800353470382808486
+    second: Props_Flags_Flags_blue_2_2
+  - first:
+      213: 6123301830279762316
+    second: Props_Flags_Flags_blue_2_3
+  - first:
+      213: 8235869660432058468
+    second: Props_Flags_Flags_blue_2_4
+  - first:
+      213: 2966855697332009393
+    second: Props_Flags_Flags_blue_2_5
+  - first:
+      213: -4180838648434632413
+    second: Props_Flags_Flags_blue_2_6
+  - first:
+      213: -965377965062021423
+    second: Props_Flags_Flags_blue_2_7
+  - first:
+      213: -589528194293911501
+    second: Props_Flags_Flags_blue_2_8
+  - first:
+      213: -6984675867587743235
+    second: Props_Flags_Flags_blue_2_9
+  - first:
+      213: -3349937439457634413
+    second: Props_Flags_Flags_blue_2_10
+  - first:
+      213: 4759067511942449701
+    second: Props_Flags_Flags_blue_2_11
+  - first:
+      213: 4156273179339072071
+    second: Props_Flags_Flags_blue_2_12
+  - first:
+      213: 1411838210964348775
+    second: Props_Flags_Flags_blue_2_13
+  - first:
+      213: -7684530240620726056
+    second: Props_Flags_Flags_blue_2_14
+  - first:
+      213: -1323185956180917353
+    second: Props_Flags_Flags_blue_2_15
+  - first:
+      213: -2931220984797282445
+    second: Props_Flags_Flags_blue_3_0
+  - first:
+      213: 9178933624551853671
+    second: Props_Flags_Flags_blue_3_1
+  - first:
+      213: -5044665374556602008
+    second: Props_Flags_Flags_blue_3_2
+  - first:
+      213: -7465763733722542660
+    second: Props_Flags_Flags_blue_3_3
+  - first:
+      213: 6876529288595872769
+    second: Props_Flags_Flags_blue_3_4
+  - first:
+      213: -6827842458366124048
+    second: Props_Flags_Flags_blue_3_5
+  - first:
+      213: 2527615194401200065
+    second: Props_Flags_Flags_blue_3_6
+  - first:
+      213: 2830046527401939998
+    second: Props_Flags_Flags_blue_3_7
+  - first:
+      213: 3831648647544169240
+    second: Props_Flags_Flags_blue_3_8
+  - first:
+      213: -8118035178908752963
+    second: Props_Flags_Flags_blue_3_9
+  - first:
+      213: -8356735246170231555
+    second: Props_Flags_Flags_blue_3_10
+  - first:
+      213: 5079423933502960619
+    second: Props_Flags_Flags_blue_3_11
+  - first:
+      213: 4948948569420952536
+    second: Props_Flags_Flags_blue_3_12
+  - first:
+      213: 709145735207951288
+    second: Props_Flags_Flags_blue_3_13
+  - first:
+      213: -8508940244312644355
+    second: Props_Flags_Flags_blue_3_14
+  - first:
+      213: -7869599026669335145
+    second: Props_Flags_Flags_blue_3_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb4cafa25abc1600800000000000000
+      internalID: 440431727872855031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a551f92996d01d0800000000000000
+      internalID: -3382931666630256105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e546686bfe18a6350800000000000000
+      internalID: 6010759519238775902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e933e433d152b9e60800000000000000
+      internalID: 7970004772907266974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea77528885f06c00800000000000000
+      internalID: 891982692870486755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ed93f96aad4690800000000000000
+      internalID: -7616244022778140345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95431e70cd590530800000000000000
+      internalID: 3821688840130872732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e0f2c7c14e2a30800000000000000
+      internalID: 4192360629353374142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375eb51ffe414230800000000000000
+      internalID: 3621262432871012156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ce6a80b68421430800000000000000
+      internalID: 3752141064096902254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447b0f45f6f80f70800000000000000
+      internalID: 9153837776084104264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3ee43e11b28be0800000000000000
+      internalID: -1476422984528938103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e11147cd85ceb500800000000000000
+      internalID: 413985428488655335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514cbc5e4464c52e0800000000000000
+      internalID: -2135754861553400811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0fcd3b870bfe50800000000000000
+      internalID: 6844072353338427942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c75573e92acc6e0800000000000000
+      internalID: -1815897749320270829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cab6ecb89de0970800000000000000
+      internalID: 8723148722750073857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d1c660eeeda150800000000000000
+      internalID: 5885622935607170208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538abe07d5533ce0800000000000000
+      internalID: -1426702274792881322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2642ea11baca9c30800000000000000
+      internalID: 4367025650698176047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181b6d6b7f4ad0a0800000000000000
+      internalID: -6856080091182852068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c40f22d1ff1e0580800000000000000
+      internalID: -8859108293517310781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db346d7ece23f67e0800000000000000
+      internalID: -1770140135450065987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767cec82813beec0800000000000000
+      internalID: -3536678645589576078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6511401d8e7c0a3a0800000000000000
+      internalID: -6656100446500548266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3374e4538b6940ee0800000000000000
+      internalID: -1295745074863388877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feece191e261a89d0800000000000000
+      internalID: -2771378233447362833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57340bb52de43f680800000000000000
+      internalID: -8722541387898141835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685dcd392032feb30800000000000000
+      internalID: 4318709061649225094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77262bace8f05f10800000000000000
+      internalID: 2256577108679993211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846fb7b56d451bf30800000000000000
+      internalID: 4589542774901831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44fd1114d75bcea0800000000000000
+      internalID: -5851486722505968563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb662d9c2650090800000000000000
+      internalID: -8068934538406477938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5796646936f32e40800000000000000
+      internalID: 5630614685501265754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e0bfae0cd307e0800000000000000
+      internalID: -1800353470382808486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81135e62965af450800000000000000
+      internalID: 6123301830279762316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468487612dfab4270800000000000000
+      internalID: 8235869660432058468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97153a9836c2920800000000000000
+      internalID: 2966855697332009393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32954d8766daaf5c0800000000000000
+      internalID: -4180838648434632413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de1d760bd94a92f0800000000000000
+      internalID: -965377965062021423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b8021b3391d7f0800000000000000
+      internalID: -589528194293911501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df170390e42711f90800000000000000
+      internalID: -6984675867587743235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3979855c5a1a281d0800000000000000
+      internalID: -3349937439457634413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a8e6fffaa9b0240800000000000000
+      internalID: 4759067511942449701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422dfb8f6c0ea930800000000000000
+      internalID: 4156273179339072071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5ad46f5bd79310800000000000000
+      internalID: 1411838210964348775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8fd06e5701b5590800000000000000
+      internalID: -7684530240620726056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930d06226913ade0800000000000000
+      internalID: -1323185956180917353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbcfa6b063257d0800000000000000
+      internalID: -2931220984797282445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e4d4cdf7f126f70800000000000000
+      internalID: 9178933624551853671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86147d2d19fbdf9b0800000000000000
+      internalID: -5044665374556602008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd49728077446890800000000000000
+      internalID: -7465763733722542660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c935e54f65e6f50800000000000000
+      internalID: 6876529288595872769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd1c6a571ae31a0800000000000000
+      internalID: -6827842458366124048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d92f90a4e31320800000000000000
+      internalID: 2527615194401200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14de9b8258564720800000000000000
+      internalID: 2830046527401939998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e9fcd420cc2530800000000000000
+      internalID: 3831648647544169240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e4071402f65f80800000000000000
+      internalID: -8118035178908752963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc690ac199e60c80800000000000000
+      internalID: -8356735246170231555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bf04d72dbd7640800000000000000
+      internalID: 5079423933502960619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d37304d0823ea440800000000000000
+      internalID: 4948948569420952536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9d09f94467d900800000000000000
+      internalID: 709145735207951288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df428ba1eeb2ae980800000000000000
+      internalID: -8508940244312644355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Flags_Flags_blue_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d4d92516199c290800000000000000
+      internalID: -7869599026669335145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_Flags_Flags_blue_0: 8427985233624687323
+      Props_Flags_Flags_blue_0_0: 440431727872855031
+      Props_Flags_Flags_blue_0_1: -3382931666630256105
+      Props_Flags_Flags_blue_0_10: 9153837776084104264
+      Props_Flags_Flags_blue_0_11: -1476422984528938103
+      Props_Flags_Flags_blue_0_12: 413985428488655335
+      Props_Flags_Flags_blue_0_13: -2135754861553400811
+      Props_Flags_Flags_blue_0_14: 6844072353338427942
+      Props_Flags_Flags_blue_0_15: -1815897749320270829
+      Props_Flags_Flags_blue_0_2: 6010759519238775902
+      Props_Flags_Flags_blue_0_3: 7970004772907266974
+      Props_Flags_Flags_blue_0_4: 891982692870486755
+      Props_Flags_Flags_blue_0_5: -7616244022778140345
+      Props_Flags_Flags_blue_0_6: 3821688840130872732
+      Props_Flags_Flags_blue_0_7: 4192360629353374142
+      Props_Flags_Flags_blue_0_8: 3621262432871012156
+      Props_Flags_Flags_blue_0_9: 3752141064096902254
+      Props_Flags_Flags_blue_1: 4987905544291352131
+      Props_Flags_Flags_blue_1_0: 8723148722750073857
+      Props_Flags_Flags_blue_1_1: 5885622935607170208
+      Props_Flags_Flags_blue_1_10: -2771378233447362833
+      Props_Flags_Flags_blue_1_11: -8722541387898141835
+      Props_Flags_Flags_blue_1_12: 4318709061649225094
+      Props_Flags_Flags_blue_1_13: 2256577108679993211
+      Props_Flags_Flags_blue_1_14: 4589542774901831240
+      Props_Flags_Flags_blue_1_15: -5851486722505968563
+      Props_Flags_Flags_blue_1_2: -1426702274792881322
+      Props_Flags_Flags_blue_1_3: 4367025650698176047
+      Props_Flags_Flags_blue_1_4: -6856080091182852068
+      Props_Flags_Flags_blue_1_5: -8859108293517310781
+      Props_Flags_Flags_blue_1_6: -1770140135450065987
+      Props_Flags_Flags_blue_1_7: -3536678645589576078
+      Props_Flags_Flags_blue_1_8: -6656100446500548266
+      Props_Flags_Flags_blue_1_9: -1295745074863388877
+      Props_Flags_Flags_blue_2: 2007789124672315999
+      Props_Flags_Flags_blue_2_0: -8068934538406477938
+      Props_Flags_Flags_blue_2_1: 5630614685501265754
+      Props_Flags_Flags_blue_2_10: -3349937439457634413
+      Props_Flags_Flags_blue_2_11: 4759067511942449701
+      Props_Flags_Flags_blue_2_12: 4156273179339072071
+      Props_Flags_Flags_blue_2_13: 1411838210964348775
+      Props_Flags_Flags_blue_2_14: -7684530240620726056
+      Props_Flags_Flags_blue_2_15: -1323185956180917353
+      Props_Flags_Flags_blue_2_2: -1800353470382808486
+      Props_Flags_Flags_blue_2_3: 6123301830279762316
+      Props_Flags_Flags_blue_2_4: 8235869660432058468
+      Props_Flags_Flags_blue_2_5: 2966855697332009393
+      Props_Flags_Flags_blue_2_6: -4180838648434632413
+      Props_Flags_Flags_blue_2_7: -965377965062021423
+      Props_Flags_Flags_blue_2_8: -589528194293911501
+      Props_Flags_Flags_blue_2_9: -6984675867587743235
+      Props_Flags_Flags_blue_3: -7887126169948231836
+      Props_Flags_Flags_blue_3_0: -2931220984797282445
+      Props_Flags_Flags_blue_3_1: 9178933624551853671
+      Props_Flags_Flags_blue_3_10: -8356735246170231555
+      Props_Flags_Flags_blue_3_11: 5079423933502960619
+      Props_Flags_Flags_blue_3_12: 4948948569420952536
+      Props_Flags_Flags_blue_3_13: 709145735207951288
+      Props_Flags_Flags_blue_3_14: -8508940244312644355
+      Props_Flags_Flags_blue_3_15: -7869599026669335145
+      Props_Flags_Flags_blue_3_2: -5044665374556602008
+      Props_Flags_Flags_blue_3_3: -7465763733722542660
+      Props_Flags_Flags_blue_3_4: 6876529288595872769
+      Props_Flags_Flags_blue_3_5: -6827842458366124048
+      Props_Flags_Flags_blue_3_6: 2527615194401200065
+      Props_Flags_Flags_blue_3_7: 2830046527401939998
+      Props_Flags_Flags_blue_3_8: 3831648647544169240
+      Props_Flags_Flags_blue_3_9: -8118035178908752963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

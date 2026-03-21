@@ -1,0 +1,3266 @@
+fileFormatVersion: 2
+guid: e079c277ac00d6b4a9e926f23e192bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6701403456110338259
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0
+  - first:
+      213: -3731877305023621929
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1
+  - first:
+      213: -5016305379245247377
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2
+  - first:
+      213: -6107749346981475391
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3
+  - first:
+      213: -2544942058982803510
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_0
+  - first:
+      213: -6605379161090297025
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_1
+  - first:
+      213: -3663720116925505123
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_2
+  - first:
+      213: -2231857161128038575
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_3
+  - first:
+      213: -8433329774679860798
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_4
+  - first:
+      213: 1081280007645070857
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_5
+  - first:
+      213: 3754584012949778589
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_6
+  - first:
+      213: 3886783435406450255
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_7
+  - first:
+      213: -4862351023547672037
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_8
+  - first:
+      213: 8131895159194913809
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_9
+  - first:
+      213: 3095057404491717209
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_10
+  - first:
+      213: -8744834847787529730
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_11
+  - first:
+      213: -1464573307794406901
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_12
+  - first:
+      213: -7538534265476415658
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_13
+  - first:
+      213: 8121661306027508329
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_14
+  - first:
+      213: 9186016946172014875
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_15
+  - first:
+      213: 7994666451484598919
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_16
+  - first:
+      213: 2959665507500953797
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_0
+  - first:
+      213: 2518490213812940228
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_1
+  - first:
+      213: 7823679435415139269
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_2
+  - first:
+      213: 6640768295437996096
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_3
+  - first:
+      213: -387129102912656728
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_4
+  - first:
+      213: 8012629768571153921
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_5
+  - first:
+      213: 8494839966613300414
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_6
+  - first:
+      213: -1626231160689452438
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_7
+  - first:
+      213: -3928772673797758705
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_8
+  - first:
+      213: 6518797459647279414
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_9
+  - first:
+      213: 2366553277199179450
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_10
+  - first:
+      213: -8027335845103303164
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_11
+  - first:
+      213: 4232305376556214593
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_12
+  - first:
+      213: 4847204871397903011
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_13
+  - first:
+      213: -8294162881393381843
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_14
+  - first:
+      213: -967819226762779725
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_15
+  - first:
+      213: -5383033989662362992
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_16
+  - first:
+      213: 2284956822897625534
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_0
+  - first:
+      213: 2081874366364578945
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_1
+  - first:
+      213: -3964844970714707838
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_2
+  - first:
+      213: 2963842075536651977
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_3
+  - first:
+      213: -324563935706331591
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_4
+  - first:
+      213: 8816744507290465919
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_5
+  - first:
+      213: 5907536155538230511
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_6
+  - first:
+      213: 6927385815704675420
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_7
+  - first:
+      213: 8392873809754053625
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_8
+  - first:
+      213: 8885370185395505628
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_9
+  - first:
+      213: -2218589854787718192
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_10
+  - first:
+      213: -7271909486029632523
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_11
+  - first:
+      213: 1773893723768619015
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_12
+  - first:
+      213: -4686250595777540357
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_13
+  - first:
+      213: -3052017217818821044
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_14
+  - first:
+      213: 1531115017132628599
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_15
+  - first:
+      213: -9151010062736852838
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_16
+  - first:
+      213: -6849310419954307074
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_0
+  - first:
+      213: 5475529073354890825
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_1
+  - first:
+      213: 3290879877853900960
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_2
+  - first:
+      213: 8756801923350026206
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_3
+  - first:
+      213: 9108996191270941917
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_4
+  - first:
+      213: 6488626588554968619
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_5
+  - first:
+      213: 6376921150338593861
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_6
+  - first:
+      213: -8422715048996422639
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_7
+  - first:
+      213: -2494170165637927727
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_8
+  - first:
+      213: -2920317662384322630
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_9
+  - first:
+      213: 8029807253872262577
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_10
+  - first:
+      213: -7988954945116706341
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_11
+  - first:
+      213: 7543765314679016284
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_12
+  - first:
+      213: -5010056389625261498
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_13
+  - first:
+      213: 2133679929641826854
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_14
+  - first:
+      213: -8588960330084582021
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_15
+  - first:
+      213: 1142496027732635814
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_16
+  - first:
+      213: 773065546365618767
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_0
+  - first:
+      213: 6864416569618684841
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_1
+  - first:
+      213: -5260192637896935503
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_2
+  - first:
+      213: -4342809797183718363
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_3
+  - first:
+      213: 6746372787239834751
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_4
+  - first:
+      213: -7756406300037775020
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_5
+  - first:
+      213: 1409949307138593275
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_6
+  - first:
+      213: 1853478960705685503
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_7
+  - first:
+      213: -3025134593161680909
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_8
+  - first:
+      213: -749386122107913532
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_9
+  - first:
+      213: -5223248202610334653
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_10
+  - first:
+      213: -5110607430933236879
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_11
+  - first:
+      213: -7271562862096207322
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_12
+  - first:
+      213: -6166516062607082087
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_13
+  - first:
+      213: -1858697999740903092
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_14
+  - first:
+      213: -8063420367829348132
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_15
+  - first:
+      213: 5358796687877338636
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_16
+  - first:
+      213: -4405051136397988045
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_0
+  - first:
+      213: 2493599159720625313
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_1
+  - first:
+      213: -8109915763611536143
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_2
+  - first:
+      213: 2674540979178313619
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_3
+  - first:
+      213: -6474907773497741095
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_4
+  - first:
+      213: 3601399284123241009
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_5
+  - first:
+      213: -4073407437957717985
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_6
+  - first:
+      213: 2839371619064454264
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_7
+  - first:
+      213: 542261061173546998
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_8
+  - first:
+      213: 3236714132612875980
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_9
+  - first:
+      213: -6626262571037265439
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_10
+  - first:
+      213: 1810655222316396109
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_11
+  - first:
+      213: -4969868476353998813
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_12
+  - first:
+      213: -4598538237395248730
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_13
+  - first:
+      213: -4931325775322810301
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_14
+  - first:
+      213: -7138358842100409069
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_15
+  - first:
+      213: -671042420942444135
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_16
+  - first:
+      213: -7129656462390443892
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_0
+  - first:
+      213: -4054019320573084780
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_1
+  - first:
+      213: -4346163566950599511
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_2
+  - first:
+      213: 6121607737006160963
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_3
+  - first:
+      213: -3354534957444482492
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_4
+  - first:
+      213: -1221046983907404207
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_5
+  - first:
+      213: 2123850917486311778
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_6
+  - first:
+      213: -461100741143973335
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_7
+  - first:
+      213: -7787571260454591401
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_8
+  - first:
+      213: -9127835405414645581
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_9
+  - first:
+      213: 5166399823037992083
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_10
+  - first:
+      213: 2473782817159139884
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_11
+  - first:
+      213: -1564175241335564857
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_12
+  - first:
+      213: -860647503115736965
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_13
+  - first:
+      213: -2074422047176412510
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_14
+  - first:
+      213: 6911371518176786036
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_15
+  - first:
+      213: 4610777562548362890
+    second: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f0685eac8eacd0800000000000000
+      internalID: -2544942058982803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f17856aaf454a0800000000000000
+      internalID: -6605379161090297025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e33207f9d72dc0800000000000000
+      internalID: -3663720116925505123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2d81acb9d601e0800000000000000
+      internalID: -2231857161128038575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95b7a604bc6fa80800000000000000
+      internalID: -8433329774679860798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9068a66207a710f00800000000000000
+      internalID: 1081280007645070857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907b336446fa1430800000000000000
+      internalID: 3754584012949778589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e164201f0a0f530800000000000000
+      internalID: 3886783435406450255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1f248185758cb0800000000000000
+      internalID: -4862351023547672037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c088a009b4ad070800000000000000
+      internalID: 8131895159194913809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95adb22af4ad3fa20800000000000000
+      internalID: 3095057404491717209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ca2eb90b14a680800000000000000
+      internalID: -8744834847787529730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024561165accabe0800000000000000
+      internalID: -1464573307794406901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ffa23c60fb16790800000000000000
+      internalID: -7538534265476415658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9620ecb6defe5b070800000000000000
+      internalID: 8121661306027508329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b113d413eb94b7f70800000000000000
+      internalID: 9186016946172014875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e872b7c2c2fe60800000000000000
+      internalID: 7994666451484598919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0129c1918d21920800000000000000
+      internalID: 2959665507500953797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd2e94818973f220800000000000000
+      internalID: 2518490213812940228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b270befa439c60800000000000000
+      internalID: 7823679435415139269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401245949fb82c50800000000000000
+      internalID: 6640768295437996096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaecaac124a0aaf0800000000000000
+      internalID: -387129102912656728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e67606254923f60800000000000000
+      internalID: 8012629768571153921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e6c921fbb3e570800000000000000
+      internalID: 8494839966613300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a1f6020677e69e0800000000000000
+      internalID: -1626231160689452438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e50791123a79c0800000000000000
+      internalID: -3928772673797758705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631bef060cb677a50800000000000000
+      internalID: 6518797459647279414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5e75caafa7d020800000000000000
+      internalID: 2366553277199179450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4068bdb549c299090800000000000000
+      internalID: -8027335845103303164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149eb96f05b2cba30800000000000000
+      internalID: 4232305376556214593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa0731262bb44340800000000000000
+      internalID: 4847204871397903011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2151cdc635ec80800000000000000
+      internalID: -8294162881393381843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e20e7a8d9192f0800000000000000
+      internalID: -967819226762779725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09232506b1f9b45b0800000000000000
+      internalID: -5383033989662362992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb90bebcf1cc5bf10800000000000000
+      internalID: 2284956822897625534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f62ab4bd44ec10800000000000000
+      internalID: 2081874366364578945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2884e0b718a0af8c0800000000000000
+      internalID: -3964844970714707838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f7b22aaea12920800000000000000
+      internalID: 2963842075536651977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364251f1daee7bf0800000000000000
+      internalID: -324563935706331591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76bc609a6e5b5a70800000000000000
+      internalID: 8816744507290465919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec02a085d8cbf150800000000000000
+      internalID: 5907536155538230511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54282f42b4032060800000000000000
+      internalID: 6927385815704675420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd11b334a797470800000000000000
+      internalID: 8392873809754053625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9885e5b1d2f4b70800000000000000
+      internalID: 8885370185395505628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b71b184cf531e0800000000000000
+      internalID: -2218589854787718192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb0966c9dcf41b90800000000000000
+      internalID: -7271909486029632523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700068a71f22e9810800000000000000
+      internalID: 1773893723768619015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe873679e717feb0800000000000000
+      internalID: -4686250595777540357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e788bb28e05a5d0800000000000000
+      internalID: -3052017217818821044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ad472fefc9f3510800000000000000
+      internalID: 1531115017132628599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987b8205d4110180800000000000000
+      internalID: -9151010062736852838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effed36567c52f0a0800000000000000
+      internalID: -6849310419954307074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e54ae7eacfcfb40800000000000000
+      internalID: 5475529073354890825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a076f520dd8bad20800000000000000
+      internalID: 3290879877853900960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75cb924f8668970800000000000000
+      internalID: 8756801923350026206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4371146c7a96e70800000000000000
+      internalID: 9108996191270941917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e39fa018b3c0a50800000000000000
+      internalID: 6488626588554968619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5447b96ffff5f7850800000000000000
+      internalID: 6376921150338593861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c3b34d9418c1b80800000000000000
+      internalID: -8422715048996422639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc26c3f27de26dd0800000000000000
+      internalID: -2494170165637927727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7884efe82f877d0800000000000000
+      internalID: -2920317662384322630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd39e5572b9f6f60800000000000000
+      internalID: 8029807253872262577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e7b10ec7812190800000000000000
+      internalID: -7988954945116706341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b0b5ac596d0b860800000000000000
+      internalID: 7543765314679016284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d5bf0244b87ab0800000000000000
+      internalID: -5010056389625261498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7eae579a5c9d10800000000000000
+      internalID: 2133679929641826854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7df2670612edc880800000000000000
+      internalID: -8588960330084582021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a07c428516fadf00800000000000000
+      internalID: 1142496027732635814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a473fb40b7aba00800000000000000
+      internalID: 773065546365618767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5d66308e434f50800000000000000
+      internalID: 6864416569618684841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b737006aaa0007b0800000000000000
+      internalID: -5260192637896935503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c37c7af7d3bb3c0800000000000000
+      internalID: -4342809797183718363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74dac16e4eef9d50800000000000000
+      internalID: 6746372787239834751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45185a8b095bb5490800000000000000
+      internalID: -7756406300037775020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1dd43bc65219310800000000000000
+      internalID: 1409949307138593275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c58b6b41e8b910800000000000000
+      internalID: 1853478960705685503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f72ad88d109406d0800000000000000
+      internalID: -3025134593161680909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7628da45a995f0800000000000000
+      internalID: -749386122107913532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344a6b50f6b4387b0800000000000000
+      internalID: -5223248202610334653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b0c46e997319b0800000000000000
+      internalID: -5110607430933236879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62235d27a18361b90800000000000000
+      internalID: -7271562862096207322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d709a00522c6aa0800000000000000
+      internalID: -6166516062607082087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e6bc54049436e0800000000000000
+      internalID: -1858697999740903092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0d1e4b5e9f81090800000000000000
+      internalID: -8063420367829348132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f77c02354e5a40800000000000000
+      internalID: 5358796687877338636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2195945d1ed2c0800000000000000
+      internalID: -4405051136397988045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a44c5f593b0b9220800000000000000
+      internalID: 2493599159720625313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4f797c49ac37f80800000000000000
+      internalID: -8109915763611536143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3971629a9d0ed1520800000000000000
+      internalID: 2674540979178313619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0704f7fa18426a0800000000000000
+      internalID: -6474907773497741095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a0380619dbaf130800000000000000
+      internalID: 3601399284123241009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a81b54895877c0800000000000000
+      internalID: -4073407437957717985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c99a3a179776720800000000000000
+      internalID: 2839371619064454264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff86c6ef8f768700800000000000000
+      internalID: 542261061173546998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc680e1da5e1bec20800000000000000
+      internalID: 3236714132612875980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17bd09c49ca04a0800000000000000
+      internalID: -6626262571037265439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eefd8d45db02910800000000000000
+      internalID: 1810655222316396109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3201286c3fa770bb0800000000000000
+      internalID: -4969868476353998813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9510256d5be20c0800000000000000
+      internalID: -4598538237395248730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f72aa559609bb0800000000000000
+      internalID: -4931325775322810301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d165924747fec90800000000000000
+      internalID: -7138358842100409069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999e186397affa6f0800000000000000
+      internalID: -671042420942444135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8046a4d83f5e0d90800000000000000
+      internalID: -7129656462390443892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbba438ea3db7c0800000000000000
+      internalID: -4054019320573084780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43a2843435fa3c0800000000000000
+      internalID: -4346163566950599511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf88a9dc154f450800000000000000
+      internalID: 6121607737006160963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a34e2ba3c4271d0800000000000000
+      internalID: -3354534957444482492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156132ecc38fd0fe0800000000000000
+      internalID: -1221046983907404207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269b8a4282f697d10800000000000000
+      internalID: 2123850917486311778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b176a157d999f0800000000000000
+      internalID: -461100741143973335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754209de23dfce390800000000000000
+      internalID: -7787571260454591401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c6046f0a635180800000000000000
+      internalID: -9127835405414645581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c02db244db2b740800000000000000
+      internalID: 5166399823037992083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c225c349d54a45220800000000000000
+      internalID: 2473782817159139884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59bb5c7eeea4ae0800000000000000
+      internalID: -1564175241335564857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a5f3e7ad5e04f0800000000000000
+      internalID: -860647503115736965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bfcb832c2633e0800000000000000
+      internalID: -2074422047176412510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476fdab17cf1aef50800000000000000
+      internalID: 6911371518176786036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5902a3c5ccff30800000000000000
+      internalID: 4610777562548362890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0: -6701403456110338259
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_0: -2544942058982803510
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_1: -6605379161090297025
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_10: 3095057404491717209
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_11: -8744834847787529730
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_12: -1464573307794406901
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_13: -7538534265476415658
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_14: 8121661306027508329
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_15: 9186016946172014875
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_16: 7994666451484598919
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_2: -3663720116925505123
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_3: -2231857161128038575
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_4: -8433329774679860798
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_5: 1081280007645070857
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_6: 3754584012949778589
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_7: 3886783435406450255
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_8: -4862351023547672037
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_0_9: 8131895159194913809
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1: -3731877305023621929
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_0: 2959665507500953797
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_1: 2518490213812940228
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_10: 2366553277199179450
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_11: -8027335845103303164
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_12: 4232305376556214593
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_13: 4847204871397903011
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_14: -8294162881393381843
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_15: -967819226762779725
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_16: -5383033989662362992
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_2: 7823679435415139269
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_3: 6640768295437996096
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_4: -387129102912656728
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_5: 8012629768571153921
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_6: 8494839966613300414
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_7: -1626231160689452438
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_8: -3928772673797758705
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_1_9: 6518797459647279414
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2: -5016305379245247377
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_0: 2284956822897625534
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_1: 2081874366364578945
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_10: -2218589854787718192
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_11: -7271909486029632523
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_12: 1773893723768619015
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_13: -4686250595777540357
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_14: -3052017217818821044
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_15: 1531115017132628599
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_16: -9151010062736852838
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_2: -3964844970714707838
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_3: 2963842075536651977
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_4: -324563935706331591
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_5: 8816744507290465919
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_6: 5907536155538230511
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_7: 6927385815704675420
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_8: 8392873809754053625
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_2_9: 8885370185395505628
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3: -6107749346981475391
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_0: -6849310419954307074
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_1: 5475529073354890825
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_10: 8029807253872262577
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_11: -7988954945116706341
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_12: 7543765314679016284
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_13: -5010056389625261498
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_14: 2133679929641826854
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_15: -8588960330084582021
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_16: 1142496027732635814
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_2: 3290879877853900960
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_3: 8756801923350026206
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_4: 9108996191270941917
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_5: 6488626588554968619
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_6: 6376921150338593861
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_7: -8422715048996422639
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_8: -2494170165637927727
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_3_9: -2920317662384322630
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_0: 773065546365618767
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_1: 6864416569618684841
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_10: -5223248202610334653
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_11: -5110607430933236879
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_12: -7271562862096207322
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_13: -6166516062607082087
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_14: -1858697999740903092
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_15: -8063420367829348132
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_16: 5358796687877338636
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_2: -5260192637896935503
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_3: -4342809797183718363
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_4: 6746372787239834751
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_5: -7756406300037775020
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_6: 1409949307138593275
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_7: 1853478960705685503
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_8: -3025134593161680909
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_4_9: -749386122107913532
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_0: -4405051136397988045
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_1: 2493599159720625313
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_10: -6626262571037265439
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_11: 1810655222316396109
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_12: -4969868476353998813
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_13: -4598538237395248730
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_14: -4931325775322810301
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_15: -7138358842100409069
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_16: -671042420942444135
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_2: -8109915763611536143
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_3: 2674540979178313619
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_4: -6474907773497741095
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_5: 3601399284123241009
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_6: -4073407437957717985
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_7: 2839371619064454264
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_8: 542261061173546998
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_5_9: 3236714132612875980
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_0: -7129656462390443892
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_1: -4054019320573084780
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_10: 5166399823037992083
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_11: 2473782817159139884
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_12: -1564175241335564857
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_13: -860647503115736965
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_14: -2074422047176412510
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_15: 6911371518176786036
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_16: 4610777562548362890
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_2: -4346163566950599511
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_3: 6121607737006160963
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_4: -3354534957444482492
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_5: -1221046983907404207
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_6: 2123850917486311778
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_7: -461100741143973335
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_8: -7787571260454591401
+      River_Waterfall_Minifantasy_ForgottenPlainsWaterfallSplashEffectLayer_6_9: -9127835405414645581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

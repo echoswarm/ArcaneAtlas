@@ -1,0 +1,1604 @@
+fileFormatVersion: 2
+guid: 2a2b8c59e5a8be743a1c20e61b39d395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1633007949774589316
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0
+  - first:
+      213: 8442585704266617059
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1
+  - first:
+      213: 1550040959409809709
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2
+  - first:
+      213: 3024684042912580294
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3
+  - first:
+      213: -5982158992871343430
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4
+  - first:
+      213: -7293334682977166718
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5
+  - first:
+      213: -4111407028328359138
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6
+  - first:
+      213: -7611650658117767289
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7
+  - first:
+      213: 6250712185354246992
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8
+  - first:
+      213: -2174379477368667933
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_9
+  - first:
+      213: 1666138067129104300
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_10
+  - first:
+      213: 3532128732550919087
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_0
+  - first:
+      213: 8000689636227269732
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_1
+  - first:
+      213: -362510320368591843
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_2
+  - first:
+      213: -6520252013983911069
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_3
+  - first:
+      213: 6441720740997951154
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_4
+  - first:
+      213: -7719805972854076535
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_5
+  - first:
+      213: -8298888747168359073
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_0
+  - first:
+      213: 291967082755915248
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_1
+  - first:
+      213: 4683868582930217218
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_2
+  - first:
+      213: -4950464436635075405
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_3
+  - first:
+      213: -7487090594164568448
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_4
+  - first:
+      213: 2563027222910335048
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_5
+  - first:
+      213: 3173850858491712296
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_0
+  - first:
+      213: 983041891829883336
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_1
+  - first:
+      213: -7592315965676324921
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_2
+  - first:
+      213: -2335347880489063826
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_3
+  - first:
+      213: 5894009554229379593
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_4
+  - first:
+      213: 2483058964234791323
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_5
+  - first:
+      213: 2431176540506345824
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_0
+  - first:
+      213: -4699810194211967043
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_1
+  - first:
+      213: -3488624334545716982
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_2
+  - first:
+      213: 8454915913394816557
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_3
+  - first:
+      213: -8702531873819806289
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_4
+  - first:
+      213: 1579002230524119286
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_5
+  - first:
+      213: -6457471472450838290
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_0
+  - first:
+      213: 326441670996632242
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_1
+  - first:
+      213: 6784791746809177769
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_2
+  - first:
+      213: -8894458735422390553
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_3
+  - first:
+      213: 5282060037979133844
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_4
+  - first:
+      213: 8147819088354657443
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_5
+  - first:
+      213: 9126999400418853528
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_0
+  - first:
+      213: 4785803774718865395
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_1
+  - first:
+      213: -609439558966783474
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_2
+  - first:
+      213: -5758146895958999898
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_3
+  - first:
+      213: 1847182344494029082
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_4
+  - first:
+      213: -394283720930925097
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_5
+  - first:
+      213: 6791776342603432240
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_0
+  - first:
+      213: -507612702095831674
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_1
+  - first:
+      213: -4963506734753254569
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_2
+  - first:
+      213: 4286143697219325803
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_3
+  - first:
+      213: -7198265203857899280
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_4
+  - first:
+      213: 1326934807569956999
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_5
+  - first:
+      213: -3847544073143664548
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_0
+  - first:
+      213: -7265182686573750929
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_1
+  - first:
+      213: -1152192697377172207
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_2
+  - first:
+      213: 3304831582445684255
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_3
+  - first:
+      213: 969757665999919599
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_4
+  - first:
+      213: 1660493040535969156
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_5
+  - first:
+      213: -3893642665664782422
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_0
+  - first:
+      213: 1125927215554523309
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_1
+  - first:
+      213: -7767357135364113926
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_2
+  - first:
+      213: -2707901731673954898
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_3
+  - first:
+      213: 7540805969584209170
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_4
+  - first:
+      213: -7764874965312915247
+    second: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3f5a44e54a40130800000000000000
+      internalID: 3532128732550919087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c97da5d8280f60800000000000000
+      internalID: 8000689636227269732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c5407c8ca18faf0800000000000000
+      internalID: -362510320368591843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363b67cc6596385a0800000000000000
+      internalID: -6520252013983911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bee27d52e6956950800000000000000
+      internalID: 6441720740997951154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b08157e5dbdd490800000000000000
+      internalID: -7719805972854076535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1b8267ac64dc80800000000000000
+      internalID: -8298888747168359073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf5cdc3864d0400800000000000000
+      internalID: 291967082755915248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209fa24f8a1700140800000000000000
+      internalID: 4683868582930217218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc7925d2da6c4bb0800000000000000
+      internalID: -4950464436635075405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e07add5c2881890800000000000000
+      internalID: -7487090594164568448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f9330ea3b19320800000000000000
+      internalID: 2563027222910335048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823977e3a88cb0c20800000000000000
+      internalID: 3173850858491712296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c129d9646774ad00800000000000000
+      internalID: 983041891829883336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f553eadca2a690800000000000000
+      internalID: -7592315965676324921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aec74d97d279fd0800000000000000
+      internalID: -2335347880489063826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c996367abbc150800000000000000
+      internalID: 5894009554229379593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99609fd8f8957220800000000000000
+      internalID: 2483058964234791323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d423ce264db120800000000000000
+      internalID: 2431176540506345824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6c3e678be6ceb0800000000000000
+      internalID: -4699810194211967043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a097e98b6aae59fc0800000000000000
+      internalID: -3488624334545716982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2602b72a35e55570800000000000000
+      internalID: 8454915913394816557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b4766e556a3780800000000000000
+      internalID: -8702531873819806289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f880f9a92eb9e510800000000000000
+      internalID: 1579002230524119286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06951b8e37266a0800000000000000
+      internalID: -6457471472450838290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2a3af58f0c78400800000000000000
+      internalID: 326441670996632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a62097752c682e50800000000000000
+      internalID: 6784791746809177769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee37cda7e8809480800000000000000
+      internalID: -8894458735422390553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49758067e95ad4940800000000000000
+      internalID: 5282060037979133844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c687ba4ed21170800000000000000
+      internalID: 8147819088354657443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8924b27099d99ae70800000000000000
+      internalID: 9126999400418853528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff67d44d279a6240800000000000000
+      internalID: 4785803774718865395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02d6b733f5da87f0800000000000000
+      internalID: -609439558966783474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac78d5f7e3f610b0800000000000000
+      internalID: -5758146895958999898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1990f63e8282a910800000000000000
+      internalID: 1847182344494029082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d561397b09378af0800000000000000
+      internalID: -394283720930925097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03187c6699c314e50800000000000000
+      internalID: 6791776342603432240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d0a18dfe894f8f0800000000000000
+      internalID: -507612702095831674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753f5ca2ce41e1bb0800000000000000
+      internalID: -4963506734753254569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8901dbf07b7b30800000000000000
+      internalID: 4286143697219325803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0cef46fef9a1c90800000000000000
+      internalID: -7198265203857899280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800f455d283a6210800000000000000
+      internalID: 1326934807569956999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50cc96fc07ca9ac0800000000000000
+      internalID: -3847544073143664548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f651472d6d2ec2b90800000000000000
+      internalID: -7265182686573750929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115d808a8d69200f0800000000000000
+      internalID: -1152192697377172207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ca2280de1ddd20800000000000000
+      internalID: 3304831582445684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe913209575457d00800000000000000
+      internalID: 969757665999919599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d97296f914b0710800000000000000
+      internalID: 1660493040535969156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafdebeff9007f9c0800000000000000
+      internalID: -3893642665664782422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0721e46d810af00800000000000000
+      internalID: 1125927215554523309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9b60fa6ddc43490800000000000000
+      internalID: -7767357135364113926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a8ecd8b99b6ad0800000000000000
+      internalID: -2707901731673954898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3631931356a860800000000000000
+      internalID: 7540805969584209170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8333feb5f9d3490800000000000000
+      internalID: -7764874965312915247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0: 1633007949774589316
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_0: 3532128732550919087
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_1: 8000689636227269732
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_2: -362510320368591843
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_3: -6520252013983911069
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_4: 6441720740997951154
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_0_5: -7719805972854076535
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1: 8442585704266617059
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_10: 1666138067129104300
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_0: -8298888747168359073
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_1: 291967082755915248
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_2: 4683868582930217218
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_3: -4950464436635075405
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_4: -7487090594164568448
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_1_5: 2563027222910335048
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2: 1550040959409809709
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_0: 3173850858491712296
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_1: 983041891829883336
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_2: -7592315965676324921
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_3: -2335347880489063826
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_4: 5894009554229379593
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_2_5: 2483058964234791323
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3: 3024684042912580294
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_0: 2431176540506345824
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_1: -4699810194211967043
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_2: -3488624334545716982
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_3: 8454915913394816557
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_4: -8702531873819806289
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_3_5: 1579002230524119286
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4: -5982158992871343430
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_0: -6457471472450838290
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_1: 326441670996632242
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_2: 6784791746809177769
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_3: -8894458735422390553
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_4: 5282060037979133844
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_4_5: 8147819088354657443
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5: -7293334682977166718
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_0: 9126999400418853528
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_1: 4785803774718865395
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_2: -609439558966783474
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_3: -5758146895958999898
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_4: 1847182344494029082
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_5_5: -394283720930925097
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6: -4111407028328359138
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_0: 6791776342603432240
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_1: -507612702095831674
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_2: -4963506734753254569
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_3: 4286143697219325803
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_4: -7198265203857899280
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_6_5: 1326934807569956999
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7: -7611650658117767289
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_0: -3847544073143664548
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_1: -7265182686573750929
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_2: -1152192697377172207
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_3: 3304831582445684255
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_4: 969757665999919599
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_7_5: 1660493040535969156
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8: 6250712185354246992
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_0: -3893642665664782422
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_1: 1125927215554523309
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_2: -7767357135364113926
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_3: -2707901731673954898
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_4: 7540805969584209170
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_8_5: -7764874965312915247
+      Tiny_Forgotten_Plains_Minifantasy_TinyOverworldForgottenPlainsProps_9: -2174379477368667933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

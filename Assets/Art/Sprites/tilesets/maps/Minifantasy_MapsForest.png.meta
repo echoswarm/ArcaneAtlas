@@ -1,0 +1,2290 @@
+fileFormatVersion: 2
+guid: 7b0d00e13b36ac746b894604d96b0a4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6338941024607939054
+    second: Minifantasy_MapsForest_0
+  - first:
+      213: 1752233539568574350
+    second: Minifantasy_MapsForest_1
+  - first:
+      213: 5253241036565749830
+    second: Minifantasy_MapsForest_2
+  - first:
+      213: -1925314343395684730
+    second: Minifantasy_MapsForest_3
+  - first:
+      213: 467952134223267144
+    second: Minifantasy_MapsForest_4
+  - first:
+      213: -6495407106018006547
+    second: Minifantasy_MapsForest_5
+  - first:
+      213: 2117654751253192228
+    second: Minifantasy_MapsForest_6
+  - first:
+      213: -8847182316122986154
+    second: Minifantasy_MapsForest_0_0
+  - first:
+      213: -476366629682209692
+    second: Minifantasy_MapsForest_0_1
+  - first:
+      213: 6717974764667000593
+    second: Minifantasy_MapsForest_0_2
+  - first:
+      213: 2505353885814163828
+    second: Minifantasy_MapsForest_0_3
+  - first:
+      213: -3952217949620890895
+    second: Minifantasy_MapsForest_0_4
+  - first:
+      213: 5936025333832444441
+    second: Minifantasy_MapsForest_0_5
+  - first:
+      213: 1087777773119135276
+    second: Minifantasy_MapsForest_0_6
+  - first:
+      213: 6682732875557763324
+    second: Minifantasy_MapsForest_0_7
+  - first:
+      213: -8288975593165974592
+    second: Minifantasy_MapsForest_0_8
+  - first:
+      213: -4598041119112249664
+    second: Minifantasy_MapsForest_1_0
+  - first:
+      213: -1233047927413284416
+    second: Minifantasy_MapsForest_1_1
+  - first:
+      213: 3483596436799923979
+    second: Minifantasy_MapsForest_1_2
+  - first:
+      213: 1698151219551117480
+    second: Minifantasy_MapsForest_1_3
+  - first:
+      213: 2495179630183838406
+    second: Minifantasy_MapsForest_1_4
+  - first:
+      213: 6557236768774611773
+    second: Minifantasy_MapsForest_1_5
+  - first:
+      213: 2869979610274437743
+    second: Minifantasy_MapsForest_1_6
+  - first:
+      213: -5171464394641033423
+    second: Minifantasy_MapsForest_1_7
+  - first:
+      213: 5379841194309281854
+    second: Minifantasy_MapsForest_1_8
+  - first:
+      213: 3068032294593304906
+    second: Minifantasy_MapsForest_2_0
+  - first:
+      213: 1124951525413226012
+    second: Minifantasy_MapsForest_2_1
+  - first:
+      213: 860030309328024394
+    second: Minifantasy_MapsForest_2_2
+  - first:
+      213: -5567472424427155052
+    second: Minifantasy_MapsForest_2_3
+  - first:
+      213: 2886594340789163554
+    second: Minifantasy_MapsForest_2_4
+  - first:
+      213: 7815544027802439353
+    second: Minifantasy_MapsForest_2_5
+  - first:
+      213: -385112402123132845
+    second: Minifantasy_MapsForest_2_6
+  - first:
+      213: 4065607672317243842
+    second: Minifantasy_MapsForest_2_7
+  - first:
+      213: -8827295754089936836
+    second: Minifantasy_MapsForest_2_8
+  - first:
+      213: -3754232185030552082
+    second: Minifantasy_MapsForest_3_0
+  - first:
+      213: -734542463087698172
+    second: Minifantasy_MapsForest_3_1
+  - first:
+      213: -7879255054107546607
+    second: Minifantasy_MapsForest_3_2
+  - first:
+      213: 6829024432590139529
+    second: Minifantasy_MapsForest_3_3
+  - first:
+      213: -3114757411805329717
+    second: Minifantasy_MapsForest_3_4
+  - first:
+      213: 6555943557536894874
+    second: Minifantasy_MapsForest_3_5
+  - first:
+      213: -3595353790941211366
+    second: Minifantasy_MapsForest_3_6
+  - first:
+      213: -3768341561903698406
+    second: Minifantasy_MapsForest_3_7
+  - first:
+      213: 7766041882735517383
+    second: Minifantasy_MapsForest_3_8
+  - first:
+      213: 3686132224488739217
+    second: Minifantasy_MapsForest_4_0
+  - first:
+      213: 377105332817915756
+    second: Minifantasy_MapsForest_4_1
+  - first:
+      213: 3597509709189278391
+    second: Minifantasy_MapsForest_4_2
+  - first:
+      213: 9112866527086609747
+    second: Minifantasy_MapsForest_4_3
+  - first:
+      213: 259019817588552904
+    second: Minifantasy_MapsForest_4_4
+  - first:
+      213: -3064121876765781749
+    second: Minifantasy_MapsForest_4_5
+  - first:
+      213: 2188138118109755211
+    second: Minifantasy_MapsForest_4_6
+  - first:
+      213: 2551446030823987773
+    second: Minifantasy_MapsForest_4_7
+  - first:
+      213: -1260660232904057219
+    second: Minifantasy_MapsForest_4_8
+  - first:
+      213: -326451738213306010
+    second: Minifantasy_MapsForest_5_0
+  - first:
+      213: -1528442099297364386
+    second: Minifantasy_MapsForest_5_1
+  - first:
+      213: 4171816854204223046
+    second: Minifantasy_MapsForest_5_2
+  - first:
+      213: -3617507086168581933
+    second: Minifantasy_MapsForest_5_3
+  - first:
+      213: 5559063927427508453
+    second: Minifantasy_MapsForest_5_4
+  - first:
+      213: -6138217531488337140
+    second: Minifantasy_MapsForest_5_5
+  - first:
+      213: 4297773702703112594
+    second: Minifantasy_MapsForest_5_6
+  - first:
+      213: -3544732503188501489
+    second: Minifantasy_MapsForest_5_7
+  - first:
+      213: 6544134972251629974
+    second: Minifantasy_MapsForest_5_8
+  - first:
+      213: 131093608364445814
+    second: Minifantasy_MapsForest_6_0
+  - first:
+      213: 9217993839709799379
+    second: Minifantasy_MapsForest_6_1
+  - first:
+      213: -5483237115217878354
+    second: Minifantasy_MapsForest_6_2
+  - first:
+      213: 5345499423118341330
+    second: Minifantasy_MapsForest_6_3
+  - first:
+      213: 8283356951367579745
+    second: Minifantasy_MapsForest_6_4
+  - first:
+      213: 6962554890181305702
+    second: Minifantasy_MapsForest_6_5
+  - first:
+      213: 402334220484960856
+    second: Minifantasy_MapsForest_6_6
+  - first:
+      213: 7527497466920447228
+    second: Minifantasy_MapsForest_6_7
+  - first:
+      213: -1333140516277816745
+    second: Minifantasy_MapsForest_6_8
+  - first:
+      213: -2907136208373091418
+    second: Minifantasy_MapsForest_7_0
+  - first:
+      213: 2989988832793460256
+    second: Minifantasy_MapsForest_7_1
+  - first:
+      213: -4079583518549206630
+    second: Minifantasy_MapsForest_7_2
+  - first:
+      213: -8411067992139545672
+    second: Minifantasy_MapsForest_7_3
+  - first:
+      213: -7910858983470215331
+    second: Minifantasy_MapsForest_7_4
+  - first:
+      213: 4074862560121727975
+    second: Minifantasy_MapsForest_7_5
+  - first:
+      213: -8830009621821289590
+    second: Minifantasy_MapsForest_7_6
+  - first:
+      213: -9074002384717331780
+    second: Minifantasy_MapsForest_7_7
+  - first:
+      213: -1345597418645218973
+    second: Minifantasy_MapsForest_7_8
+  - first:
+      213: -162279632928809355
+    second: Minifantasy_MapsForest_8_0
+  - first:
+      213: -440416101569481407
+    second: Minifantasy_MapsForest_8_1
+  - first:
+      213: -6188913027098299805
+    second: Minifantasy_MapsForest_8_2
+  - first:
+      213: -7981585116716366876
+    second: Minifantasy_MapsForest_8_3
+  - first:
+      213: 8983404344530520575
+    second: Minifantasy_MapsForest_8_4
+  - first:
+      213: -73436531987165943
+    second: Minifantasy_MapsForest_8_5
+  - first:
+      213: -8988139307502549520
+    second: Minifantasy_MapsForest_8_6
+  - first:
+      213: -1575754214438781804
+    second: Minifantasy_MapsForest_8_7
+  - first:
+      213: 153988693946155326
+    second: Minifantasy_MapsForest_8_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6592f50de8e783580800000000000000
+      internalID: -8847182316122986154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c11fef21b9369f0800000000000000
+      internalID: -476366629682209692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d302847a0b3d50800000000000000
+      internalID: 6717974764667000593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790990d51ec4c220800000000000000
+      internalID: 2505353885814163828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29cede6b6e629c0800000000000000
+      internalID: -3952217949620890895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a6dc8379ff06250800000000000000
+      internalID: 5936025333832444441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ed4511f10981f00800000000000000
+      internalID: 1087777773119135276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f178c426ddbc50800000000000000
+      internalID: 6682732875557763324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c395796d94a7fc80800000000000000
+      internalID: -8288975593165974592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cebca0b6f97030c0800000000000000
+      internalID: -4598041119112249664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1ef77617553eee0800000000000000
+      internalID: -1233047927413284416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a64c9088385030800000000000000
+      internalID: 3483596436799923979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0ad38798b019710800000000000000
+      internalID: 1698151219551117480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f5e357a8a0a220800000000000000
+      internalID: 2495179630183838406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e0f6791cfffa50800000000000000
+      internalID: 6557236768774611773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a950fef3734d720800000000000000
+      internalID: 2869979610274437743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13737dc58844b38b0800000000000000
+      internalID: -5171464394641033423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3861d6001909aa40800000000000000
+      internalID: 5379841194309281854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4919a6ed17d39a20800000000000000
+      internalID: 3068032294593304906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160acdb371ac9f00800000000000000
+      internalID: 1124951525413226012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f09b72017feb00800000000000000
+      internalID: 860030309328024394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4919c35e35d5cb2b0800000000000000
+      internalID: -5567472424427155052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2261465524e3f0820800000000000000
+      internalID: 2886594340789163554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be079f72e3667c60800000000000000
+      internalID: 7815544027802439353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507ad88f4ec7aaf0800000000000000
+      internalID: -385112402123132845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1729033a0fb6830800000000000000
+      internalID: 4065607672317243842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c72ad7452f7580800000000000000
+      internalID: -8827295754089936836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee55aeee7b946ebc0800000000000000
+      internalID: -3754232185030552082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f973785816ec5f0800000000000000
+      internalID: -734542463087698172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ce73d364347a290800000000000000
+      internalID: -7879255054107546607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980bffa2a8195ce50800000000000000
+      internalID: 6829024432590139529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc604dbf2a826c4d0800000000000000
+      internalID: -3114757411805329717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f4f724ee36bfa50800000000000000
+      internalID: 6555943557536894874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a155811b6ccba1ec0800000000000000
+      internalID: -3595353790941211366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ea362a05924bbc0800000000000000
+      internalID: -3768341561903698406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce914332f586cb60800000000000000
+      internalID: 7766041882735517383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19195cb6ab5c72330800000000000000
+      internalID: 3686132224488739217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f648d5d4fbb3500800000000000000
+      internalID: 377105332817915756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baee34250cece130800000000000000
+      internalID: 3597509709189278391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558b8803d7677e70800000000000000
+      internalID: 9112866527086609747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4f629d629389300800000000000000
+      internalID: 259019817588552904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b015fd2336d0a75d0800000000000000
+      internalID: -3064121876765781749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477c617604dd5e10800000000000000
+      internalID: 2188138118109755211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a18da95ae886320800000000000000
+      internalID: 2551446030823987773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eda4b823c318ee0800000000000000
+      internalID: -1260660232904057219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661bc7bafd5387bf0800000000000000
+      internalID: -326451738213306010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d0ab3202e9cae0800000000000000
+      internalID: -1528442099297364386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e84de535545e930800000000000000
+      internalID: 4171816854204223046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89674b8780ccdc0800000000000000
+      internalID: -3617507086168581933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e821065033c52d40800000000000000
+      internalID: 5559063927427508453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0300914daba0daa0800000000000000
+      internalID: -6138217531488337140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29162aa7962c4ab30800000000000000
+      internalID: 4297773702703112594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0ba3b1949ecec0800000000000000
+      internalID: -3544732503188501489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e44fb51071da50800000000000000
+      internalID: 6544134972251629974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67013e631fcb1d100800000000000000
+      internalID: 131093608364445814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d344a5ee84ecef70800000000000000
+      internalID: 9217993839709799379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2633825e0a7e3b0800000000000000
+      internalID: -5483237115217878354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4360657670f2a40800000000000000
+      internalID: 5345499423118341330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168f60a924564f270800000000000000
+      internalID: 8283356951367579745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6656a6e88c6ff9060800000000000000
+      internalID: 6962554890181305702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526df487d0659500800000000000000
+      internalID: 402334220484960856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2273501b077860800000000000000
+      internalID: 7527497466920447228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752749383cbbf7de0800000000000000
+      internalID: -1333140516277816745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3fe3a6507c7a7d0800000000000000
+      internalID: -2907136208373091418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef90570039e7920800000000000000
+      internalID: 2989988832793460256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99165987686267c0800000000000000
+      internalID: -4079583518549206630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b34dd29932e54b80800000000000000
+      internalID: -8411067992139545672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fcc060babf63290800000000000000
+      internalID: -7910858983470215331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb289ca8e1dc8830800000000000000
+      internalID: 4074862560121727975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8f084801857580800000000000000
+      internalID: -8830009621821289590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb240ef38eaa21280800000000000000
+      internalID: -9074002384717331780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36918fae64a735de0800000000000000
+      internalID: -1345597418645218973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5ffc98877fbdf0800000000000000
+      internalID: -162279632928809355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b69893e353e9f0800000000000000
+      internalID: -440416101569481407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b40264609c1aa0800000000000000
+      internalID: -6188913027098299805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e38395ef96bb3190800000000000000
+      internalID: -7981585116716366876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9417db7a67bac70800000000000000
+      internalID: 8983404344530520575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4e5dfcd91bfef0800000000000000
+      internalID: -73436531987165943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c598cbe6b34380800000000000000
+      internalID: -8988139307502549520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3d0304ebc12ae0800000000000000
+      internalID: -1575754214438781804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsForest_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31461ab6e3132200800000000000000
+      internalID: 153988693946155326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MapsForest_0: -6338941024607939054
+      Minifantasy_MapsForest_0_0: -8847182316122986154
+      Minifantasy_MapsForest_0_1: -476366629682209692
+      Minifantasy_MapsForest_0_2: 6717974764667000593
+      Minifantasy_MapsForest_0_3: 2505353885814163828
+      Minifantasy_MapsForest_0_4: -3952217949620890895
+      Minifantasy_MapsForest_0_5: 5936025333832444441
+      Minifantasy_MapsForest_0_6: 1087777773119135276
+      Minifantasy_MapsForest_0_7: 6682732875557763324
+      Minifantasy_MapsForest_0_8: -8288975593165974592
+      Minifantasy_MapsForest_1: 1752233539568574350
+      Minifantasy_MapsForest_1_0: -4598041119112249664
+      Minifantasy_MapsForest_1_1: -1233047927413284416
+      Minifantasy_MapsForest_1_2: 3483596436799923979
+      Minifantasy_MapsForest_1_3: 1698151219551117480
+      Minifantasy_MapsForest_1_4: 2495179630183838406
+      Minifantasy_MapsForest_1_5: 6557236768774611773
+      Minifantasy_MapsForest_1_6: 2869979610274437743
+      Minifantasy_MapsForest_1_7: -5171464394641033423
+      Minifantasy_MapsForest_1_8: 5379841194309281854
+      Minifantasy_MapsForest_2: 5253241036565749830
+      Minifantasy_MapsForest_2_0: 3068032294593304906
+      Minifantasy_MapsForest_2_1: 1124951525413226012
+      Minifantasy_MapsForest_2_2: 860030309328024394
+      Minifantasy_MapsForest_2_3: -5567472424427155052
+      Minifantasy_MapsForest_2_4: 2886594340789163554
+      Minifantasy_MapsForest_2_5: 7815544027802439353
+      Minifantasy_MapsForest_2_6: -385112402123132845
+      Minifantasy_MapsForest_2_7: 4065607672317243842
+      Minifantasy_MapsForest_2_8: -8827295754089936836
+      Minifantasy_MapsForest_3: -1925314343395684730
+      Minifantasy_MapsForest_3_0: -3754232185030552082
+      Minifantasy_MapsForest_3_1: -734542463087698172
+      Minifantasy_MapsForest_3_2: -7879255054107546607
+      Minifantasy_MapsForest_3_3: 6829024432590139529
+      Minifantasy_MapsForest_3_4: -3114757411805329717
+      Minifantasy_MapsForest_3_5: 6555943557536894874
+      Minifantasy_MapsForest_3_6: -3595353790941211366
+      Minifantasy_MapsForest_3_7: -3768341561903698406
+      Minifantasy_MapsForest_3_8: 7766041882735517383
+      Minifantasy_MapsForest_4: 467952134223267144
+      Minifantasy_MapsForest_4_0: 3686132224488739217
+      Minifantasy_MapsForest_4_1: 377105332817915756
+      Minifantasy_MapsForest_4_2: 3597509709189278391
+      Minifantasy_MapsForest_4_3: 9112866527086609747
+      Minifantasy_MapsForest_4_4: 259019817588552904
+      Minifantasy_MapsForest_4_5: -3064121876765781749
+      Minifantasy_MapsForest_4_6: 2188138118109755211
+      Minifantasy_MapsForest_4_7: 2551446030823987773
+      Minifantasy_MapsForest_4_8: -1260660232904057219
+      Minifantasy_MapsForest_5: -6495407106018006547
+      Minifantasy_MapsForest_5_0: -326451738213306010
+      Minifantasy_MapsForest_5_1: -1528442099297364386
+      Minifantasy_MapsForest_5_2: 4171816854204223046
+      Minifantasy_MapsForest_5_3: -3617507086168581933
+      Minifantasy_MapsForest_5_4: 5559063927427508453
+      Minifantasy_MapsForest_5_5: -6138217531488337140
+      Minifantasy_MapsForest_5_6: 4297773702703112594
+      Minifantasy_MapsForest_5_7: -3544732503188501489
+      Minifantasy_MapsForest_5_8: 6544134972251629974
+      Minifantasy_MapsForest_6: 2117654751253192228
+      Minifantasy_MapsForest_6_0: 131093608364445814
+      Minifantasy_MapsForest_6_1: 9217993839709799379
+      Minifantasy_MapsForest_6_2: -5483237115217878354
+      Minifantasy_MapsForest_6_3: 5345499423118341330
+      Minifantasy_MapsForest_6_4: 8283356951367579745
+      Minifantasy_MapsForest_6_5: 6962554890181305702
+      Minifantasy_MapsForest_6_6: 402334220484960856
+      Minifantasy_MapsForest_6_7: 7527497466920447228
+      Minifantasy_MapsForest_6_8: -1333140516277816745
+      Minifantasy_MapsForest_7_0: -2907136208373091418
+      Minifantasy_MapsForest_7_1: 2989988832793460256
+      Minifantasy_MapsForest_7_2: -4079583518549206630
+      Minifantasy_MapsForest_7_3: -8411067992139545672
+      Minifantasy_MapsForest_7_4: -7910858983470215331
+      Minifantasy_MapsForest_7_5: 4074862560121727975
+      Minifantasy_MapsForest_7_6: -8830009621821289590
+      Minifantasy_MapsForest_7_7: -9074002384717331780
+      Minifantasy_MapsForest_7_8: -1345597418645218973
+      Minifantasy_MapsForest_8_0: -162279632928809355
+      Minifantasy_MapsForest_8_1: -440416101569481407
+      Minifantasy_MapsForest_8_2: -6188913027098299805
+      Minifantasy_MapsForest_8_3: -7981585116716366876
+      Minifantasy_MapsForest_8_4: 8983404344530520575
+      Minifantasy_MapsForest_8_5: -73436531987165943
+      Minifantasy_MapsForest_8_6: -8988139307502549520
+      Minifantasy_MapsForest_8_7: -1575754214438781804
+      Minifantasy_MapsForest_8_8: 153988693946155326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

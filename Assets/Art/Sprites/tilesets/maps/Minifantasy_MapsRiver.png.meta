@@ -1,0 +1,3246 @@
+fileFormatVersion: 2
+guid: 28401aff119c4a74ea82ea6f035aee54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4204462631051054927
+    second: Minifantasy_MapsRiver_0
+  - first:
+      213: -5728937850913487779
+    second: Minifantasy_MapsRiver_1
+  - first:
+      213: 3540924845391664579
+    second: Minifantasy_MapsRiver_2
+  - first:
+      213: -228389287411535421
+    second: Minifantasy_MapsRiver_3
+  - first:
+      213: -2087674277664268125
+    second: Minifantasy_MapsRiver_4
+  - first:
+      213: 2174971696606589568
+    second: Minifantasy_MapsRiver_5
+  - first:
+      213: 8259900369252713312
+    second: Minifantasy_MapsRiver_6
+  - first:
+      213: -3623950535979170966
+    second: Minifantasy_MapsRiver_7
+  - first:
+      213: -1931968942504818565
+    second: Minifantasy_MapsRiver_8
+  - first:
+      213: 8706852483283483713
+    second: Minifantasy_MapsRiver_9
+  - first:
+      213: -3172702352197509522
+    second: Minifantasy_MapsRiver_10
+  - first:
+      213: -1092756877995040842
+    second: Minifantasy_MapsRiver_11
+  - first:
+      213: 6083335428157911466
+    second: Minifantasy_MapsRiver_0_0
+  - first:
+      213: -3333029770900236054
+    second: Minifantasy_MapsRiver_0_1
+  - first:
+      213: 3694179335506914653
+    second: Minifantasy_MapsRiver_0_2
+  - first:
+      213: -5406553802307295292
+    second: Minifantasy_MapsRiver_0_3
+  - first:
+      213: -6538312666209330286
+    second: Minifantasy_MapsRiver_0_4
+  - first:
+      213: 3468290276026774141
+    second: Minifantasy_MapsRiver_0_5
+  - first:
+      213: 6651930099255330674
+    second: Minifantasy_MapsRiver_0_6
+  - first:
+      213: -941004447719374771
+    second: Minifantasy_MapsRiver_0_7
+  - first:
+      213: -1774273021528586052
+    second: Minifantasy_MapsRiver_0_8
+  - first:
+      213: 8585565973689375285
+    second: Minifantasy_MapsRiver_0_9
+  - first:
+      213: 4829114182853827451
+    second: Minifantasy_MapsRiver_0_10
+  - first:
+      213: -4958412425894332808
+    second: Minifantasy_MapsRiver_0_11
+  - first:
+      213: -5774110677788884267
+    second: Minifantasy_MapsRiver_0_12
+  - first:
+      213: 5365337700282615235
+    second: Minifantasy_MapsRiver_1_0
+  - first:
+      213: 2344961143443569663
+    second: Minifantasy_MapsRiver_1_1
+  - first:
+      213: 6655377203550038459
+    second: Minifantasy_MapsRiver_1_2
+  - first:
+      213: 7709970203713214354
+    second: Minifantasy_MapsRiver_1_3
+  - first:
+      213: 8600737629051195892
+    second: Minifantasy_MapsRiver_1_4
+  - first:
+      213: 421766940169650261
+    second: Minifantasy_MapsRiver_1_5
+  - first:
+      213: -6106307664643822468
+    second: Minifantasy_MapsRiver_1_6
+  - first:
+      213: 8711905600381399790
+    second: Minifantasy_MapsRiver_1_7
+  - first:
+      213: -8581691967531581813
+    second: Minifantasy_MapsRiver_1_8
+  - first:
+      213: 488926058677215636
+    second: Minifantasy_MapsRiver_1_9
+  - first:
+      213: 8527503942175726470
+    second: Minifantasy_MapsRiver_1_10
+  - first:
+      213: -35040551078916354
+    second: Minifantasy_MapsRiver_1_11
+  - first:
+      213: -8969002201559776628
+    second: Minifantasy_MapsRiver_1_12
+  - first:
+      213: -6681035213884545997
+    second: Minifantasy_MapsRiver_2_0
+  - first:
+      213: -6274657828635255737
+    second: Minifantasy_MapsRiver_2_1
+  - first:
+      213: 1911289812512802218
+    second: Minifantasy_MapsRiver_2_2
+  - first:
+      213: -8802949045130630373
+    second: Minifantasy_MapsRiver_2_3
+  - first:
+      213: 6839948245645233795
+    second: Minifantasy_MapsRiver_2_4
+  - first:
+      213: 4797925334573431840
+    second: Minifantasy_MapsRiver_2_5
+  - first:
+      213: 3740891160938308311
+    second: Minifantasy_MapsRiver_2_6
+  - first:
+      213: -3970229775174263117
+    second: Minifantasy_MapsRiver_2_7
+  - first:
+      213: -2034011063193871063
+    second: Minifantasy_MapsRiver_2_8
+  - first:
+      213: -7906357362610561713
+    second: Minifantasy_MapsRiver_2_9
+  - first:
+      213: -2018792010721731665
+    second: Minifantasy_MapsRiver_2_10
+  - first:
+      213: 2725674809685690221
+    second: Minifantasy_MapsRiver_2_11
+  - first:
+      213: -3752017181154778168
+    second: Minifantasy_MapsRiver_2_12
+  - first:
+      213: -7534587229138152392
+    second: Minifantasy_MapsRiver_3_0
+  - first:
+      213: -2549569279508686513
+    second: Minifantasy_MapsRiver_3_1
+  - first:
+      213: 4345065033588340670
+    second: Minifantasy_MapsRiver_3_2
+  - first:
+      213: -3635100521322388884
+    second: Minifantasy_MapsRiver_3_3
+  - first:
+      213: 8914974405716158005
+    second: Minifantasy_MapsRiver_3_4
+  - first:
+      213: -1513612891836062371
+    second: Minifantasy_MapsRiver_3_5
+  - first:
+      213: 3999651300555352363
+    second: Minifantasy_MapsRiver_3_6
+  - first:
+      213: 1969582854424554498
+    second: Minifantasy_MapsRiver_3_7
+  - first:
+      213: -6475067767733396070
+    second: Minifantasy_MapsRiver_3_8
+  - first:
+      213: -6215189176251530035
+    second: Minifantasy_MapsRiver_3_9
+  - first:
+      213: 4500897606739121031
+    second: Minifantasy_MapsRiver_3_10
+  - first:
+      213: -849724848831873826
+    second: Minifantasy_MapsRiver_3_11
+  - first:
+      213: 4291470536888826951
+    second: Minifantasy_MapsRiver_3_12
+  - first:
+      213: 3769503541492602284
+    second: Minifantasy_MapsRiver_4_0
+  - first:
+      213: 4776931687446823298
+    second: Minifantasy_MapsRiver_4_1
+  - first:
+      213: -9203020171324309327
+    second: Minifantasy_MapsRiver_4_2
+  - first:
+      213: 389702958169193515
+    second: Minifantasy_MapsRiver_4_3
+  - first:
+      213: -8892718842083417339
+    second: Minifantasy_MapsRiver_4_4
+  - first:
+      213: -5144886637255477663
+    second: Minifantasy_MapsRiver_4_5
+  - first:
+      213: 3411619165190367759
+    second: Minifantasy_MapsRiver_4_6
+  - first:
+      213: -4490391525035050498
+    second: Minifantasy_MapsRiver_4_7
+  - first:
+      213: -4649752240865370681
+    second: Minifantasy_MapsRiver_4_8
+  - first:
+      213: -1467309176943837309
+    second: Minifantasy_MapsRiver_4_9
+  - first:
+      213: -2622092788708526549
+    second: Minifantasy_MapsRiver_4_10
+  - first:
+      213: -3456959979319307411
+    second: Minifantasy_MapsRiver_4_11
+  - first:
+      213: 7449051308712947285
+    second: Minifantasy_MapsRiver_4_12
+  - first:
+      213: -221657255690744532
+    second: Minifantasy_MapsRiver_5_0
+  - first:
+      213: -4884968517192290992
+    second: Minifantasy_MapsRiver_5_1
+  - first:
+      213: -3738548244740054444
+    second: Minifantasy_MapsRiver_5_2
+  - first:
+      213: -8625576935578032545
+    second: Minifantasy_MapsRiver_5_3
+  - first:
+      213: 494562950364010818
+    second: Minifantasy_MapsRiver_5_4
+  - first:
+      213: 930045937630727651
+    second: Minifantasy_MapsRiver_5_5
+  - first:
+      213: 4000724057061763478
+    second: Minifantasy_MapsRiver_5_6
+  - first:
+      213: 1219756281990919866
+    second: Minifantasy_MapsRiver_5_7
+  - first:
+      213: -4333844279066573170
+    second: Minifantasy_MapsRiver_5_8
+  - first:
+      213: 706916399616761393
+    second: Minifantasy_MapsRiver_5_9
+  - first:
+      213: -8190383055870273576
+    second: Minifantasy_MapsRiver_5_10
+  - first:
+      213: -7347004715881088577
+    second: Minifantasy_MapsRiver_5_11
+  - first:
+      213: 3699320814529068063
+    second: Minifantasy_MapsRiver_5_12
+  - first:
+      213: 5033287707586996930
+    second: Minifantasy_MapsRiver_6_0
+  - first:
+      213: -6275184945599298921
+    second: Minifantasy_MapsRiver_6_1
+  - first:
+      213: -873626068487783888
+    second: Minifantasy_MapsRiver_6_2
+  - first:
+      213: 3859194608105215197
+    second: Minifantasy_MapsRiver_6_3
+  - first:
+      213: 1036693558953121202
+    second: Minifantasy_MapsRiver_6_4
+  - first:
+      213: -2149422710601216266
+    second: Minifantasy_MapsRiver_6_5
+  - first:
+      213: -1584890363808486686
+    second: Minifantasy_MapsRiver_6_6
+  - first:
+      213: 4715795923379637899
+    second: Minifantasy_MapsRiver_6_7
+  - first:
+      213: -8005549339535608165
+    second: Minifantasy_MapsRiver_6_8
+  - first:
+      213: 8870038841094513237
+    second: Minifantasy_MapsRiver_6_9
+  - first:
+      213: -1231477324427219013
+    second: Minifantasy_MapsRiver_6_10
+  - first:
+      213: 6879906046804901513
+    second: Minifantasy_MapsRiver_6_11
+  - first:
+      213: 2080596278591758373
+    second: Minifantasy_MapsRiver_6_12
+  - first:
+      213: -7369810809815268902
+    second: Minifantasy_MapsRiver_7_0
+  - first:
+      213: -8929572028908142009
+    second: Minifantasy_MapsRiver_7_1
+  - first:
+      213: 7499130190612629902
+    second: Minifantasy_MapsRiver_7_2
+  - first:
+      213: -6161961579421302370
+    second: Minifantasy_MapsRiver_7_3
+  - first:
+      213: 2217713412489500958
+    second: Minifantasy_MapsRiver_7_4
+  - first:
+      213: -6128754125661044301
+    second: Minifantasy_MapsRiver_7_5
+  - first:
+      213: 6325672746416893648
+    second: Minifantasy_MapsRiver_7_6
+  - first:
+      213: -5496791019341277327
+    second: Minifantasy_MapsRiver_7_7
+  - first:
+      213: -7365351611068224067
+    second: Minifantasy_MapsRiver_7_8
+  - first:
+      213: -2606942154863884268
+    second: Minifantasy_MapsRiver_7_9
+  - first:
+      213: -4875871167237659136
+    second: Minifantasy_MapsRiver_7_10
+  - first:
+      213: -1446248598129020237
+    second: Minifantasy_MapsRiver_7_11
+  - first:
+      213: -4372040812457388671
+    second: Minifantasy_MapsRiver_7_12
+  - first:
+      213: -4273215344168458802
+    second: Minifantasy_MapsRiver_8_0
+  - first:
+      213: 8756907789781870354
+    second: Minifantasy_MapsRiver_8_1
+  - first:
+      213: -8014791821139911805
+    second: Minifantasy_MapsRiver_8_2
+  - first:
+      213: 2762346104571875866
+    second: Minifantasy_MapsRiver_8_3
+  - first:
+      213: 1038485228885431900
+    second: Minifantasy_MapsRiver_8_4
+  - first:
+      213: 2283602272245237986
+    second: Minifantasy_MapsRiver_8_5
+  - first:
+      213: 1861614901153518425
+    second: Minifantasy_MapsRiver_8_6
+  - first:
+      213: 2489172288438899607
+    second: Minifantasy_MapsRiver_8_7
+  - first:
+      213: 8788922095255884544
+    second: Minifantasy_MapsRiver_8_8
+  - first:
+      213: -8908700611260559316
+    second: Minifantasy_MapsRiver_8_9
+  - first:
+      213: -8230031554951240503
+    second: Minifantasy_MapsRiver_8_10
+  - first:
+      213: 1370051424674968220
+    second: Minifantasy_MapsRiver_8_11
+  - first:
+      213: -6615753339655184484
+    second: Minifantasy_MapsRiver_8_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1b6ec47595c6450800000000000000
+      internalID: 6083335428157911466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae890bf1513beb1d0800000000000000
+      internalID: -3333029770900236054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6a75788c544330800000000000000
+      internalID: 3694179335506914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7af6246ff08f4b0800000000000000
+      internalID: -5406553802307295292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bd724854f3345a0800000000000000
+      internalID: -6538312666209330286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72748851a7d12030800000000000000
+      internalID: 3468290276026774141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c7dc8e27605c50800000000000000
+      internalID: 6651930099255330674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40cf91c071e0f2f0800000000000000
+      internalID: -941004447719374771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ca3166148067e0800000000000000
+      internalID: -1774273021528586052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9f69c3ce062770800000000000000
+      internalID: 8585565973689375285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b9dc873c5740340800000000000000
+      internalID: 4829114182853827451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767fa06b2e203bb0800000000000000
+      internalID: -4958412425894332808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28a9c5eec3edfa0800000000000000
+      internalID: -5774110677788884267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c54b5d2632857a40800000000000000
+      internalID: 5365337700282615235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb3c0f5cb9fa8020800000000000000
+      internalID: 2344961143443569663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb925df0e46ac5c50800000000000000
+      internalID: 6655377203550038459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971c251d015ffa60800000000000000
+      internalID: 7709970203713214354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19ee11e45fb5770800000000000000
+      internalID: 8600737629051195892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550c0d62cca6ad500800000000000000
+      internalID: 421766940169650261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce8a71889024ba0800000000000000
+      internalID: -6106307664643822468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee238736cf7e6e870800000000000000
+      internalID: 8711905600381399790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef47f8f94b7e880800000000000000
+      internalID: -8581691967531581813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49123e0f8a309c600800000000000000
+      internalID: 488926058677215636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b902e97a7c75670800000000000000
+      internalID: 8527503942175726470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0530fdc2838ff0800000000000000
+      internalID: -35040551078916354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82455a7404b78380800000000000000
+      internalID: -8969002201559776628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342980eed13843a0800000000000000
+      internalID: -6681035213884545997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c521d03ffebe8a0800000000000000
+      internalID: -6274657828635255737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa506a145f3468a10800000000000000
+      internalID: 1911289812512802218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bef15cb74a5d580800000000000000
+      internalID: -8802949045130630373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e8db790b06cee50800000000000000
+      internalID: 6839948245645233795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cb81adba7a59240800000000000000
+      internalID: 4797925334573431840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26027d0b05ae330800000000000000
+      internalID: 3740891160938308311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be1f0efd09e6e8c0800000000000000
+      internalID: -3970229775174263117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5d15f6bdb5c3e0800000000000000
+      internalID: -2034011063193871063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d9d4e4ed9f64290800000000000000
+      internalID: -7906357362610561713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd88dbc5fcbf3e0800000000000000
+      internalID: -2018792010721731665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67cb845cca83d520800000000000000
+      internalID: 2725674809685690221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36b16b0482eebc0800000000000000
+      internalID: -3752017181154778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349606c5d4cf6790800000000000000
+      internalID: -7534587229138152392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d2ac9f3c1e9cd0800000000000000
+      internalID: -2549569279508686513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f00d70a5cc4c30800000000000000
+      internalID: 4345065033588340670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62edbfd5578d8dc0800000000000000
+      internalID: -3635100521322388884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536296a0df958bb70800000000000000
+      internalID: 8914974405716158005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e8a628119efae0800000000000000
+      internalID: -1513612891836062371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e703baad918730800000000000000
+      internalID: 3999651300555352363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ceca9bb2d555b10800000000000000
+      internalID: 1969582854424554498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5bafeb20f326a0800000000000000
+      internalID: -6475067767733396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4cca9af563fb9a0800000000000000
+      internalID: -6215189176251530035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783571cc686667e30800000000000000
+      internalID: 4500897606739121031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbd8480cb2534f0800000000000000
+      internalID: -849724848831873826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c305357bd5e8b30800000000000000
+      internalID: 4291470536888826951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55e32df77ff4430800000000000000
+      internalID: 3769503541492602284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281439a7f021b4240800000000000000
+      internalID: 4776931687446823298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c573f9ed484080800000000000000
+      internalID: -9203020171324309327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf79596c0886500800000000000000
+      internalID: 389702958169193515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e13a2457b69480800000000000000
+      internalID: -8892718842083417339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166bbb8bcd0b998b0800000000000000
+      internalID: -5144886637255477663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a26122e81885f20800000000000000
+      internalID: 3411619165190367759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef97cd7f2bceea1c0800000000000000
+      internalID: -4490391525035050498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd94ade8f2c87fb0800000000000000
+      internalID: -4649752240865370681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f7794e31213abe0800000000000000
+      internalID: -1467309176943837309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263ae840847c9bd0800000000000000
+      internalID: -2622092788708526549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d635eede6396600d0800000000000000
+      internalID: -3456959979319307411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e6e71d2b8506760800000000000000
+      internalID: 7449051308712947285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d4aac76e38cecf0800000000000000
+      internalID: -221657255690744532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d69c9e30b153cb0800000000000000
+      internalID: -4884968517192290992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452eb98dd220e1cc0800000000000000
+      internalID: -3738548244740054444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a1143a7bcb4880800000000000000
+      internalID: -8625576935578032545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249148f026a0dd600800000000000000
+      internalID: 494562950364010818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed46494adf28ec00800000000000000
+      internalID: 930045937630727651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699a689455d658730800000000000000
+      internalID: 4000724057061763478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6be9c30e17de010800000000000000
+      internalID: 1219756281990919866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86c06207971bd3c0800000000000000
+      internalID: -4333844279066573170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e1e0558b87fc900800000000000000
+      internalID: 706916399616761393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75974510ae55e80800000000000000
+      internalID: -8190383055870273576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b9c213223a0a90800000000000000
+      internalID: -7347004715881088577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_5_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cb6345ea0a65330800000000000000
+      internalID: 3699320814529068063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca2017a084d9d540800000000000000
+      internalID: 5033287707586996930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792cca11a801ae8a0800000000000000
+      internalID: -6275184945599298921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ab34928b140e3f0800000000000000
+      internalID: -873626068487783888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d6379c0d9e8530800000000000000
+      internalID: 3859194608105215197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5165a9c43136e00800000000000000
+      internalID: 1036693558953121202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe057ece67bb22e0800000000000000
+      internalID: -2149422710601216266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea61497c96510ae0800000000000000
+      internalID: -1584890363808486686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e474e286fd17140800000000000000
+      internalID: 4715795923379637899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96fd197a4396e090800000000000000
+      internalID: -8005549339535608165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5522b5b9455b81b70800000000000000
+      internalID: 8870038841094513237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2198e5e9e8eee0800000000000000
+      internalID: -1231477324427219013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e3ed729165a7f50800000000000000
+      internalID: 6879906046804901513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520267aba43cfdc10800000000000000
+      internalID: 2080596278591758373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1802b8d1c29b990800000000000000
+      internalID: -7369810809815268902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7428aa4fc89c31480800000000000000
+      internalID: -8929572028908142009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898fdf1d23421860800000000000000
+      internalID: 7499130190612629902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e910dfa47905c7aa0800000000000000
+      internalID: -6161961579421302370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195e054996e6ce10800000000000000
+      internalID: 2217713412489500958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18340289a42faa0800000000000000
+      internalID: -6128754125661044301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6c8719dd49c750800000000000000
+      internalID: 6325672746416893648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1771b9fe0b977b3b0800000000000000
+      internalID: -5496791019341277327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6d68abb309c990800000000000000
+      internalID: -7365351611068224067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c85d1ce742dbd0800000000000000
+      internalID: -2606942154863884268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ea32c10d655cb0800000000000000
+      internalID: -4875871167237659136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2fc930094edebe0800000000000000
+      internalID: -1446248598129020237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_7_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18597fd8b046353c0800000000000000
+      internalID: -4372040812457388671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52712f84d72b4c0800000000000000
+      internalID: -4273215344168458802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217accc1d39c68970800000000000000
+      internalID: 8756907789781870354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bdf388d4db5c090800000000000000
+      internalID: -8014791821139911805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d0b58523d55620800000000000000
+      internalID: 2762346104571875866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d43440d0796e00800000000000000
+      internalID: 1038485228885431900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8c375ea2cf0bf10800000000000000
+      internalID: 2283602272245237986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95354dba3e8c5d910800000000000000
+      internalID: 1861614901153518425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793952512015b8220800000000000000
+      internalID: 2489172288438899607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031f46741688f970800000000000000
+      internalID: 8788922095255884544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20528f8effed5480800000000000000
+      internalID: -8908700611260559316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c420e4c7ed09cd80800000000000000
+      internalID: -8230031554951240503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92f4cb0386630310800000000000000
+      internalID: 1370051424674968220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MapsRiver_8_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9f3ca36f1034a0800000000000000
+      internalID: -6615753339655184484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MapsRiver_0: -4204462631051054927
+      Minifantasy_MapsRiver_0_0: 6083335428157911466
+      Minifantasy_MapsRiver_0_1: -3333029770900236054
+      Minifantasy_MapsRiver_0_10: 4829114182853827451
+      Minifantasy_MapsRiver_0_11: -4958412425894332808
+      Minifantasy_MapsRiver_0_12: -5774110677788884267
+      Minifantasy_MapsRiver_0_2: 3694179335506914653
+      Minifantasy_MapsRiver_0_3: -5406553802307295292
+      Minifantasy_MapsRiver_0_4: -6538312666209330286
+      Minifantasy_MapsRiver_0_5: 3468290276026774141
+      Minifantasy_MapsRiver_0_6: 6651930099255330674
+      Minifantasy_MapsRiver_0_7: -941004447719374771
+      Minifantasy_MapsRiver_0_8: -1774273021528586052
+      Minifantasy_MapsRiver_0_9: 8585565973689375285
+      Minifantasy_MapsRiver_1: -5728937850913487779
+      Minifantasy_MapsRiver_10: -3172702352197509522
+      Minifantasy_MapsRiver_11: -1092756877995040842
+      Minifantasy_MapsRiver_1_0: 5365337700282615235
+      Minifantasy_MapsRiver_1_1: 2344961143443569663
+      Minifantasy_MapsRiver_1_10: 8527503942175726470
+      Minifantasy_MapsRiver_1_11: -35040551078916354
+      Minifantasy_MapsRiver_1_12: -8969002201559776628
+      Minifantasy_MapsRiver_1_2: 6655377203550038459
+      Minifantasy_MapsRiver_1_3: 7709970203713214354
+      Minifantasy_MapsRiver_1_4: 8600737629051195892
+      Minifantasy_MapsRiver_1_5: 421766940169650261
+      Minifantasy_MapsRiver_1_6: -6106307664643822468
+      Minifantasy_MapsRiver_1_7: 8711905600381399790
+      Minifantasy_MapsRiver_1_8: -8581691967531581813
+      Minifantasy_MapsRiver_1_9: 488926058677215636
+      Minifantasy_MapsRiver_2: 3540924845391664579
+      Minifantasy_MapsRiver_2_0: -6681035213884545997
+      Minifantasy_MapsRiver_2_1: -6274657828635255737
+      Minifantasy_MapsRiver_2_10: -2018792010721731665
+      Minifantasy_MapsRiver_2_11: 2725674809685690221
+      Minifantasy_MapsRiver_2_12: -3752017181154778168
+      Minifantasy_MapsRiver_2_2: 1911289812512802218
+      Minifantasy_MapsRiver_2_3: -8802949045130630373
+      Minifantasy_MapsRiver_2_4: 6839948245645233795
+      Minifantasy_MapsRiver_2_5: 4797925334573431840
+      Minifantasy_MapsRiver_2_6: 3740891160938308311
+      Minifantasy_MapsRiver_2_7: -3970229775174263117
+      Minifantasy_MapsRiver_2_8: -2034011063193871063
+      Minifantasy_MapsRiver_2_9: -7906357362610561713
+      Minifantasy_MapsRiver_3: -228389287411535421
+      Minifantasy_MapsRiver_3_0: -7534587229138152392
+      Minifantasy_MapsRiver_3_1: -2549569279508686513
+      Minifantasy_MapsRiver_3_10: 4500897606739121031
+      Minifantasy_MapsRiver_3_11: -849724848831873826
+      Minifantasy_MapsRiver_3_12: 4291470536888826951
+      Minifantasy_MapsRiver_3_2: 4345065033588340670
+      Minifantasy_MapsRiver_3_3: -3635100521322388884
+      Minifantasy_MapsRiver_3_4: 8914974405716158005
+      Minifantasy_MapsRiver_3_5: -1513612891836062371
+      Minifantasy_MapsRiver_3_6: 3999651300555352363
+      Minifantasy_MapsRiver_3_7: 1969582854424554498
+      Minifantasy_MapsRiver_3_8: -6475067767733396070
+      Minifantasy_MapsRiver_3_9: -6215189176251530035
+      Minifantasy_MapsRiver_4: -2087674277664268125
+      Minifantasy_MapsRiver_4_0: 3769503541492602284
+      Minifantasy_MapsRiver_4_1: 4776931687446823298
+      Minifantasy_MapsRiver_4_10: -2622092788708526549
+      Minifantasy_MapsRiver_4_11: -3456959979319307411
+      Minifantasy_MapsRiver_4_12: 7449051308712947285
+      Minifantasy_MapsRiver_4_2: -9203020171324309327
+      Minifantasy_MapsRiver_4_3: 389702958169193515
+      Minifantasy_MapsRiver_4_4: -8892718842083417339
+      Minifantasy_MapsRiver_4_5: -5144886637255477663
+      Minifantasy_MapsRiver_4_6: 3411619165190367759
+      Minifantasy_MapsRiver_4_7: -4490391525035050498
+      Minifantasy_MapsRiver_4_8: -4649752240865370681
+      Minifantasy_MapsRiver_4_9: -1467309176943837309
+      Minifantasy_MapsRiver_5: 2174971696606589568
+      Minifantasy_MapsRiver_5_0: -221657255690744532
+      Minifantasy_MapsRiver_5_1: -4884968517192290992
+      Minifantasy_MapsRiver_5_10: -8190383055870273576
+      Minifantasy_MapsRiver_5_11: -7347004715881088577
+      Minifantasy_MapsRiver_5_12: 3699320814529068063
+      Minifantasy_MapsRiver_5_2: -3738548244740054444
+      Minifantasy_MapsRiver_5_3: -8625576935578032545
+      Minifantasy_MapsRiver_5_4: 494562950364010818
+      Minifantasy_MapsRiver_5_5: 930045937630727651
+      Minifantasy_MapsRiver_5_6: 4000724057061763478
+      Minifantasy_MapsRiver_5_7: 1219756281990919866
+      Minifantasy_MapsRiver_5_8: -4333844279066573170
+      Minifantasy_MapsRiver_5_9: 706916399616761393
+      Minifantasy_MapsRiver_6: 8259900369252713312
+      Minifantasy_MapsRiver_6_0: 5033287707586996930
+      Minifantasy_MapsRiver_6_1: -6275184945599298921
+      Minifantasy_MapsRiver_6_10: -1231477324427219013
+      Minifantasy_MapsRiver_6_11: 6879906046804901513
+      Minifantasy_MapsRiver_6_12: 2080596278591758373
+      Minifantasy_MapsRiver_6_2: -873626068487783888
+      Minifantasy_MapsRiver_6_3: 3859194608105215197
+      Minifantasy_MapsRiver_6_4: 1036693558953121202
+      Minifantasy_MapsRiver_6_5: -2149422710601216266
+      Minifantasy_MapsRiver_6_6: -1584890363808486686
+      Minifantasy_MapsRiver_6_7: 4715795923379637899
+      Minifantasy_MapsRiver_6_8: -8005549339535608165
+      Minifantasy_MapsRiver_6_9: 8870038841094513237
+      Minifantasy_MapsRiver_7: -3623950535979170966
+      Minifantasy_MapsRiver_7_0: -7369810809815268902
+      Minifantasy_MapsRiver_7_1: -8929572028908142009
+      Minifantasy_MapsRiver_7_10: -4875871167237659136
+      Minifantasy_MapsRiver_7_11: -1446248598129020237
+      Minifantasy_MapsRiver_7_12: -4372040812457388671
+      Minifantasy_MapsRiver_7_2: 7499130190612629902
+      Minifantasy_MapsRiver_7_3: -6161961579421302370
+      Minifantasy_MapsRiver_7_4: 2217713412489500958
+      Minifantasy_MapsRiver_7_5: -6128754125661044301
+      Minifantasy_MapsRiver_7_6: 6325672746416893648
+      Minifantasy_MapsRiver_7_7: -5496791019341277327
+      Minifantasy_MapsRiver_7_8: -7365351611068224067
+      Minifantasy_MapsRiver_7_9: -2606942154863884268
+      Minifantasy_MapsRiver_8: -1931968942504818565
+      Minifantasy_MapsRiver_8_0: -4273215344168458802
+      Minifantasy_MapsRiver_8_1: 8756907789781870354
+      Minifantasy_MapsRiver_8_10: -8230031554951240503
+      Minifantasy_MapsRiver_8_11: 1370051424674968220
+      Minifantasy_MapsRiver_8_12: -6615753339655184484
+      Minifantasy_MapsRiver_8_2: -8014791821139911805
+      Minifantasy_MapsRiver_8_3: 2762346104571875866
+      Minifantasy_MapsRiver_8_4: 1038485228885431900
+      Minifantasy_MapsRiver_8_5: 2283602272245237986
+      Minifantasy_MapsRiver_8_6: 1861614901153518425
+      Minifantasy_MapsRiver_8_7: 2489172288438899607
+      Minifantasy_MapsRiver_8_8: 8788922095255884544
+      Minifantasy_MapsRiver_8_9: -8908700611260559316
+      Minifantasy_MapsRiver_9: 8706852483283483713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

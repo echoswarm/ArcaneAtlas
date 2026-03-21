@@ -152,6 +152,19 @@ namespace ArcaneAtlas.Editor
             var plxEarth = CreateParallaxQuadrant("Quad_Earth", bg.transform,
                 new Vector2(0.5f, 0f),   new Vector2(1f,   0.5f));
 
+            // Full-screen showcase overlay — sits above BG_Title (index 1) but below Logo
+            // and ButtonGroup so title text and buttons always render on top.
+            // Inactive by default; TitleScreenBiomeShowcase activates it per cycle.
+            var overlayGo = new GameObject("Showcase_Overlay", typeof(RectTransform));
+            overlayGo.transform.SetParent(root.transform, false);
+            var overlayRt = overlayGo.GetComponent<RectTransform>();
+            overlayRt.anchorMin = Vector2.zero;
+            overlayRt.anchorMax = Vector2.one;
+            overlayRt.offsetMin = overlayRt.offsetMax = Vector2.zero;
+            overlayGo.AddComponent<RectMask2D>();
+            var overlayCtrl = overlayGo.AddComponent<ParallaxBackgroundController>();
+            overlayGo.SetActive(false);
+
             var logo = CreateTMP("Logo", root.transform, "ARCANE ATLAS", 72f, ElementColors.Gold,
                 TextAlignmentOptions.Center, FontStyles.Bold);
             var logoRT = logo.GetComponent<RectTransform>();
@@ -214,6 +227,7 @@ namespace ArcaneAtlas.Editor
 
             // Biome showcase — cycles quadrants to full-screen in order: Fire→Earth→Water→Wind
             var showcase = root.AddComponent<TitleScreenBiomeShowcase>();
+            showcase.overlay = overlayCtrl;
             showcase.showcaseOrder = new ParallaxBackgroundController[]
             {
                 plxFire,   // VolcanicWastes

@@ -100,6 +100,9 @@ namespace ArcaneAtlas.UI
                 LoadConfig(cfg);
         }
 
+        /// <summary>The currently active biome config, or null if none loaded.</summary>
+        public ParallaxBiomeConfig ActiveConfig => _active;
+
         /// <summary>Pauses or resumes scrolling without destroying layers.</summary>
         public void SetPlaying(bool playing) => _playing = playing;
 

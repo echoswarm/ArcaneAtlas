@@ -65,20 +65,10 @@ namespace ArcaneAtlas.UI
                     continue;
                 }
 
-                // Load this biome into the full-screen overlay.
-                // overlay is always 1920×1080, so BuildLayers sizes layers correctly.
-                overlay.LoadConfig(ctrl.ActiveConfig);
-                overlay.SetDim(0f);
-
-                // Compute RectMask2D padding that clips the overlay to exactly the
-                // same area as the source quadrant occupies on screen.
+                // Compute padding before activating anything.
                 // Formula: padding = (left, bottom, right, top) in canvas units.
-                //   left   = anchorMin.x * fullW   (shrink from left  to quadrant's left edge)
-                //   bottom = anchorMin.y * fullH   (shrink from bottom to quadrant's bottom edge)
-                //   right  = (1-anchorMax.x) * fullW
-                //   top    = (1-anchorMax.y) * fullH
                 // Since BG_Title fills Screen_MainMenu identically, the quadrant's
-                // anchor values are equivalent in both coordinate spaces.
+                // anchor values describe the same area in both coordinate spaces.
                 var quadRt  = ctrl.GetComponent<RectTransform>();
                 float fullW = Mathf.Max(parentRt.rect.width,  1920f);
                 float fullH = Mathf.Max(parentRt.rect.height, 1080f);
@@ -89,21 +79,31 @@ namespace ArcaneAtlas.UI
                     (1f - quadRt.anchorMax.x)        * fullW,   // right
                     (1f - quadRt.anchorMax.y)        * fullH);  // top
 
+                // Activate the overlay BEFORE LoadConfig so that rt.rect.width is
+                // guaranteed to be 1920 (from Canvas layout) when BuildLayers runs.
+                // No layers exist yet so there is nothing to render — no flash.
                 mask.padding = quadPadding;
                 overlay.gameObject.SetActive(true);
+                yield return null; // Canvas layout settles → rt.rect.width = 1920
+
+                // BuildLayers now sees the correct full-screen dimensions.
+                // Foreground layers get sizeDelta.y = tex.h/tex.w * 1920 (native aspect
+                // ratio at full width), sky layer stretches to fill — identical logic
+                // to the quadrant controllers, just at full-screen resolution.
+                overlay.LoadConfig(ctrl.ActiveConfig);
+                overlay.SetDim(0f);
                 overlay.SetPlaying(true);
                 _showing = true;
 
-                // One frame: Canvas layout settles, parallax UV lazy-init runs.
-                yield return null;
+                yield return null; // UV lazy-init runs in ParallaxBackgroundController.Update()
 
                 // Expand: grow the visible window from the quadrant area to full screen.
                 yield return TweenPadding(mask, quadPadding, Vector4.zero, expandDuration);
 
                 yield return new WaitForSeconds(holdDuration);
 
-                // Shrink: the window shrinks back to the quadrant area.
-                // Content stays at full 1920×1080 — only the viewport clips.
+                // Shrink: window clips back to the quadrant area.
+                // Content stays at full 1920×1080 — only the viewport changes.
                 yield return TweenPadding(mask, Vector4.zero, quadPadding, shrinkDuration);
 
                 overlay.SetPlaying(false);

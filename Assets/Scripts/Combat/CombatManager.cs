@@ -201,7 +201,8 @@ namespace ArcaneAtlas.Combat
         public void StartBattle()
         {
             currentPhase = CombatPhase.Battle;
-            nextAttackerIndex = 0;
+            playerAttackerIndex = 0;
+            opponentAttackerIndex = 0;
             StartCoroutine(ResolveBattle());
         }
 
@@ -228,7 +229,7 @@ namespace ArcaneAtlas.Combat
                 if (playerTurn)
                 {
                     // Find next living player unit to attack
-                    int attackerSlot = FindNextAttacker(playerBoard);
+                    int attackerSlot = FindNextAttacker(playerBoard, ref playerAttackerIndex);
                     if (attackerSlot >= 0)
                     {
                         int targetSlot = FindTargetSlot(opponentBoard);
@@ -243,7 +244,7 @@ namespace ArcaneAtlas.Combat
                 else
                 {
                     // Find next living opponent unit to attack
-                    int attackerSlot = FindNextAttacker(opponentBoard);
+                    int attackerSlot = FindNextAttacker(opponentBoard, ref opponentAttackerIndex);
                     if (attackerSlot >= 0)
                     {
                         int targetSlot = FindTargetSlot(playerBoard);
@@ -392,17 +393,19 @@ namespace ArcaneAtlas.Combat
             return false;
         }
 
-        private int nextAttackerIndex = 0;
+        private int playerAttackerIndex = 0;
+        private int opponentAttackerIndex = 0;
 
         /// <summary>
         /// Round-robin attacker selection. Each call picks the next living unit.
+        /// Uses a per-side index so player and opponent cycle independently.
         /// </summary>
-        private int FindNextAttacker(CardInstance[] board)
+        private int FindNextAttacker(CardInstance[] board, ref int index)
         {
             for (int tries = 0; tries < 5; tries++)
             {
-                int slot = nextAttackerIndex % 5;
-                nextAttackerIndex++;
+                int slot = index % 5;
+                index++;
                 if (board[slot] != null && board[slot].CurrentHealth > 0)
                     return slot;
             }
@@ -512,6 +515,28 @@ namespace ArcaneAtlas.Combat
                 // Boss always drops a pack
                 lastReward = RewardType.Pack;
                 GameState.Packs++;
+
+                // Pity roll: track defeats and increase legendary card drop chance over time
+                string bossName = opponent.Name;
+                if (!GameState.BossDefeatCounts.ContainsKey(bossName))
+                    GameState.BossDefeatCounts[bossName] = 0;
+                GameState.BossDefeatCounts[bossName]++;
+
+                int defeats = GameState.BossDefeatCounts[bossName];
+                float pityChance = GameState.PITY_BASE_CHANCE;
+                if (defeats > GameState.PITY_THRESHOLD)
+                    pityChance += (defeats - GameState.PITY_THRESHOLD) * GameState.PITY_INCREMENT;
+                pityChance = Mathf.Min(pityChance, GameState.PITY_MAX_CHANCE);
+
+                if (!string.IsNullOrEmpty(opponent.BossCardName) && Random.value < pityChance)
+                {
+                    var legendaryCard = CardDatabase.GetAllCards().Find(c => c.CardName == opponent.BossCardName);
+                    if (legendaryCard != null)
+                    {
+                        PlayerCollection.AddCard(legendaryCard);
+                        GameState.BossDefeatCounts[bossName] = 0; // Reset pity on legendary drop
+                    }
+                }
                 return;
             }
 

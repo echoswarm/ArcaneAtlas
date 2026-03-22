@@ -64,6 +64,9 @@ namespace ArcaneAtlas.UI
         // Pool viewer overlay
         private GameObject poolPanel;
 
+        // Pause overlay
+        private GameObject pausePanel;
+
         void Start()
         {
             btnBattle.onClick.AddListener(() => CombatManager.Instance?.StartBattle());
@@ -117,6 +120,8 @@ namespace ArcaneAtlas.UI
         {
             if (parallaxBackground != null)
                 parallaxBackground.SetPlaying(false);
+
+            if (pausePanel != null) { Destroy(pausePanel); pausePanel = null; }
         }
 
         public void SetPhaseLayout(CombatPhase phase)
@@ -1308,6 +1313,99 @@ namespace ArcaneAtlas.UI
             summaryRT.anchorMin = new Vector2(0.1f, 0.01f);
             summaryRT.anchorMax = new Vector2(0.9f, 0.05f);
             summaryRT.offsetMin = summaryRT.offsetMax = Vector2.zero;
+        }
+
+        // ── Pause Overlay ──
+
+        public void ShowPauseOverlay()
+        {
+            if (pausePanel != null) return;
+
+            var canvas = GetComponentInParent<Canvas>();
+            if (canvas == null) return;
+
+            // Full-screen dim
+            pausePanel = new GameObject("PauseOverlay", typeof(RectTransform), typeof(Image));
+            pausePanel.transform.SetParent(canvas.transform, false);
+            var overlayRT = pausePanel.GetComponent<RectTransform>();
+            overlayRT.anchorMin = Vector2.zero;
+            overlayRT.anchorMax = Vector2.one;
+            overlayRT.offsetMin = overlayRT.offsetMax = Vector2.zero;
+            pausePanel.GetComponent<Image>().color = new Color(0f, 0f, 0f, 0.70f);
+
+            // Center dialog box
+            var dialogGO = new GameObject("Dialog", typeof(RectTransform), typeof(Image), typeof(Outline));
+            dialogGO.transform.SetParent(pausePanel.transform, false);
+            var dialogRT = dialogGO.GetComponent<RectTransform>();
+            dialogRT.anchorMin = new Vector2(0.38f, 0.38f);
+            dialogRT.anchorMax = new Vector2(0.62f, 0.62f);
+            dialogRT.offsetMin = dialogRT.offsetMax = Vector2.zero;
+            dialogGO.GetComponent<Image>().color = new Color(0.08f, 0.08f, 0.12f, 0.97f);
+            var dialogOutline = dialogGO.GetComponent<Outline>();
+            dialogOutline.effectColor = new Color(0.6f, 0.5f, 0.3f);
+            dialogOutline.effectDistance = new Vector2(3f, -3f);
+
+            // Title
+            var titleGO = new GameObject("Title", typeof(RectTransform), typeof(TextMeshProUGUI));
+            titleGO.transform.SetParent(dialogGO.transform, false);
+            var titleTMP = titleGO.GetComponent<TextMeshProUGUI>();
+            titleTMP.text = "PAUSED";
+            titleTMP.fontSize = 32f;
+            titleTMP.color = ElementColors.Gold;
+            titleTMP.alignment = TextAlignmentOptions.Center;
+            titleTMP.fontStyle = FontStyles.Bold;
+            titleTMP.raycastTarget = false;
+            var titleRT = titleGO.GetComponent<RectTransform>();
+            titleRT.anchorMin = new Vector2(0.1f, 0.70f);
+            titleRT.anchorMax = new Vector2(0.9f, 0.92f);
+            titleRT.offsetMin = titleRT.offsetMax = Vector2.zero;
+
+            // Resume button
+            var resumeGO = new GameObject("ResumeBtn", typeof(RectTransform), typeof(Image), typeof(Button));
+            resumeGO.transform.SetParent(dialogGO.transform, false);
+            var resumeRT = resumeGO.GetComponent<RectTransform>();
+            resumeRT.anchorMin = new Vector2(0.15f, 0.50f);
+            resumeRT.anchorMax = new Vector2(0.85f, 0.65f);
+            resumeRT.offsetMin = resumeRT.offsetMax = Vector2.zero;
+            resumeGO.GetComponent<Image>().color = new Color(0.15f, 0.45f, 0.15f, 0.9f);
+            resumeGO.GetComponent<Button>().onClick.AddListener(() => CombatManager.Instance?.ResumeCombat());
+            AddPauseButtonLabel(resumeGO.transform, "Resume");
+
+            // Quit to Menu button
+            var quitGO = new GameObject("QuitBtn", typeof(RectTransform), typeof(Image), typeof(Button));
+            quitGO.transform.SetParent(dialogGO.transform, false);
+            var quitRT = quitGO.GetComponent<RectTransform>();
+            quitRT.anchorMin = new Vector2(0.15f, 0.28f);
+            quitRT.anchorMax = new Vector2(0.85f, 0.43f);
+            quitRT.offsetMin = quitRT.offsetMax = Vector2.zero;
+            quitGO.GetComponent<Image>().color = new Color(0.45f, 0.15f, 0.15f, 0.9f);
+            quitGO.GetComponent<Button>().onClick.AddListener(() => CombatManager.Instance?.QuitToMenu());
+            AddPauseButtonLabel(quitGO.transform, "Quit to Menu");
+        }
+
+        public void HidePauseOverlay()
+        {
+            if (pausePanel != null)
+            {
+                Destroy(pausePanel);
+                pausePanel = null;
+            }
+        }
+
+        private void AddPauseButtonLabel(Transform parent, string text)
+        {
+            var go = new GameObject("Label", typeof(RectTransform), typeof(TextMeshProUGUI));
+            go.transform.SetParent(parent, false);
+            var rt = go.GetComponent<RectTransform>();
+            rt.anchorMin = Vector2.zero;
+            rt.anchorMax = Vector2.one;
+            rt.offsetMin = rt.offsetMax = Vector2.zero;
+            var tmp = go.GetComponent<TextMeshProUGUI>();
+            tmp.text = text;
+            tmp.fontSize = 18f;
+            tmp.alignment = TextAlignmentOptions.Center;
+            tmp.color = Color.white;
+            tmp.raycastTarget = false;
         }
 
         // ── Result Screen ──

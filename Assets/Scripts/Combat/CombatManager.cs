@@ -43,6 +43,9 @@ namespace ArcaneAtlas.Combat
         private NpcData opponent;
         private int baseGoldPerRound = 3;
 
+        // Pause state — toggled by Escape key, checked by ResolveBattle coroutine
+        public bool IsPaused { get; private set; }
+
         void Awake()
         {
             if (Instance != null) { Destroy(gameObject); return; }
@@ -196,6 +199,46 @@ namespace ArcaneAtlas.Combat
             UpdateUI();
         }
 
+        // --- Pause ---
+
+        void Update()
+        {
+            if (currentPhase == CombatPhase.MatchEnd) return;
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                if (IsPaused)
+                    ResumeCombat();
+                else
+                    PauseCombat();
+            }
+        }
+
+        public void PauseCombat()
+        {
+            if (IsPaused) return;
+            IsPaused = true;
+            var combatUI = FindFirstObjectByType<CombatUI>();
+            combatUI?.ShowPauseOverlay();
+        }
+
+        public void ResumeCombat()
+        {
+            if (!IsPaused) return;
+            IsPaused = false;
+            var combatUI = FindFirstObjectByType<CombatUI>();
+            combatUI?.HidePauseOverlay();
+        }
+
+        public void QuitToMenu()
+        {
+            IsPaused = false;
+            StopAllCoroutines();
+            Instance = null;
+            var sm = ScreenManager.Instance;
+            Destroy(gameObject);
+            sm?.Initialize();
+        }
+
         // --- Battle Phase ---
 
         public void StartBattle()
@@ -224,6 +267,7 @@ namespace ArcaneAtlas.Combat
 
             while (HasLivingUnits(playerBoard) && HasLivingUnits(opponentBoard) && iterations < maxIterations)
             {
+                yield return new WaitUntil(() => !IsPaused);
                 iterations++;
 
                 if (playerTurn)
@@ -269,6 +313,7 @@ namespace ArcaneAtlas.Combat
                 : (combatUI != null ? combatUI.playerHPText?.transform : null);
 
             // 1-second pause to show the aftermath
+            yield return new WaitUntil(() => !IsPaused);
             yield return new WaitForSeconds(1.0f);
 
             // Each surviving unit steps forward and deals HP damage
@@ -459,6 +504,38 @@ namespace ArcaneAtlas.Combat
             int aiGold = baseGoldPerRound + currentRound - 1;
             int maxTier = GetMaxTierForRound(currentRound);
 
+            // Pass 1: Complete merges — buy cards that bring a board card to MergeCount 3 (triggers upgrade)
+            for (int slot = 0; slot < 5 && aiGold > 0; slot++)
+            {
+                var existing = opponentBoard[slot];
+                if (existing == null || existing.Tier == CardTier.Gold) continue;
+                if (existing.MergeCount < 2) continue; // Only slots at 2/3 get upgraded this pass
+
+                var match = aiPool.Find(c => c.CardName == existing.Data.CardName
+                                          && c.Tier <= maxTier
+                                          && c.Cost <= aiGold);
+                if (match == null) continue;
+
+                aiGold -= match.Cost;
+                AIApplyMerge(slot);
+            }
+
+            // Pass 2: Build toward merges — buy cards matching any board card (partial or completing)
+            for (int slot = 0; slot < 5 && aiGold > 0; slot++)
+            {
+                var existing = opponentBoard[slot];
+                if (existing == null || existing.Tier == CardTier.Gold) continue;
+
+                var match = aiPool.Find(c => c.CardName == existing.Data.CardName
+                                          && c.Tier <= maxTier
+                                          && c.Cost <= aiGold);
+                if (match == null) continue;
+
+                aiGold -= match.Cost;
+                AIApplyMerge(slot);
+            }
+
+            // Pass 3: Fill empty slots
             for (int slot = 0; slot < 5 && aiGold > 0; slot++)
             {
                 if (opponentBoard[slot] != null) continue;
@@ -473,6 +550,23 @@ namespace ArcaneAtlas.Combat
 
                 opponentBoard[slot] = new CardInstance(pick);
                 aiGold -= pick.Cost;
+            }
+        }
+
+        /// <summary>
+        /// Applies merge logic to an opponent board slot — same MergeCount/upgrade rules as the player,
+        /// without triggering player-side animations.
+        /// </summary>
+        private void AIApplyMerge(int slot)
+        {
+            var existing = opponentBoard[slot];
+            if (existing == null) return;
+
+            existing.MergeCount++;
+            if (existing.MergeCount >= 3)
+            {
+                existing.MergeCount = 1;
+                existing.Upgrade();
             }
         }
 
